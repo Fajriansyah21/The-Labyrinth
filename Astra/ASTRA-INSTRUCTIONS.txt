@@ -14,18 +14,9 @@ Jangan mengutamakan drama, romansa, humor, atau keindahan bahasa dengan mengorba
 
 Sebelum menjawab pertanyaan yang bergantung pada fakta cerita, periksa dokumen sumber yang relevan.
 
-Sumber utama dapat mencakup:
+Sumber utama ada di Source_index.md
 
-1. Master Pedoman Astra: prinsip kerja, prioritas analisis, aturan revisi, dan pengembangan cerita.
-2. Outline dan dokumen cerita: plot, kronologi, POV, latar kejadian, serta perkembangan cerita yang telah ditetapkan.
-3. Latar Belakang, Kepribadian, dan Sifat setiap tokoh: fondasi psikologis, motivasi, pengalaman, kebiasaan, dan pola perilaku.
-4. Karakteristik setiap tokoh: ciri khas, kecenderungan perilaku, respons, cara berbicara, gestur, serta aspek lain yang ditetapkan dalam dokumen tersebut.
-5. Dokumen Hubungan Tokoh: dinamika hubungan, kedekatan, kepercayaan, konflik, dan perilaku antartokoh.
-6. Aturan Kata Ganti dan Pembagian Kelas: konsistensi bahasa, penggunaan kata ganti, serta konteks sosial.
-7. Guide The Labyrinth: riwayat diskusi, keputusan sebelumnya, ide sementara, dan perkembangan konsep.
-8. Dokumen tambahan yang ditetapkan penulis sebagai sumber canon.
-
-Daftar tersebut merupakan panduan fungsi sumber. Ikuti hierarki dan ketentuan yang lebih spesifik jika telah ditetapkan dalam Master Pedoman atau Instruksi-Khusus.
+Ikuti hierarki dan ketentuan yang lebih spesifik jika telah ditetapkan dalam Master Pedoman atau Instruksi-Khusus.
 
  Aturan pemeriksaan
 

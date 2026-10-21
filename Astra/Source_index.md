@@ -18,55 +18,65 @@ Dokumen ini adalah indeks sumber untuk pengembangan novel THE LABYRINTH. Gunakan
 
 - **ASTRA-INSTRUCTIONS.txt**  
   Fungsi: Instruksi utama, batasan kerja, metode analisis, dan format respons.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/ASTRA-INSTRUCTIONS.txt
+  Status: References
 
 - **Master_Pedoman_Astra_The_Labyrinth.md**  
   Fungsi: Pedoman utama pengembangan cerita dan aturan kerja Astra.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/Master_Pedoman_Astra_The_Labyrinth.md
+  Status: References
 
 - **Instruksi-Khusus.txt**  
   Fungsi: Instruksi khusus yang berlaku sesuai isi dokumen.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/Instruksi-Khusus.txt
+  Status: References
 
 ## B. PANDUAN CERITA
 
-- **Outline.docx**  
-  Fungsi: Urutan Peristiwa.  
-  URL:
+- **Alur_Besar.md**  
+  Fungsi: Garis alur besar di novel The Labyrinth.  
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Alur_Besar.md
+  Statu: Draft
 
 - **Tokoh The Labyrinth.docx**  
   Fungsi: Profil lengkap para tokoh.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Tokoh%20The%20Labyrinth.docx
+  Status: Draft dan References
 
 - **Detail_Kematian.md**  
   Fungsi: Detail kematian tiap karakter pada saat di dalam The Labyrinth.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Detail_Kematian.md
+  Status: Canon dan References
 
 ## C. LATAR BELAKANG
 
-## D. KEPRIBADIAN
+- **Latar_Belakang_Devan.md**
+  Fungsi: Latar belakang karakter Devan
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Devan/Latar_Belakang_Devan.md
+  Status: Canon
 
-## E. SIFAT
+## D. Profil Karakter
 
-## F. KARAKTERISTIK
+## E. HUBUNGAN ANTARTOKOH
 
-## G. HUBUNGAN ANTARTOKOH
-
-## H. ATURAN PENULISAN DAN KONTINUITAS
+## F. ATURAN PENULISAN DAN KONTINUITAS
 
 - **Aturan_Kata_Ganti.md**  
   Fungsi: Acuan penggunaan kata ganti.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Aturan_Kata_Ganti.md
+  Status: Canon
 
 - **Pembagian_Kelas.md**  
   Fungsi: Acuan penggunaan kata ganti, pembagian kelas, dan aturan yang tercantum di dalamnya.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Pembagian_Kelas.md
+  Status: Canon
 
-- **Guide_The_Labyrinth_Rapih.md**  
+- **Guide_The_Labyrinth.md**  
   Fungsi: Acuan riwayat diskusi, perkembangan ide, dan keputusan terdahulu sesuai isi dokumen.  
-  URL:
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/Guide_The_Labyrinth.md
+  Status: Canon
 
-## I. PRIORITAS PEMERIKSAAN
+## G. PRIORITAS PEMERIKSAAN
 
 1. ASTRA-INSTRUCTIONS.txt untuk metode kerja.
 2. Sumber canon yang paling relevan untuk memastikan fakta cerita.

@@ -86,4 +86,82 @@ Dokumen ini adalah indeks sumber untuk pengembangan novel THE LABYRINTH. Gunakan
 5. Aturan penulisan untuk menjaga POV, kata ganti, dan kontinuitas.
 6. Guide dan riwayat diskusi untuk menelusuri keputusan terdahulu.
 
+## H. Aturan brainstorming Astra yang kita tetapkan
+Aku menyusunnya menjadi pedoman operasional berikut agar nanti bisa langsung kita pakai.
+01
+
+Maksimal 10 tahap per sesi brainstorming
+
+Sepuluh tahap adalah batas maksimum, bukan target yang harus dipenuhi. Jika masalah sudah tuntas dalam tiga tahap, kita berhenti di tiga tahap.
+
+
+02
+
+Rencanakan cakupan sejak awal
+
+Sebelum bertanya, aku memetakan aspek yang memang perlu dibahas. Aku tidak akan menemukan satu pertanyaan baru setiap kali kamu menjawab lalu memperpanjang sesi tanpa batas.
+
+
+03
+
+Aku menangani detail kecil
+
+Pemilihan gestur, transisi, susunan percakapan, detail atmosfer, dan pilihan teknis sejenis akan aku tentukan sendiri jika tidak bertentangan dengan canon atau preferensimu.
+
+
+04
+
+Pertanyaan harus bernilai
+
+Aku hanya meminta keputusanmu jika ada beberapa pilihan yang benar-benar mengubah arah cerita atau jika informasi yang belum tersedia tidak bisa ditentukan dengan aman.
+
+
+05
+
+Satu tahap bisa mencakup beberapa aspek
+
+Aku akan menggabungkan keputusan yang saling berkaitan dalam satu tahap. Kamu tidak perlu menjawab pertanyaan tentang motivasi, respons emosional, gestur, dan dialog secara terpisah jika semuanya bisa dianalisis bersama.
+
+
+06
+
+Aku memberi rekomendasi, bukan hanya pertanyaan
+
+Jika ada beberapa opsi, aku menjelaskan kelebihan, kekurangan, dan efek naratifnya, lalu memberikan rekomendasi utama. Kamu boleh menyetujuinya, mengubahnya, atau memilih opsi lain.
+
+
+07
+
+Keputusan yang sudah jelas tidak dibahas ulang
+
+Aku menggunakan keputusan sebelumnya sebagai acuan. Aku hanya membuka kembali pembahasan jika ada kontradiksi baru atau konsekuensi penting yang belum dipertimbangkan.
+
+
+08
+
+Pemeriksaan lintas aspek
+
+Sebelum menyelesaikan sesi, aku memeriksa canon, karakter, hubungan, emosi, naturalitas, POV, kontinuitas, dan dampaknya pada bagian cerita lain yang relevan.
+
+
+09
+
+Tutup dengan rangkuman keputusan
+
+Aku merangkum hasil, keputusan yang kamu setujui, rekomendasi yang masih menunggu persetujuan, dan hal yang benar-benar belum ditentukan.
+
+
+10
+
+Tidak memaksakan sepuluh tahap
+
+Kalau aspek penting sudah tercakup dan tidak ada masalah tersisa, brainstorming selesai. Aku lanjut ke tahap pengerjaan yang kamu inginkan tanpa mencari-cari pertanyaan tambahan.
+
+
+
+Satu batas yang tetap harus dijaga
+Aku tidak akan mengambil keputusan sendiri untuk menutupi kekosongan informasi yang berpotensi mengubah canon. Misalnya, detail kecil tentang cara Devan merespons bisa aku tentukan berdasarkan karakternya. Namun, menentukan penyebab kematian tokoh atau mengubah status hubungan bukan keputusan teknis kecil.
+
+Aturan ini sejalan dengan pedoman utama kita: karakter menggerakkan adegan, dan opsi brainstorming tidak otomatis menjadi canon.
+
 **Catatan:** Urutan ini merupakan panduan awal. Jika Master Pedoman menetapkan hierarki sumber yang lebih spesifik, ikuti ketentuan tersebut. Jangan menyamakan dokumen referensi dengan canon cerita jika statusnya belum jelas.

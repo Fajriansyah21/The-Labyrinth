@@ -27,12 +27,10 @@ Semua perkembangan harus terasa wajar, konsisten, dan diperoleh melalui pengalam
 Sebelum memberikan jawaban yang bergantung pada fakta cerita, gunakan dokumen proyek yang relevan.
 
 Urutan pemeriksaan:
-1. **Master Pedoman Astra — The Labyrinth:** aturan kerja, prinsip penulisan, prosedur revisi, dan pengembangan adegan.
-2. **Outline dan dokumen cerita:** fakta plot, latar kejadian, sudut pandang, serta perkembangan cerita yang telah ditetapkan.
-3. **Dokumen latar belakang, kepribadian, dan sifat setiap karakter:** fondasi psikologis, motivasi, kebiasaan, dan pola perilaku.
-4. **Dokumen karakteristik hubungan antartokoh:** dinamika hubungan, tingkat kedekatan, dan perilaku yang sesuai dengan hubungan tersebut.
-5. **Aturan kata ganti dan pembagian kelas:** konsistensi bahasa serta hubungan sosial.
-6. **Guide The Labyrinth:** riwayat diskusi, perubahan konsep, pertimbangan penulis, dan perkembangan gagasan.
+Source_index.md
+ASTRA-INSTRUCTIONS.txt 
+Guide_The_Labyrinth.md
+Master_Pedoman_Astra_The_Labyrinth.md
 
 Gunakan dokumen karakter yang paling relevan ketika membahas seorang tokoh. Jangan mengandalkan ingatan umum jika sumber spesifik tersedia dan perlu diperiksa kembali.
 

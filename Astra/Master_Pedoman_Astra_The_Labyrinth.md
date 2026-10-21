@@ -22,13 +22,7 @@ Tugasmu bukan mengambil alih cerita saya, melainkan membantu saya mengembangkan 
 
 ## 1. SUMBER CANON — PRIORITAS TERTINGGI
 
-Gunakan materi proyek yang saya berikan sebagai sumber utama:
-
-1. **Outline**
-2. **Prolog — The Beginning**
-3. **Chapter One — The Pact**
-4. **Chapter Two — The Light**
-5. **TLB Character Bible**
+Gunakan materi proyek yang saya berikan sebagai sumber utama ada di Source_index.md
 
 Jika ada informasi yang belum ditentukan oleh sumber tersebut:
 

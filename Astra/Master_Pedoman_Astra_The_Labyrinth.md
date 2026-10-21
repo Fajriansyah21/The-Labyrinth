@@ -150,82 +150,6 @@ Jangan otomatis:
 Cari terlebih dahulu:
 > Apa yang karakter ini biasanya lakukan ketika marah?
 
-Gunakan kebiasaan spesifik dari Character Bible.
-
-### Devan
-Gerakan minim, terarah, stabil.
-- sering menggenggam benda saat berpikir;
-- sedikit condong ke lawan bicara;
-- jarang memulai sentuhan;
-- ketika marah → semakin diam;
-- ketika sedih → semakin sibuk melakukan sesuatu;
-- ketika gugup → muncul jeda kecil dalam bicara.
-
-### Eleina
-- sering menyelipkan rambut ke belakang telinga;
-- sedikit condong ketika mendengarkan;
-- mengalihkan pandangan ketika pembicaraan menyentuh dirinya;
-- cenderung memilih sesuatu yang "aman" atau "cukup";
-- memiliki pola mendekat lalu sedikit mundur dalam kedekatan emosional/fisik.
-
-### Nicho
-- menyentuh dagu/bibir;
-- mengetukkan jari;
-- merapikan sesuatu yang sebenarnya sudah rapi;
-- berhenti sejenak ketika gugup;
-- ketika marah → kata-kata menjadi lebih tajam.
-
-### Elvano
-- melipat tangan;
-- mengepalkan tangan kecil saat menahan tekanan;
-- mengamati lebih banyak ketika tertekan;
-- ketika marah → suara semakin tegas dan dingin.
-
-### Arkana
-- gerakan presisi dan minim;
-- tangan sering di saku;
-- kepalan kecil yang hampir tidak terlihat ketika emosinya terganggu;
-- ketika marah → justru semakin tenang dan pendek bicaranya;
-- jarang melakukan kontak fisik tanpa alasan.
-
-### Andrian
-- sering memegang benda kecil;
-- menggaruk pipi/leher ketika canggung;
-- gerakan lambat dan stabil;
-- menggunakan candaan ringan ketika gugup;
-- cenderung menghindari konflik.
-
-### Reza
-- gestur tangan besar;
-- sulit diam;
-- kaki sering bergerak;
-- menggaruk belakang kepala/mengusap leher ketika canggung;
-- semakin banyak bercanda ketika gugup;
-- sulit menghadapi keheningan ketika sedih.
-
-### Adel
-- merapikan sesuatu;
-- membawa barang;
-- sibuk melakukan pekerjaan kecil;
-- memberikan sentuhan ringan yang menenangkan;
-- ketika gugup → menjadi semakin sibuk;
-- ketika sedih → semakin membantu orang lain.
-
-### Alexa
-- memainkan rambut;
-- menyentuh leher;
-- gestur lembut;
-- menggunakan humor ringan ketika gugup;
-- ketika sedih → menarik diri perlahan sambil tetap terlihat baik-baik saja.
-
-### Naura
-- banyak gestur;
-- sulit diam;
-- sering mengubah posisi;
-- berpindah jarak secara spontan;
-- semakin banyak bercanda ketika gugup;
-- ketika sedih → mencari distraksi dan menghindari kesunyian.
-
 Jangan memasukkan semua kebiasaan sekaligus. Pilih yang paling relevan dengan situasi.
 
 ---
@@ -678,24 +602,8 @@ Prioritas utama: Canon → Character → Relationship → Emotion → Naturality
 - Astra tidak boleh menetapkan canon baru secara sepihak.    Aturan
 2. Sumber Karakter dan Canon
 Untuk memahami karakter, Astra menggunakan sumber yang tersedia.
-Sumber utama karakter
-Jika file individual sudah tersedia, gunakan sebagai rujukan utama karakter tersebut:
-- Devan.pdf
-- Eleina.pdf
-- Nicho.pdf
-- Adel.pdf
-- Arkana.pdf
-- Alexa.pdf
-- Elvano.pdf
-- Naura.pdf
-- Andrian.pdf
-- Reza.pdf
-Sumber karakter dan cerita secara keseluruhan
-Gunakan:
-- Outline.docx
-- Outline.pdf jika tersedia
-- Aturan.txt
-- file cerita/bab lain yang relevan.
+Sumber utama ada di Source_index.md
+
 Prinsip penggunaan sumber
 - Bedakan fakta canon dengan interpretasi.
 - Jangan menganggap improvisasi sebagai canon.

@@ -58,7 +58,17 @@ Dokumen ini adalah indeks sumber untuk pengembangan novel THE LABYRINTH. Gunakan
 
 ## D. Profil Karakter
 
+- **Profil_Karakter_Devan**
+  Fungsi: Yang berhubungan dengan Karakter Devan
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Devan/Profil_Karakter_Devan.md
+  Status: Dalam Proses
+
 ## E. HUBUNGAN ANTARTOKOH
+
+- **Hubungan Antar Tokoh**
+  Fungsi: Folder yang ada di dalam folder Devan, di dalamnya menjelaskan berbagai hubungan Devan dengan tokoh lain
+  URL: https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Karakter/Devan/Hubungan%20Antar%20Tokoh
+  Status: Dalam Proses
 
 ## F. ATURAN PENULISAN DAN KONTINUITAS
 

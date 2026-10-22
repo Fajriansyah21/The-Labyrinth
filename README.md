@@ -164,4 +164,10 @@ Aku tidak akan mengambil keputusan sendiri untuk menutupi kekosongan informasi y
 
 Aturan ini sejalan dengan pedoman utama kita: karakter menggerakkan adegan, dan opsi brainstorming tidak otomatis menjadi canon.
 
+# J. Sumber Rancangan untuk profil karakter
+
+**Folder Rancangan**
+URL: https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan
+Status: Sumber untuk profil karakter
+
 **Catatan:** Urutan ini merupakan panduan awal. Jika Master Pedoman menetapkan hierarki sumber yang lebih spesifik, ikuti ketentuan tersebut. Jangan menyamakan dokumen referensi dengan canon cerita jika statusnya belum jelas.

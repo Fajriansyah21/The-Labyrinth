@@ -1,88 +1,68 @@
-# SOURCE INDEX — THE LABYRINTH
+# SOURCE INDEX: THE LABYRINTH
 
-## TUJUAN
+## Tujuan
 
-Dokumen ini adalah indeks sumber untuk pengembangan novel THE LABYRINTH. Gunakan indeks ini untuk menemukan dokumen yang relevan sebelum menjawab pertanyaan, menganalisis karakter, merevisi adegan, atau mengembangkan plot.
+Indeks ini menunjukkan sumber yang perlu diperiksa untuk pengembangan novel THE LABYRINTH. Gunakan versi terbaru dari file yang relevan. Jangan menganggap nama file atau tautan sebagai bukti bahwa isinya telah diperiksa.
 
-## ATURAN PENGGUNAAN
+## Aturan penggunaan
 
-1. Baca ASTRA-INSTRUCTIONS.txt sebelum memulai pekerjaan.
-2. Periksa sumber yang relevan dengan pertanyaan. Jangan menganggap seluruh dokumen harus dibaca untuk setiap tugas.
-3. Gunakan isi dokumen sebagai dasar. Jangan mengarang fakta untuk mengisi informasi yang belum tersedia.
-4. Jika dua sumber bertentangan, tunjukkan konflik dan minta klarifikasi jika diperlukan. Jangan menentukan canon secara sepihak.
-5. Bedakan CANON, INTERPRETASI, OPSI BRAINSTORMING, REKOMENDASI ASTRA, dan [BELUM DITENTUKAN].
-6. Periksa versi terbaru dokumen sebelum menggunakan informasi dari diskusi lama.
-7. Jika tautan tidak dapat diakses, nyatakan keterbatasan tersebut. Jangan berpura-pura telah membaca sumbernya.
+1. Baca [ASTRA-INSTRUCTIONS.txt](ASTRA-INSTRUCTIONS.txt) sebelum memulai pekerjaan.
+2. Periksa sumber paling relevan dengan pertanyaan; tidak semua file harus dibaca setiap saat.
+3. Bedakan **CANON**, **INTERPRETASI**, **OPSI BRAINSTORMING**, **REKOMENDASI ASTRA**, dan **[BELUM DITENTUKAN]**.
+4. Jika dua sumber bertentangan, identifikasi konfliknya dan ikuti hierarki yang telah ditetapkan. Jika belum terselesaikan, minta keputusan penulis.
+5. Jangan mengklaim sumber telah diperiksa atau diperbarui jika tindakan itu belum dilakukan.
 
-## A. PEDOMAN UTAMA
+## A. Pedoman Astra
 
-- **ASTRA-INSTRUCTIONS.txt**  
-  Fungsi: Instruksi utama, batasan kerja, metode analisis, dan format respons.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/ASTRA-INSTRUCTIONS.txt
-  Status: References
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [ASTRA-INSTRUCTIONS.txt](ASTRA-INSTRUCTIONS.txt) | Instruksi utama, hierarki canon, metode analisis, POV, revisi, dan checksum. | Pedoman aktif |
+| [Master_Pedoman_Astra_The_Labyrinth.md](Master_Pedoman_Astra_The_Labyrinth.md) | Pedoman utama pengembangan cerita. | Referensi utama |
+| [Instruksi-Khusus.txt](Instruksi-Khusus.txt) | Ketentuan tambahan. | Referensi |
+| [Guide_The_Labyrinth.md](Guide_The_Labyrinth.md) | Riwayat diskusi, ide, dan keputusan terdahulu. Verifikasi keputusan terhadap sumber terkini. | Arsip diskusi |
+| [README.md](../README.md) | Peta repository dan ringkasan aturan penggunaan. | Indeks |
 
-- **Master_Pedoman_Astra_The_Labyrinth.md**  
-  Fungsi: Pedoman utama pengembangan cerita dan aturan kerja Astra.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/Master_Pedoman_Astra_The_Labyrinth.md
-  Status: References
+## B. Profil dan latar belakang karakter
 
-- **Instruksi-Khusus.txt**  
-  Fungsi: Instruksi khusus yang berlaku sesuai isi dokumen.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/Instruksi-Khusus.txt
-  Status: References
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar_Belakang_Devan.md](../Karakter/Devan/Latar_Belakang_Devan.md) | Kronologi keluarga, tragedi, dan dampak pengalaman terhadap Devan. | Sumber latar belakang |
+| [Profil_Karakter_Devan.md](../Karakter/Devan/Profil_Karakter_Devan.md) | Profil tujuh bagian: identitas; kepribadian; dunia batin; pengaruh pengalaman; perilaku; hubungan; perkembangan. | Draf untuk ditinjau |
+| [Kepribadian_Sifat_Karakteristik_Devan.md](../Rancangan/Kepribadian_Sifat_Karakteristik_Devan.md) | Bahan rancangan terperinci tentang kepribadian, sifat, perilaku, psikologi, dan perkembangan Devan. | Rancangan/referensi; periksa status tiap informasi |
 
-## B. PANDUAN CERITA
+## C. Hubungan antartokoh
 
-- **Alur_Besar.md**  
-  Fungsi: Garis alur besar di novel The Labyrinth.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Alur_Besar.md
-  Statu: Draft
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Devan_Dengan_Eleina.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) | Sejarah kedekatan, dinamika dua arah, perkembangan hubungan, dan potensi konflik Devan-Eleina. | Sumber hubungan |
 
-- **Tokoh The Labyrinth.docx**  
-  Fungsi: Profil lengkap para tokoh.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Tokoh%20The%20Labyrinth.docx
-  Status: Draft dan References
+Aturan cakupan: profil individual menjelaskan bagaimana seorang tokoh berpikir, bertindak, dan mengalami hubungan. Dokumen hubungan menjelaskan sejarah serta dinamika kedua pihak. Jangan menyalin seluruh isi satu dokumen ke dokumen lainnya.
 
-- **Detail_Kematian.md**  
-  Fungsi: Detail kematian tiap karakter pada saat di dalam The Labyrinth.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Detail_Kematian.md
-  Status: Canon dan References
+## D. Outline dan kontinuitas
 
-## C. LATAR BELAKANG
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Alur_Besar.md](../Outline/Alur_Besar.md) | Garis besar alur novel. | Draft outline |
+| [Detail_Kematian.md](../Outline/Detail_Kematian.md) | Detail kematian karakter di dalam The Labyrinth. | Rujukan plot; periksa status keputusan di dalamnya |
+| [Aturan_Kata_Ganti.md](../Outline/Aturan_Kata_Ganti.md) | Aturan penggunaan kata ganti. | Acuan kontinuitas |
+| [Pembagian_Kelas.md](../Outline/Pembagian_Kelas.md) | Pembagian kelas dan informasi terkait. | Acuan kontinuitas |
+| [Detail Problem Karakter.docx](../Outline/Detail%20Problem%20Karakter.docx) | Rincian masalah karakter. | Referensi |
 
-- **Latar_Belakang_Devan.md**
-  Fungsi: Latar belakang karakter Devan
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Devan/Latar_Belakang_Devan.md
-  Status: Canon
+## E. Prioritas pemeriksaan
 
-## D. Profil Karakter
+1. Instruksi Astra untuk metode kerja dan hierarki sumber.
+2. Sumber cerita yang relevan untuk fakta dan keputusan canon.
+3. Profil karakter untuk konsistensi kepribadian dan perilaku.
+4. Dokumen hubungan untuk dinamika dua pihak.
+5. Outline serta aturan penulisan untuk plot, POV, kata ganti, dan kontinuitas.
+6. Guide dan rancangan lama untuk menelusuri perkembangan ide, bukan untuk mengesampingkan keputusan terbaru.
 
-## E. HUBUNGAN ANTARTOKOH
+## F. Penanda status informasi
 
-## F. ATURAN PENULISAN DAN KONTINUITAS
+- **CANON:** fakta atau keputusan yang telah ditetapkan penulis.
+- **INTERPRETASI:** kesimpulan yang didukung sumber, tetapi bukan pernyataan canon tersendiri.
+- **OPSI BRAINSTORMING:** kemungkinan yang masih dipertimbangkan.
+- **REKOMENDASI ASTRA:** saran yang belum menjadi canon sebelum disetujui penulis.
+- **[BELUM DITENTUKAN]:** informasi yang belum diputuskan.
 
-- **Aturan_Kata_Ganti.md**  
-  Fungsi: Acuan penggunaan kata ganti.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Aturan_Kata_Ganti.md
-  Status: Canon
-
-- **Pembagian_Kelas.md**  
-  Fungsi: Acuan penggunaan kata ganti, pembagian kelas, dan aturan yang tercantum di dalamnya.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Outline/Pembagian_Kelas.md
-  Status: Canon
-
-- **Guide_The_Labyrinth.md**  
-  Fungsi: Acuan riwayat diskusi, perkembangan ide, dan keputusan terdahulu sesuai isi dokumen.  
-  URL: https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Astra/Guide_The_Labyrinth.md
-  Status: Canon
-
-## G. PRIORITAS PEMERIKSAAN
-
-1. ASTRA-INSTRUCTIONS.txt untuk metode kerja.
-2. Sumber canon yang paling relevan untuk memastikan fakta cerita.
-3. Dokumen karakter untuk memeriksa konsistensi perilaku.
-4. Dokumen hubungan untuk memeriksa dinamika antartokoh.
-5. Aturan penulisan untuk menjaga POV, kata ganti, dan kontinuitas.
-6. Guide dan riwayat diskusi untuk menelusuri keputusan terdahulu.
-
-**Catatan:** Urutan ini merupakan panduan awal. Jika Master Pedoman menetapkan hierarki sumber yang lebih spesifik, ikuti ketentuan tersebut. Jangan menyamakan dokumen referensi dengan canon cerita jika statusnya belum jelas.
+Persetujuan teks di percakapan tidak otomatis memperbarui file. Perbarui sumber yang relevan setelah isi dan cakupannya siap, lalu verifikasi hasilnya.

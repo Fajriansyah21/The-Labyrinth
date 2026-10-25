@@ -141,27 +141,13 @@ Devan cenderung hangat dan membantu dalam pertemanan. Ia dapat menikmati kebersa
 
 Cara ia berinteraksi berubah mengikuti tingkat kedekatan dan konteks. Ia dapat lebih santai bersama teman, lebih hati-hati ketika membicarakan perasaan pribadi, dan lebih protektif ketika takut seseorang yang penting baginya berada dalam bahaya.
 
-### 6.2. Hubungan dengan Eleina
-
-Devan dan Eleina mulai dekat sejak kelas 1 SMA setelah Devan menolong Eleina ketika ia dirundung beberapa siswi. Pada awal cerita utama, kelas 3 SMA semester 2, mereka telah saling mengenal sekitar dua setengah tahun dan sama-sama menyadari adanya perasaan khusus, tetapi belum mengungkapkannya secara langsung.
-
-Devan tertarik pada kelembutan Eleina dan menunjukkan perhatian melalui tindakan kecil. Ia bukan hanya ingin menolong Eleina ketika ada masalah, tetapi juga menikmati keberadaannya dalam keseharian. Ia menggunakan sapaan aku-kamu ketika berbicara dengannya.
-
-Kedekatan itu dapat membangkitkan rasa takut kehilangan dan kecenderungan Devan untuk terlalu protektif. Ia perlu belajar bahwa Eleina memiliki kemampuan dan hak untuk menentukan pilihannya sendiri. Perkembangan tersebut tidak membuat Devan selalu sabar atau selalu memahami kapan harus membantu. Ketika takut, ia masih dapat bereaksi berlebihan, salah membaca keadaan, atau perlu waktu untuk memperbaiki kesalahannya.
-
-Detail tahap kedekatan, pengalaman bersama, dan dinamika dua arah disimpan dalam [dokumen Hubungan Devan dengan Eleina](./Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md). Profil ini hanya merangkum bagaimana hubungan tersebut memperlihatkan sifat dan konflik Devan.
-
-### 6.3. Hubungan dengan Adel dan Alexia
-
-Menurut aturan kata ganti, Devan menggunakan aku-kamu kepada Adel dan gua-lu kepada Alexia. **Rincian sejarah dan dinamika hubungan mereka tidak ditetapkan dalam bagian profil ini** dan harus merujuk pada sumber hubungan yang sesuai. Jangan menyamakan cara Devan memperlakukan Adel, Alexia, dan Eleina hanya karena beberapa kebiasaan atau kata ganti mereka serupa.
-
-### 6.4. Hubungan dengan keluarga
+### 6.2. Hubungan dengan keluarga
 
 Devan sangat menyayangi Citra dan masih membawa rasa kehilangan setelah kematiannya. Ia juga merindukan ayahnya, yang pernah menjadi sumber dukungan ketika ibunya menyalahkannya. Hubungannya dengan ibu menjadi jauh, tetapi ia masih berharap dapat diterima kembali.
 
 Profil ini tidak menetapkan bahwa Devan harus selalu memaafkan, selalu menghindari konflik, atau berhenti menyayangi ibunya. Responsnya terhadap keluarga perlu ditulis sesuai situasi dan perkembangan emosionalnya.
 
-### 6.5. Batas informasi hubungan
+### 6.3. Batas informasi hubungan
 
 Dinamika hubungan dua tokoh merupakan informasi bersama. Profil Devan mencatat cara dirinya berperilaku, memaknai hubungan, dan merespons orang lain. Dokumen hubungan mencatat sejarah kedekatan, perspektif kedua pihak jika telah ditetapkan, tahapan hubungan, konflik bersama, dan hal yang belum diputuskan.
 

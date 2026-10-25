@@ -91,15 +91,15 @@ Ia juga ingin dekat dan menerima dukungan, tetapi terbiasa menyembunyikan kesuli
 
 Pertentangan ini tidak selalu tampak atau aktif bersamaan. Devan tetap dapat bersikap santai, menghormati keputusan orang lain, membantu karena tulus peduli, dan menikmati kedekatan tanpa memikirkan kehilangan. Konflik batinnya menjadi lebih kuat ketika situasi menyentuh rasa bersalah, ketakutan akan kehilangan, atau perasaan bahwa ia seharusnya mampu mencegah sesuatu yang buruk.## 4. Pengaruh Pengalaman terhadap Karakter
 
-Devan tumbuh dalam keluarga yang hangat dan memiliki hubungan dekat dengan kedua orang tuanya serta Citra. Kehidupan tersebut membentuk pemahamannya tentang rumah sebagai tempat yang aman dan keluarga sebagai sumber dukungan.
+Sebelum tragedi terjadi, Devan tumbuh dalam keluarga yang hangat dan dekat dengan kedua orang tua serta Citra. Pengalaman itu menjadi bagian dari kondisi awal dirinya: ia mengenal rumah sebagai tempat untuk kembali dan keluarga sebagai sumber dukungan. Rincian kehidupan keluarga dan kronologi peristiwa disimpan dalam [Latar_Belakang_Devan.md](./Latar_Belakang_Devan.md).
 
-Setelah Citra mengalami kekerasan seksual dan kemudian meninggal akibat bunuh diri, hubungan Devan dengan ibunya berubah. Ibunya menyalahkan Devan dan memperlakukannya dengan kemarahan. Ayahnya tetap berusaha membelanya dan menjadi sumber dukungan emosional.
+Setelah Citra mengalami kekerasan seksual dan kemudian meninggal akibat bunuh diri, hubungan Devan dengan ibunya berubah. Ia menghadapi kemarahan dan tuduhan dari sosok yang sebelumnya menjadi bagian dari lingkungan aman baginya. Ayahnya tetap berusaha membela serta mendukung Devan, tetapi ketika ayahnya tewas ditembak pelaku dalam proses penangkapan, Devan kehilangan orang yang masih berusaha menjadi penengah di dalam keluarga.
 
-Ketika ayahnya tewas ditembak pelaku yang merebut senjata petugas dalam proses penangkapan, Devan kehilangan orang yang masih berusaha menjadi penengah di dalam keluarga. Ia kemudian semakin terbiasa menyimpan kesulitan, menghindari konflik, dan menilai dirinya sendiri dengan keras.
+Perubahan hubungan tersebut ikut memengaruhi cara Devan menghadapi kesulitan. Ketika dukungan di rumah tidak lagi terasa aman dan ia kehilangan sosok yang biasa mendengarkannya, ia semakin terbiasa menyimpan masalah dan menghindari konflik. Pola ini tidak selalu muncul karena alasan yang sama, tetapi pengalaman keluarganya ikut memperkuat kecenderungan untuk menghadapi kesulitan seorang diri.
 
-Pengalaman itu ikut membentuk perhatian dan kesetiaannya, tetapi juga meningkatkan kecenderungannya untuk merasa bertanggung jawab atas keselamatan orang lain. Ia dapat berusaha mencegah kehilangan berikutnya dengan menjadi lebih waspada atau protektif.
+Kehangatan, kepedulian, dan kesetiaan Devan bukan sifat yang muncul semata-mata akibat tragedi. Sifat-sifat itu sudah menjadi bagian dari dirinya sebelum kehilangan terjadi. Namun, pengalaman tersebut membuat keinginannya untuk menjaga orang yang disayangi menjadi lebih rumit: ia dapat berusaha lebih waspada dan protektif karena tidak ingin kembali merasa terlambat ketika seseorang membutuhkan bantuan. Pada saat tertentu, dorongan itu bisa bercampur dengan rasa bersalah atau ketakutan kehilangan, meskipun kepeduliannya juga dapat muncul secara tulus tanpa didorong rasa takut.
 
-Pengalaman masa lalu tidak menjelaskan setiap perilaku Devan secara otomatis. Ia tetap memiliki kepribadian, kesenangan, humor, dan hubungan sosial yang tidak selalu berpusat pada tragedi. Detail kronologi dan peristiwa keluarga secara lengkap disimpan dalam [Latar_Belakang_Devan.md](./Latar_Belakang_Devan.md), agar profil ini tidak mengulang seluruh narasi latar belakang.
+Pengalaman masa lalu ikut membentuk Devan, tetapi tidak menjelaskan setiap perilakunya secara otomatis. Ia tetap memiliki kesenangan, humor, hubungan sosial, dan kehidupan sehari-hari yang tidak selalu berpusat pada tragedi.
 
 ## 5. Perilaku dan Ekspresi Diri
 

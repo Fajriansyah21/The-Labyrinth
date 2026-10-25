@@ -111,6 +111,10 @@ Diamnya tidak selalu berarti marah. Ia bisa sedang berpikir, menahan perasaan, m
 
 ### 5.4. Ketika marah atau khawatir
 
+Devan tidak otomatis meledak ketika marah. Ia bisa menunjukkan keberatan secara langsung, berbicara lebih singkat, atau menarik diri dari konflik. Jika keselamatan orang yang disayanginya terasa terancam, ia dapat bertindak lebih cepat dan protektif daripada biasanya.
+
+Respons yang berlebihan harus memiliki pemicu yang masuk akal. Kekhawatiran tidak selalu membuatnya mengendalikan orang lain, dan sikap tenang tidak selalu berarti ia tidak merasakan apa-apa.
+
 ### 5.5. Kemampuan, kegiatan, dan kebiasaan sehari-hari
 
 - **Basket:** Devan mengikuti latihan basket dan memiliki kemampuan yang cukup untuk memperagakan dasar menggiring serta menembak bola kepada Eleina. Tingkat keahlian kompetitifnya belum ditentukan.
@@ -121,17 +125,7 @@ Diamnya tidak selalu berarti marah. Ia bisa sedang berpikir, menahan perasaan, m
 
 Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor tidak berarti ia mahir mendiagnosis kerusakan mesin, dan mengikuti basket tidak otomatis berarti ia pemain profesional.
 
-### 5.6. Penampilan
-
-Devan memiliki wajah cenderung persegi dengan garis rahang yang jelas, tetapi kesan keseluruhannya tidak terlalu keras. Matanya berwarna cokelat gelap. Rambutnya hitam pekat, tebal, berlapis, dan bervolume alami, dengan bagian atas serta depan sedikit lebih panjang sehingga beberapa helai dapat jatuh ke dahi. Rambutnya tampak kasual dan cukup rapi tanpa terlihat ditata secara berlebihan.
-
-Detail fisik lain yang belum dikunci tidak perlu ditambahkan tanpa keputusan penulis.
-
-Devan tidak otomatis meledak ketika marah. Ia bisa menunjukkan keberatan secara langsung, berbicara lebih singkat, atau menarik diri dari konflik. Jika keselamatan orang yang disayanginya terasa terancam, ia dapat bertindak lebih cepat dan protektif daripada biasanya.
-
-Respons yang berlebihan harus memiliki pemicu yang masuk akal. Kekhawatiran tidak selalu membuatnya mengendalikan orang lain, dan sikap tenang tidak selalu berarti ia tidak merasakan apa-apa.
-
-### 5.5. Pengambilan keputusan
+### 5.6. Pengambilan keputusan
 
 Devan dapat mempertimbangkan risiko dan mengambil tindakan praktis, tetapi ketika takut kehilangan, ia mungkin terlalu menekankan kemungkinan buruk dan mengambil tanggung jawab yang berlebihan. Ia bisa membuat keputusan keliru, salah memahami situasi, atau baru menyadari dampak tindakannya setelah mendapat tanggapan orang lain.
 

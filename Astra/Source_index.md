@@ -28,7 +28,6 @@ Indeks ini menunjukkan sumber yang perlu diperiksa untuk pengembangan novel THE 
 |---|---|---|
 | [Latar_Belakang_Devan.md](../Karakter/Devan/Latar_Belakang_Devan.md) | Kronologi keluarga, tragedi, dan dampak pengalaman terhadap Devan. | Sumber latar belakang |
 | [Profil_Karakter_Devan.md](../Karakter/Devan/Profil_Karakter_Devan.md) | Profil tujuh bagian: identitas; kepribadian; dunia batin; pengaruh pengalaman; perilaku; hubungan; perkembangan. | Draf untuk ditinjau |
-| [Kepribadian_Sifat_Karakteristik_Devan.md](../Rancangan/Kepribadian_Sifat_Karakteristik_Devan.md) | Bahan rancangan terperinci tentang kepribadian, sifat, perilaku, psikologi, dan perkembangan Devan. | Rancangan/referensi; periksa status tiap informasi |
 
 ## C. Hubungan antartokoh
 

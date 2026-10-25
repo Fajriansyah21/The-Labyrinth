@@ -24,23 +24,29 @@ Pengalaman kehilangan membuatnya lebih tertutup mengenai masalah pribadi, tetapi
 
 ### 2.1. Sifat utama
 
-- **Hangat dan mudah bergaul.** Devan dapat menikmati percakapan dan kebersamaan tanpa memaksakan dirinya menjadi pusat perhatian.
-- **Empatik dan peka.** Ia cenderung memperhatikan perubahan suasana hati dan kebutuhan orang lain, meskipun tidak selalu memahami alasan di baliknya dengan tepat.
-- **Perhatian melalui tindakan.** Ia lebih sering menunjukkan kepedulian dengan membantu, mendengarkan, mengingat detail kecil, atau meluangkan waktu daripada dengan ucapan panjang.
-- **Loyal dan bertanggung jawab.** Ia serius terhadap orang-orang yang dianggap penting dan berusaha hadir ketika mereka membutuhkan bantuan.
-- **Jahil dengan humor ringan.** Ia dapat bercanda dan menggoda secara spontan ketika situasi mendukung. Humor tidak selalu menjadi cara untuk menyembunyikan kesedihan.
-- **Lembut tanpa selalu pasif.** Ia tidak suka menyakiti orang lain, tetapi tetap dapat menyampaikan keberatan atau bertindak ketika melihat seseorang diperlakukan tidak adil.
-- **Nyaman dengan keheningan.** Ia tidak menganggap setiap jeda percakapan harus diisi. Bersama orang yang dipercaya, kebersamaan sederhana dapat terasa cukup.
+- **Hangat dan mudah bergaul.** Devan dapat menikmati percakapan dan kebersamaan tanpa harus menjadi pusat perhatian. Ia bisa bersikap ramah kepada banyak orang, tetapi keramahan tidak berarti ia langsung terbuka mengenai hal-hal pribadi.
+- **Empatik dan peka.** Ia cenderung memperhatikan perubahan kecil dalam sikap, nada bicara, atau kebiasaan orang lain. Namun, ia tidak selalu mengetahui penyebab perubahan itu dan dapat salah menafsirkan keadaan.
+- **Penyayang melalui tindakan.** Ia lebih mudah menunjukkan kepedulian dengan membantu, mendengarkan, mengingat detail kecil, atau meluangkan waktu daripada melalui ungkapan emosional yang panjang. Ia cenderung memperhatikan apa yang dibutuhkan seseorang, bukan sekadar melakukan sesuatu agar terlihat peduli.
+- **Loyal dan bertanggung jawab.** Ia menghargai hubungan yang dibangun melalui waktu dan kepercayaan. Ketika menganggap seseorang penting, ia berusaha hadir dan tidak mudah meninggalkan hubungan hanya karena keadaan menjadi sulit. Kesetiaan tidak berarti ia harus selalu setuju.
+- **Jahil dengan humor ringan.** Bersama orang yang membuatnya nyaman, Devan dapat menggoda, melontarkan komentar spontan, atau mencairkan suasana dengan candaan kecil. Humornya tidak dimaksudkan untuk merendahkan orang lain dan tidak selalu digunakan untuk menutupi kesedihan.
+- **Lembut tanpa selalu pasif.** Ia mempertimbangkan dampak perkataan dan tindakannya terhadap orang lain serta berusaha tidak mempermalukan mereka. Meski demikian, ia tetap dapat menyampaikan keberatan, menegur, atau bertindak ketika diperlukan.
+- **Nyaman dengan keheningan.** Ia tidak menganggap setiap jeda harus diisi percakapan. Ia dapat menikmati kebersamaan tanpa harus terus berbicara atau menuntut orang lain menjelaskan semua yang sedang mereka pikirkan.
+
+Sifat-sifat tersebut sudah menjadi bagian dari Devan sebelum tragedi keluarganya. Kehilangan Citra dan papanya tidak menghapus kehangatan, empati, humor, atau kepeduliannya, tetapi mengubah cara ia mengekspresikan sebagian sifat itu. Ia bisa lebih berhati-hati dan selektif dalam menunjukkan sisi santainya, terutama ketika belum merasa aman. Namun, ia tetap dapat tertawa, menikmati keseharian, dan merasa nyaman bersama orang lain tanpa setiap momen harus berkaitan dengan luka masa lalunya.
 
 ### 2.2. Kecenderungan dan keterbatasan
 
-Devan cenderung mengambil tanggung jawab ketika orang yang disayanginya menghadapi masalah. Sifat ini membuatnya dapat diandalkan, tetapi juga dapat mendorongnya memikul beban yang sebenarnya bukan miliknya.
+- **Protektif berlebihan ketika takut kehilangan.** Keinginannya menjaga orang yang disayangi dapat berubah menjadi dorongan untuk mengawasi, mencegah risiko, atau mengambil alih keputusan ketika ia merasa keadaan tidak aman.
+- **Menuntut diri sendiri terlalu keras.** Devan dapat menilai dirinya berdasarkan hasil akhir dan merasa seharusnya ia mampu melakukan lebih banyak, bahkan ketika keadaan tidak sepenuhnya berada dalam kendalinya.
+- **Merasa harus selalu berguna.** Ia ingin menjadi orang yang dapat diandalkan dan mungkin mendahulukan kebutuhan orang lain sampai kesulitan mengakui bahwa dirinya juga membutuhkan dukungan.
+- **Sulit meminta bantuan dan cenderung menyimpan masalah.** Ia biasanya mencoba memahami atau menyelesaikan persoalan sendiri terlebih dahulu. Ini bukan berarti ia selalu menolak dukungan atau tidak memercayai siapa pun; ia mungkin membutuhkan waktu sebelum bersedia bercerita.
+- **Menekan emosi atau menarik diri ketika terluka.** Saat belum siap membicarakan perasaan, ia dapat menjawab singkat, diam, mengalihkan pembicaraan, atau mengurangi interaksi. Diamnya tidak selalu berarti marah atau menjauh secara permanen.
+- **Sulit memercayai orang lain sepenuhnya.** Ia tetap mampu membangun kedekatan, tetapi dapat berhati-hati untuk memperlihatkan sisi dirinya yang rentan atau menjadikan orang lain tempat bersandar.
+- **Takut menjadi penyebab penderitaan orang lain.** Ia dapat terlalu memikirkan dampak tindakannya dan menahan keberatan karena tidak ingin memperburuk keadaan atau melukai orang yang penting baginya.
 
-Ia dapat terlalu protektif ketika takut kehilangan seseorang, menyalahkan diri sendiri ketika hasilnya buruk, menyimpan masalah pribadi, atau berusaha menyelesaikan semuanya tanpa meminta bantuan. Ketika terluka, ia mungkin memilih diam atau mengambil jarak karena belum siap membicarakan perasaannya.
+Kecenderungan tersebut saling berkaitan, tetapi tidak selalu muncul bersamaan atau dengan intensitas yang sama. Devan masih dapat bersikap santai, menerima pilihan orang lain, meminta bantuan, mengakui kesalahan, atau menyampaikan keberatan secara langsung. Responsnya bergantung pada situasi, tingkat tekanan, kedekatan hubungan, dan keadaan emosionalnya.
 
-Kecenderungan tersebut bukan respons otomatis dalam setiap situasi. Devan tetap bisa bersikap santai, menerima keputusan orang lain, meminta bantuan, atau mengakui kesalahan. Responsnya bergantung pada situasi, tingkat tekanan, kedekatan hubungan, dan keadaan emosionalnya.
-
-Kepribadian dan kecenderungan di atas merupakan gambaran pola, bukan aturan bahwa Devan akan selalu bereaksi dengan cara yang sama. Ekspresinya tetap bergantung pada konteks, hubungan, tekanan, dan keadaan emosionalnya.
+Rasa bersalah, ketakutan, kebutuhan emosional, serta keyakinan yang dapat menyesatkannya dibahas lebih lanjut pada Bagian 3. Bagian ini mencatat pola kepribadian dan keterbatasan secara ringkas agar tidak mengulang uraian psikologis tersebut. Sementara itu, cara kecenderungan ini tampak melalui tindakan, ekspresi, kebiasaan, dan cara bicara dibahas pada Bagian 5.
 
 ## 3. Dunia Batin dan Psikologi
 

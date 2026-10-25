@@ -1,7 +1,7 @@
 # Profil Karakter Devan
 
-> **Status:** Dalam proses penyuntingan  
-> **Cakupan:** Profil karakter Devan berdasarkan rancangan yang telah dibahas.  
+> **Status:** Draf untuk ditinjau penulis  
+> **Cakupan:** Profil karakter Devan berdasarkan sumber yang tersedia dan rancangan yang telah dibahas. Fakta canon, interpretasi psikologis, dan arah perkembangan dibedakan agar usulan tidak terbaca sebagai keputusan final.  
 > **Sumber terkait:** [Latar Belakang Devan](./Latar_Belakang_Devan.md) · [Hubungan Devan dengan Eleina](./Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) · [Rancangan kepribadian, sifat, dan karakteristik Devan](../../Rancangan/Kepribadian_Sifat_Karakteristik_Devan.md)
 
 ## 1. Identitas dan Gambaran Umum
@@ -80,7 +80,7 @@ Di balik kebiasaannya membantu, Devan juga membutuhkan dukungan, penerimaan, dan
 
 Dalam keadaan tertekan, Devan dapat bertindak seolah-olah ia harus selalu mampu melindungi orang yang disayanginya, bahwa kesalahan kecil dapat membuatnya menjadi penyebab penderitaan orang lain, atau bahwa meminta bantuan berarti membebani orang lain. Ia juga dapat merasa bahwa ia perlu memastikan keadaan sebelum mampu merasa tenang.
 
-Keyakinan tersebut merupakan kecenderungan batin, bukan kebenaran objektif atau aturan yang selalu ia ikuti. Ia dapat meragukannya, bertindak berbeda, atau baru menyadari pengaruhnya setelah suatu kejadian.
+**Status informasi: interpretasi psikologis.** Keyakinan tersebut merupakan pembacaan yang masuk akal berdasarkan rasa bersalah, pengalaman kehilangan, dan kebiasaan Devan memendam masalah. Keyakinan itu bukan fakta objektif yang sudah pasti ia sadari, bukan pula aturan yang selalu ia ikuti. Ia dapat meragukannya, bertindak berbeda, atau baru menyadari pengaruhnya setelah suatu kejadian.
 
 ### 3.5. Konflik internal utama
 
@@ -153,7 +153,7 @@ Detail tahap kedekatan, pengalaman bersama, dan dinamika dua arah disimpan dalam
 
 ### 6.3. Hubungan dengan Adel dan Alexia
 
-Devan menggunakan aku-kamu kepada Adel dan gua-lu kepada Alexia. Intensitas, sejarah, serta pola interaksi spesifik mereka harus mengikuti dokumen hubungan yang relevan. Jangan menyamakan cara Devan memperlakukan Adel, Alexia, dan Eleina hanya karena beberapa kebiasaan atau kata ganti mereka serupa.
+Menurut aturan kata ganti, Devan menggunakan aku-kamu kepada Adel dan gua-lu kepada Alexia. **Rincian sejarah dan dinamika hubungan mereka tidak ditetapkan dalam bagian profil ini** dan harus merujuk pada sumber hubungan yang sesuai. Jangan menyamakan cara Devan memperlakukan Adel, Alexia, dan Eleina hanya karena beberapa kebiasaan atau kata ganti mereka serupa.
 
 ### 6.4. Hubungan dengan keluarga
 
@@ -167,7 +167,7 @@ Dinamika hubungan dua tokoh merupakan informasi bersama. Profil Devan mencatat c
 
 ## 7. Konflik, Perkembangan, dan Perubahan
 
-> **Catatan penomoran:** Subbagian perkembangan yang sebelumnya bernomor 12.1–12.11 kini ditempatkan sebagai 7.1–7.11. Struktur utama Profil Karakter tetap terdiri atas tujuh bagian.
+> **Catatan penomoran dan status:** Subbagian perkembangan yang sebelumnya bernomor 12.1–12.11 kini ditempatkan sebagai 7.1–7.11. Struktur utama Profil Karakter tetap terdiri atas tujuh bagian. Subbagian 7.1–7.11 menggambarkan **arah perkembangan yang dirancang**, bukan pernyataan bahwa seluruh tahap sudah terjadi, sudah disetujui sebagai canon final, atau akan berlangsung secara berurutan tanpa kemunduran.
 
 ### 7.1. Tahap Pertama: Berusaha Mengendalikan Segalanya
 
@@ -266,7 +266,8 @@ Ia tetap membawa masa lalunya, tetapi masa lalu tidak harus menentukan setiap ke
 
 ## Catatan kontinuitas dan sumber
 
-- **Canon yang dirujuk:** usia 19 tahun, tinggi 180 cm, kelas 3 SMA semester 2 pada awal cerita, hubungan keluarga, tragedi Citra dan ayahnya, pola kata ganti, hobi, serta kedekatan dengan Eleina.
-- **Interpretasi karakter:** hubungan antara rasa bersalah, ketakutan kehilangan, perilaku protektif, dan kesulitan meminta bantuan disusun berdasarkan sumber karakter dan latar belakang.
-- **[BELUM DITENTUKAN]:** nama lengkap, detail kotak musik, dan informasi lain yang belum dikunci oleh sumber.
-- **Batas cakupan:** kronologi rinci tetap berada dalam dokumen latar belakang; dinamika dua arah dengan Eleina tetap berada dalam dokumen hubungan. Profil ini merangkum identitas, pola perilaku, psikologi, dan arah perkembangan Devan tanpa menggantikan kedua sumber tersebut.
+- **Fakta canon yang dirujuk:** usia 19 tahun, tinggi 180 cm, kelas 3 SMA semester 2 pada awal cerita, latar keluarga dan tragedi, aturan kata ganti, hobi, serta riwayat kedekatan dengan Eleina, sesuai sumber yang dirujuk.
+- **Interpretasi psikologis:** hubungan antara rasa bersalah, ketakutan kehilangan, perilaku protektif, dan kesulitan meminta bantuan merupakan penafsiran berdasarkan sumber, bukan fakta batin yang otomatis disadari Devan.
+- **Rancangan perkembangan:** bagian 7.1–7.11 adalah arah perkembangan yang diusulkan untuk karakter. Urutan, pemicu, dan perwujudan setiap tahap tetap perlu disesuaikan dengan kejadian cerita dan keputusan penulis.
+- **[BELUM DITENTUKAN]:** nama lengkap, detail kotak musik, serta informasi lain yang belum dikunci oleh sumber.
+- **Batas cakupan:** kronologi rinci tetap berada dalam dokumen latar belakang; dinamika dua arah dengan Eleina tetap berada dalam dokumen hubungan. Profil ini merangkum identitas, pola perilaku, psikologi, dan rancangan perkembangan Devan tanpa menggantikan sumber-sumber tersebut.

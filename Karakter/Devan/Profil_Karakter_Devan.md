@@ -53,35 +53,43 @@ Rasa bersalah, ketakutan, kebutuhan emosional, serta keyakinan yang dapat menyes
 
 ### 3.1. Motivasi dan nilai hidup
 
-Devan ingin menjadi orang yang dapat diandalkan oleh orang-orang yang ia sayangi. Ia menghargai kedekatan, kesetiaan, kepedulian, dan kehadiran nyata ketika seseorang membutuhkan bantuan. Ia cenderung menunjukkan perhatian dengan melakukan sesuatu yang konkret, bukan semata-mata mengatakan hal yang terdengar meyakinkan.
+Devan ingin menjadi orang yang dapat diandalkan oleh orang-orang yang ia sayangi. Ia menghargai kedekatan, kesetiaan, kepedulian, dan kehadiran nyata ketika seseorang membutuhkan bantuan. Ia cenderung menunjukkan perhatian dengan melakukan sesuatu yang konkret, bukan semata-mata mengatakan hal yang terdengar meyakinkan. Keinginan untuk membantu ini merupakan bagian dari dirinya, bukan sesuatu yang baru muncul setelah tragedi.
 
-Setelah kehilangan Citra dan ayahnya, keinginannya untuk menjaga orang lain menjadi semakin kuat. Namun, keinginan itu dapat bercampur dengan ketakutan bahwa ia akan kembali terlambat atau tidak mampu mencegah sesuatu yang buruk.
+Setelah kehilangan Citra dan ayahnya, keinginannya untuk menjaga orang lain menjadi semakin kuat dan lebih rumit. Kepedulian yang tulus dapat bercampur dengan dorongan untuk selalu siap, agar ia tidak kembali merasa terlambat atau gagal melakukan sesuatu ketika orang yang disayanginya berada dalam kesulitan. Kedua dorongan itu dapat menghasilkan tindakan yang sama, tetapi tidak selalu memiliki alasan emosional yang sama.
 
 ### 3.2. Rasa bersalah dan tanggung jawab
 
-Devan terus menghubungkan keputusannya untuk tidak menjemput Citra dengan tragedi yang kemudian terjadi. Ia juga mengaitkan kematian ayahnya dengan keterlibatan ayahnya dalam proses penangkapan pelaku. Secara emosional, ia dapat membayangkan bahwa keputusan berbeda mungkin menghasilkan akhir yang berbeda.
+Devan terus menghubungkan keputusannya untuk tidak menjemput Citra dengan tragedi yang kemudian terjadi. Ia dapat membayangkan bahwa pilihan berbeda mungkin menghasilkan keadaan yang berbeda, meskipun ia tidak mengetahui apa yang sebenarnya akan terjadi seandainya ia mengambil keputusan lain. Penyesalan itu membuatnya sulit memisahkan keputusan yang ia sesali dari kejadian buruk yang menyusulnya.
 
-Pemikiran tersebut menjelaskan rasa bersalah Devan, tetapi tidak menjadikan dirinya bertanggung jawab atas pemerkosaan Citra atau penembakan ayahnya. Tanggung jawab atas tindakan kekerasan tetap berada pada pelaku. Devan perlu belajar membedakan penyesalan atas keputusan sendiri dari tanggung jawab atas tindakan orang lain.
+Kematian ayahnya menambah kehilangan yang harus ia hadapi. Namun, sumber karakter tidak menetapkan secara terperinci bagaimana Devan menghubungkan kematian ayahnya dengan rasa bersalahnya sendiri. Karena itu, bagian ini tidak menyimpulkan bahwa Devan menganggap dirinya sebagai penyebab kematian ayahnya. Yang jelas, ia dapat membawa kehilangan tersebut ke dalam ketakutannya terhadap kemungkinan gagal melindungi orang lain.
+
+Rasa bersalah Devan menjelaskan mengapa ia terkadang menilai dirinya berdasarkan hasil akhir dan memikirkan apa yang seharusnya ia lakukan. Namun, perasaan itu tidak menjadikannya bertanggung jawab atas kekerasan terhadap Citra atau penembakan ayahnya. Tanggung jawab atas tindakan tersebut tetap berada pada pelaku. Devan perlu membedakan penyesalan atas keputusan sendiri dari tanggung jawab atas tindakan orang lain dan kejadian yang tidak sepenuhnya berada dalam kendalinya.
 
 ### 3.3. Ketakutan dan kebutuhan emosional
 
-Devan takut kehilangan orang-orang yang disayanginya dan dapat menjadi sangat waspada ketika melihat kemungkinan bahaya. Ia juga cenderung menghindari konflik ketika merasa bahwa perbedaan pendapat dapat membuat hubungan semakin buruk.
+Devan takut kehilangan orang-orang yang disayanginya. Ketika situasi melibatkan keselamatan atau hubungan yang sangat berarti baginya, ia dapat menjadi lebih waspada, mencari kepastian, dan sulit menerima bahwa ia tidak dapat mengendalikan semua kemungkinan. Ketakutan ini dapat memperkuat sikap protektifnya, tetapi tidak berarti setiap tindakan perlindungan selalu didorong oleh rasa takut. Ia juga membantu karena memang peduli.
 
-Di balik kebiasaannya membantu, Devan juga membutuhkan dukungan, penerimaan, dan rasa aman. Ia ingin tetap dipilih dan disayangi sebagai dirinya sendiri, bukan hanya dihargai ketika berguna. Namun, ia tidak selalu mudah mengakui kebutuhan itu karena terbiasa menyembunyikan kesulitan dan berusaha menanganinya sendiri.
+Devan juga membutuhkan dukungan, penerimaan, kedekatan, dan rasa aman. Ia ingin disayangi sebagai dirinya sendiri, bukan hanya dihargai ketika mampu membantu atau menyelesaikan masalah. Kebutuhan ini bukan semata-mata akibat tragedi; kehilangan dan perubahan hubungan keluarganya membuatnya lebih sulit mengakui serta menerima dukungan yang ia butuhkan.
+
+Ia lebih terbiasa berada di posisi membantu daripada meminta bantuan. Karena itu, ia dapat menyimpan masalah, menunda pembicaraan, atau menghindari konflik ketika khawatir percakapan akan memperburuk keadaan. Namun, respons tersebut tidak selalu memiliki penyebab yang sama. Kadang ia belum siap mengungkapkan perasaan, kadang ia tidak ingin membebani orang lain, dan dalam keadaan tertentu ketakutannya terhadap keretakan hubungan ikut memengaruhi pilihannya.
 
 ### 3.4. Keyakinan yang dapat menyesatkannya
 
-Dalam keadaan tertekan, Devan dapat bertindak seolah-olah ia harus selalu mampu melindungi orang yang disayanginya, bahwa kesalahan kecil dapat membuatnya menjadi penyebab penderitaan orang lain, atau bahwa meminta bantuan berarti membebani orang lain. Ia juga dapat merasa bahwa ia perlu memastikan keadaan sebelum mampu merasa tenang.
+Ketika rasa bersalah atau ketakutannya meningkat, Devan dapat bertindak seolah-olah ia seharusnya mampu mencegah penderitaan jika lebih sigap, lebih waspada, atau mengambil keputusan yang berbeda. Ia dapat memberi dirinya tanggung jawab yang lebih besar daripada yang sebenarnya ia miliki, terutama ketika hasil suatu kejadian buruk atau seseorang yang disayanginya sedang mengalami kesulitan.
 
-**Status informasi: interpretasi psikologis.** Keyakinan tersebut merupakan pembacaan yang masuk akal berdasarkan rasa bersalah, pengalaman kehilangan, dan kebiasaan Devan memendam masalah. Keyakinan itu bukan fakta objektif yang sudah pasti ia sadari, bukan pula aturan yang selalu ia ikuti. Ia dapat meragukannya, bertindak berbeda, atau baru menyadari pengaruhnya setelah suatu kejadian.
+Devan juga dapat memperlakukan kegunaan dirinya seolah-olah menjadi ukuran penting bagi perannya dalam hubungan. Ia mungkin lebih nyaman ketika bisa membantu daripada ketika harus menerima bantuan tanpa dapat segera membalasnya. Ini tidak berarti ia selalu percaya bahwa dirinya hanya layak disayangi jika berguna; pola tersebut merupakan kemungkinan interpretasi atas kesulitannya menerima dukungan dan tuntutannya terhadap diri sendiri.
+
+Selain itu, ia dapat menganggap bahwa menangani masalah sendiri lebih baik daripada membicarakannya atau bahwa mengungkapkan kesulitan hanya akan membebani orang lain. Keyakinan ini tidak selalu keliru dalam setiap situasi. Mengambil waktu untuk berpikir sendiri dapat membantunya, tetapi menjadi penghalang ketika ia terus menyembunyikan masalah meskipun sudah membutuhkan dukungan.
+
+**Status informasi: interpretasi psikologis.** Rumusan di atas merupakan pembacaan yang masuk akal berdasarkan rasa bersalah, pengalaman kehilangan, dan pola perilaku Devan dalam sumber karakter. Ini bukan fakta bahwa Devan selalu menyadari atau memercayai setiap keyakinan tersebut. Pengaruhnya dapat berbeda menurut situasi, tingkat tekanan, dan hubungan yang sedang ia hadapi.
 
 ### 3.5. Konflik internal utama
 
-Devan ingin dekat dengan orang lain, tetapi kedekatan membuat kemungkinan kehilangan terasa lebih menakutkan. Ia ingin membantu, tetapi dapat mengambil terlalu banyak tanggung jawab. Ia memahami perasaan orang lain, tetapi sering lebih keras terhadap dirinya sendiri daripada terhadap mereka.
+Konflik utama Devan muncul ketika keinginannya untuk menjaga orang lain bertemu dengan kesadarannya bahwa ia tidak dapat mengendalikan semua hasil. Ia ingin bertanggung jawab, tetapi rasa bersalah dapat membuatnya mengambil beban yang bukan miliknya. Ia ingin melindungi orang yang disayangi, tetapi ketakutan kehilangan dapat membuatnya terlalu mengarahkan pilihan mereka.
 
-Ia lebih mudah menawarkan bantuan daripada meminta bantuan, lebih mudah menenangkan orang lain daripada mengakui dirinya sendiri sedang kesulitan. Pertentangan ini menjadi salah satu sumber konflik karakternya.
+Ia juga ingin dekat dan menerima dukungan, tetapi terbiasa menyembunyikan kesulitan serta mengambil peran sebagai orang yang membantu. Akibatnya, ia dapat menjadi tempat bersandar bagi orang lain sambil membatasi kesempatan mereka untuk hadir ketika dirinya sendiri sedang kesulitan.
 
-## 4. Pengaruh Pengalaman terhadap Karakter
+Pertentangan ini tidak selalu tampak atau aktif bersamaan. Devan tetap dapat bersikap santai, menghormati keputusan orang lain, membantu karena tulus peduli, dan menikmati kedekatan tanpa memikirkan kehilangan. Konflik batinnya menjadi lebih kuat ketika situasi menyentuh rasa bersalah, ketakutan akan kehilangan, atau perasaan bahwa ia seharusnya mampu mencegah sesuatu yang buruk.## 4. Pengaruh Pengalaman terhadap Karakter
 
 Devan tumbuh dalam keluarga yang hangat dan memiliki hubungan dekat dengan kedua orang tuanya serta Citra. Kehidupan tersebut membentuk pemahamannya tentang rumah sebagai tempat yang aman dan keluarga sebagai sumber dukungan.
 

@@ -37,7 +37,7 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 - [Hubungan Devan dengan Nicho](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Nicho.md) — **Status: DRAFT**
 - [Hubungan Devan dengan Reza](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Reza.md) — **Status: DRAFT**
 
-- [Rancangan lama kepribadian, sifat, dan karakteristik Devan]((https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan)): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
+- [Rancangan lama kepribadian, sifat, dan karakteristik Devan](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
 
 ### Outline dan kontinuitas
 - [Alur Besar](Outline/Alur_Besar.md): garis besar alur cerita.

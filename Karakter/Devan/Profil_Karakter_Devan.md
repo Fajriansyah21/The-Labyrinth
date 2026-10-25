@@ -129,6 +129,12 @@ Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor 
 
 Devan dapat mempertimbangkan risiko dan mengambil tindakan praktis, tetapi ketika takut kehilangan, ia mungkin terlalu menekankan kemungkinan buruk dan mengambil tanggung jawab yang berlebihan. Ia bisa membuat keputusan keliru, salah memahami situasi, atau baru menyadari dampak tindakannya setelah mendapat tanggapan orang lain.
 
+### 5.7. Penampilan
+
+Devan memiliki wajah cenderung persegi dengan garis rahang yang jelas, tetapi kesan keseluruhannya tidak terlalu keras. Matanya berwarna cokelat gelap. Rambutnya hitam pekat, tebal, berlapis, dan bervolume alami, dengan bagian atas serta depan sedikit lebih panjang sehingga beberapa helai dapat jatuh ke dahi. Rambutnya tampak kasual dan cukup rapi tanpa terlihat ditata secara berlebihan.
+
+Detail fisik lain yang belum dikunci tidak perlu ditambahkan tanpa keputusan penulis.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 ### 6.1. Pola umum

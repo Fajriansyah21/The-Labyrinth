@@ -32,12 +32,21 @@ Indeks ini menunjukkan sumber yang perlu diperiksa untuk pengembangan novel THE 
 
 ## C. Hubungan antartokoh
 
+Semua dokumen hubungan Devan di bagian ini berstatus **DRAFT**. Struktur poin dan isi masih perlu ditinjau serta disesuaikan; karena itu, dokumen-dokumen ini belum dianggap final.
+
 | Dokumen | Fungsi | Status |
 |---|---|---|
-| [Devan_Dengan_Eleina.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) | Sejarah kedekatan, dinamika dua arah, perkembangan hubungan, dan potensi konflik Devan-Eleina. | Sumber hubungan |
+| [Devan_Dengan_Adel.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Adel.md) | Dokumen dinamika hubungan Devan dan Adel. | DRAFT |
+| [Devan_Dengan_Alexia.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Alexia.md) | Dokumen dinamika hubungan Devan dan Alexia. | DRAFT |
+| [Devan_Dengan_Andrian.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Andrian.md) | Dokumen dinamika hubungan Devan dan Andrian. | DRAFT |
+| [Devan_Dengan_Arkana.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Arkana.md) | Dokumen dinamika hubungan Devan dan Arkana. | DRAFT |
+| [Devan_Dengan_Eleina.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) | Dokumen dinamika hubungan Devan dan Eleina. | DRAFT |
+| [Devan_Dengan_Elvano.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Elvano.md) | Dokumen dinamika hubungan Devan dan Elvano. | DRAFT |
+| [Devan_Dengan_Naura.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Naura.md) | Dokumen dinamika hubungan Devan dan Naura. | DRAFT |
+| [Devan_Dengan_Nicho.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Nicho.md) | Dokumen dinamika hubungan Devan dan Nicho. | DRAFT |
+| [Devan_Dengan_Reza.md](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Reza.md) | Dokumen dinamika hubungan Devan dan Reza. | DRAFT |
 
 Aturan cakupan: profil individual menjelaskan bagaimana seorang tokoh berpikir, bertindak, dan mengalami hubungan. Dokumen hubungan menjelaskan sejarah serta dinamika kedua pihak. Jangan menyalin seluruh isi satu dokumen ke dokumen lainnya.
-
 ## D. Outline dan kontinuitas
 
 | Dokumen | Fungsi | Status |

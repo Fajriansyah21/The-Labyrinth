@@ -2,13 +2,13 @@
 
 > **Status:** Draf untuk ditinjau penulis  
 > **Cakupan:** Profil karakter Devan berdasarkan sumber yang tersedia dan rancangan yang telah dibahas. Fakta canon, interpretasi psikologis, dan arah perkembangan dibedakan agar usulan tidak terbaca sebagai keputusan final.  
-> **Sumber terkait:** [Latar Belakang Devan](./Latar_Belakang_Devan.md) · [Hubungan Devan dengan Eleina](./Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) · [Rancangan kepribadian, sifat, dan karakteristik Devan](../../Rancangan/Kepribadian_Sifat_Karakteristik_Devan.md)
+> **Sumber terkait:** [Latar Belakang Devan](./Latar_Belakang_Devan.md) · [Hubungan Devan dengan Eleina](./Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) · [Kepribadian dan Sifat Devan](../../Rancangan/Kepribadian_Sifat_Devan.md) · [Karakteristik Devan](../../Rancangan/Karakteristik.md)
 
 ## 1. Identitas dan Gambaran Umum
 
 Devan adalah tokoh utama *The Labyrinth* dan menjadi sudut pandang utama cerita dari awal hingga akhir, kecuali penulis secara sengaja menetapkan POV lain. Informasi tentang dirinya harus dibatasi pada apa yang dapat ia amati, ingat, pikirkan, rasakan, atau simpulkan.
 
-- **Nama lengkap:** [BELUM DITENTUKAN]
+- **Nama:** Devan. Ia tidak memiliki nama lengkap atau nama keluarga; ia dikenal hanya sebagai Devan.
 - **Usia:** 19 tahun pada masa cerita utama.
 - **Tinggi badan:** 180 cm.
 - **Kelas:** Kelas 3 SMA, semester 2 pada awal cerita utama.
@@ -40,21 +40,7 @@ Ia dapat terlalu protektif ketika takut kehilangan seseorang, menyalahkan diri s
 
 Kecenderungan tersebut bukan respons otomatis dalam setiap situasi. Devan tetap bisa bersikap santai, menerima keputusan orang lain, meminta bantuan, atau mengakui kesalahan. Responsnya bergantung pada situasi, tingkat tekanan, kedekatan hubungan, dan keadaan emosionalnya.
 
-### 2.3. Kemampuan dan kegiatan sehari-hari
-
-- **Basket:** Devan mengikuti latihan basket dan memiliki kemampuan yang cukup untuk memperagakan dasar menggiring serta menembak bola kepada Eleina. Tingkat keahlian kompetitifnya belum ditentukan.
-- **Perawatan motor sederhana:** Ia cukup mampu memeriksa kebutuhan dasar motor dan mengenali kapan masalah sebaiknya ditangani mekanik. Ia bukan ahli mesin dan tidak otomatis mampu memperbaiki kerusakan kompleks.
-- **Perbaikan sederhana:** Ia dapat mencoba menangani masalah kecil, tetapi bisa gagal dan perlu tahu kapan harus berhenti.
-- **Kemandirian sehari-hari:** Ia cukup mampu mengurus kebutuhan pribadi, meskipun tidak selalu teliti atau ingat semua hal.
-- **Hobi:** Bermain basket, menikmati musik melalui kotak musik kecil, berkendara santai dengan sepeda motor, dan menghabiskan waktu di tempat terbuka seperti area di atas bukit atau belakang sekolah. Bentuk, melodi, dan asal kotak musiknya [BELUM DITENTUKAN].
-
-Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor tidak berarti ia mahir mendiagnosis kerusakan mesin, dan mengikuti basket tidak otomatis berarti ia pemain profesional.
-
-### 2.4. Penampilan
-
-Devan memiliki wajah cenderung persegi dengan garis rahang yang jelas, tetapi kesan keseluruhannya tidak terlalu keras. Matanya berwarna cokelat gelap. Rambutnya hitam pekat, tebal, berlapis, dan bervolume alami, dengan bagian atas serta depan sedikit lebih panjang sehingga beberapa helai dapat jatuh ke dahi. Rambutnya tampak kasual dan cukup rapi tanpa terlihat ditata secara berlebihan.
-
-Detail fisik lain yang belum dikunci tidak perlu ditambahkan tanpa keputusan penulis.
+Kepribadian dan kecenderungan di atas merupakan gambaran pola, bukan aturan bahwa Devan akan selalu bereaksi dengan cara yang sama. Ekspresinya tetap bergantung pada konteks, hubungan, tekanan, dan keadaan emosionalnya.
 
 ## 3. Dunia Batin dan Psikologi
 
@@ -124,6 +110,22 @@ Devan dapat menyibukkan diri, menjawab singkat, mengalihkan pembicaraan dengan c
 Diamnya tidak selalu berarti marah. Ia bisa sedang berpikir, menahan perasaan, menghindari konflik, atau belum tahu bagaimana menjelaskan apa yang dirasakannya. Makna sikap tersebut perlu ditentukan berdasarkan konteks adegan, bukan diasumsikan sama setiap kali.
 
 ### 5.4. Ketika marah atau khawatir
+
+### 5.5. Kemampuan, kegiatan, dan kebiasaan sehari-hari
+
+- **Basket:** Devan mengikuti latihan basket dan memiliki kemampuan yang cukup untuk memperagakan dasar menggiring serta menembak bola kepada Eleina. Tingkat keahlian kompetitifnya belum ditentukan.
+- **Perawatan motor sederhana:** Ia cukup mampu memeriksa kebutuhan dasar motor dan mengenali kapan masalah sebaiknya ditangani mekanik. Ia bukan ahli mesin dan tidak otomatis mampu memperbaiki kerusakan kompleks.
+- **Perbaikan sederhana:** Ia dapat mencoba menangani masalah kecil, tetapi bisa gagal dan perlu tahu kapan harus berhenti.
+- **Kemandirian sehari-hari:** Ia cukup mampu mengurus kebutuhan pribadi, meskipun tidak selalu teliti atau ingat semua hal.
+- **Hobi:** Bermain basket, menikmati musik melalui kotak musik kecil, berkendara santai dengan sepeda motor, dan menghabiskan waktu di tempat terbuka seperti area di atas bukit atau belakang sekolah. Bentuk, melodi, dan asal kotak musiknya [BELUM DITENTUKAN].
+
+Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor tidak berarti ia mahir mendiagnosis kerusakan mesin, dan mengikuti basket tidak otomatis berarti ia pemain profesional.
+
+### 5.6. Penampilan
+
+Devan memiliki wajah cenderung persegi dengan garis rahang yang jelas, tetapi kesan keseluruhannya tidak terlalu keras. Matanya berwarna cokelat gelap. Rambutnya hitam pekat, tebal, berlapis, dan bervolume alami, dengan bagian atas serta depan sedikit lebih panjang sehingga beberapa helai dapat jatuh ke dahi. Rambutnya tampak kasual dan cukup rapi tanpa terlihat ditata secara berlebihan.
+
+Detail fisik lain yang belum dikunci tidak perlu ditambahkan tanpa keputusan penulis.
 
 Devan tidak otomatis meledak ketika marah. Ia bisa menunjukkan keberatan secara langsung, berbicara lebih singkat, atau menarik diri dari konflik. Jika keselamatan orang yang disayanginya terasa terancam, ia dapat bertindak lebih cepat dan protektif daripada biasanya.
 

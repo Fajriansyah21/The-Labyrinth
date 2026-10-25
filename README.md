@@ -23,7 +23,20 @@ Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. G
 ### Karakter: Devan
 - [Latar Belakang Devan](Karakter/Devan/Latar_Belakang_Devan.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-- [Hubungan Devan dengan Eleina](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md): sejarah, kedekatan, dinamika dua arah, dan konflik hubungan.
+
+#### Hubungan Tokoh Devan
+Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
+
+- [Hubungan Devan dengan Adel](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Adel.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Alexia](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Alexia.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Andrian](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Andrian.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Arkana](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Arkana.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Eleina](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Elvano](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Elvano.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Naura](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Naura.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Nicho](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Nicho.md) — **Status: DRAFT**
+- [Hubungan Devan dengan Reza](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Reza.md) — **Status: DRAFT**
+
 - [Rancangan lama kepribadian, sifat, dan karakteristik Devan](Rancangan/Kepribadian_Sifat_Karakteristik_Devan.md): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
 
 ### Outline dan kontinuitas

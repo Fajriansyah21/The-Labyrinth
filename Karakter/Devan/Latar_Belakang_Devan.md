@@ -166,6 +166,15 @@ Perkembangan emosional Devan dapat berpusat pada proses menerima bahwa ia boleh 
 
 Devan tidak perlu melupakan masa lalunya untuk melanjutkan hidup. Ia perlu belajar bahwa masa lalu tidak harus menentukan setiap keputusan dan hubungan yang ia miliki.
 
+
+## 9. Posisi Kronologi pada Awal Cerita Utama
+
+Cerita utama *The Labyrinth* berlangsung ketika Devan menjadi mahasiswa tahun pertama. Tragedi yang menimpa Citra dan kematian papanya telah terjadi sebelumnya, ketika Devan masih berada di kelas 3 SMA, sebagaimana tercatat dalam riwayat hidupnya.
+
+Peristiwa tersebut tetap menjadi bagian dari masa lalu Devan dan terus memengaruhi rasa bersalah, hubungan dengan ibunya, cara ia menghadapi kehilangan, serta kecenderungannya melindungi orang-orang yang disayangi. Perpindahan latar ke universitas tidak mengubah urutan peristiwa itu.
+
+**[BELUM DITENTUKAN]** Jarak waktu yang tepat antara tragedi keluarga Devan dan hari pertama cerita utama, termasuk bulan kejadian, waktu kelulusan, serta berapa lama Devan telah menjalani kuliah ketika cerita dimulai. Jangan menetapkan durasi tertentu sebelum kronologi tersebut diputuskan.
+
 ---
 
 **Inti perjalanan Devan:** belajar bahwa ia tetap layak dicintai meskipun tidak mampu menyelamatkan semua orang, dan bahwa kehilangan seseorang bukanlah bukti bahwa ia telah gagal mencintainya.

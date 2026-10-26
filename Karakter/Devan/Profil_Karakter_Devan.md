@@ -194,23 +194,23 @@ Dalam menghadapi peristiwa yang mengingatkannya pada masa lalu, Devan dapat kemb
 
 Memahami perbedaan itu tidak mengharuskannya menganggap semua keputusan masa lalunya benar. Ia tetap boleh menyesal dan membayangkan kemungkinan lain. Perubahan yang diharapkan adalah kemampuan untuk mengakui penyesalan tanpa menjadikannya satu-satunya dasar dalam menilai dirinya atau menentukan tindakan berikutnya.
 
-### 7.4. Tahap Keempat: Belajar Memercayai Orang Lain
+### 7.4. Memberi Ruang bagi Keputusan Orang Lain
 
-Devan perlahan belajar bahwa ia tidak harus memegang kendali atas setiap keadaan untuk menunjukkan kepedulian. Ia dapat menyampaikan kekhawatiran, menawarkan bantuan, dan tetap memberi orang lain ruang untuk mengambil keputusan.
+Devan dapat belajar menyampaikan kekhawatiran tanpa menganggap bahwa kekhawatiran itu harus menjadi keputusan akhir. Ia mungkin menawarkan bantuan, bertanya apa yang dibutuhkan, atau memilih mendampingi tanpa mengambil alih masalah.
 
-Kepercayaan tidak selalu mudah ketika ia sedang takut. Dalam keadaan tertentu, ia masih dapat bereaksi terlalu protektif sebelum menyadari dampaknya. Kemajuannya terlihat dari kesediaan untuk mendengarkan, mempertimbangkan pilihan orang lain, dan memperbaiki sikap ketika ia melampaui batas.
+Kemampuan ini tidak selalu muncul ketika ia sedang takut. Dalam situasi yang terasa berisiko, ia masih dapat bertindak terlalu cepat. Kemajuannya terlihat ketika ia bersedia mendengar jawaban orang lain, menghormati pilihan yang berbeda dari pilihannya, dan memperbaiki sikap jika ia telah melampaui batas.
 
-### 7.5. Tahap Kelima: Belajar Mengungkapkan Kebutuhan Emosional
+### 7.5. Mengakui Kebutuhan Diri Sendiri
 
-Devan terbiasa menyimpan masalah karena tidak ingin membebani orang lain. Ia perlu belajar bahwa meminta dukungan bukan berarti gagal menjadi orang yang dapat diandalkan.
+Devan dapat mengalami kesulitan menyampaikan bahwa dirinya membutuhkan dukungan. Perubahan tidak harus dimulai dengan menceritakan hal paling pribadi. Ia mungkin lebih dahulu mengakui bahwa dirinya lelah, menerima bantuan praktis, meminta pendapat, atau mengatakan bahwa ia belum siap membicarakan sesuatu.
 
-Perubahan ini tidak mengharuskannya langsung menceritakan semua hal yang paling pribadi. Ia dapat mulai dengan mengakui bahwa dirinya sedang lelah, menerima bantuan praktis, atau mengatakan bahwa ia belum siap membicarakan sesuatu. Keterbukaan tumbuh secara bertahap dan dapat berbeda menurut orang serta situasinya.
+Seberapa jauh ia terbuka dapat berbeda menurut orang, keadaan, dan tingkat kepercayaannya. Ia tetap berhak menyimpan sebagian hal untuk dirinya sendiri; perkembangan bukan berarti harus selalu menjelaskan semua perasaan, melainkan memiliki lebih banyak pilihan selain menanggung semuanya sendirian.
 
-### 7.6. Tahap Keenam: Menerima bahwa Dirinya Tidak Bisa Mencegah Semua Kehilangan
+### 7.6. Menjalani Hidup tanpa Menjadikan Kehilangan sebagai Ukuran Segalanya
 
-Devan perlahan belajar menerima bahwa tidak semua kehilangan dapat dicegah, sekalipun ia sangat menyayangi seseorang dan berusaha keras melindunginya. Menerima kenyataan itu bukan berarti ia melupakan Citra atau ayahnya, menganggap tragedi mereka tidak penting, atau berhenti merindukan mereka.
+Devan dapat terus menyayangi Citra dan merindukan ayahnya sambil tetap terlibat dalam kehidupannya sekarang. Ia tidak harus melupakan mereka atau berhenti merasa sedih untuk dapat menikmati kebersamaan, tertawa, dan merencanakan sesuatu untuk dirinya sendiri.
 
-Ia masih dapat merasa sedih dan menyesal. Yang berubah adalah ia mulai memahami bahwa kasih sayang tidak dapat diukur hanya dari apakah ia berhasil mencegah penderitaan. Ia boleh terus menyayangi orang yang telah tiada sambil tetap menjalani hidupnya.
+Arah perubahan ini terlihat ketika kenangan dan kesedihan tetap memiliki tempat dalam hidupnya, tetapi tidak selalu menentukan bagaimana ia menilai setiap keputusan atau pengalaman baru. Perasaan lama dapat muncul kembali, terutama ketika ada pengingat tertentu; hal itu tidak dengan sendirinya membatalkan perkembangan yang telah terjadi.
 
 ### 7.7. Perubahan dalam Cara Devan Mencintai Eleina
 

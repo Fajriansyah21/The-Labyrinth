@@ -10,7 +10,7 @@ Devan adalah tokoh utama *The Labyrinth* dan menjadi sudut pandang utama cerita 
 - **Usia:** 19 tahun pada masa cerita utama.
 - **Tinggi badan:** 180 cm.
 - **Kelas:** Kelas 3 SMA, semester 2 pada awal cerita utama.
-- **Keluarga:** Anak sulung dari dua bersaudara. Adik perempuannya, Citra, telah meninggal.
+- **Peran:** Tokoh utama
 
 Secara umum, Devan adalah pemuda yang hangat, perhatian, mudah bergaul, setia, dan memiliki humor ringan. Ia tidak harus menjadi pusat perhatian untuk menikmati kebersamaan. Ia dapat menanggapi candaan, ikut dalam percakapan, atau merasa nyaman duduk bersama orang lain tanpa harus terus menghidupkan suasana.
 

@@ -156,19 +156,21 @@ Detail fisik lain yang belum dikunci tidak perlu ditambahkan tanpa keputusan pen
 
 ### 6.1. Pola umum
 
-Devan cenderung hangat dan membantu dalam pertemanan. Ia dapat menikmati kebersamaan tanpa harus terus berbicara. Ia memperlihatkan kesetiaan melalui kehadiran dan tindakan, tetapi tidak selalu nyaman mengungkapkan kesulitan pribadinya.
+Devan cenderung hangat dan membantu dalam pertemanan. Ia dapat menikmati kebersamaan tanpa harus terus berbicara, ikut bercanda, atau melakukan sesuatu bersama tanpa menjadikan setiap interaksi sebagai percakapan serius. Ia menunjukkan kepedulian dan kesetiaan melalui tindakan serta kehadiran, tetapi tidak selalu nyaman mengungkapkan kesulitan pribadinya.
 
-Cara ia berinteraksi berubah mengikuti tingkat kedekatan dan konteks. Ia dapat lebih santai bersama teman, lebih hati-hati ketika membicarakan perasaan pribadi, dan lebih protektif ketika takut seseorang yang penting baginya berada dalam bahaya.
+Cara Devan berinteraksi bergantung pada kedekatan, kebiasaan bersama, dan situasi. Ia bisa lebih berhati-hati ketika perasaan pribadi ikut terlibat, lebih santai dalam pertemanan yang memberinya ruang untuk menjadi dirinya sendiri, atau memilih interaksi singkat ketika tidak ada kebutuhan untuk berbicara panjang. Ia juga bukan selalu pihak yang memberi bantuan: ia dapat menerima bantuan, meminta pendapat, menikmati perhatian orang lain, atau sekadar hadir tanpa harus menjadi berguna.
+
+Ketika mengkhawatirkan seseorang, Devan mungkin menawarkan bantuan atau bertindak lebih cepat. Namun, ia tidak selalu memahami kebutuhan orang lain dengan tepat, dan kepeduliannya tidak otomatis membuatnya berhak mengambil alih keputusan mereka. Ia perlu memberi ruang bagi orang lain untuk berbicara, menolak bantuan, atau menangani masalahnya sendiri.
 
 ### 6.2. Hubungan dengan keluarga
 
 Devan sangat menyayangi Citra dan masih membawa rasa kehilangan setelah kematiannya. Ia juga merindukan ayahnya, yang pernah menjadi sumber dukungan ketika ibunya menyalahkannya. Hubungannya dengan ibu menjadi jauh, tetapi ia masih berharap dapat diterima kembali.
 
-Profil ini tidak menetapkan bahwa Devan harus selalu memaafkan, selalu menghindari konflik, atau berhenti menyayangi ibunya. Responsnya terhadap keluarga perlu ditulis sesuai situasi dan perkembangan emosionalnya.
+Kedekatan dan kehilangan tersebut menjadi bagian dari pengalaman Devan, tetapi tidak menentukan setiap hubungan atau reaksinya. Ia tidak harus selalu memaafkan, selalu menghindari konflik, atau berhenti menyayangi ibunya. Cara ia menghadapi keluarga perlu ditulis sesuai situasi, batas yang mampu ia tetapkan, dan perkembangan emosionalnya.
 
 ### 6.3. Batas informasi hubungan
 
-Dinamika hubungan dua tokoh merupakan informasi bersama. Profil Devan mencatat cara dirinya berperilaku, memaknai hubungan, dan merespons orang lain. Dokumen hubungan mencatat sejarah kedekatan, perspektif kedua pihak jika telah ditetapkan, tahapan hubungan, konflik bersama, dan hal yang belum diputuskan.
+Profil ini berfokus pada pola Devan dalam berhubungan dengan orang lain, bukan uraian lengkap setiap relasi. Sejarah kedekatan, dinamika timbal balik, tahap perkembangan, konflik bersama, dan keputusan yang belum ditetapkan tetap dibahas dalam dokumen hubungan masing-masing. Karena dokumen-dokumen tersebut masih berstatus draf, detail di dalamnya perlu diperiksa sebelum diperlakukan sebagai canon final.
 
 ## 7. Konflik, Perkembangan, dan Perubahan
 

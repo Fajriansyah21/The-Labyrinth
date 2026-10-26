@@ -254,8 +254,9 @@ Devan tetap membawa masa lalunya. Ia dapat terus menyayangi Citra dan merindukan
 
 ## Catatan kontinuitas dan sumber
 
-- **Fakta canon yang dirujuk:** usia 19 tahun, tinggi 180 cm, kelas 3 SMA semester 2 pada awal cerita, latar keluarga dan tragedi, aturan kata ganti, hobi, serta riwayat kedekatan dengan Eleina, sesuai sumber yang dirujuk.
-- **Interpretasi psikologis:** hubungan antara rasa bersalah, ketakutan kehilangan, perilaku protektif, dan kesulitan meminta bantuan merupakan penafsiran berdasarkan sumber, bukan fakta batin yang otomatis disadari Devan.
-- **Rancangan perkembangan:** bagian 7.1–7.11 adalah arah perkembangan yang diusulkan untuk karakter. Arah perubahan dapat berlangsung bersamaan, muncul dalam urutan berbeda, atau belum terwujud, bergantung pada kejadian cerita dan keputusan penulis.
-- **[BELUM DITENTUKAN]:** merek/model MP3 player, daftar lagu atau genre musik spesifik, alasan khusus ayah memilih hadiah tersebut, serta informasi lain yang belum dikunci oleh sumber.
-- **Batas cakupan:** kronologi rinci tetap berada dalam dokumen latar belakang; dinamika dua arah dengan Eleina tetap berada dalam dokumen hubungan. Profil ini merangkum identitas, pola perilaku, psikologi, dan rancangan perkembangan Devan tanpa menggantikan sumber-sumber tersebut.
+- **Canon dan sumber rujukan:** Identitas, latar keluarga, kronologi pengalaman, kebiasaan dan hobi Devan merujuk pada profil serta dokumen latar belakang. Aturan kata ganti dan pembagian kelas mengikuti dokumen terkait di folder `Outline`. Gunakan dokumen hubungan masing-masing tokoh untuk memeriksa konteks relasi.
+- **Interpretasi psikologis:** Hubungan antara rasa bersalah, ketakutan kehilangan, kecenderungan protektif, dan kesulitan meminta bantuan merupakan interpretasi berdasarkan sumber. Hal tersebut tidak otomatis menjadi pikiran yang disadari Devan atau muncul dalam setiap situasi. Narasi tetap dibatasi oleh hal yang dapat ia amati, ingat, pikirkan, rasakan, atau simpulkan.
+- **Rancangan perkembangan:** Bagian 7.1–7.11 merupakan kemungkinan arah perkembangan, bukan tahapan wajib atau urutan plot yang sudah ditetapkan. Perubahan dapat berlangsung bersamaan, muncul dalam urutan berbeda, mengalami kemunduran, atau tidak terwujud, sesuai cerita dan keputusan penulis.
+- **[BELUM DITENTUKAN]:** Merek/model MP3 player, daftar lagu atau genre musik tertentu, alasan khusus ayah memilih hadiah tersebut, serta detail lain yang belum ditetapkan oleh sumber. Kekosongan ini tidak perlu diisi dengan asumsi.
+- **Batas cakupan dan status sumber:** Profil ini merangkum identitas, pola perilaku, interpretasi psikologis, hubungan secara umum, dan rancangan perkembangan Devan. Kronologi rinci tetap dirujuk ke dokumen latar belakang, sedangkan dinamika dua arah dirujuk ke dokumen hubungan masing-masing. Dokumen hubungan saat ini berstatus **DRAFT** dan tidak boleh diperlakukan sebagai canon final.
+

@@ -21,11 +21,35 @@ Kehilangan ibunya tidak menciptakan sifat lembut dan empatinya. Pengalaman terse
 
 ### 1.1. Penampilan Fisik
 
-Eleina memiliki wajah oval dengan fitur lembut, mata hazel berupa perpaduan cokelat hangat dengan sedikit nuansa kemerahan, serta rambut cokelat panjang melewati dada dengan layer alami dan gelombang lembut di bagian ujung. Tubuhnya ramping dengan bahu kecil.
+#### Wajah
 
-Gerak tubuhnya cenderung halus dan tidak mengambil banyak ruang. Saat mendengarkan, ia dapat sedikit mencondongkan tubuh ke depan. Ia kadang menyelipkan rambut ke belakang telinga ketika berpikir, gugup, atau berkonsentrasi. Ia dapat mempertahankan kontak mata ketika memperhatikan orang lain, tetapi lebih mungkin mengalihkan pandangan ketika pembicaraan beralih kepada perasaannya sendiri.
+Foto acuan utama menunjukkan Eleina memiliki wajah berbentuk oval dengan proporsi lembut dan cenderung ramping. Dahinya tampak proporsional, pipinya memiliki kontur halus, dan garis rahangnya mengecil secara perlahan menuju dagu yang kecil serta membulat lembut. Sudut wajahnya tidak terlalu tajam, sehingga keseluruhan wajah memberikan kesan feminin dan halus tanpa membuatnya terlihat kekanak-kanakan.
 
-Detail fisik dan gestur ini adalah acuan, bukan daftar gerakan wajib. Pilih hanya yang sesuai dengan situasi, emosi, dan fokus adegan.
+Matanya relatif besar dan berbentuk almond, dengan sudut luar yang sedikit terangkat. Irisnya berwarna hazel, didominasi cokelat hangat dengan sedikit nuansa kemerahan yang dapat terlihat lebih jelas ketika terkena cahaya. Warna iris dapat tampak lebih cokelat atau lebih kemerahan bergantung pencahayaan, tetapi dasar warnanya tetap hazel. Kelopak matanya terdefinisi dengan lembut dan bulu matanya tampak lentik tanpa kesan riasan berlebihan.
+
+Alis Eleina berwarna cokelat gelap, cukup ramping, dan memiliki lengkungan alami yang halus. Bentuknya tidak terlalu tajam atau tinggi, sehingga mendukung ekspresi wajah yang lembut. Hidungnya berukuran kecil hingga sedang, dengan batang yang halus dan tidak terlalu menonjol serta ujung yang membulat lembut. Hidungnya menyatu secara proporsional dengan fitur wajah lainnya dan tidak mendominasi wajah.
+
+Bibir Eleina berukuran kecil hingga sedang, dengan lekukan halus pada bagian tengah bibir atas dan bibir bawah yang sedikit lebih penuh. Sudut bibirnya dapat terangkat tipis membentuk senyum kecil yang natural. Senyum ini merupakan salah satu ekspresi yang mungkin muncul, bukan ekspresi permanen yang harus digunakan dalam setiap ilustrasi.
+
+Kulitnya tampak cerah dengan rona hangat dalam foto acuan. Pipi dan area sekitar hidung menunjukkan semburat kemerahan lembut, tetapi rona tersebut dapat dipengaruhi pencahayaan hangat. Karena itu, kemerahan pada pipi tidak ditetapkan sebagai ciri permanen atau ekspresi yang harus selalu muncul.
+
+Secara keseluruhan, wajah Eleina memadukan kontur oval yang halus, mata hazel yang ekspresif, dan senyum kecil yang hangat. Kesan lembut dan anggun muncul dari keseimbangan fitur-fiturnya, bukan dari satu bagian wajah yang terlalu menonjol. Ia tidak harus selalu terlihat malu-malu, sedih, atau tersenyum; ekspresinya perlu mengikuti situasi dan keadaan emosionalnya.
+
+#### Rambut
+
+Rambut Eleina berwarna cokelat dan panjang melewati dada. Rambutnya memiliki layer alami dengan belahan mendekati tengah. Beberapa helai jatuh di sisi dahi dan membingkai wajah, sedangkan bagian panjangnya jatuh melewati bahu dengan gelombang lembut terutama di bagian ujung. Teksturnya tidak lurus sempurna maupun ikal yang tegas. Dalam pencahayaan hangat, rambutnya dapat memperlihatkan pantulan cokelat keemasan, tetapi warna dasarnya tetap cokelat.
+
+#### Postur dan gestur
+
+Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak mengambil banyak ruang. Saat mendengarkan, ia dapat sedikit mencondongkan tubuh ke depan. Ia kadang menyelipkan rambut ke belakang telinga ketika berpikir, gugup, atau berkonsentrasi. Ia dapat mempertahankan kontak mata ketika memperhatikan orang lain, tetapi lebih mungkin mengalihkan pandangan ketika pembicaraan beralih kepada perasaannya sendiri.
+
+#### Acuan visual untuk ilustrasi
+
+Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Eleina. Dalam ilustrasi berikutnya, pertahankan wajah oval dengan dagu lembut, mata hazel yang relatif besar berbentuk almond, alis cokelat gelap yang ramping dengan lengkungan alami, hidung yang halus dan proporsional, bibir kecil hingga sedang, serta rambut cokelat panjang ber-layer dengan gelombang lembut di bagian ujung.
+
+Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai kebutuhan adegan, tetapi tidak seharusnya mengubah identitas dasar wajah Eleina. Ia harus tetap terlihat sebagai orang yang sama ketika tersenyum, tertawa, serius, kelelahan, sedih, atau berada dalam situasi menegangkan. Jangan menjadikan senyum tipis, semburat kemerahan pada pipi, atau pencahayaan hangat dari foto sebagai ciri yang wajib muncul dalam setiap ilustrasi.
+
+Detail yang tidak dapat dipastikan dari foto, termasuk warna kulit dalam pencahayaan netral dan rincian fisik yang tidak terlihat jelas, tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar gestur atau ekspresi yang harus selalu digunakan.
 
 ## 2. Kepribadian dan Struktur Diri
 

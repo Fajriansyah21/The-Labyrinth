@@ -154,6 +154,18 @@ Ketiga hal ini harus diperlakukan terpisah.
 
 Eleina dapat memaafkan seseorang dan tetap berhati-hati. Ia dapat masih menyayangi seseorang sekaligus membutuhkan jarak. Ia juga dapat menginginkan hubungan pulih tanpa tahu apakah dirinya sudah siap. Jangan menjadikan pengampunan sebagai tombol yang langsung menghapus luka, keraguan, atau konsekuensi.
 
+### 3.9. Respons ketika Mempertahankan Hubungan
+
+Eleina cenderung menjaga hubungan melalui perhatian sehari-hari, kesediaan mendengarkan, dan tindakan kecil yang menunjukkan bahwa seseorang berarti baginya. Ia menghargai kedekatan yang dibangun melalui konsistensi dan berusaha memahami keadaan orang lain ketika muncul kesulitan. Namun, mempertahankan hubungan tidak selalu berarti ia harus terus tersedia atau mengesampingkan kebutuhannya sendiri.
+
+Ketika menyadari perubahan sikap seseorang, Eleina dapat mencoba memahami situasinya sebelum mengambil kesimpulan. Ia mungkin bertanya, menunggu kesempatan yang tepat untuk berbicara, atau memberi ruang ketika orang tersebut sedang menghadapi masalah. Kepekaannya terhadap perubahan hubungan tidak membuatnya selalu mengetahui penyebabnya dengan benar. Ia tetap dapat salah menafsirkan keadaan atau terlalu lama mencari alasan untuk memaklumi sesuatu yang menyakitinya.
+
+Jika terjadi konflik, Eleina cenderung memberi kesempatan bagi penjelasan dan perbaikan, terutama dalam hubungan yang penting baginya. Ia dapat mengakui kesalahannya sendiri dan berusaha memperbaiki kesalahpahaman. Namun, ia tidak selalu harus menjadi pihak yang memulai percakapan atau menjaga hubungan tetap berjalan. Respons orang lain terhadap masalah dan kesediaan mereka untuk ikut memperbaiki hubungan juga memengaruhi keputusan Eleina.
+
+Ketika perlakuan yang menyakitkan terus berulang tanpa perubahan, Eleina dapat mulai mengurangi usahanya, menyampaikan keberatan dengan lebih tegas, menolak permintaan, atau mengambil jarak. Keputusan tersebut mungkin tidak mudah jika ia masih menyayangi orang yang bersangkutan. Ia dapat merasa ragu atau bersalah, tetapi perasaan itu tidak otomatis membuat batas yang ia tetapkan menjadi keliru.
+
+Cara Eleina mempertahankan hubungan bergantung pada tingkat kedekatan, pengalaman bersama, sifat masalah, dan respons kedua belah pihak. Ia tidak selalu mengalah demi menjaga kedekatan dan tidak harus menunggu sampai rasa sakit menumpuk untuk menyampaikan keberatan. Perkembangannya terlihat ketika ia mulai memahami bahwa hubungan yang berarti tidak hanya dipertahankan melalui usahanya sendiri, tetapi juga melalui rasa hormat, kejujuran, dan kesediaan kedua pihak untuk menjaga hubungan tersebut.
+
 ### 3.8. Cara Menenangkan Diri
 
 Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.

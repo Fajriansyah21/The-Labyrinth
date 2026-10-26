@@ -184,15 +184,15 @@ Konflik perkembangan di sini bukan menghilangkan kepedulian Devan, melainkan mem
 
 ### 7.2. Menghadapi Dampak Pilihannya
 
-Devan perlahan menghadapi kenyataan bahwa niat melindungi tidak menjamin tindakannya akan membantu. Ketika ia terlalu jauh ikut menentukan pilihan orang lain, orang tersebut dapat merasa tidak dipercaya atau kehilangan ruang untuk mengambil keputusan sendiri.
+Niat baik tidak menjamin tindakan Devan akan diterima atau menghasilkan dampak yang ia harapkan. Ketika ia terlalu jauh ikut menentukan pilihan orang lain, orang tersebut dapat merasa tidak dipercaya atau kehilangan ruang untuk mengambil keputusan sendiri.
 
-Memahami hal itu tidak otomatis membuat Devan berubah. Ia mungkin terlebih dahulu membela niatnya, merasa disalahpahami, atau membutuhkan waktu untuk menerima dampak tindakannya. Perkembangan dimulai ketika ia bersedia mempertimbangkan pengalaman orang lain, bukan hanya alasan yang ia miliki.
+Devan tidak harus langsung menerima kritik dengan tenang. Ia dapat membela niatnya, merasa disalahpahami, atau membutuhkan waktu sebelum mampu melihat persoalan dari sudut pandang orang lain. Perkembangan tampak ketika ia mulai mempertimbangkan dampak tindakannya, bukan hanya alasan yang membuatnya bertindak.
 
-### 7.3. Tahap Ketiga: Menyadari Batas Tanggung Jawabnya
+### 7.3. Membedakan Penyesalan dan Tanggung Jawab
 
-Devan perlu belajar membedakan hal yang memang menjadi tanggung jawabnya dari hal yang berada di luar kendalinya. Ia boleh menyesali keputusan untuk tidak menjemput Citra, tetapi keputusan itu tidak menjadikannya pelaku kekerasan yang menimpa Citra. Ia juga bukan orang yang menembak ayahnya.
+Dalam menghadapi peristiwa yang mengingatkannya pada masa lalu, Devan dapat kembali memikirkan keputusan yang ia sesali. Tantangan perkembangannya adalah menilai kembali apa yang memang menjadi tanggung jawabnya, tanpa mengambil alih tanggung jawab atas tindakan orang lain atau kejadian yang tidak dapat ia kendalikan.
 
-Pemahaman ini tidak menghapus kesedihan atau penyesalan. Devan masih dapat membayangkan kemungkinan lain dan berharap masa lalu berjalan berbeda. Perubahan yang diharapkan adalah ia perlahan berhenti menggunakan penyesalan sebagai bukti bahwa dirinya bertanggung jawab atas tindakan orang lain.
+Memahami perbedaan itu tidak mengharuskannya menganggap semua keputusan masa lalunya benar. Ia tetap boleh menyesal dan membayangkan kemungkinan lain. Perubahan yang diharapkan adalah kemampuan untuk mengakui penyesalan tanpa menjadikannya satu-satunya dasar dalam menilai dirinya atau menentukan tindakan berikutnya.
 
 ### 7.4. Tahap Keempat: Belajar Memercayai Orang Lain
 

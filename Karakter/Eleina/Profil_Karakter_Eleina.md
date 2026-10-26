@@ -157,6 +157,12 @@ Ketiga hal ini harus diperlakukan terpisah.
 
 Eleina dapat memaafkan seseorang dan tetap berhati-hati. Ia dapat masih menyayangi seseorang sekaligus membutuhkan jarak. Ia juga dapat menginginkan hubungan pulih tanpa tahu apakah dirinya sudah siap. Jangan menjadikan pengampunan sebagai tombol yang langsung menghapus luka, keraguan, atau konsekuensi.
 
+### 3.8. Cara Menenangkan Diri
+
+Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.
+
+Sumber karakteristik mencantumkan membaca, merawat tanaman, pekerjaan kecil, serta minat pada novel fiksi atau romansa dan membuat kue. **Status minat-minat spesifik tersebut sebagai canon final: [BELUM DITENTUKAN]** sampai dikonfirmasi penulis. Jangan menjadikannya detail wajib hanya karena tercantum dalam bahan rancangan.
+
 ### 3.9. Respons ketika Mempertahankan Hubungan
 
 Eleina cenderung menjaga hubungan melalui perhatian sehari-hari, kesediaan mendengarkan, dan tindakan kecil yang menunjukkan bahwa seseorang berarti baginya. Ia menghargai kedekatan yang dibangun melalui konsistensi dan berusaha memahami keadaan orang lain ketika muncul kesulitan. Namun, mempertahankan hubungan tidak selalu berarti ia harus terus tersedia atau mengesampingkan kebutuhannya sendiri.
@@ -180,12 +186,6 @@ Namun, keterbukaan Eleina tetap memiliki batas dan dapat berbeda menurut situasi
 Merasa aman bersama seseorang tidak membuat Eleina kehilangan kemandiriannya. Ia tetap dapat mengambil keputusan sendiri, mengerjakan sesuatu tanpa bantuan, membutuhkan waktu pribadi, atau memilih untuk belum membicarakan suatu masalah. Ia mampu mengandalkan orang yang dipercaya tanpa harus menyerahkan seluruh tanggung jawab atas kesejahteraan dirinya kepada orang tersebut.
 
 Rasa aman dalam hubungan memberi Eleina ruang untuk menjadi dirinya sendiri, termasuk ketika ia sedang ceria, kesal, lelah, ragu, atau tidak tahu harus berkata apa. Perkembangannya tidak diukur dari seberapa sering ia mengungkapkan perasaan, melainkan dari semakin besarnya kebebasan untuk menunjukkan kebutuhan dan kepribadiannya tanpa merasa harus selalu menyenangkan atau menjaga kenyamanan orang lain.
-
-### 3.8. Cara Menenangkan Diri
-
-Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.
-
-Sumber karakteristik mencantumkan membaca, merawat tanaman, pekerjaan kecil, serta minat pada novel fiksi atau romansa dan membuat kue. **Status minat-minat spesifik tersebut sebagai canon final: [BELUM DITENTUKAN]** sampai dikonfirmasi penulis. Jangan menjadikannya detail wajib hanya karena tercantum dalam bahan rancangan.
 
 ## 4. Pengaruh Pengalaman terhadap Karakter
 

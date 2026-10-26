@@ -926,7 +926,7 @@ tidak boleh otomatis dibuat sama.    Aturan
 Foreshadowing harus:
 Subtle dan jarang.
 
-Bagian awal tetap harus terasa seperti perjalanan anak-anak SMA:
+Bagian awal tetap harus terasa seperti perjalanan mahasiswa tahun pertama: suasana perkuliahan, pertemanan, candaan, perjalanan bersama, dan kejadian-kejadian kecil sehari-hari harus terasa wajar untuk usia serta tahap hidup mereka.
 - berteman;
 - bercanda;
 - berjalan;

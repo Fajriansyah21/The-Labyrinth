@@ -11,7 +11,7 @@ Devan adalah tokoh utama *The Labyrinth* dan menjadi sudut pandang utama cerita 
 - **Tinggi badan:** 180 cm.
 - **Pendidikan:** Mahasiswa tahun pertama pada awal cerita utama.
 - **Universitas:** Sama dengan Eleina dan delapan tokoh utama lainnya; nama universitas **[BELUM DITENTUKAN]**.
-- **Jurusan:** Psikologi sebagai rancangan yang disetujui untuk dikembangkan; alasan pribadi memilih jurusan ini **[BELUM DITENTUKAN]**.
+- **Jurusan:** **[BELUM DITENTUKAN]**.
 - **Peran:** Tokoh utama
 
 Secara umum, Devan adalah pemuda yang hangat, perhatian, mudah bergaul, setia, dan memiliki humor ringan. Ia tidak harus menjadi pusat perhatian untuk menikmati kebersamaan. Ia dapat menanggapi candaan, ikut dalam percakapan, atau merasa nyaman duduk bersama orang lain tanpa harus terus menghidupkan suasana.

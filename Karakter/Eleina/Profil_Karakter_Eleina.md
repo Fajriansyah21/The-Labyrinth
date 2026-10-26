@@ -377,5 +377,4 @@ Interpretasi ini berguna sebagai model kerja, tetapi tidak berarti setiap tindak
 - [Kepribadian dan Sifat Eleina](../../Rancangan/Kepribadian_Sifat_Eleina.md)
 - [Karakteristik Eleina](../../Rancangan/Karakteristik_Eleina.md)
 - [Latar Belakang Eleina](Latar_Belakang_Eleina.md)
-- [Eleina dengan Devan](Hubungan%20Tokoh/Eleina_Dengan_Devan.md)
-- [Eleina dengan Nicho](Hubungan%20Tokoh/Eleina_Dengan_Nicho.md)
+- [Hubungan Tokoh](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Karakter/Eleina/Hubungan%20Tokoh)

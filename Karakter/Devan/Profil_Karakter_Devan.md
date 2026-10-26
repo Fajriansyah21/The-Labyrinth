@@ -147,10 +147,13 @@ Ia tidak selalu membuat pilihan yang tepat atau mempertimbangkan semua akibat se
 
 ### 5.7. Penampilan
 
-Devan memiliki wajah cenderung persegi dengan garis rahang yang jelas, tetapi kesan keseluruhannya tidak terlalu keras. Matanya berwarna cokelat gelap. Rambutnya hitam pekat, tebal, berlapis, dan bervolume alami, dengan bagian atas serta depan sedikit lebih panjang sehingga beberapa helai dapat jatuh ke dahi. Rambutnya tampak kasual dan cukup rapi tanpa terlihat ditata secara berlebihan.
+Foto acuan utama Devan menunjukkan pemuda berwajah cenderung oval dengan garis rahang yang cukup jelas, tetapi tidak terlalu tegas atau keras. Kulitnya berwarna sawo matang dengan tingkat kecerahan sedang, bukan gelap; rona hangat pada ilustrasi dapat dipengaruhi pencahayaan, sehingga warna kulit canon merujuk pada gambaran sawo matang yang tidak terlalu gelap.
 
-Detail fisik lain yang belum dikunci tidak perlu ditambahkan tanpa keputusan penulis.
+Matanya berwarna cokelat gelap, dengan bentuk yang sedikit memanjang dan tatapan yang tampak tenang. Alisnya gelap dan cukup tebal. Hidungnya terlihat lurus dengan proporsi yang seimbang terhadap wajah, sementara bibirnya cenderung tipis hingga sedang. Kesan wajahnya secara keseluruhan lembut dan santai, dengan senyum tipis yang tidak mencolok.
 
+Rambut Devan berwarna hitam pekat, tebal, berlapis, dan bervolume alami. Bagian atas serta depan relatif panjang dan bertekstur sedikit berantakan; beberapa helai jatuh ke dahi, sementara sisi rambut membingkai wajah tanpa dipotong terlalu pendek. Rambutnya tampak kasual dan tidak ditata kaku.
+
+Foto ini menjadi acuan visual utama untuk penampilan Devan. Detail yang tidak dapat dipastikan dari gambar, seperti warna kulit dalam pencahayaan netral, tinggi atau proporsi tubuh secara akurat, dan ciri fisik yang tidak terlihat, tidak ditetapkan hanya berdasarkan ilustrasi tersebut.
 ## 6. Hubungan dan Dinamika Sosial
 
 ### 6.1. Pola umum

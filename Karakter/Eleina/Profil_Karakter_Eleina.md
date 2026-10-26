@@ -100,30 +100,19 @@ Dalam situasi tertentu, ia mungkin bertindak seolah-olah kebutuhan orang lain le
 
 ### 3.3. Cara Memendam Emosi
 
-Eleina cenderung memproses emosi secara internal. Ia mungkin menyadari bahwa orang lain sedang sedih atau tidak nyaman lebih cepat daripada menyadari bahwa dirinya sendiri kecewa, marah, atau kelelahan.
+Eleina cenderung memproses sebagian emosinya secara internal. Ia terkadang lebih cepat menyadari perubahan suasana hati orang lain daripada mengenali apa yang sedang ia rasakan sendiri. Ia juga dapat mengutamakan pemahaman terhadap keadaan orang lain sebelum memberi ruang pada reaksinya sendiri.
 
-Pola pemendamannya dapat berlangsung bertahap:
-1. Ia merasakan ada sesuatu yang mengganggu, tetapi belum langsung menamainya.
-2. Ia mencoba memahami alasan pihak lain dan mencari penjelasan yang dapat diterima.
-3. Ia mengecilkan kebutuhan sendiri atau mengatakan bahwa dirinya tidak apa-apa.
-4. Jika orang lain tampak bersalah atau tertekan, ia dapat beralih menenangkan mereka.
-5. Masalah awal pun tidak benar-benar dibahas, meskipun suasana luar terlihat kembali normal.
-6. Bila pola yang sama terulang, rasa sakit dapat menumpuk dan akhirnya muncul sebagai jarak, ketegasan, tangisan frustrasi, atau kemarahan yang lebih jelas.
+Dalam situasi tertentu, ia mengecilkan arti masalah, mengalihkan perhatian ke hal yang perlu dikerjakan, atau kembali bersikap biasa sebelum persoalan benar-benar selesai. Jika orang lain tampak bersalah atau tertekan, ia mungkin beralih menenangkan mereka sehingga pembicaraan tentang perasaannya tertunda. Akibatnya, suasana luar dapat tampak normal meskipun persoalan awal belum dibicarakan.
 
-Urutan ini adalah pola yang mungkin terjadi, bukan tahapan wajib. Eleina dapat mengungkapkan perasaan lebih awal jika ia merasa aman, memahami masalahnya, atau menilai bahwa diam justru akan memperburuk keadaan.
+Memendam emosi bukan respons yang selalu dipilih Eleina dan tidak selalu berujung pada ledakan atau penumpukan rasa sakit. Ia dapat mengungkapkan perasaan lebih awal ketika sudah memahami apa yang mengganggunya, merasa aman untuk berbicara, atau menilai bahwa diam tidak akan membantu. Untuk respons terhadap rasa sakit dan kemarahan secara lebih spesifik, lihat bagian 3.5 dan 3.6.
 
 ### 3.4. Rasa Bersalah dan Kesulitan Menetapkan Batas
 
-Menolak permintaan dapat terasa lebih berat bagi Eleina ketika permintaan itu datang dari orang yang dekat. Ia mungkin memahami bahwa dirinya lelah atau tidak ingin melakukannya, tetapi tetap memikirkan bagaimana penolakan itu akan memengaruhi orang lain.
+Bagian ini berfokus pada perasaan Eleina setelah mempertimbangkan atau menetapkan batas, bukan pada proses meminta bantuan. Menolak permintaan dapat terasa berat ketika ia khawatir akan mengecewakan orang yang dekat dengannya. Ia mungkin sudah tahu bahwa dirinya lelah atau tidak ingin melakukannya, tetapi masih memikirkan dampak penolakan itu terhadap hubungan mereka.
 
-Akibatnya, ia dapat:
-- menyetujui sesuatu sebelum memeriksa apakah dirinya benar-benar sanggup;
-- memberi penjelasan terlalu panjang agar penolakannya tidak dianggap sebagai penolakan pribadi;
-- mengurangi arti ketidaknyamanannya sendiri dengan mengatakan “nggak apa-apa”;
-- merasa perlu memperbaiki suasana hati orang yang kecewa terhadap batasnya;
-- mempertanyakan apakah dirinya terlalu egois meskipun batas yang dibuatnya wajar.
+Dalam situasi tertentu, ia dapat memberi penjelasan terlalu panjang, mengecilkan ketidaknyamanannya dengan mengatakan “nggak apa-apa”, atau merasa perlu memperbaiki suasana hati orang yang kecewa. Ia juga mungkin mempertanyakan apakah dirinya egois meskipun batas yang dibuatnya wajar.
 
-Jangan menulisnya seolah-olah ia tidak pernah mampu berkata tidak. Ia dapat menolak, terutama ketika sudah memahami kebutuhannya atau menyangkut keselamatan dan orang yang disayangi. Kesulitannya lebih besar ketika keputusan berpotensi mengecewakan orang yang berarti baginya.
+Namun, rasa bersalah tidak berarti Eleina selalu mengalah atau tidak mampu berkata tidak. Ia dapat menolak dengan jelas, terutama ketika sudah memahami kebutuhannya atau ketika keselamatan dirinya maupun orang yang disayangi terlibat. Kesulitannya cenderung lebih besar ketika keputusan berpotensi mengecewakan seseorang yang berarti baginya.
 
 ### 3.5. Kemarahan dan Kekecewaan
 

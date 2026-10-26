@@ -119,9 +119,10 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [x] Outfit reference — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [ ] Visual kelompok/hubungan
-- **Ciri fisik:** [BELUM DITENTUKAN di arsip ini; periksa profil canon sebelum mendesain.]
+- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit reference berisi 10 variasi pakaian masa kuliah dalam grid 2×5, dengan panel bernomor dan judul; layout mengikuti lembar referensi Devan tanpa highlight kecil tambahan di setiap outfit.
+- **Status aset:** portrait, full-body reference, expression sheet, dan outfit reference disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
 
 ### Elvano
 - [ ] Audit canon dan brief visual

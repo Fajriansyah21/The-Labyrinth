@@ -24,15 +24,17 @@ Keep all outfit variations in the working reference sheet. They are design optio
 - Dark trousers
 - Neutral sneakers
 
-### B. Additional casual variations — retain all as options
-1. Black sweater
-2. White long-sleeve shirt
-3. Black jacket over a neutral top
-4. Dark oversized T-shirt
-5. Cream overshirt over a light neutral top
-6. Black hoodie
-7. Basketball jersey / practice outfit
-8. Blue-and-white sports jacket
+### B. Outfit list — ten total panels
+1. **Main casual outfit:** gray hoodie, white T-shirt, dark trousers, neutral sneakers (approved visual design).
+2. Black sweater with dark trousers.
+3. White long-sleeve shirt with blue-gray jeans and a backpack.
+4. Black jacket over a white/neutral top with dark trousers.
+5. Dark oversized T-shirt with dark cargo trousers and sling bag.
+6. Cream overshirt over a white top with dark trousers and backpack.
+7. Black hoodie with dark cargo trousers.
+8. Basketball practice jersey and shorts.
+9. Blue-and-white sports jacket and matching track pants.
+10. Campus smart-casual look: dark cardigan or casual jacket over a white T-shirt, dark trousers, and neutral sneakers.
 
 **Status:** These variations are retained at the author's request, but their exact use in story scenes is not yet canon unless separately established.
 
@@ -62,6 +64,7 @@ These are optional visual props, not permanent character traits. Use them only w
 - Preserve the same face, hair, eye color, skin tone, and overall proportions as the approved character references.
 - Clothing may change; Devan's identity must not.
 - Keep the same semi-realistic illustration style and muted neutral palette across outfit panels.
+- Use `Visual/Devan/Potret_Devan.png` as the primary face reference. If the face drifts from that portrait, revise the image rather than accepting the drift.
 - Show front, side, and back views for any outfit that needs a detailed turnaround.
 - Separate outfit panels with clear frames and labels so designs do not visually blend together.
 - Avoid adding accessories, logos, jewelry, tattoos, or other identifying details unless supported by canon or approved by the author.
@@ -69,11 +72,11 @@ These are optional visual props, not permanent character traits. Use them only w
 
 ## 5. Approved outfit-reference layout
 
-The author approved the supplied outfit-sheet direction, with the scope limited to outfit reference only. Keep the sheet focused on clothing and accessories rather than adding a portrait/expression-study section or unrelated character-profile material.
+The author approved the supplied outfit-sheet direction, with the scope limited to outfit reference only. The sheet must contain exactly ten outfit panels, each separately framed and labeled. Use the second uploaded image, `Potret_Devan.png`, as the primary face reference for every outfit panel. Keep facial identity stable: same face shape, eyes, nose, mouth, skin tone, and black layered hair. Do not approximate or redesign the face for individual outfits. Keep the sheet focused on clothing and accessories rather than adding a portrait/expression-study section or unrelated character-profile material.
 
 Recommended panel order:
 1. **Pakaian Kasual Utama (Masa Kuliah):** front, side, and back views of the gray hoodie, white T-shirt, dark trousers, and neutral sneakers, with separate clothing-detail panels.
-2. **Variasi Outfit Kasual (Masa Kuliah):** all eight candidate outfits in separate framed panels with clear Indonesian labels.
+2. **Variasi Outfit Kasual (Masa Kuliah):** ten total outfits in separate framed panels with clear Indonesian labels. Outfit 1 is the approved main casual outfit, followed by the nine additional outfit options below.
 3. **Seragam SMA (Masa Lalu / Flashback):** front, side, and back views with separate detail panels; school badge/emblem remains **[BELUM DITENTUKAN]**.
 4. **Aksesori Opsional:** backpack, sling bag, wristwatch, and phone, each in its own frame.
 
@@ -92,6 +95,7 @@ Every outfit or accessory should remain visually separated by a frame and labele
 - [x] Main casual outfit: gray hoodie, white T-shirt, dark trousers, neutral sneakers — approved visual design.
 - [x] Retain all outfit variations in the reference plan — approved by author.
 - [x] Outfit-reference-only layout, with university-era casual looks prioritized and high-school uniform separated as flashback — approved direction.
+- [x] Ten outfit panels requested; use the approved Devan portrait as the strict face reference.
 - [ ] Upload the generated outfit-reference image as an asset to this repository.
 - [x] Main-story timeline: university — verified against the current Devan character profile and reiterated by the author.
 - [ ] Exact university outfit or dress code — **[BELUM DITENTUKAN]**

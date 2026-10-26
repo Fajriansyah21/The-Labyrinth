@@ -136,7 +136,8 @@ Jika ia menjadi terlalu protektif atau bereaksi lebih keras dari biasanya, adega
 - **Perawatan motor sederhana:** Ia cukup mampu memeriksa kebutuhan dasar motor dan mengenali kapan masalah sebaiknya ditangani mekanik. Ia bukan ahli mesin dan tidak otomatis mampu memperbaiki kerusakan kompleks.
 - **Perbaikan sederhana:** Ia dapat mencoba menangani masalah kecil, tetapi bisa gagal dan perlu tahu kapan harus berhenti.
 - **Kemandirian sehari-hari:** Ia cukup mampu mengurus kebutuhan pribadi, meskipun tidak selalu teliti atau ingat semua hal.
-- **Hobi:** Bermain basket, menikmati musik melalui kotak musik kecil, berkendara santai dengan sepeda motor, dan menghabiskan waktu di tempat terbuka seperti area di atas bukit atau belakang sekolah. Bentuk, melodi, dan asal kotak musiknya [BELUM DITENTUKAN].
+- **Hobi:** Bermain basket, mendengarkan musik melalui MP3 player mini, berkendara santai dengan sepeda motor, dan menghabiskan waktu di tempat terbuka seperti area di atas bukit atau belakang sekolah.
+- **MP3 player:** Perangkat mini berwarna hitam dengan aksen perak, sesuai referensi visual yang dipilih penulis. MP3 player tersebut merupakan hadiah dari ayah Devan pada ulang tahunnya sebelum tragedi keluarga terjadi. Isinya berupa lagu-lagu yang disukai Devan, dan ia menggunakannya sesekali ketika ingin mendengarkan musik. Perangkat ini masih berfungsi pada masa cerita utama. Benda ini memiliki nilai pribadi karena pemberinya, tetapi tidak harus selalu menjadi pengingat tragedi atau digunakan hanya ketika Devan sedang sedih.
 
 Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor tidak berarti ia mahir mendiagnosis kerusakan mesin, dan mengikuti basket tidak otomatis berarti ia pemain profesional.
 
@@ -260,5 +261,5 @@ Devan tetap membawa masa lalunya. Ia dapat terus menyayangi Citra dan merindukan
 - **Fakta canon yang dirujuk:** usia 19 tahun, tinggi 180 cm, kelas 3 SMA semester 2 pada awal cerita, latar keluarga dan tragedi, aturan kata ganti, hobi, serta riwayat kedekatan dengan Eleina, sesuai sumber yang dirujuk.
 - **Interpretasi psikologis:** hubungan antara rasa bersalah, ketakutan kehilangan, perilaku protektif, dan kesulitan meminta bantuan merupakan penafsiran berdasarkan sumber, bukan fakta batin yang otomatis disadari Devan.
 - **Rancangan perkembangan:** bagian 7.1–7.11 adalah arah perkembangan yang diusulkan untuk karakter. Arah perubahan dapat berlangsung bersamaan, muncul dalam urutan berbeda, atau belum terwujud, bergantung pada kejadian cerita dan keputusan penulis.
-- **[BELUM DITENTUKAN]:** nama lengkap, detail kotak musik, serta informasi lain yang belum dikunci oleh sumber.
+- **[BELUM DITENTUKAN]:** merek/model MP3 player, daftar lagu atau genre musik spesifik, alasan khusus ayah memilih hadiah tersebut, serta informasi lain yang belum dikunci oleh sumber.
 - **Batas cakupan:** kronologi rinci tetap berada dalam dokumen latar belakang; dinamika dua arah dengan Eleina tetap berada dalam dokumen hubungan. Profil ini merangkum identitas, pola perilaku, psikologi, dan rancangan perkembangan Devan tanpa menggantikan sumber-sumber tersebut.

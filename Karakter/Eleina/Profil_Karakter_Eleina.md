@@ -51,6 +51,20 @@ Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai keb
 
 Detail yang tidak dapat dipastikan dari foto, termasuk warna kulit dalam pencahayaan netral dan rincian fisik yang tidak terlihat jelas, tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar gestur atau ekspresi yang harus selalu digunakan.
 
+
+#### Gaya berpakaian sehari-hari
+
+Gaya berpakaian Eleina memadukan **casual natural sebagai dasar** dengan **sentuhan soft feminine**. Penampilannya sehari-hari cenderung nyaman, sederhana, dan mudah dipadukan, tetapi sesekali terlihat lebih lembut atau rapi melalui pilihan bahan, warna, dan potongan pakaian. Gaya ini merupakan arah visual yang disepakati dalam pengembangan karakter, bukan seragam yang harus dikenakan pada setiap adegan.
+
+- **Atasan:** kaus polos, blus sederhana, kemeja kasual, atau sweater tipis.
+- **Lapisan tambahan:** kardigan dapat digunakan ketika cuaca atau suasana mendukung, sekaligus memberi sentuhan feminin tanpa membuat penampilannya terlalu formal.
+- **Bawahan:** jeans berpotongan lurus atau celana kasual sebagai pilihan sehari-hari; rok midi dapat menjadi variasi ketika ia ingin tampil sedikit lebih rapi atau feminin.
+- **Alas kaki:** sneakers sederhana, terutama warna netral, untuk aktivitas sehari-hari. Alas kaki lain dapat dipilih sesuai pakaian dan kegiatan.
+- **Palet warna:** putih, krem, cokelat, biru denim, dan abu-abu sebagai warna yang mudah dipadukan. Warna lembut lain dapat muncul sebagai variasi, bukan ketentuan wajib.
+- **Aksesori dan tas:** pilih yang sederhana dan fungsional jika diperlukan; aksesori tertentu belum ditetapkan sebagai ciri khas Eleina.
+
+Contoh padu padan yang sesuai adalah kaus atau blus putih dengan jeans biru dan sneakers, atau kardigan krem dengan rok midi ketika ia ingin terlihat lebih rapi. Pilihan pakaian tetap mengikuti kegiatan, cuaca, kenyamanan, suasana hati, dan konteks adegan. Jangan membuat Eleina selalu memakai kardigan atau rok hanya karena gaya soft feminine menjadi salah satu acuannya.
+
 ## 2. Kepribadian dan Struktur Diri
 
 ### 2.1. Sifat Dasar yang Sudah Ada Sejak Kecil

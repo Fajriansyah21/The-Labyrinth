@@ -1,6 +1,6 @@
 # Profil Karakter Devan
 
-> **Status:** Draf untuk ditinjau penulis  
+> **Status:** Versi final untuk tahap ini; detail [BELUM DITENTUKAN] tetap terbuka dan dapat ditinjau kembali jika kebutuhan cerita berubah  
 > **Cakupan:** Profil karakter Devan berdasarkan sumber yang tersedia dan rancangan yang telah dibahas. Fakta canon, interpretasi psikologis, dan arah perkembangan dibedakan agar usulan tidak terbaca sebagai keputusan final.  
 > **Sumber terkait:** [Latar Belakang Devan](./Latar_Belakang_Devan.md) · [Hubungan Devan dengan Eleina](./Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) · [Kepribadian dan Sifat Devan](../../Rancangan/Kepribadian_Sifat_Devan.md) · [Karakteristik Devan](../../Rancangan/Karakteristik.md)
 

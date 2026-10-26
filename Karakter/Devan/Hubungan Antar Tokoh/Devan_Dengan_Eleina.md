@@ -6,7 +6,7 @@ Devan dan Eleina mulai mengenal dan menjadi dekat sejak kelas 1 SMA, meskipun me
 
 Devan tertarik kepada kelembutan Eleina, sedangkan Eleina melihat Devan sebagai sosok yang tenang, kuat, dan dapat diandalkan. Namun, hubungan mereka tidak dibangun hanya dari ketertarikan romantis. Keduanya menemukan rasa aman dalam kehadiran satu sama lain, meskipun mereka tidak selalu memahami apa yang sebenarnya dirasakan atau disembunyikan oleh masing-masing.
 
-Mereka telah saling mengenal selama sekitar dua setengah tahun ketika cerita utama *The Labyrinth* dimulai, yaitu saat kelas 3 SMA semester 2. Keduanya sudah menyadari adanya perasaan khusus terhadap satu sama lain, tetapi belum mengungkapkannya secara langsung. Hubungan mereka masih diwarnai kecanggungan, keraguan, dan keinginan untuk mendekat tanpa sepenuhnya mengetahui bagaimana harus bersikap.
+Mereka telah saling mengenal sejak kelas 1 SMA. Pada awal cerita utama, yang berlangsung ketika mereka menjadi mahasiswa tahun pertama, lama waktu persis sejak pertemuan pertama masih **[BELUM DITENTUKAN]**. Keduanya sudah menyadari adanya perasaan khusus terhadap satu sama lain, tetapi belum mengungkapkannya secara langsung. Hubungan mereka masih diwarnai kecanggungan, keraguan, dan keinginan untuk mendekat tanpa sepenuhnya mengetahui bagaimana harus bersikap.
 
 Perasaan mereka berkembang secara perlahan, bukan melalui pengakuan cinta yang tiba-tiba, melainkan melalui kebiasaan, perhatian kecil, perubahan sikap, tatapan, jeda dalam percakapan, dan keinginan untuk selalu berada di dekat satu sama lain.
 
@@ -122,7 +122,7 @@ Perkembangan hubungan mereka dapat mengarah pada pemahaman bahwa melindungi sese
 
 ##### 10. Kondisi Hubungan Saat The Labyrinth Dimulai
 
-Cerita utama *The Labyrinth* dimulai ketika Devan dan Eleina berada di kelas 3 SMA semester 2. Mereka telah saling mengenal selama sekitar dua setengah tahun.
+Cerita utama *The Labyrinth* dimulai ketika Devan dan Eleina menjadi mahasiswa tahun pertama di universitas yang sama. Mereka telah saling mengenal sejak kelas 1 SMA; durasi persis hingga awal cerita utama masih **[BELUM DITENTUKAN]**.
 
 Pada titik ini, keduanya sudah menyadari bahwa perasaan mereka terhadap satu sama lain bukan sekadar persahabatan biasa. Namun, mereka belum mengungkapkan perasaan tersebut secara langsung.
 

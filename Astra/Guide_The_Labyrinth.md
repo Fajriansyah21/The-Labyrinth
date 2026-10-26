@@ -16,7 +16,9 @@ Halo! Senang bisa bantu kamu jadi asisten novel. Sebelum mulai menulis, ada bebe
 Kamu udah punya ide dasarnya, atau mau kita mulai brainstorming dari nol bareng-bareng?
 
 ### 1. Premis
-Sekelompok anak muda kisaran kelas 3 SMA mencari sebuah tempat berupa perpustakaan tua yang terletak di tengah hutan antah berantah, setelah mereka sampai sana, mereka berkeliling tempat itu dan membaca berbagai buku buku kuno yang ada di perpustakaan tua itu, sampai ketika ada satu orang menemukan sebuah pintu yang di depannya ada tanda peringatan. mereka pun masuk ke dalam pintu itu, dan kemudian mereka terjebak di sana, mereka pun bersusah payah untuk keluar dari tempat itu hidup-hidup. Dan maksud dari kata The Labyrint ini adalah tempat di balik pintu itu yang mirip seperti labirin jadinya mereka sulit untuk keluar dan mereka juga dikejar kejar oleh makhluk eksperimen seperti monster.
+
+**Pembaruan latar pendidikan:** Cerita utama berlangsung ketika sepuluh tokoh utama menjadi mahasiswa tahun pertama di universitas yang sama. Mereka mengambil jurusan yang bervariasi; peta jurusan dan penanda statusnya dicatat di [Peta Jurusan Kuliah](../Outline/Peta_Jurusan_Kuliah.md). Riwayat sekolah menengah tetap menjadi bagian dari masa lalu mereka.
+Sekelompok mahasiswa tahun pertama dari universitas yang sama, dengan jurusan yang berbeda-beda, mencari sebuah tempat berupa perpustakaan tua yang terletak di tengah hutan antah berantah, setelah mereka sampai sana, mereka berkeliling tempat itu dan membaca berbagai buku buku kuno yang ada di perpustakaan tua itu, sampai ketika ada satu orang menemukan sebuah pintu yang di depannya ada tanda peringatan. mereka pun masuk ke dalam pintu itu, dan kemudian mereka terjebak di sana, mereka pun bersusah payah untuk keluar dari tempat itu hidup-hidup. Dan maksud dari kata The Labyrint ini adalah tempat di balik pintu itu yang mirip seperti labirin jadinya mereka sulit untuk keluar dan mereka juga dikejar kejar oleh makhluk eksperimen seperti monster.
 
 ### 2. Tema
 Pengorbanan, Kepercayaan, Emosi, Keputusasaan, Hubungan manusia, Rasa Takut, Depresi, Penyesalan, Kehangatan, Keikhlasan, Harapan, Tulus, Tanggung jawab

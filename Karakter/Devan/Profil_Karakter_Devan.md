@@ -1,8 +1,6 @@
 # Profil Karakter Devan
 
 > **Status:** Versi final untuk tahap ini; detail [BELUM DITENTUKAN] tetap terbuka dan dapat ditinjau kembali jika kebutuhan cerita berubah  
-> **Cakupan:** Profil karakter Devan berdasarkan sumber yang tersedia dan rancangan yang telah dibahas. Fakta canon, interpretasi psikologis, dan arah perkembangan dibedakan agar usulan tidak terbaca sebagai keputusan final.  
-> **Sumber terkait:** [Latar Belakang Devan](./Latar_Belakang_Devan.md) · [Hubungan Devan dengan Eleina](./Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) · [Kepribadian dan Sifat Devan](../../Rancangan/Kepribadian_Sifat_Devan.md) · [Karakteristik Devan](../../Rancangan/Karakteristik.md)
 
 ## 1. Identitas dan Gambaran Umum
 
@@ -174,8 +172,6 @@ Kedekatan dan kehilangan tersebut menjadi bagian dari pengalaman Devan, tetapi t
 Profil ini berfokus pada pola Devan dalam berhubungan dengan orang lain, bukan uraian lengkap setiap relasi. Sejarah kedekatan, dinamika timbal balik, tahap perkembangan, konflik bersama, dan keputusan yang belum ditetapkan tetap dibahas dalam dokumen hubungan masing-masing. Karena dokumen-dokumen tersebut masih berstatus draf, detail di dalamnya perlu diperiksa sebelum diperlakukan sebagai canon final.
 
 ## 7. Konflik, Perkembangan, dan Perubahan
-
-> **Catatan penomoran dan status:** Struktur utama Profil Karakter tetap terdiri atas tujuh bagian. Subbagian 7.1–7.11 menggambarkan **arah perkembangan yang dirancang**, bukan canon final atau urutan tahap yang wajib dilalui. Beberapa arah perubahan dapat berlangsung bersamaan, muncul pada waktu berbeda, atau belum terwujud bergantung pada peristiwa cerita.
 
 ### 7.1. Kecenderungan Mengambil Alih Keadaan
 

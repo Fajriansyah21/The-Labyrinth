@@ -214,21 +214,17 @@ Arah perubahan ini terlihat ketika kenangan dan kesedihan tetap memiliki tempat 
 
 ### 7.7. Perubahan dalam Cara Devan Mencintai Eleina
 
-Seiring perkembangan hubungannya dengan Eleina, Devan perlahan belajar bahwa mencintai seseorang tidak berarti harus selalu memastikan orang tersebut aman dari segala kemungkinan buruk.
+Dalam hubungannya dengan Eleina, Devan dapat belajar bahwa perhatian tidak berarti ia harus memastikan semua risiko hilang. Ia dapat mengungkapkan kekhawatiran tanpa otomatis melarang, mendengarkan pertimbangan Eleina, dan menerima bahwa keputusan mereka tidak selalu harus berasal dari satu orang.
 
-Ia perlu membedakan perhatian dari mengambil alih keputusan. Ia dapat menyampaikan kekhawatiran dan membicarakan risiko tanpa menganggap pendapatnya harus menjadi keputusan akhir. Ia juga belajar bahwa Eleina bukan hanya seseorang yang perlu ia jaga, tetapi individu yang memiliki pilihan, kemampuan, dan kesempatan untuk mendukung dirinya.
+Devan masih dapat merasa takut atau bereaksi terlalu protektif ketika keadaan tidak pasti. Perkembangannya bukan menjadi pasangan yang selalu tenang dan selalu mengambil keputusan dengan benar, melainkan lebih bersedia mendengarkan, mengakui dampak tindakannya, dan memperbaiki keadaan. Eleina juga perlu tetap hadir sebagai individu yang memiliki pilihan serta dapat memberikan dukungan, bukan hanya sebagai seseorang yang dijaga Devan.
 
-Perubahan ini tidak berarti Devan berhenti merasa takut atau selalu mampu bersikap tenang. Ketika keadaan tidak pasti, ia masih dapat kembali terlalu protektif. Ia mungkin bereaksi berdasarkan rasa takut sebelum menyadari bahwa tindakannya membatasi Eleina.
-
-Devan tidak harus selalu tahu kapan perlu melindungi dan kapan perlu memberi ruang. Perkembangannya terlihat dari kesediaannya mendengarkan, mengakui dampak tindakannya, memperbaiki kesalahan, dan membangun hubungan yang memberi tempat bagi kebutuhan mereka berdua.
+Rincian timbal balik, tahapan kedekatan, konflik khusus, dan keputusan dalam hubungan mereka tetap perlu dikembangkan di dokumen hubungan Devan dan Eleina.
 
 ### 7.8. Perubahan dalam Cara Devan Memperlakukan Dirinya Sendiri
 
-Devan perlu mengubah caranya menilai tanggung jawab dan kesalahan. Ia masih dapat menyesali masa lalu, memikirkan kemungkinan yang berbeda, dan merasa terpukul ketika sesuatu mengingatkannya pada Citra atau ayahnya.
+Devan dapat belajar mengakui kesalahan tanpa menjadikan setiap kesalahan sebagai alasan untuk menghukum dirinya sendiri. Ia masih mungkin meragukan keputusan yang telah diambil atau membutuhkan waktu untuk menerima hasil yang tidak sesuai harapan.
 
-Perkembangannya bukan berarti ia harus berhenti menyesal atau menganggap seluruh keputusan masa lalunya benar. Ia mulai belajar membedakan kesalahan yang perlu diakui, keadaan di luar kendalinya, dan tanggung jawab yang sebenarnya milik orang lain.
-
-Ia juga belajar bahwa memperbaiki diri tidak harus dilakukan dengan menghukum dirinya sendiri. Ia dapat mengakui kekurangan tanpa menjadikan setiap kesalahan sebagai alasan untuk meragukan kelayakannya untuk bahagia atau dicintai. Rasa bersalah masih dapat kembali, tetapi perlahan ia belajar untuk tidak selalu membiarkannya menentukan tindakan berikutnya.
+Perubahan tampak ketika ia mampu menilai apa yang perlu diperbaiki, menerima bahwa sebagian keadaan berada di luar kendalinya, lalu melanjutkan hidup tanpa menuntut dirinya selalu berhasil. Ia tidak harus langsung memiliki pandangan yang sehat tentang dirinya setiap saat; yang penting, penilaian keras terhadap diri sendiri tidak selalu menjadi penentu akhir tindakannya.
 
 ### 7.9. Kemunduran yang Mungkin Terjadi selama Perkembangannya
 

@@ -132,7 +132,19 @@ Karena mudah memahami alasan orang lain, Eleina dapat terlalu lama memaklumi per
 
 Rasa bersalah setelah marah tidak berarti Eleina harus segera menarik kembali batasnya. Ia dapat menyesali nada bicara atau kata-katanya sambil tetap mengakui bahwa perlakuan yang menyakitinya perlu dibicarakan.
 
-### 3.6. Memaafkan, Memercayai, dan Merasa Aman Kembali
+### 3.6. Respons ketika Perasaannya Terluka
+
+Ketika mengalami kekecewaan atau merasa terluka, Eleina cenderung mencoba memahami situasi dan alasan orang lain sebelum menyampaikan perasaannya. Ia tidak selalu langsung menyadari apa yang sebenarnya mengganggunya. Dalam beberapa situasi, ia dapat merasakan ketidaknyamanan terlebih dahulu sebelum memahami bahwa dirinya kecewa, marah, atau merasa diabaikan.
+
+Jika belum siap membicarakannya, Eleina mungkin menjadi lebih diam, memberikan jawaban yang lebih singkat, mengalihkan pandangan, atau mengambil jarak. Namun, perubahan tersebut tidak selalu terlihat jelas dan tidak otomatis berarti ia sedang menyembunyikan masalah. Ia juga dapat menyampaikan keberatan sejak awal apabila memahami persoalannya atau merasa bahwa diam justru akan memperburuk keadaan.
+
+Ketika menghadapi perlakuan yang berulang, kecenderungannya untuk memahami dan memaklumi orang lain dapat membuatnya menunda penyampaian rasa sakit. Jika kekecewaan terus menumpuk, ia mungkin mulai menjaga jarak, menunjukkan ketegasan yang lebih jelas, atau akhirnya mengungkapkan hal yang sebelumnya sulit ia sampaikan. Responsnya dapat disertai keraguan, ucapan yang terputus, tangisan karena frustrasi, atau rasa bersalah setelahnya.
+
+Eleina lebih mudah mengungkapkan perasaannya ketika merasa didengarkan tanpa dipaksa, memiliki kesempatan memahami emosinya sendiri, atau menyadari bahwa masalah tidak akan selesai jika terus dihindari. Namun, ia tidak selalu mampu menjelaskan perasaannya secara langsung dan teratur. Perkembangannya terlihat dari kemampuannya mengakui rasa sakit dan menyampaikan kebutuhan tanpa harus terlebih dahulu menghilangkan kekecewaan orang lain.
+
+Pola ini bukan urutan wajib. Eleina tidak selalu memendam perasaan, tidak selalu bereaksi dengan diam, dan tidak harus menunggu sampai rasa sakit menumpuk untuk bersikap tegas.
+
+### 3.7. Memaafkan, Memercayai, dan Merasa Aman Kembali
 
 Ketiga hal ini harus diperlakukan terpisah.
 
@@ -142,7 +154,7 @@ Ketiga hal ini harus diperlakukan terpisah.
 
 Eleina dapat memaafkan seseorang dan tetap berhati-hati. Ia dapat masih menyayangi seseorang sekaligus membutuhkan jarak. Ia juga dapat menginginkan hubungan pulih tanpa tahu apakah dirinya sudah siap. Jangan menjadikan pengampunan sebagai tombol yang langsung menghapus luka, keraguan, atau konsekuensi.
 
-### 3.7. Cara Menenangkan Diri
+### 3.8. Cara Menenangkan Diri
 
 Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.
 

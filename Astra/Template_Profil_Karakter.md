@@ -58,7 +58,7 @@ Tambahkan poin kesembilan hanya jika ada aspek karakter yang cukup penting dan l
 
 ## Catatan Kontinuitas dan Sumber
 
-Catat fakta yang sudah ditetapkan sebagai canon, interpretasi psikologis, detail yang belum ditentukan, serta dokumen lain yang menjadi rujukan. Tandai informasi yang belum diputuskan dengan **[BELUM DITENTUKAN]**. Pastikan interpretasi dan usulan perkembangan tidak diperlakukan sebagai fakta cerita sebelum disetujui penulis.
+Catat fakta yang sudah ditetapkan sebagai canon, interpretasi psikologis, detail yang belum ditentukan, serta dokumen lain yang menjadi rujukan. Untuk setiap bahan dari folder Rancangan, periksa apakah isinya merupakan keputusan yang sudah disetujui, interpretasi, alternatif brainstorming, atau gagasan lama yang statusnya belum jelas. Folder Rancangan adalah referensi pengembangan, bukan bukti bahwa seluruh isinya canon. Tandai informasi yang belum diputuskan dengan **[BELUM DITENTUKAN]**. Pastikan interpretasi dan usulan perkembangan tidak diperlakukan sebagai fakta cerita sebelum disetujui penulis.
 
 ## Pemeriksaan sebelum profil ditinjau
 

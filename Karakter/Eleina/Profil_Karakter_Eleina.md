@@ -166,6 +166,18 @@ Ketika perlakuan yang menyakitkan terus berulang tanpa perubahan, Eleina dapat m
 
 Cara Eleina mempertahankan hubungan bergantung pada tingkat kedekatan, pengalaman bersama, sifat masalah, dan respons kedua belah pihak. Ia tidak selalu mengalah demi menjaga kedekatan dan tidak harus menunggu sampai rasa sakit menumpuk untuk menyampaikan keberatan. Perkembangannya terlihat ketika ia mulai memahami bahwa hubungan yang berarti tidak hanya dipertahankan melalui usahanya sendiri, tetapi juga melalui rasa hormat, kejujuran, dan kesediaan kedua pihak untuk menjaga hubungan tersebut.
 
+### 3.10. Respons ketika Merasa Aman Bersama Seseorang
+
+Ketika merasa aman bersama seseorang, Eleina dapat menunjukkan sisi dirinya yang lebih ceria, spontan, ekspresif, dan jahil. Ia lebih leluasa tertawa, menceritakan hal-hal kecil, melontarkan komentar ringan, atau menggoda orang yang dekat dengannya. Sisi tersebut bukan kepribadian baru yang muncul karena pengaruh orang lain, melainkan bagian dari dirinya yang sudah ada sejak kecil dan lebih mudah ia tunjukkan ketika tidak merasa perlu terlalu berhati-hati.
+
+Rasa aman juga dapat terlihat dari keberaniannya mengungkapkan keinginan sederhana, menyampaikan ketidaksetujuan, meminta ditemani, atau menunjukkan kekecewaan tanpa langsung berusaha meredakan suasana. Ia dapat menikmati perhatian tanpa merasa harus segera membalasnya melalui bantuan atau tindakan lain. Dalam hubungan yang nyaman, ia tidak harus selalu menjadi pendengar, penolong, atau pihak yang menjaga perasaan orang lain.
+
+Namun, keterbukaan Eleina tetap memiliki batas dan dapat berbeda menurut situasi. Ia mungkin mudah bercanda dengan seseorang tetapi masih kesulitan membicarakan masalah pribadi. Ia juga dapat kembali menahan diri ketika menghadapi persoalan yang sensitif, takut mengecewakan orang yang berarti baginya, atau belum memahami perasaannya sendiri. Hal tersebut tidak otomatis berarti rasa aman dalam hubungan itu hilang.
+
+Merasa aman bersama seseorang tidak membuat Eleina kehilangan kemandiriannya. Ia tetap dapat mengambil keputusan sendiri, mengerjakan sesuatu tanpa bantuan, membutuhkan waktu pribadi, atau memilih untuk belum membicarakan suatu masalah. Ia mampu mengandalkan orang yang dipercaya tanpa harus menyerahkan seluruh tanggung jawab atas kesejahteraan dirinya kepada orang tersebut.
+
+Rasa aman dalam hubungan memberi Eleina ruang untuk menjadi dirinya sendiri, termasuk ketika ia sedang ceria, kesal, lelah, ragu, atau tidak tahu harus berkata apa. Perkembangannya tidak diukur dari seberapa sering ia mengungkapkan perasaan, melainkan dari semakin besarnya kebebasan untuk menunjukkan kebutuhan dan kepribadiannya tanpa merasa harus selalu menyenangkan atau menjaga kenyamanan orang lain.
+
 ### 3.8. Cara Menenangkan Diri
 
 Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.

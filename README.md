@@ -39,6 +39,44 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 
 - [Rancangan lama kepribadian, sifat, dan karakteristik Devan](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
 
+### Karakter: Eleina
+- [Latar Belakang Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Latar_Belakang_Eleina.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
+- [Profil Karakter Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Profil_Karakter_Eleina.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
+
+#### Hubungan Tokoh Eleina
+Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
+
+- [Hubungan Eleina dengan Adel](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Adel.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Alexia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Alexia.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Andrian](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Andrian.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Arkana](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Arkana.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Devan](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Devan.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Elvano](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Elvano.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Naura](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Naura.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Nicho.md) — **Status: DRAFT**
+- [Hubungan Eleina dengan Reza](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Reza.md) — **Status: DRAFT**
+
+- [Rancangan lama kepribadian, sifat, dan karakteristik Eleina](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
+
+### Karakter: [Nama Karakter] - Template
+- [Latar Belakang i](): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
+- [Profil Karakter i](): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
+
+#### Hubungan Tokoh [Nama Karakter]
+Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
+
+- [Hubungan i dengan Adel]() — **Status: DRAFT**
+- [Hubungan i dengan Alexia]() — **Status: DRAFT**
+- [Hubungan i dengan Andrian]() — **Status: DRAFT**
+- [Hubungan i dengan Arkana]() — **Status: DRAFT**
+- [Hubungan i dengan Devan]() — **Status: DRAFT**
+- [Hubungan i dengan Elvano]() — **Status: DRAFT**
+- [Hubungan i dengan Naura]() — **Status: DRAFT**
+- [Hubungan i dengan Nicho]() — **Status: DRAFT**
+- [Hubungan i dengan Reza]() — **Status: DRAFT**
+
+- [Rancangan lama kepribadian, sifat, dan karakteristik i](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
+
 ### Outline dan kontinuitas
 - [Alur Besar](Outline/Alur_Besar.md): garis besar alur cerita.
 - [Detail Kematian](Outline/Detail_Kematian.md): rincian kematian karakter.

@@ -103,13 +103,16 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - **Timeline:** seragam SMA untuk masa lalu/flashback. Pertahankan wajah dan warna kulit di semua lembar.
 
 ### Eleina
-- [ ] Audit canon dan brief visual
-- [ ] Portrait
+- [x] Audit canon dan brief visual
+- [x] Portrait — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [ ] Full-body reference
 - [ ] Expression sheet
 - [ ] Outfit reference (target 10 outfit)
 - [ ] Visual kelompok/hubungan
-- **Ciri fisik:** [BELUM DITENTUKAN di arsip ini; periksa profil canon sebelum mendesain.]
+- **Desain visual disetujui:** rambut cokelat panjang dengan belahan mendekati tengah dan helaian depan yang jatuh natural; mata hazel/cokelat-hazel; wajah oval lembut; kulit cerah bernuansa hangat mengikuti portrait yang disetujui.
+- **Pose portrait:** menghadap kamera, kepala tegak, bahu sejajar.
+- **Art style:** ilustrasi anime semi-realistis dengan garis sketsa lembut, shading painterly, palet netral dan latar bersih.
+- **Status aset:** portrait disetujui dalam percakapan; belum diunggah/diverifikasi sebagai file GitHub.
 
 ### Nicho
 - [ ] Audit canon dan brief visual

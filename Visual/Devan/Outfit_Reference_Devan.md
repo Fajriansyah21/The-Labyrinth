@@ -1,6 +1,6 @@
 # THE LABYRINTH — Outfit Reference Devan
 
-> **Status:** Draft outfit plan; variations retained by author request.  
+> **Status:** Layout direction approved by author; image asset generated in conversation but not yet uploaded to repository.  
 > **Timeline correction:** The main story takes place while Devan and the other main characters are university students. Devan is 19 and a first-year university student at the beginning of the main story.  
 > **Important:** This file records the approved direction and candidate outfit variations. It does not make every depicted garment, accessory, school emblem, or activity outfit canon automatically.
 
@@ -67,7 +67,19 @@ These are optional visual props, not permanent character traits. Use them only w
 - Avoid adding accessories, logos, jewelry, tattoos, or other identifying details unless supported by canon or approved by the author.
 - Do not portray the high-school uniform as Devan's default present-day outfit now that the main story is set during university.
 
-## 5. Suggested sheet layout
+## 5. Approved outfit-reference layout
+
+The author approved the supplied outfit-sheet direction, with the scope limited to outfit reference only. Keep the sheet focused on clothing and accessories rather than adding a portrait/expression-study section or unrelated character-profile material.
+
+Recommended panel order:
+1. **Pakaian Kasual Utama (Masa Kuliah):** front, side, and back views of the gray hoodie, white T-shirt, dark trousers, and neutral sneakers, with separate clothing-detail panels.
+2. **Variasi Outfit Kasual (Masa Kuliah):** all eight candidate outfits in separate framed panels with clear Indonesian labels.
+3. **Seragam SMA (Masa Lalu / Flashback):** front, side, and back views with separate detail panels; school badge/emblem remains **[BELUM DITENTUKAN]**.
+4. **Aksesori Opsional:** backpack, sling bag, wristwatch, and phone, each in its own frame.
+
+Every outfit or accessory should remain visually separated by a frame and labeled. Maintain the approved Devan design and muted semi-realistic art style.
+
+## 6. Suggested sheet layout
 
 1. **Main casual outfit:** front, side, back, plus hoodie/T-shirt/trouser/shoe details.
 2. **Casual variations:** all eight candidate variations in separate labeled panels.
@@ -75,10 +87,12 @@ These are optional visual props, not permanent character traits. Use them only w
 4. **High-school uniform:** separate section explicitly labeled **PAST TIMELINE / FLASHBACK**.
 5. **Optional accessories:** backpack, sling bag, wristwatch, phone, each separately labeled.
 
-## 6. Approval status
+## 7. Approval status
 
 - [x] Main casual outfit: gray hoodie, white T-shirt, dark trousers, neutral sneakers — approved visual design.
 - [x] Retain all outfit variations in the reference plan — approved by author.
+- [x] Outfit-reference-only layout, with university-era casual looks prioritized and high-school uniform separated as flashback — approved direction.
+- [ ] Upload the generated outfit-reference image as an asset to this repository.
 - [x] Main-story timeline: university — verified against the current Devan character profile and reiterated by the author.
 - [ ] Exact university outfit or dress code — **[BELUM DITENTUKAN]**
 - [ ] School identity and official emblem for the past-timeline uniform — **[BELUM DITENTUKAN]**

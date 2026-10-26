@@ -101,7 +101,7 @@ Lapangan basket menjadi tempat pertama mereka mengenal satu sama lain dan menjad
 Karena itu, bahkan setelah hubungan mereka berkembang menjadi persahabatan, interaksi mereka masih sering terasa natural ketika berada dalam situasi yang berkaitan dengan basket.
 ________________________________________
 10. Kondisi Hubungan Saat The Labyrinth Dimulai
-Ketika cerita utama The Labyrinth dimulai pada kelas 3 SMA semester 2, Devan dan Elvano sudah memiliki hubungan pertemanan yang cukup kuat.
+Ketika cerita utama *The Labyrinth* dimulai saat mereka menjadi mahasiswa tahun pertama, Devan dan Elvano sudah memiliki hubungan pertemanan yang cukup kuat. Riwayat interaksi mereka selama SMA tetap menjadi bagian dari perkembangan hubungan.
 Hubungan mereka tidak termasuk hubungan yang paling sering memperlihatkan kedekatan secara emosional.
 Mereka juga bukan tipe teman yang harus selalu bersama.
 Namun, keduanya sudah memiliki rasa percaya yang terbentuk dari pengalaman bersama selama berada di tim basket dan terutama dari konflik yang pernah terjadi antara Devan dan Arkana.

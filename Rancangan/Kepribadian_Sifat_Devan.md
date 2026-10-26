@@ -1,4 +1,7 @@
-Kepribadian dan Sifat Devan
+Status: Sumber Rancangan untuk penulisan Devan
+
+# Kepribadian dan Sifat Devan
+
 1. Kepribadian Dasar
 Devan adalah pemuda yang pada dasarnya hangat, perhatian, mudah bergaul, dan memiliki sisi jahil yang membuatnya terasa akrab bagi orang-orang di sekitarnya. Ia bukan tipe orang yang harus menjadi pusat perhatian untuk bisa menikmati kebersamaan. Devan mampu terlibat dalam percakapan ramai, menanggapi candaan teman-temannya, atau sekadar duduk bersama orang lain tanpa merasa perlu terus-menerus menghidupkan suasana. Kehadirannya cenderung terasa nyaman karena ia tidak berusaha memaksakan dirinya agar disukai. Ia bisa bersikap santai tanpa mengabaikan orang lain, dan mampu menunjukkan kepedulian tanpa membuatnya tampak seperti sesuatu yang sengaja ia lakukan demi mendapatkan pengakuan.
 Sejak kecil, Devan tumbuh dalam lingkungan keluarga yang hangat dan penuh kasih sayang. Kedekatannya dengan kedua orang tuanya serta adiknya, Citra, memberinya kesempatan untuk mengenal hubungan sebagai tempat yang aman. Ia terbiasa mendapatkan perhatian, berbagi cerita, bercanda, dan menunjukkan perasaannya tanpa harus terlalu memikirkan kemungkinan bahwa orang-orang terdekatnya akan menghilang dari kehidupannya. Sebelum tragedi keluarganya, Devan lebih leluasa mengekspresikan dirinya. Ia dapat tertawa dengan mudah, melontarkan godaan spontan, dan menikmati hal-hal sederhana tanpa terus-menerus mempertimbangkan kemungkinan buruk yang mungkin terjadi. Sisi jahilnya bukan bentuk keinginan untuk merendahkan orang lain, melainkan salah satu cara alami baginya untuk menunjukkan keakraban.

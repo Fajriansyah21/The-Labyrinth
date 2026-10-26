@@ -244,29 +244,13 @@ Eleina membangun kedekatan melalui konsistensi, perhatian, dan kesediaan mendeng
 
 Dalam hubungan dekat, ia dapat kesulitan menolak permintaan atau menyampaikan ketidaknyamanan karena terlalu memikirkan dampaknya bagi orang lain. Ia mungkin berusaha menyesuaikan diri agar hubungan tetap nyaman. Namun, ini adalah kecenderungan, bukan aturan bahwa Eleina akan selalu mengalah kepada semua orang.
 
-### 6.2. Dengan Devan
-
-Hubungan Eleina dan Devan berkembang sejak kelas satu SMA, berawal antara lain dari pertolongan Devan ketika Eleina mengalami perundungan. Devan tidak memaksanya bercerita atau menuntut balasan, sehingga Eleina mendapat ruang untuk membangun kepercayaan secara bertahap.
-
-Kedekatan mereka tumbuh melalui interaksi sehari-hari dan pengalaman bersama, bukan hanya melalui peristiwa penyelamatan. Ketika cerita utama dimulai pada kelas tiga SMA semester dua, keduanya telah menyadari adanya perasaan romantis, tetapi belum mengungkapkannya secara langsung.
-
-Eleina bukan sosok yang hanya menunggu dilindungi. Ia tetap memiliki keputusan dan caranya sendiri menghadapi kesulitan. Devan juga tidak otomatis mengetahui seluruh perasaannya; dari sudut pandang Devan, kondisi batin Eleina perlu disimpulkan melalui ucapan, ekspresi, dan tindakannya, dan kesimpulan tersebut bisa keliru.
-
-Dinamika ini memberi ruang bagi Eleina untuk belajar menerima perhatian tanpa menganggap dirinya beban, sementara Devan belajar bahwa peduli tidak berarti mengambil alih keputusan orang lain. Rincian waktu dan perkembangan hubungan harus mengikuti dokumen [Eleina dengan Devan](Hubungan%20Tokoh/Eleina_Dengan_Devan.md).
-
-### 6.3. Dengan Nicho
-
-Eleina pertama kali mengenal Nicho melalui lingkungan pertemanannya dengan Devan. Hubungan mereka berkembang melalui percakapan, diskusi, dan saling menghargai cara berpikir masing-masing.
-
-Nicho cenderung serius, rasional, dan blak-blakan. Eleina lebih tenang dan berusaha menjelaskan sesuatu tanpa membuat orang lain merasa rendah diri. Ia tidak perlu melunakkan setiap ucapan Nicho atau selalu menjadi penerjemah emosional bagi kelompok. Persahabatan mereka dapat terasa melalui diskusi, pengamatan, dan perhatian praktis. Rincian khusus mengacu pada dokumen [Eleina dengan Nicho](Hubungan%20Tokoh/Eleina_Dengan_Nicho.md).
-
-### 6.4. Dengan Orang yang Belum Dekat dan Lingkungan Kelompok
+### 6.2. Dengan Orang yang Belum Dekat
 
 Dengan orang yang belum dekat, Eleina cenderung sopan dan tidak terlalu cepat menunjukkan kerentanan. Ia dapat menyesuaikan diri tanpa langsung menganggap orang tersebut sebagai tempat aman. Di dalam kelompok, ia bisa menjadi pendengar atau berpartisipasi aktif sesuai topik dan suasana.
 
 Sikap ramah bukan berarti semua orang memperoleh tingkat kepercayaan yang sama. Kepercayaan tumbuh dari pengalaman, konsistensi, dan cara seseorang menghormati batasnya.
 
-### 6.5. Memberi dan Menerima Bantuan
+### 6.3. Memberi dan Menerima Bantuan
 
 Eleina relatif mudah menawarkan bantuan ketika melihat orang lain kesulitan. Menerima bantuan bisa lebih rumit jika ia merasa harus segera membalasnya atau khawatir merepotkan orang. Bantuan yang diberikan tanpa tuntutan dapat membuatnya perlahan merasa aman, tetapi satu tindakan baik tidak otomatis menghapus keraguan yang terbentuk dari pengalaman sebelumnya.
 

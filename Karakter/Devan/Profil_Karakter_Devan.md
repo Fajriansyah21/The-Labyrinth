@@ -226,44 +226,32 @@ Devan dapat belajar mengakui kesalahan tanpa menjadikan setiap kesalahan sebagai
 
 Perubahan tampak ketika ia mampu menilai apa yang perlu diperbaiki, menerima bahwa sebagian keadaan berada di luar kendalinya, lalu melanjutkan hidup tanpa menuntut dirinya selalu berhasil. Ia tidak harus langsung memiliki pandangan yang sehat tentang dirinya setiap saat; yang penting, penilaian keras terhadap diri sendiri tidak selalu menjadi penentu akhir tindakannya.
 
-### 7.9. Kemunduran yang Mungkin Terjadi selama Perkembangannya
+### 7.9. Kemunduran dan Respons yang Berbeda Menurut Situasi
 
-Perkembangan Devan tidak berlangsung secara lurus. Ketika takut kehilangan seseorang atau menghadapi keadaan yang tidak pasti, ia masih dapat kembali terlalu protektif, menyalahkan diri sendiri, menarik diri ketika terluka, atau berusaha menyelesaikan masalah seorang diri.
+Perkembangan Devan tidak harus berlangsung secara lurus. Dalam satu situasi ia dapat menghormati keputusan orang lain, tetapi dalam situasi lain yang terasa lebih mengancam ia mungkin kembali bertindak terlalu cepat. Ia bisa menerima bantuan dari seorang teman, tetapi masih sulit terbuka kepada orang yang berbeda.
 
-Ia juga dapat salah mengartikan kepercayaan sebagai sikap tidak peduli, atau merasa bersalah ketika mulai menikmati kebahagiaan. Kemunduran dapat muncul dalam keputusan kecil, perubahan sikap, keengganan berbicara, atau kecenderungan mengambil alih masalah tanpa bertanya apakah bantuannya dibutuhkan.
+Kemunduran sebaiknya muncul dari konteks yang jelas dalam cerita, bukan hanya untuk mengulang konflik yang sama. Devan dapat menyadari dampak tindakannya segera, setelah mendapat tanggapan orang lain, atau baru setelah kejadian berlalu. Ia juga mungkin mengulangi kesalahan sebelum menemukan respons yang lebih sesuai. Satu kemunduran tidak otomatis menghapus semua perubahan sebelumnya.
 
-Kemunduran tidak berarti seluruh perkembangan sebelumnya hilang. Devan mungkin baru menyadari kesalahannya setelah melihat dampak tindakan atau mendengar sudut pandang orang lain. Ia dapat mengulangi kesalahan yang sama sebelum mampu merespons dengan cara berbeda.
+### 7.10. Indikator Perkembangan dalam Adegan
 
-Perkembangan yang wajar memberi ruang bagi kesadaran, kesalahan, perbaikan, dan percobaan ulang. Devan tidak harus selalu berhasil menerapkan hal yang sudah ia pahami.
+Perkembangan perlu tampak melalui pilihan dan konsekuensi, bukan hanya melalui penjelasan bahwa Devan telah berubah. Bergantung pada situasi, indikatornya dapat berupa:
 
-### 7.10. Tanda-Tanda Perkembangan Devan yang Terlihat dalam Tindakan
+- Ia bertanya sebelum mengambil tindakan yang memengaruhi orang lain.
+- Ia menyampaikan kekhawatiran tanpa otomatis mengubahnya menjadi larangan.
+- Ia mendengarkan tanggapan yang tidak sesuai harapannya dan mempertimbangkannya sebelum bertindak.
+- Ia mengakui dampak tindakannya, bukan hanya menjelaskan niatnya.
+- Ia meminta atau menerima bantuan tanpa harus langsung menceritakan semua masalahnya.
+- Ia dapat menikmati suatu momen tanpa terus-menerus mengantisipasi hal buruk yang mungkin terjadi.
 
-Perkembangan Devan perlu terlihat melalui perilaku sehari-hari, bukan hanya pemahaman yang ia ungkapkan. Tanda-tandanya dapat berupa:
+Indikator ini bukan daftar yang harus dipenuhi seluruhnya. Pilih yang sesuai dengan konflik, hubungan, dan kondisi Devan dalam adegan. Tindakan sederhana tidak selalu harus menjadi simbol perkembangan; ia tetap memiliki kehidupan sehari-hari yang tidak berpusat pada konflik batinnya.
 
-1. Ia mulai bertanya sebelum mengambil tindakan yang memengaruhi orang lain.
-2. Ia menyampaikan kekhawatiran tanpa otomatis menjadikannya larangan.
-3. Ia mengakui dampak tindakannya dan meminta maaf tanpa hanya membela niatnya.
-4. Ia mulai mengakui kesulitan, meskipun belum siap menceritakan semuanya.
-5. Ia bersedia menerima bantuan.
-6. Ia mulai membedakan penyesalan dari hukuman terhadap diri sendiri.
-7. Ia memberi Eleina ruang untuk mengambil keputusan meskipun dirinya masih khawatir.
-8. Ia dapat menikmati kebersamaan tanpa terus mengantisipasi kehilangan.
-9. Ia berani membicarakan hal sulit ketika situasi dan hubungannya memungkinkan.
-10. Ia tidak lagi mengukur kasih sayang hanya berdasarkan kemampuannya mencegah penderitaan.
+### 7.11. Hal yang Tetap Menjadi Bagian dari Dirinya
 
-Tanda-tanda tersebut tidak harus muncul sekaligus. Devan dapat menunjukkan perkembangan dalam satu situasi dan kembali ke pola lama dalam situasi lain. Tidak setiap tindakan baik harus menjadi simbol perkembangan; ia tetap memiliki kehidupan sehari-hari di luar konflik batinnya.
+Perkembangan Devan tidak menghapus kehangatan, empati, kesetiaan, humor ringan, perhatian melalui tindakan, atau kemampuannya menikmati kebersamaan. Ia tetap dapat bercanda dengan teman, menikmati kegiatan yang disukainya, membantu orang lain, atau merasa nyaman tanpa harus terus berbicara.
 
-### 7.11. Hal yang Tetap Menjadi Bagian dari Dirinya setelah Bertumbuh
+Ia juga tidak harus menjadi selalu terbuka, tenang, atau memahami perasaannya sendiri. Ia masih dapat membutuhkan waktu untuk memikirkan sesuatu, menyimpan sebagian masalah, dan sesekali salah membaca keadaan. Yang berkembang adalah pilihannya dalam merespons, kesediaannya mempertimbangkan dampak tindakannya, serta kemampuannya memperbaiki keadaan ketika diperlukan.
 
-Perkembangan Devan tidak membuatnya menjadi orang yang sepenuhnya berbeda. Kehangatan, empati, kesetiaan, humor ringan, perhatian melalui tindakan, dan kemampuannya menikmati kebersamaan tetap menjadi bagian dirinya.
-
-Ia masih dapat mengingat detail kecil tentang orang lain, membantu tanpa banyak menjelaskan, menikmati kegiatan yang disukainya, bercanda dengan teman, dan merasa nyaman dalam keheningan. Kehidupannya tidak harus selalu dipenuhi kesedihan atau kewaspadaan hanya karena ia pernah mengalami kehilangan.
-
-Devan juga tidak harus selalu terbuka, tenang, atau memahami perasaannya sendiri. Ia masih dapat membutuhkan waktu sebelum membicarakan sesuatu, menyembunyikan sebagian kesulitannya, atau baru menyadari alasan di balik reaksinya setelah kejadian berlalu.
-
-Kecenderungannya untuk mengkhawatirkan orang yang disayangi tidak harus hilang. Yang berubah adalah caranya memahami batas dirinya dan orang lain, serta kesediaannya memperbaiki tindakan ketika kepeduliannya berubah menjadi sikap yang membatasi.
-
-Ia tetap membawa masa lalunya, tetapi masa lalu tidak harus menentukan setiap keputusan yang ia ambil. Ia dapat terus menyayangi Citra dan merindukan ayahnya, menikmati kehidupannya bersama orang-orang yang masih ada, serta membangun hubungan yang lebih sehat tanpa menganggap bahwa kebahagiaan berarti ia telah melupakan mereka.
+Devan tetap membawa masa lalunya. Ia dapat terus menyayangi Citra dan merindukan ayahnya sambil membangun hubungan serta kehidupan yang berarti dengan orang-orang yang masih ada. Menjalani hidup bukan bukti bahwa ia telah melupakan mereka.
 
 ---
 
@@ -271,6 +259,6 @@ Ia tetap membawa masa lalunya, tetapi masa lalu tidak harus menentukan setiap ke
 
 - **Fakta canon yang dirujuk:** usia 19 tahun, tinggi 180 cm, kelas 3 SMA semester 2 pada awal cerita, latar keluarga dan tragedi, aturan kata ganti, hobi, serta riwayat kedekatan dengan Eleina, sesuai sumber yang dirujuk.
 - **Interpretasi psikologis:** hubungan antara rasa bersalah, ketakutan kehilangan, perilaku protektif, dan kesulitan meminta bantuan merupakan penafsiran berdasarkan sumber, bukan fakta batin yang otomatis disadari Devan.
-- **Rancangan perkembangan:** bagian 7.1–7.11 adalah arah perkembangan yang diusulkan untuk karakter. Urutan, pemicu, dan perwujudan setiap tahap tetap perlu disesuaikan dengan kejadian cerita dan keputusan penulis.
+- **Rancangan perkembangan:** bagian 7.1–7.11 adalah arah perkembangan yang diusulkan untuk karakter. Arah perubahan dapat berlangsung bersamaan, muncul dalam urutan berbeda, atau belum terwujud, bergantung pada kejadian cerita dan keputusan penulis.
 - **[BELUM DITENTUKAN]:** nama lengkap, detail kotak musik, serta informasi lain yang belum dikunci oleh sumber.
 - **Batas cakupan:** kronologi rinci tetap berada dalam dokumen latar belakang; dinamika dua arah dengan Eleina tetap berada dalam dokumen hubungan. Profil ini merangkum identitas, pola perilaku, psikologi, dan rancangan perkembangan Devan tanpa menggantikan sumber-sumber tersebut.

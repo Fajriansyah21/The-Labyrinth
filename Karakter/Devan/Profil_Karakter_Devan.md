@@ -165,6 +165,22 @@ Rambut Devan berwarna hitam pekat, tebal, berlapis, dan bervolume alami. Bagian 
 
 Rambutnya tidak ditata kaku atau dibuat terlalu sempurna. Bentuknya terlihat alami dan santai, seolah Devan tidak menghabiskan banyak waktu untuk menata rambut, tetapi tetap menjaga penampilannya agar terlihat rapi. Sisi rambut membingkai wajah tanpa harus dipotong sangat pendek.
 
+#### Gaya berpakaian sehari-hari
+
+Gaya berpakaian Devan mengarah pada *relaxed minimalist* dengan sentuhan *casual layering* dan *soft streetwear*. Ia mengutamakan kenyamanan, kerapian, dan kemudahan bergerak. Pakaiannya tidak dirancang untuk menjadi pusat perhatian, mengikuti tren secara berlebihan, atau membuatnya terlihat selalu bergaya. Potongannya santai dan cenderung longgar, tetapi tetap memiliki bentuk yang wajar; pakaian tidak terlalu ketat maupun sengaja dibuat kebesaran tanpa struktur.
+
+**Gaya utama: relaxed minimalist.** Devan sering cocok mengenakan kaus polos atau sweatshirt sederhana dengan celana jeans atau celana kasual berpotongan lurus dan longgar, lalu sneakers berwarna netral. Kombinasi ini menjadi dasar penampilannya sehari-hari karena praktis, nyaman, dan mudah dipadukan.
+
+**Variasi: casual layering.** Sesekali ia dapat mengenakan kemeja kasual terbuka di atas kaus, hoodie, atau jaket ringan. Lapisan tambahan dipilih sesuai cuaca, kegiatan, dan kenyamanan, bukan sebagai aksesori wajib. Celana cargo juga dapat menjadi pilihan ketika ia menginginkan pakaian yang praktis.
+
+**Variasi: soft streetwear.** Devan dapat mengenakan sweatshirt atau polo shirt yang sederhana bersama jeans longgar dan sneakers netral. Gaya ini tetap terasa muda dan santai, tetapi sedikit lebih tertata tanpa menjadi formal.
+
+Palet warna pakaiannya cenderung netral dan mudah dipadukan, seperti hitam, putih, abu-abu, krem, cokelat, hijau zaitun, dan biru denim. Ia tidak harus selalu memakai warna gelap hanya karena rambutnya hitam. Warna-warna tersebut merupakan kecenderungan visual, bukan batasan mutlak; pilihan warna dapat berubah sesuai pakaian yang tersedia, suasana, cuaca, dan kegiatan.
+
+Sepatunya umumnya berupa sneakers sederhana dengan warna netral. Tas selempang atau ransel dapat digunakan ketika diperlukan, tetapi tidak menjadi aksesori wajib yang selalu melekat pada penampilannya. Aksesori lain tetap sederhana dan tidak mendominasi keseluruhan gaya.
+
+Dalam ilustrasi, gaya berpakaian Devan dapat bervariasi dari satu adegan ke adegan lain. Pertahankan kesan santai, praktis, dan tidak berlebihan, tanpa membuatnya selalu mengenakan kombinasi pakaian yang sama. Pilihan pakaian harus mengikuti konteks adegan, aktivitas, cuaca, dan kondisi karakter.
+
 #### Acuan visual untuk ilustrasi
 
 Foto yang diberikan penulis merupakan acuan visual utama bagi wajah dan rambut Devan. Dalam ilustrasi berikutnya, pertahankan bentuk wajah oval yang sedikit memanjang, garis rahang yang jelas tetapi lembut, mata cokelat gelap berbentuk almond, alis hitam yang cukup tebal, hidung lurus yang proporsional, bibir berukuran sedang, warna kulit sawo matang terang, serta rambut hitam tebal berlapis dengan helaian yang jatuh alami ke dahi.

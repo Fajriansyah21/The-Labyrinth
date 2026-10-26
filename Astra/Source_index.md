@@ -54,7 +54,8 @@ Aturan cakupan: profil individual menjelaskan bagaimana seorang tokoh berpikir, 
 | [Alur_Besar.md](../Outline/Alur_Besar.md) | Garis besar alur novel. | Draft outline |
 | [Detail_Kematian.md](../Outline/Detail_Kematian.md) | Detail kematian karakter di dalam The Labyrinth. | Rujukan plot; periksa status keputusan di dalamnya |
 | [Aturan_Kata_Ganti.md](../Outline/Aturan_Kata_Ganti.md) | Aturan penggunaan kata ganti. | Acuan kontinuitas |
-| [Pembagian_Kelas.md](../Outline/Pembagian_Kelas.md) | Pembagian kelas dan informasi terkait. | Acuan kontinuitas |
+| [Pembagian_Kelas.md](../Outline/Pembagian_Kelas.md) | Riwayat pembagian kelas selama SMA dan perkembangan interaksi antartokoh. | Riwayat kontinuitas |
+| [Peta_Jurusan_Kuliah.md](../Outline/Peta_Jurusan_Kuliah.md) | Peta rancangan jurusan, status keputusan, dan kontinuitas pendidikan para tokoh saat cerita utama berlangsung di universitas. | Rancangan kerja; opsi terbuka ditandai |
 | [Detail Problem Karakter.docx](../Outline/Detail%20Problem%20Karakter.docx) | Rincian masalah karakter. | Referensi |
 
 ## E. Prioritas pemeriksaan

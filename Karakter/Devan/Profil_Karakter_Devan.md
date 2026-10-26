@@ -105,7 +105,7 @@ Pengalaman masa lalu ikut membentuk Devan, tetapi tidak menjelaskan setiap peril
 
 ### 5.1. Cara menunjukkan perhatian
 
-Devan biasanya menunjukkan kepedulian melalui tindakan konkret: membantu, mendengarkan, mengingat detail kecil, menawarkan kehadiran, atau memperhatikan perubahan pada orang lain. Ia tidak harus mengubah setiap bentuk perhatian menjadi pernyataan emosional yang panjang.
+Devan cenderung menunjukkan perhatian lewat hal yang bisa dilakukan saat itu: menawarkan bantuan, mendengarkan tanpa buru-buru memotong, mengingat hal kecil yang pernah disebut seseorang, atau mengecek keadaan ketika melihat perubahan yang nyata. Kadang ia cukup menemani atau membantu urusan praktis tanpa banyak membicarakan perasaannya. Namun, ia tidak selalu menangkap kebutuhan orang lain dengan tepat; perhatian yang ia berikan tetap bisa meleset jika ia salah membaca situasi.
 
 ### 5.2. Cara bicara
 
@@ -120,15 +120,15 @@ Aturan ini perlu diperiksa bersama dokumen [Aturan_Kata_Ganti.md](../../Outline/
 
 ### 5.3. Ketika tertekan atau terluka
 
-Devan dapat menyibukkan diri, menjawab singkat, mengalihkan pembicaraan dengan candaan, atau memilih diam ketika belum siap mengungkapkan perasaannya. Ia juga dapat mencoba menyelesaikan masalah sendiri agar tidak merasa membebani orang lain.
+Ketika tertekan atau terluka, Devan mungkin tetap mengerjakan hal-hal yang perlu diselesaikan, menjawab lebih pendek dari biasanya, mengalihkan pertanyaan pribadi dengan candaan, atau tidak melanjutkan pembicaraan. Jika belum siap bercerita, ia bisa mengatakan bahwa ia baik-baik saja meskipun jawabannya tidak banyak menjelaskan keadaan sebenarnya. Ia juga mungkin mencoba mengurus masalahnya sendiri alih-alih langsung meminta bantuan.
 
-Diamnya tidak selalu berarti marah. Ia bisa sedang berpikir, menahan perasaan, menghindari konflik, atau belum tahu bagaimana menjelaskan apa yang dirasakannya. Makna sikap tersebut perlu ditentukan berdasarkan konteks adegan, bukan diasumsikan sama setiap kali.
+Perubahan ini tidak selalu tampak sama. Diam bisa berarti ia sedang berpikir, belum menemukan kata-kata, atau memilih tidak membahas sesuatu; jawaban singkat juga tidak otomatis berarti ia marah. Untuk memahami reaksinya, perhatikan apa yang baru terjadi, siapa yang sedang bersamanya, dan apakah ia kemudian kembali membuka percakapan.
 
 ### 5.4. Ketika marah atau khawatir
 
-Devan tidak otomatis meledak ketika marah. Ia bisa menunjukkan keberatan secara langsung, berbicara lebih singkat, atau menarik diri dari konflik. Jika keselamatan orang yang disayanginya terasa terancam, ia dapat bertindak lebih cepat dan protektif daripada biasanya.
+Ketika marah, Devan bisa menyampaikan keberatan dengan terus terang, menjawab lebih pendek, atau berhenti terlibat dalam perdebatan jika percakapan tidak bergerak ke mana-mana. Ia tidak harus selalu menaikkan suara atau langsung meluapkan emosinya. Ketika khawatir, ia mungkin bertanya lebih banyak, menawarkan bantuan, atau bergerak cepat untuk menangani hal yang dianggap mendesak.
 
-Respons yang berlebihan harus memiliki pemicu yang masuk akal. Kekhawatiran tidak selalu membuatnya mengendalikan orang lain, dan sikap tenang tidak selalu berarti ia tidak merasakan apa-apa.
+Jika ia menjadi terlalu protektif atau bereaksi lebih keras dari biasanya, adegan perlu menunjukkan pemicu dan perilaku konkretnya. Kekhawatiran tidak otomatis membuatnya mengatur semua keputusan orang lain; ia juga bisa menahan diri, mendengarkan, atau menyadari bahwa orang yang ia khawatirkan ingin menangani masalahnya sendiri.
 
 ### 5.5. Kemampuan, kegiatan, dan kebiasaan sehari-hari
 
@@ -142,7 +142,9 @@ Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor 
 
 ### 5.6. Pengambilan keputusan
 
-Devan dapat mempertimbangkan risiko dan mengambil tindakan praktis, tetapi ketika takut kehilangan, ia mungkin terlalu menekankan kemungkinan buruk dan mengambil tanggung jawab yang berlebihan. Ia bisa membuat keputusan keliru, salah memahami situasi, atau baru menyadari dampak tindakannya setelah mendapat tanggapan orang lain.
+Cara Devan mengambil keputusan bergantung pada situasi. Untuk urusan sehari-hari, ia bisa memilih langkah praktis tanpa menganalisis semuanya terlalu lama. Jika keputusan menyangkut orang yang ia sayangi atau keadaan yang terasa mendesak, ia mungkin bertindak cepat; kadang ia juga perlu berhenti untuk mendengar pendapat orang lain atau memeriksa apakah ia sudah memahami masalahnya dengan benar.
+
+Ia tidak selalu membuat pilihan yang tepat atau mempertimbangkan semua akibat sejak awal. Sesekali ia dapat salah membaca keadaan, melewatkan informasi, atau baru menyadari dampak tindakannya setelah orang lain memberi respons. Kecenderungan mengambil tanggung jawab berlebihan saat takut kehilangan berkaitan dengan konflik batinnya di Bagian 3, tetapi tidak perlu menjadi penjelasan untuk setiap keputusan yang ia buat.
 
 ### 5.7. Penampilan
 

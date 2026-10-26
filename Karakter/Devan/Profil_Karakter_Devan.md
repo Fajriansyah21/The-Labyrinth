@@ -174,15 +174,15 @@ Profil ini berfokus pada pola Devan dalam berhubungan dengan orang lain, bukan u
 
 ## 7. Konflik, Perkembangan, dan Perubahan
 
-> **Catatan penomoran dan status:** Subbagian perkembangan yang sebelumnya bernomor 12.1–12.11 kini ditempatkan sebagai 7.1–7.11. Struktur utama Profil Karakter tetap terdiri atas tujuh bagian. Subbagian 7.1–7.11 menggambarkan **arah perkembangan yang dirancang**, bukan pernyataan bahwa seluruh tahap sudah terjadi, sudah disetujui sebagai canon final, atau akan berlangsung secara berurutan tanpa kemunduran.
+> **Catatan penomoran dan status:** Struktur utama Profil Karakter tetap terdiri atas tujuh bagian. Subbagian 7.1–7.11 menggambarkan **arah perkembangan yang dirancang**, bukan canon final atau urutan tahap yang wajib dilalui. Beberapa arah perubahan dapat berlangsung bersamaan, muncul pada waktu berbeda, atau belum terwujud bergantung pada peristiwa cerita.
 
-### 7.1. Tahap Pertama: Berusaha Mengendalikan Segalanya
+### 7.1. Kecenderungan Mengambil Alih Keadaan
 
-Ketika takut kehilangan orang yang disayanginya, Devan dapat berusaha mengurangi ketidakpastian dengan memastikan keadaan, mengambil tanggung jawab, atau mencegah risiko sebelum orang lain sempat menentukan pilihan. Kecenderungan ini tumbuh dari rasa peduli, tetapi juga dari rasa bersalah dan ketakutannya mengalami kehilangan lagi.
+Ketika merasa khawatir terhadap keselamatan orang yang disayanginya, Devan dapat berusaha memastikan keadaan atau mengambil tindakan sebelum orang lain menentukan pilihan. Dalam situasi tertentu, ia mungkin lebih berfokus pada cara mencegah risiko daripada mempertimbangkan apakah orang tersebut membutuhkan bantuannya.
 
-Pada tahap ini, Devan belum selalu membedakan antara membantu seseorang dan mengambil alih keadaan. Ia dapat menganggap bahwa jika ia cukup waspada, ia seharusnya mampu mencegah hal buruk terjadi. Keyakinan itu membuatnya mudah merasa gagal ketika hasilnya tidak sesuai harapan.
+Konflik perkembangan di sini bukan menghilangkan kepedulian Devan, melainkan membuatnya mengenali kapan kepedulian mulai berubah menjadi upaya mengendalikan keadaan. Ia tidak selalu langsung menyadari pergeseran itu; terkadang ia baru melihatnya setelah orang lain menyampaikan keberatan atau tindakannya menimbulkan masalah.
 
-### 7.2. Tahap Kedua: Menghadapi Konsekuensi dari Sikap Protektifnya
+### 7.2. Menghadapi Dampak Pilihannya
 
 Devan perlahan menghadapi kenyataan bahwa niat melindungi tidak menjamin tindakannya akan membantu. Ketika ia terlalu jauh ikut menentukan pilihan orang lain, orang tersebut dapat merasa tidak dipercaya atau kehilangan ruang untuk mengambil keputusan sendiri.
 

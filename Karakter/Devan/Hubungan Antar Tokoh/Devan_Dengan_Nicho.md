@@ -91,7 +91,7 @@ Namun, perbedaan tersebut jarang berkembang menjadi konflik besar.
 Keduanya sudah cukup mengenal satu sama lain untuk memahami bahwa mereka hanya memiliki cara berpikir yang berbeda.
 ________________________________________
 11. Kondisi Hubungan Saat The Labyrinth Dimulai
-Ketika cerita utama The Labyrinth dimulai pada kelas 3 SMA semester 2, Devan dan Nicho sudah memiliki persahabatan yang cukup kuat.
+Ketika cerita utama *The Labyrinth* dimulai saat mereka menjadi mahasiswa tahun pertama, Devan dan Nicho sudah memiliki persahabatan yang cukup kuat. Riwayat interaksi mereka selama SMA tetap menjadi bagian dari perkembangan hubungan.
 Mereka telah melewati beberapa tahun interaksi sejak pertama kali bertemu di kelas 1 SMA. Hubungan mereka tidak dibangun melalui kedekatan yang langsung, melainkan berkembang secara bertahap dari teman sekelas, teman satu kelompok, teman yang mulai nyaman, hingga akhirnya menjadi sahabat.
 Pada tahap ini, mereka sudah terbiasa bekerja sama dan saling mempercayai.
 Devan mengetahui bahwa Nicho dapat diandalkan ketika situasi membutuhkan pemikiran yang tenang dan rasional. Nicho mengetahui bahwa Devan dapat membaca kondisi orang lain dan menjaga hubungan antaranggota kelompok ketika keadaan menjadi rumit.

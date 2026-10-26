@@ -1,3 +1,4 @@
+Status: Sumber Rancangan untuk penulisan Devan
 
  Karakteristik Devan
 1. Penampilan

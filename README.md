@@ -17,6 +17,7 @@ Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. G
 - [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTIONS.txt): peran, hierarki canon, prioritas analisis, POV, revisi, dan checksum.
 - [Master Pedoman Astra](Astra/Master_Pedoman_Astra_The_Labyrinth.md): pedoman pengembangan cerita.
 - [Instruksi Khusus](Astra/Instruksi-Khusus.txt): ketentuan tambahan.
+- [Template Latar Belakang Karakter](Astra/Template_Latar_Belakang_Karakter.md): kerangka fleksibel untuk latar belakang karakter; jumlah dan subjudul disesuaikan dengan perjalanan hidup masing-masing tokoh.
 - [Guide The Labyrinth](Astra/Guide_The_Labyrinth.md): riwayat diskusi dan perkembangan gagasan.
 - [Source Index](Astra/Source_index.md): indeks sumber, fungsi, dan status dokumen.
 

@@ -20,7 +20,7 @@ Indeks ini menunjukkan sumber yang perlu diperiksa untuk pengembangan novel THE 
 | [Master_Pedoman_Astra_The_Labyrinth.md](Master_Pedoman_Astra_The_Labyrinth.md) | Pedoman utama pengembangan cerita. | Referensi utama |
 | [Instruksi-Khusus.txt](Instruksi-Khusus.txt) | Ketentuan tambahan. | Referensi |
 | [Guide_The_Labyrinth.md](Guide_The_Labyrinth.md) | Riwayat diskusi, ide, dan keputusan terdahulu. Verifikasi keputusan terhadap sumber terkini. | Arsip diskusi |
-| [Template_Latar_Belakang_Karakter.md](Template_Latar_Belakang_Karakter.md) | Kerangka fleksibel untuk menyusun latar belakang karakter; jumlah dan subjudul mengikuti kebutuhan perjalanan hidup masing-masing tokoh. | Template kerja |
+| [Template_Latar_Belakang_Karakter.md](Template_Latar_Belakang_Karakter.md) | Kerangka fleksibel untuk menyusun latar belakang karakter; jumlah dan subjudul mengikuti kebutuhan perjalanan hidup masing-masing tokoh. | Template kerja |\n| [Template_Profil_Karakter.md](Template_Profil_Karakter.md) | Kerangka fleksibel untuk profil karakter; gunakan sekitar 8 poin utama dan tambahkan poin kesembilan bila kebutuhan karakter memerlukannya. | Template kerja |
 | [README.md](../README.md) | Peta repository dan ringkasan aturan penggunaan. | Indeks |
 
 ## B. Profil dan latar belakang karakter
@@ -28,7 +28,7 @@ Indeks ini menunjukkan sumber yang perlu diperiksa untuk pengembangan novel THE 
 | Dokumen | Fungsi | Status |
 |---|---|---|
 | [Latar_Belakang_Devan.md](../Karakter/Devan/Latar_Belakang_Devan.md) | Kronologi keluarga, tragedi, dan dampak pengalaman terhadap Devan. | Sumber latar belakang |
-| [Profil_Karakter_Devan.md](../Karakter/Devan/Profil_Karakter_Devan.md) | Profil tujuh bagian: identitas; kepribadian; dunia batin; pengaruh pengalaman; perilaku; hubungan; perkembangan. | Draf untuk ditinjau |
+| [Profil_Karakter_Devan.md](../Karakter/Devan/Profil_Karakter_Devan.md) | Profil karakter Devan: identitas; kepribadian; dunia batin; pengaruh pengalaman; perilaku; hubungan; perkembangan. | Draf untuk ditinjau |
 
 ## C. Hubungan antartokoh
 

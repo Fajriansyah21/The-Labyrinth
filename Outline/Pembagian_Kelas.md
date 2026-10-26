@@ -1,4 +1,6 @@
-## PEMBAGIAN KELAS SMA
+## RIWAYAT PEMBAGIAN KELAS SMA
+
+> Dokumen ini mencatat sejarah pendidikan dan interaksi para tokoh selama SMA. Cerita utama berlangsung ketika mereka menjadi mahasiswa tahun pertama di universitas yang sama. Untuk rancangan jurusan kuliah, lihat [Peta Jurusan Kuliah](Peta_Jurusan_Kuliah.md). Pembagian kelas di bawah ini tetap dipertahankan sebagai riwayat masa lalu, bukan sebagai status pendidikan saat cerita utama dimulai.
 
 Setiap tahun ajaran, seluruh siswa diacak kembali ke dalam kelas yang berbeda. Karena itu, komposisi kelas tidak selalu sama dari kelas 1 hingga kelas 3 SMA. Perpindahan kelas ini membuat beberapa hubungan berkembang karena sering berinteraksi, sementara hubungan lain tetap bertahan meskipun mereka tidak lagi berada di kelas yang sama.
 

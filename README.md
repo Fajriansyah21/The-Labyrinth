@@ -17,13 +17,13 @@ Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. G
 - [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTIONS.txt): peran, hierarki canon, prioritas analisis, POV, revisi, dan checksum.
 - [Master Pedoman Astra](Astra/Master_Pedoman_Astra_The_Labyrinth.md): pedoman pengembangan cerita.
 - [Instruksi Khusus](Astra/Instruksi-Khusus.txt): ketentuan tambahan.
-- [Template Latar Belakang Karakter](Astra/Template_Latar_Belakang_Karakter.md): kerangka fleksibel untuk latar belakang karakter; jumlah dan subjudul disesuaikan dengan perjalanan hidup masing-masing tokoh.
+- [Template Latar Belakang Karakter](Astra/Template_Latar_Belakang_Karakter.md): kerangka fleksibel untuk latar belakang karakter; jumlah dan subjudul disesuaikan dengan perjalanan hidup masing-masing tokoh.\n- [Template Profil Karakter](Astra/Template_Profil_Karakter.md): kerangka fleksibel untuk profil karakter; gunakan sekitar 8 poin utama dan tambahkan poin kesembilan jika kebutuhan karakter memerlukannya.
 - [Guide The Labyrinth](Astra/Guide_The_Labyrinth.md): riwayat diskusi dan perkembangan gagasan.
 - [Source Index](Astra/Source_index.md): indeks sumber, fungsi, dan status dokumen.
 
 ### Karakter: Devan
 - [Latar Belakang Devan](Karakter/Devan/Latar_Belakang_Devan.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
-- [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
+- [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): profil karakter Devan yang mencakup identitas, kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
 
 #### Hubungan Tokoh Devan
 Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.

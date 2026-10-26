@@ -106,13 +106,13 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [x] Audit canon dan brief visual
 - [x] Portrait — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [x] Full-body reference — desain disetujui; gambar final belum diverifikasi sebagai aset repository
-- [ ] Expression sheet
+- [x] Expression sheet — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [ ] Outfit reference (target 10 outfit)
 - [ ] Visual kelompok/hubungan
 - **Desain visual disetujui:** rambut cokelat panjang dengan belahan mendekati tengah dan helaian depan yang jatuh natural; mata hazel/cokelat-hazel; wajah oval lembut; kulit cerah bernuansa hangat mengikuti portrait yang disetujui.
 - **Pose portrait:** menghadap kamera, kepala tegak, bahu sejajar.
 - **Art style:** ilustrasi anime semi-realistis dengan garis sketsa lembut, shading painterly, palet netral dan latar bersih.
-- **Status aset:** portrait dan full-body reference disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
+- **Status aset:** portrait, full-body reference, dan expression sheet disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
 
 ### Nicho
 - [ ] Audit canon dan brief visual

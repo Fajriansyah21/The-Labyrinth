@@ -56,7 +56,7 @@ Dengan Eleina, Devan memiliki kedekatan emosional dan perasaan romantis yang ber
 Dengan Nicho, Devan memiliki persahabatan yang lebih kuat dan telah terbangun melalui pengalaman selama bertahun-tahun.
 Sementara dengan Adel, Devan memiliki hubungan pertemanan yang nyaman, hangat, tetapi tetap memiliki jarak emosional yang sehat.
 7. Kondisi Hubungan Saat The Labyrinth Dimulai
-Ketika cerita utama The Labyrinth dimulai pada kelas 3 SMA semester 2, Devan dan Adel sudah cukup mengenal satu sama lain sebagai bagian dari lingkaran pertemanan yang sama.
+Ketika cerita utama *The Labyrinth* dimulai pada tahun pertama kuliah, Devan dan Adel sudah cukup mengenal satu sama lain sebagai bagian dari lingkaran pertemanan yang sama. Riwayat kedekatan mereka selama SMA tetap menjadi dasar hubungan mereka.
 Mereka tidak lagi canggung ketika berbicara atau bekerja sama, tetapi juga tidak memiliki kedekatan yang membuat mereka selalu mencari satu sama lain.
 Pada kelas 3, Devan dan Adel tidak berada dalam kelas yang sama. Devan berada satu kelas dengan Eleina dan Alexia, sementara Adel berada satu kelas dengan Nicho dan Elvano.
 Perbedaan kelas tersebut membuat interaksi mereka menjadi lebih bergantung pada pertemuan bersama kelompok atau kegiatan di luar kelas.

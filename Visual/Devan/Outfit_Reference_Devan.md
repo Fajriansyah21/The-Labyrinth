@@ -1,6 +1,6 @@
 # THE LABYRINTH — Outfit Reference Devan
 
-> **Status:** Layout direction approved by author; image asset generated in conversation but not yet uploaded to repository.  
+> **Status:** Outfit-reference design concept approved by author; generated image asset still needs to be uploaded to the repository.  
 > **Timeline correction:** The main story takes place while Devan and the other main characters are university students. Devan is 19 and a first-year university student at the beginning of the main story.  
 > **Important:** This file records the approved direction and candidate outfit variations. It does not make every depicted garment, accessory, school emblem, or activity outfit canon automatically.
 
@@ -96,7 +96,8 @@ Every outfit or accessory should remain visually separated by a frame and labele
 - [x] Retain all outfit variations in the reference plan — approved by author.
 - [x] Outfit-reference-only layout, with university-era casual looks prioritized and high-school uniform separated as flashback — approved direction.
 - [x] Ten outfit panels requested; use the approved Devan portrait as the strict face reference.
-- [ ] Upload the generated outfit-reference image as an asset to this repository.
+- [x] Outfit-reference concept with ten outfits and warm light-brown/tan skin tone approved by author.
+- [ ] Upload the approved generated outfit-reference image as an asset to this repository.
 - [x] Main-story timeline: university — verified against the current Devan character profile and reiterated by the author.
 - [ ] Exact university outfit or dress code — **[BELUM DITENTUKAN]**
 - [ ] School identity and official emblem for the past-timeline uniform — **[BELUM DITENTUKAN]**

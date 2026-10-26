@@ -9,7 +9,7 @@
 - **Usia:** 18 tahun
 - **Pendidikan:** Mahasiswa tahun pertama pada awal cerita utama.
 - **Universitas:** Sama dengan Devan dan delapan tokoh utama lainnya; nama universitas **[BELUM DITENTUKAN]**.
-- **Jurusan:** Pendidikan atau bidang sosial masih menjadi opsi; program studi dan alasan pemilihan **[BELUM DITENTUKAN]**.
+- **Jurusan:** **[BELUM DITENTUKAN]**.
 - **Tinggi badan:** 168 cm
 - **Peran:** Heroine / love interest Devan
 

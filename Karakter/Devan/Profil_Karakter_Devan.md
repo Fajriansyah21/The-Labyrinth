@@ -87,7 +87,9 @@ Konflik utama Devan muncul ketika keinginannya untuk menjaga orang lain bertemu 
 
 Ia juga ingin dekat dan menerima dukungan, tetapi terbiasa menyembunyikan kesulitan serta mengambil peran sebagai orang yang membantu. Akibatnya, ia dapat menjadi tempat bersandar bagi orang lain sambil membatasi kesempatan mereka untuk hadir ketika dirinya sendiri sedang kesulitan.
 
-Pertentangan ini tidak selalu tampak atau aktif bersamaan. Devan tetap dapat bersikap santai, menghormati keputusan orang lain, membantu karena tulus peduli, dan menikmati kedekatan tanpa memikirkan kehilangan. Konflik batinnya menjadi lebih kuat ketika situasi menyentuh rasa bersalah, ketakutan akan kehilangan, atau perasaan bahwa ia seharusnya mampu mencegah sesuatu yang buruk.## 4. Pengaruh Pengalaman terhadap Karakter
+Pertentangan ini tidak selalu tampak atau aktif bersamaan. Devan tetap dapat bersikap santai, menghormati keputusan orang lain, membantu karena tulus peduli, dan menikmati kedekatan tanpa memikirkan kehilangan. Konflik batinnya menjadi lebih kuat ketika situasi menyentuh rasa bersalah, ketakutan akan kehilangan, atau perasaan bahwa ia seharusnya mampu mencegah sesuatu yang buruk.
+
+## 4. Pengaruh Pengalaman terhadap Karakter
 
 Sebelum tragedi terjadi, Devan tumbuh dalam keluarga yang hangat dan dekat dengan kedua orang tua serta Citra. Pengalaman itu menjadi bagian dari kondisi awal dirinya: ia mengenal rumah sebagai tempat untuk kembali dan keluarga sebagai sumber dukungan. Rincian kehidupan keluarga dan kronologi peristiwa disimpan dalam [Latar_Belakang_Devan.md](./Latar_Belakang_Devan.md).
 
@@ -135,7 +137,7 @@ Jika ia menjadi terlalu protektif atau bereaksi lebih keras dari biasanya, adega
 - **Perbaikan sederhana:** Ia dapat mencoba menangani masalah kecil, tetapi bisa gagal dan perlu tahu kapan harus berhenti.
 - **Kemandirian sehari-hari:** Ia cukup mampu mengurus kebutuhan pribadi, meskipun tidak selalu teliti atau ingat semua hal.
 - **Hobi:** Bermain basket, mendengarkan musik melalui MP3 player mini, berkendara santai dengan sepeda motor, dan menghabiskan waktu di tempat terbuka seperti area di atas bukit atau belakang sekolah.
-- **MP3 player:** Perangkat mini berwarna hitam dengan aksen perak, sesuai referensi visual yang dipilih penulis. MP3 player tersebut merupakan hadiah dari ayah Devan pada ulang tahunnnya sebelum tragedi keluarga terjadi. Isinya berupa lagu-lagu yang disukai Devan, dan ia menggunakannya sesekali ketika ingin mendengarkan musik. Perangkat ini masih berfungsi pada masa cerita utama. Benda ini memiliki nilai pribadi karena pemberinya, tetapi tidak harus selalu menjadi pengingat tragedi atau digunakan hanya ketika Devan sedang sedih.
+- **MP3 player:** Perangkat mini berwarna hitam dengan aksen perak, sesuai referensi visual yang dipilih penulis. MP3 player tersebut merupakan hadiah dari ayah Devan pada ulang tahunnya sebelum tragedi keluarga terjadi. Isinya berupa lagu-lagu yang disukai Devan, dan ia menggunakannya sesekali ketika ingin mendengarkan musik. Perangkat ini masih berfungsi pada masa cerita utama. Benda ini memiliki nilai pribadi karena pemberinya, tetapi tidak harus selalu menjadi pengingat tragedi atau digunakan hanya ketika Devan sedang sedih.
 
 Kemampuan Devan tidak boleh diperluas hanya berdasarkan hobinya. Menyukai motor tidak berarti ia mahir mendiagnosis kerusakan mesin, dan mengikuti basket tidak otomatis berarti ia pemain profesional.
 

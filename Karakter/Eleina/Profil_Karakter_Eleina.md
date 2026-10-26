@@ -1,6 +1,6 @@
 # Profil Karakter Eleina
 
-> **Status:** Draf pengembangan profil. Profil ini mengolah sumber kepribadian, karakteristik, latar belakang, dan hubungan Eleina. Isi folder Rancangan merupakan bahan pengembangan, bukan otomatis canon final. Penanda **[BELUM DITENTUKAN]** menunjukkan detail yang belum boleh dikunci tanpa keputusan penulis.
+> **Status:** Draf pengembangan profil, dengan latar belakang keluarga sebagai canon yang telah disetujui penulis. Profil ini menyatukan sumber kepribadian, karakteristik, latar belakang, dan hubungan Eleina. Persetujuan atas latar belakang keluarga tidak otomatis mengunci seluruh interpretasi psikologis atau detail lain dalam profil. Penanda **[BELUM DITENTUKAN]** menunjukkan hal yang masih terbuka.
 
 ## 1. Identitas dan Gambaran Umum
 
@@ -158,9 +158,13 @@ Rincian kronologi penyakit, percakapan terakhir, kematian ibu, dan masa berkabun
 
 Setelah kematian ibu, Eleina mulai membatasi hal-hal yang ia ceritakan kepada ayah karena menyadari bahwa ayah juga berduka dan memiliki beban pekerjaan. Ia tidak ingin menambah kekhawatiran ayah. Pada awalnya, sikap itu merupakan upaya melindungi orang yang disayanginya; lama-kelamaan, kebiasaan menyimpan perasaan dapat menjadi pola yang ia gunakan dalam hubungan lain.
 
-Ayah kemudian menikah lagi dan Eleina mengalami perubahan posisi dalam keluarga. Sumber latar belakang menggambarkan pengucilan yang berkembang secara bertahap, terutama ketika ayah tidak berada di rumah. Karena beberapa perlakuan tampak kecil atau tidak selalu berupa penghinaan langsung, Eleina dapat meragukan apakah ia berhak merasa terluka dan mencoba mencari alasan lain atas perlakuan tersebut.
+Sekitar satu tahun setelah istrinya meninggal, ayah mulai mempertimbangkan untuk menikah lagi. Keputusan itu bukan upaya menggantikan ibu Eleina: ayah masih mencintai dan menghormati mendiang istrinya, tetapi juga tidak ingin Eleina tumbuh sendirian dan menyadari bahwa dirinya membutuhkan teman hidup. Ayah membicarakan rencana tersebut dengan Eleina tanpa memaksanya menerima keadaan baru. Eleina memiliki perasaan campur aduk, tetapi berusaha menerima keputusan itu karena menyayangi ayah.
 
-Jangan menyederhanakan dinamika ini menjadi “keluarga baru langsung jahat” atau menganggap semua interaksi keluarga selalu buruk. Gunakan kronologi dan rincian yang benar-benar tercantum dalam dokumen latar belakang. Detail yang belum dipastikan tetap **[BELUM DITENTUKAN]**.
+Sebelum pernikahan berlangsung, Eleina sempat mengenal calon ibu tirinya dan keluarga baru. Hubungan awal mereka berjalan cukup baik dan tidak langsung diwarnai permusuhan. Eleina berharap rumah dapat kembali terasa hangat, tanpa mengharapkan siapa pun menggantikan ibunya.
+
+Pengucilan baru berkembang secara bertahap setelah pernikahan, terutama ketika ayah tidak berada di rumah. Eleina tidak dilibatkan dalam beberapa kegiatan keluarga, sementara perhatian atau bantuan yang diberikan kepada anak-anak ibu tirinya tidak selalu ia terima. Karena perlakuan tersebut sering berupa hal-hal kecil dan tidak selalu berupa penghinaan langsung, Eleina dapat meragukan apakah ia berhak merasa terluka dan mencoba mencari alasan lain atas perlakuan itu.
+
+Jangan menyederhanakan dinamika ini menjadi “keluarga baru langsung jahat” atau menganggap semua interaksi keluarga selalu buruk. Pertahankan urutan pentingnya: hubungan awal cukup baik, pernikahan berlangsung, lalu pengucilan berkembang perlahan. Detail yang belum ditetapkan dalam sumber tetap **[BELUM DITENTUKAN]**.
 
 ### 4.4. Kemandirian yang Berubah Menjadi Beban
 
@@ -349,7 +353,8 @@ Profil ini adalah alat bantu penulis, bukan izin untuk memasukkan penjelasan psi
 ### 8.5. Status Informasi dan Catatan Kontinuitas
 
 **Fakta yang didukung sumber cerita saat ini:**
-- Eleina adalah anak tunggal dan ibunya meninggal ketika ia sekitar berusia tiga belas tahun.
+- Eleina adalah anak tunggal; penyakit serius ibunya mulai ketika Eleina berusia sekitar tiga belas tahun, saat kelas 1 SMP semester kedua, dan ibunya kemudian meninggal dunia.
+- Sekitar satu tahun setelah kematian istrinya, ayah mulai mempertimbangkan untuk menikah lagi. Eleina mengenal calon keluarga barunya sebelum pernikahan; pengucilan berkembang perlahan setelah pernikahan berlangsung.
 - Ia tumbuh dalam keluarga yang hangat sebelum kehilangan tersebut; ibunya menjadi tempat aman baginya.
 - Setelah kehilangan ibu dan perubahan keluarga, Eleina makin terbiasa menahan perasaan serta mengurus banyak hal sendiri.
 - Ia mengalami pengucilan dalam keluarga baru dan perundungan di sekolah; detail kronologi mengacu pada dokumen latar belakang.

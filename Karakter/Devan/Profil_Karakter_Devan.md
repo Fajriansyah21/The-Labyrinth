@@ -147,13 +147,32 @@ Ia tidak selalu membuat pilihan yang tepat atau mempertimbangkan semua akibat se
 
 ### 5.7. Penampilan
 
-Foto acuan utama Devan menunjukkan pemuda berwajah cenderung oval dengan garis rahang yang cukup jelas, tetapi tidak terlalu tegas atau keras. Kulitnya berwarna sawo matang dengan tingkat kecerahan sedang, bukan gelap; rona hangat pada ilustrasi dapat dipengaruhi pencahayaan, sehingga warna kulit canon merujuk pada gambaran sawo matang yang tidak terlalu gelap.
+#### Wajah
 
-Matanya berwarna cokelat gelap, dengan bentuk yang sedikit memanjang dan tatapan yang tampak tenang. Alisnya gelap dan cukup tebal. Hidungnya terlihat lurus dengan proporsi yang seimbang terhadap wajah, sementara bibirnya cenderung tipis hingga sedang. Kesan wajahnya secara keseluruhan lembut dan santai, dengan senyum tipis yang tidak mencolok.
+Foto acuan utama menunjukkan Devan memiliki wajah berbentuk oval yang sedikit memanjang. Garis rahangnya cukup jelas dan terdefinisi, tetapi sudutnya tetap halus sehingga wajahnya tidak terlihat keras atau mengintimidasi. Bagian pipinya relatif ramping, sedangkan dagunya membulat secara alami. Keseluruhan proporsi wajah memadukan kesan maskulin dengan ekspresi yang lembut.
 
-Rambut Devan berwarna hitam pekat, tebal, berlapis, dan bervolume alami. Bagian atas serta depan relatif panjang dan bertekstur sedikit berantakan; beberapa helai jatuh ke dahi, sementara sisi rambut membingkai wajah tanpa dipotong terlalu pendek. Rambutnya tampak kasual dan tidak ditata kaku.
+Matanya berwarna cokelat gelap dan berbentuk almond, dengan sudut luar yang sedikit memanjang. Kelopak matanya tampak agak berat, memberi tatapan yang teduh dan santai, bukan tajam atau terlalu terbuka. Alisnya hitam, cukup tebal, dan cenderung lurus dengan lengkungan alami yang tipis. Bentuk mata dan alisnya mendukung kesan tenang tanpa membuat ekspresinya tampak kosong atau tanpa emosi.
 
-Foto ini menjadi acuan visual utama untuk penampilan Devan. Detail yang tidak dapat dipastikan dari gambar, seperti warna kulit dalam pencahayaan netral, tinggi atau proporsi tubuh secara akurat, dan ciri fisik yang tidak terlihat, tidak ditetapkan hanya berdasarkan ilustrasi tersebut.
+Hidungnya memiliki batang yang relatif lurus dan proporsional terhadap wajah. Ujung hidungnya membulat lembut dan tidak terlalu menonjol. Bibirnya berukuran sedang, dengan bibir bawah sedikit lebih penuh daripada bibir atas. Dalam foto acuan, sudut bibirnya terangkat tipis membentuk senyum kecil yang santai, tidak lebar dan tidak dibuat-buat. Senyum tersebut memberi kesan ramah dan sedikit jahil, tetapi bukan berarti Devan harus selalu digambarkan tersenyum.
+
+Kulitnya tampak berwarna sawo matang terang hingga cokelat muda dalam foto acuan. Pencahayaan hangat memengaruhi rona kulit yang terlihat, sehingga ilustrasi lain boleh memiliki pencahayaan berbeda tanpa mengubah warna dasar kulit Devan secara drastis. Hindari membuat kulitnya terlalu pucat atau terlalu gelap tanpa alasan pencahayaan yang jelas.
+
+Secara keseluruhan, wajah Devan memadukan rahang yang terdefinisi, mata yang teduh, hidung yang proporsional, dan senyum tipis. Daya tariknya berasal dari keseimbangan fitur-fitur tersebut, bukan dari satu ciri yang terlalu mencolok. Ia terlihat menarik secara alami tanpa kesan sengaja berusaha menarik perhatian.
+
+#### Rambut
+
+Rambut Devan berwarna hitam pekat, tebal, berlapis, dan bervolume alami. Bagian atas serta depan relatif lebih panjang daripada sisi rambutnya. Helaian rambut jatuh bebas ke dahi, membentuk poni yang tidak sepenuhnya teratur dan terkadang sedikit menutupi area alis. Beberapa helai dapat mencuat di bagian atas atau samping kepala, memberi tekstur kasual yang sedikit acak tanpa membuatnya tampak kusut.
+
+Rambutnya tidak ditata kaku atau dibuat terlalu sempurna. Bentuknya terlihat alami dan santai, seolah Devan tidak menghabiskan banyak waktu untuk menata rambut, tetapi tetap menjaga penampilannya agar terlihat rapi. Sisi rambut membingkai wajah tanpa harus dipotong sangat pendek.
+
+#### Acuan visual untuk ilustrasi
+
+Foto yang diberikan penulis merupakan acuan visual utama bagi wajah dan rambut Devan. Dalam ilustrasi berikutnya, pertahankan bentuk wajah oval yang sedikit memanjang, garis rahang yang jelas tetapi lembut, mata cokelat gelap berbentuk almond, alis hitam yang cukup tebal, hidung lurus yang proporsional, bibir berukuran sedang, warna kulit sawo matang terang, serta rambut hitam tebal berlapis dengan helaian yang jatuh alami ke dahi.
+
+Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai kebutuhan adegan. Namun, perubahan tersebut tidak seharusnya mengubah identitas dasar wajah Devan. Ia harus tetap terlihat sebagai orang yang sama ketika tersenyum, tertawa, serius, kelelahan, sedih, atau berada dalam situasi menegangkan. Jangan menerapkan senyum tipis dari foto sebagai ekspresi permanen untuk semua ilustrasi.
+
+Foto acuan tidak cukup untuk memastikan semua detail anatomi, seperti proporsi tubuh secara akurat atau warna kulit dalam pencahayaan netral. Detail yang tidak terlihat jelas tetap terbuka dan tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 ### 6.1. Pola umum

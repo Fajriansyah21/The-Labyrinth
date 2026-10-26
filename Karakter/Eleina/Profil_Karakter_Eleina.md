@@ -127,25 +127,21 @@ Jangan menulisnya seolah-olah ia tidak pernah mampu berkata tidak. Ia dapat meno
 
 ### 3.5. Kemarahan dan Kekecewaan
 
-Eleina biasanya tidak langsung meledak ketika marah. Ia cenderung menahan respons awal, berusaha memahami apa yang terjadi, atau mengambil waktu untuk memproses perasaannya. Saat terluka, ia dapat menjadi lebih diam, menjawab singkat, mengalihkan pandangan, atau mengambil jarak.
+Bagian ini berfokus pada cara Eleina mengalami dan mengekspresikan kemarahan atau kekecewaan, bukan pada seluruh proses ketika ia menyadari bahwa dirinya terluka. Ia biasanya tidak langsung meluapkan kemarahan. Ia dapat menahan respons awal, mencoba memahami situasi, atau mengambil waktu untuk menenangkan diri. Namun, ia juga bisa menyampaikan keberatan saat itu juga jika persoalannya jelas atau menyangkut sesuatu yang penting baginya.
 
-Menarik diri tidak otomatis berarti ia ingin menghukum orang lain. Ia mungkin belum tahu cara menjelaskan rasa sakitnya, belum siap menghadapi reaksi lawan bicara, atau sedang mencoba menenangkan diri. Namun, jangan pula selalu menganggap diamnya sebagai tanda bahwa semuanya baik-baik saja.
+Ketika emosi menguat, Eleina mungkin berbicara lebih tegas, menangis karena frustrasi, atau mengambil jarak untuk meredakan ketegangan. Responsnya tidak selalu keras atau terlihat jelas. Menarik diri tidak otomatis berarti ia ingin menghukum orang lain; ia mungkin sedang mengatur emosinya atau belum siap melanjutkan percakapan.
 
-Karena mudah memahami alasan orang lain, Eleina dapat terlalu lama memaklumi perilaku yang berulang. Ketika rasa sakit menumpuk, responsnya dapat menjadi lebih tegas daripada yang diperkirakan orang lain. Ia bisa menangis karena frustrasi, akhirnya mengatakan apa yang selama ini ditahan, atau menetapkan jarak. Setelahnya, ia mungkin merasa bersalah atas cara ia bereaksi, bahkan ketika alasan kemarahannya tetap valid.
-
-Rasa bersalah setelah marah tidak berarti Eleina harus segera menarik kembali batasnya. Ia dapat menyesali nada bicara atau kata-katanya sambil tetap mengakui bahwa perlakuan yang menyakitinya perlu dibicarakan.
+Jika perilaku yang menyakitkan terus berulang, kemarahannya dapat menjadi lebih sulit diabaikan dan mendorongnya menetapkan batas. Setelah bereaksi, ia mungkin merasa bersalah atas nada bicara atau kata-katanya. Rasa bersalah itu tidak otomatis membatalkan alasan kemarahannya: ia dapat menyesali cara menyampaikan keberatan sambil tetap menganggap persoalannya perlu dibicarakan.
 
 ### 3.6. Respons ketika Perasaannya Terluka
 
-Ketika mengalami kekecewaan atau merasa terluka, Eleina cenderung mencoba memahami situasi dan alasan orang lain sebelum menyampaikan perasaannya. Ia tidak selalu langsung menyadari apa yang sebenarnya mengganggunya. Dalam beberapa situasi, ia dapat merasakan ketidaknyamanan terlebih dahulu sebelum memahami bahwa dirinya kecewa, marah, atau merasa diabaikan.
+Bagian ini berfokus pada proses Eleina mengenali dan memaknai rasa sakit, serta keputusannya untuk menyampaikan atau belum menyampaikan perasaan tersebut. Ia mungkin mencoba memahami alasan orang lain terlebih dahulu dan tidak selalu langsung mengetahui apa yang mengganggunya. Terkadang, ia baru menyadari bahwa dirinya merasa kecewa, diabaikan, atau tidak dianggap setelah memikirkan kembali suatu kejadian.
 
-Jika belum siap membicarakannya, Eleina mungkin menjadi lebih diam, memberikan jawaban yang lebih singkat, mengalihkan pandangan, atau mengambil jarak. Namun, perubahan tersebut tidak selalu terlihat jelas dan tidak otomatis berarti ia sedang menyembunyikan masalah. Ia juga dapat menyampaikan keberatan sejak awal apabila memahami persoalannya atau merasa bahwa diam justru akan memperburuk keadaan.
+Jika belum siap membicarakannya, ia dapat menunda percakapan, mengecilkan arti masalah, atau mengatakan bahwa dirinya baik-baik saja. Namun, ia juga bisa mengungkapkan keberatan lebih awal ketika memahami persoalannya atau merasa bahwa diam justru akan memperburuk keadaan. Ia tidak selalu menunggu sampai rasa sakit menumpuk.
 
-Ketika menghadapi perlakuan yang berulang, kecenderungannya untuk memahami dan memaklumi orang lain dapat membuatnya menunda penyampaian rasa sakit. Jika kekecewaan terus menumpuk, ia mungkin mulai menjaga jarak, menunjukkan ketegasan yang lebih jelas, atau akhirnya mengungkapkan hal yang sebelumnya sulit ia sampaikan. Responsnya dapat disertai keraguan, ucapan yang terputus, tangisan karena frustrasi, atau rasa bersalah setelahnya.
+Eleina lebih mudah menjelaskan perasaannya ketika diberi ruang untuk berpikir dan didengarkan tanpa tekanan. Ia mungkin masih ragu, berbicara terputus-putus, atau belum mampu menjelaskan semuanya dengan rapi. Perkembangannya terlihat ketika ia semakin mampu mengakui bahwa sesuatu menyakitinya dan menyampaikan kebutuhannya tanpa merasa harus lebih dahulu menghilangkan kekecewaan orang lain.
 
-Eleina lebih mudah mengungkapkan perasaannya ketika merasa didengarkan tanpa dipaksa, memiliki kesempatan memahami emosinya sendiri, atau menyadari bahwa masalah tidak akan selesai jika terus dihindari. Namun, ia tidak selalu mampu menjelaskan perasaannya secara langsung dan teratur. Perkembangannya terlihat dari kemampuannya mengakui rasa sakit dan menyampaikan kebutuhan tanpa harus terlebih dahulu menghilangkan kekecewaan orang lain.
-
-Pola ini bukan urutan wajib. Eleina tidak selalu memendam perasaan, tidak selalu bereaksi dengan diam, dan tidak harus menunggu sampai rasa sakit menumpuk untuk bersikap tegas.
+Pola ini bukan urutan wajib. Cara Eleina menyadari dan menyampaikan rasa sakit bergantung pada konteks, kedekatan dengan lawan bicara, serta seberapa jelas ia memahami persoalannya.
 
 ### 3.7. Memaafkan, Memercayai, dan Merasa Aman Kembali
 
@@ -262,13 +258,13 @@ Acuan perilaku yang dapat digunakan bila sesuai:
 
 Gestur bukan kode emosi satu-banding-satu. Menyelipkan rambut, misalnya, dapat menunjukkan fokus, gugup, atau sekadar kebiasaan; maknanya harus dibangun dari konteks. Hindari menggunakan satu gestur berulang kali setiap kali Eleina merasakan emosi yang sama.
 
-### 5.4. Respons Saat Terluka atau Kecewa
+### 5.4. Tanda yang Mungkin Terlihat ketika Terluka atau Kecewa
 
-Respons awal Eleina dapat terlihat kecil: jeda yang lebih panjang, jawaban pendek, berkurangnya spontanitas, pandangan yang beralih, atau kesediaan untuk pergi melakukan sesuatu sendiri. Ia bisa tetap menjalankan aktivitas sehari-hari meskipun pikirannya terganggu.
+Dari luar, perubahan Eleina dapat berupa jeda yang lebih panjang, jawaban lebih singkat, berkurangnya spontanitas, atau keinginan untuk melakukan sesuatu sendiri. Namun, tanda-tanda ini tidak memiliki arti tunggal dan tidak membuktikan bahwa ia sedang terluka; Devan hanya dapat menafsirkannya berdasarkan konteks dan hal lain yang ia amati.
 
-Jika ditanya apakah dirinya baik-baik saja, ia mungkin menjawab “nggak apa-apa” karena belum siap menjelaskan, tidak ingin membebani orang lain, atau belum memahami perasaannya sendiri. Jangan otomatis mengartikan jawaban itu sebagai kebohongan yang disengaja. Terkadang ia memang belum sanggup menguraikan apa yang salah.
+Jika ditanya apakah dirinya baik-baik saja, Eleina mungkin menjawab “nggak apa-apa” karena belum siap menjelaskan, tidak ingin membebani orang lain, atau belum memahami perasaannya sendiri. Ia juga bisa menjawab dengan jujur jika memang tidak ada masalah. Jangan menjadikan satu gestur atau jawaban sebagai kode pasti untuk emosi tertentu.
 
-Jika tekanan berlanjut, ia dapat menjelaskan perasaannya dengan lebih tegas, menangis karena frustrasi, atau menunjukkan kemarahan. Reaksi tersebut harus memiliki konteks dan akumulasi yang cukup, bukan muncul mendadak hanya demi dramatisasi.
+Untuk proses batin dan cara Eleina menyampaikan rasa sakit, lihat bagian 3.5 dan 3.6. Reaksi yang lebih kuat perlu tumbuh dari situasi dan pengalaman adegan, bukan ditambahkan semata-mata untuk meningkatkan drama.
 
 ### 5.5. Keputusan dan Pilihan
 
@@ -317,9 +313,9 @@ Ia mungkin mengetahui bahwa suatu perlakuan menyakitkan, tetapi belum tahu bagai
 
 ### 7.2. Konsekuensi Pola yang Berulang
 
-Jika Eleina terus memendam perasaan, orang lain mungkin tidak menyadari bahwa batasnya telah terlampaui. Hubungan tampak tenang, tetapi Eleina semakin lelah atau menjaga jarak. Ketika akhirnya ia bicara, orang lain bisa terkejut karena tidak melihat akumulasi kekecewaannya.
+Ketika Eleina berulang kali menunda penyampaian kebutuhan atau rasa sakit, orang lain mungkin tidak menyadari bahwa ada masalah, sementara Eleina semakin lelah atau mulai menjaga jarak. Jika ia akhirnya berbicara, lawan bicaranya bisa terkejut karena tidak memahami apa yang telah menumpuk.
 
-Konsekuensi ini tidak berarti semua orang di sekitarnya pasti lalai atau tidak peduli. Terkadang mereka memang tidak memahami apa yang tidak disampaikan; terkadang pula mereka mengabaikan tanda yang sudah ada. Penentuan tanggung jawab harus mengikuti kejadian konkret, bukan menganggap semua konflik berasal dari kebiasaan Eleina memendam emosi.
+Namun, akibatnya bergantung pada situasi. Ada orang yang sungguh tidak menangkap hal yang tidak diungkapkan, dan ada pula yang mengabaikan tanda yang cukup jelas. Jangan otomatis membebankan seluruh tanggung jawab konflik kepada Eleina karena ia diam, atau kepada orang lain karena mereka tidak memahami sesuatu yang belum ia sampaikan.
 
 ### 7.3. Batas, Pengampunan, dan Kepercayaan
 

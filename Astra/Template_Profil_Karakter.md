@@ -6,7 +6,7 @@
 
 ## Cara menggunakan template
 
-Template ini menjadi acuan umum untuk menyusun profil karakter THE LABYRINTH. Sumber referensi utama untuk mengembangkan profil adalah folder [Rancangan lama kepribadian, sifat, dan karakteristik](../Rancangan/), yang berisi bahan rancangan karakter. Profil Devan dapat tetap lebih terperinci jika kompleksitas karakternya memang membutuhkan itu; kedalaman dan jumlah subjudul tidak harus disamakan pada karakter lain.
+Template ini menjadi acuan umum untuk menyusun profil karakter THE LABYRINTH. Sumber referensi utama untuk mengembangkan profil adalah folder [Rancangan lama kepribadian, sifat, dan karakteristik](../Rancangan/), yang berisi bahan rancangan karakter. Profil ini dapat tetap lebih terperinci jika kompleksitas karakternya memang membutuhkan itu; kedalaman dan jumlah subjudul tidak harus disamakan pada karakter lain. Bila tidak ada informasi karakter tersebut di folder Rancangan, tidak perlu khawatir, kamu kasih tau aku dulu, baru kita brainstrom karakter tersebut.
 
 - Gunakan delapan bagian dasar di bawah sebagai titik awal, bukan struktur kaku.
 - Tambahkan poin kesembilan jika ada aspek penting yang tidak tertampung dengan baik pada bagian lain.

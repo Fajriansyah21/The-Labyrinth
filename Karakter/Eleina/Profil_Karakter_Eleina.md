@@ -73,6 +73,14 @@ Variasi ini bukan pergantian kepribadian. Tingkat rasa aman, kedekatan, kondisi 
 
 ## 3. Dunia Batin dan Psikologi
 
+### 3.0. Respons ketika Membutuhkan Bantuan
+
+Eleina cenderung mencoba menyelesaikan kesulitannya sendiri sebelum meminta bantuan. Ia dapat menunda permintaan karena merasa masalahnya masih bisa ditangani atau karena mempertimbangkan kesibukan dan kenyamanan orang lain. Jika ditawari bantuan, ia mungkin mengecilkan kesulitannya terlebih dahulu, tetapi tidak selalu menolak. Ia lebih mudah menerima bantuan ketika tawaran disampaikan tanpa tekanan dan memberinya kebebasan untuk menentukan apa yang ingin ia ceritakan.
+
+Seiring tumbuhnya rasa aman dalam suatu hubungan, Eleina dapat mulai menerima bantuan untuk hal-hal sederhana sebelum mampu terbuka mengenai persoalan yang lebih pribadi. Perkembangannya tidak harus menghilangkan kemandirian, melainkan membantunya memahami bahwa ia boleh memilih untuk menangani sesuatu sendiri dan boleh pula meminta bantuan ketika membutuhkannya.
+
+Pola ini merupakan acuan perilaku, bukan urutan wajib. Eleina tidak selalu menunda permintaan, menolak tawaran, atau merasa menjadi beban. Responsnya tetap bergantung pada situasi, tingkat kesulitan, kondisi emosional, dan rasa aman bersama orang yang menawarkan bantuan.
+
 ### 3.1. Kebutuhan Emosional
 
 Eleina membutuhkan rasa aman, penerimaan, hubungan yang konsisten, dan ruang untuk menjadi dirinya sendiri tanpa harus selalu berguna bagi orang lain. Ia membutuhkan kesempatan menyampaikan perasaan tanpa harus segera menenangkan lawan bicara atau meminta maaf karena membutuhkan dukungan.

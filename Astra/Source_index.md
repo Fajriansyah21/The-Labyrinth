@@ -20,6 +20,7 @@ Indeks ini menunjukkan sumber yang perlu diperiksa untuk pengembangan novel THE 
 | [Master_Pedoman_Astra_The_Labyrinth.md](Master_Pedoman_Astra_The_Labyrinth.md) | Pedoman utama pengembangan cerita. | Referensi utama |
 | [Instruksi-Khusus.txt](Instruksi-Khusus.txt) | Ketentuan tambahan. | Referensi |
 | [Guide_The_Labyrinth.md](Guide_The_Labyrinth.md) | Riwayat diskusi, ide, dan keputusan terdahulu. Verifikasi keputusan terhadap sumber terkini. | Arsip diskusi |
+| [Template_Latar_Belakang_Karakter.md](Template_Latar_Belakang_Karakter.md) | Kerangka fleksibel untuk menyusun latar belakang karakter; jumlah dan subjudul mengikuti kebutuhan perjalanan hidup masing-masing tokoh. | Template kerja |
 | [README.md](../README.md) | Peta repository dan ringkasan aturan penggunaan. | Indeks |
 
 ## B. Profil dan latar belakang karakter

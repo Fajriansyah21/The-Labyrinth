@@ -59,6 +59,25 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 
 - [Rancangan lama kepribadian, sifat, dan karakteristik Eleina](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
 
+### Karakter: Nicho
+- [Latar Belakang Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Latar_Belakang_Nicho.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
+- [Profil Karakter Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Profil_Karakter_Nicho.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
+
+#### Hubungan Tokoh Nicho
+Semua dokumen hubungan di bawah ini berstatus **DRAFT dan masih belum ada**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
+
+- [Hubungan Nicho dengan Adel]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Alexia]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Andrian]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Arkana]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Devan]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Eleina]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Elvano]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Naura]() — **Status: DRAFT**
+- [Hubungan Nicho dengan Reza]() — **Status: DRAFT**
+
+- [Rancangan lama kepribadian, sifat, dan karakteristik i](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
+
 ### Karakter: [Nama Karakter] - Template
 - [Latar Belakang i](): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter i](): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.

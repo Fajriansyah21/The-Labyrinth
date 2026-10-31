@@ -11,7 +11,7 @@
 3. Jangan mengarang detail fisik sebagai canon. Jika sumber belum menetapkan bentuk wajah, mata, rambut, warna kulit, tinggi, atau proporsi, tandai **[BELUM DITENTUKAN]** dan tanyakan/ajukan opsi kepada penulis sebelum menguncinya.
 4. Kerjakan dan minta persetujuan tahap demi tahap. Jangan lanjut ke tahap berikutnya sebelum tahap aktif disetujui.
 5. **Portrait yang disetujui adalah acuan wajah wajib** untuk semua gambar berikutnya. Pertahankan bentuk wajah, mata, hidung, mulut, warna kulit/undertone, rambut, dan ciri khas. Jika wajah mulai berubah, revisi gambarnya, jangan menerima wajah baru.
-6. Gaya default: ilustrasi semi-realistis anime, garis sketsa lembut, pewarnaan halus, palet netral yang sesuai karakter, latar bersih. Gunakan gaya lain hanya jika penulis memilihnya.
+6. **Art style utama: [BELUM DITENTUKAN].** Arsip lama pernah mencatat ilustrasi anime semi-realistis dengan garis sketsa lembut dan shading halus sebagai gaya default/provisional. Jangan jadikan itu keputusan final; tunggu art style yang akan diberikan penulis, lalu perbarui bagian ini.
 7. Expression sheet dan outfit sheet harus menggunakan panel/frame terpisah dan label yang jelas. Jangan biarkan gambar saling bercampur atau terpotong.
 8. **Jaga warna kulit secara konsisten.** Catat warna/undertone dari sumber dan portrait yang disetujui. Perbedaan pencahayaan boleh terjadi, tetapi jangan membuat kulit lebih pucat/gelap tanpa alasan.
 9. Timeline utama adalah kuliah. Prioritaskan pakaian sehari-hari/kampus untuk masa kini; seragam sekolah masuk bagian **MASA LALU / FLASHBACK** jika dibutuhkan. Jangan mengarang emblem, nama kampus, dress code, atau logo.
@@ -69,13 +69,31 @@ Sebelum membuat gambar:
 - [ ] Penulis menyetujui outfit reference.
 - [ ] Simpan dan verifikasi file di GitHub.
 
-### Tahap 5 — Visual kelompok/hubungan
+### Tahap 5 — Body Language Sheet
+- Latar belakang putih polos.
+- Tampilkan variasi pose berdiri dan duduk, gestur, postur, serta kebiasaan fisik yang relevan dengan karakter.
+- Pilih pose berdasarkan profil karakter, kebiasaan, konteks hubungan, dan kondisi emosional yang didukung sumber.
+- Jangan membuat semua karakter memakai pose generik yang sama. Tandai interpretasi yang belum didukung sumber sebagai **OPSI DESAIN**.
+- [ ] Penulis menyetujui body language sheet.
+- [ ] Simpan dan verifikasi file di GitHub.
+
+### Tahap 6 — Visual kelompok/hubungan
 - Kerjakan setelah desain individual stabil.
 - Perbandingan tinggi hanya memakai angka canon terverifikasi.
 - Jarak fisik, pose, dan bahasa tubuh harus cocok dengan karakter dan hubungan yang sudah ditetapkan.
 - Jangan menjadikan komposisi ilustrasi sebagai bukti canon baru.
 - [ ] Penulis menyetujui visual kelompok/hubungan.
 - [ ] Simpan dan verifikasi file di GitHub.
+
+## Catatan penggabungan rancangan visual
+
+Dokumen ini menjadi **arsip kerja utama** untuk alur visual dan checklist karakter. `Visual_Development_Plan.md` berfungsi sebagai ringkasan dan indeks yang merujuk ke arsip ini.
+
+- **Jumlah outfit belum diselaraskan:** rancangan pengembangan sebelumnya menetapkan 8 outfit dalam grid 4×2, sedangkan arsip ini mencatat target 10 outfit. Tandai **[PERLU KONFIRMASI PENULIS]** dan jangan menganggap salah satunya sebagai keputusan final sebelum penulis memilih.
+- **Sudut Character Profile Sheet belum diselaraskan:** rancangan sebelumnya meminta empat sudut (depan, kiri, kanan, belakang), sedangkan tahap full-body di arsip ini menyebut depan, samping, dan belakang. Untuk sementara, gunakan spesifikasi empat sudut sebagai opsi rancangan dan konfirmasikan sebelum membuat aset final.
+- **Art style:** menunggu arahan penulis. Catatan gaya sebelumnya hanya referensi sementara, bukan keputusan final.
+- Lima aset yang tercakup dalam tahap awal: Potret Character, Character Profile/Full-body Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet.
+- Aset yang ditunda: Character Lineup, Relationship Visual, Lighting & Mood Sheet, Key Scene Illustration, dan Detail Identity Sheet.
 
 ## Definisi status
 
@@ -219,4 +237,4 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 
 ## Prinsip akhir
 
-Ikuti urutan **audit canon → brief visual → portrait → full-body → expression sheet → outfit reference → visual kelompok** untuk setiap karakter. Setelah tiap persetujuan, perbarui checklist dan catatan GitHub sebelum berpindah ke tahap berikutnya. Jangan meminta penulis mengulang instruksi yang sudah tertulis di panduan ini.
+Ikuti urutan **audit canon → brief visual → portrait → full-body → expression sheet → outfit reference → body language sheet → visual kelompok** untuk setiap karakter. Setelah tiap persetujuan, perbarui checklist dan catatan GitHub sebelum berpindah ke tahap berikutnya. Jangan meminta penulis mengulang instruksi yang sudah tertulis di panduan ini.

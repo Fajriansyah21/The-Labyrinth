@@ -124,6 +124,7 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
 
 ### Visual karakter
 
+- [Indeks aset visual](Visual/README.md): daftar aset yang sudah diverifikasi dan status unggahnya.
 - [Arsip utama visual karakter](Visual/Visual_Character_Archive.md): spesifikasi visual, checklist, brief, dan status persetujuan/aset per karakter.
 - [Referensi Art Style](Visual/ArtStyle.jpg): acuan gaya rendering yang disetujui, bukan acuan desain fisik atau outfit karakter.
 - **Devan, visual yang sudah diunggah dan diverifikasi:**

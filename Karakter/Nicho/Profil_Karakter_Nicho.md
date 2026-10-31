@@ -37,6 +37,28 @@ Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai keb
 Warna dan detail yang tidak dapat dipastikan hanya dari foto harus tetap mengikuti informasi canon yang telah ditetapkan dalam profil. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar ekspresi yang wajib muncul di setiap gambar.
 
 
+
+#### Gaya berpakaian sehari-hari
+
+Gaya berpakaian Nicho menggunakan **Clean Casual sebagai gaya utama**, dengan **Smart Casual** dan **Relaxed Minimalist** sebagai variasi. Arah gaya ini merupakan keputusan pengembangan karakter yang disepakati penulis. Penampilannya cenderung rapi dan sederhana, tetapi tetap sesuai dengan keseharian seorang mahasiswa berusia 19 tahun. Kerapian Nicho terlihat melalui pilihan potongan dan kombinasi pakaian, bukan melalui pakaian formal atau aksesori yang mencolok.
+
+**Gaya utama: Clean Casual**
+- **Atasan:** kaus polos, kemeja kasual, atau polo shirt.
+- **Bawahan:** celana panjang berpotongan lurus, terutama warna hitam, abu-abu, navy, atau beige.
+- **Alas kaki:** sneakers minimalis dengan warna netral.
+- **Palet warna:** putih, hitam, abu-abu, navy, dan krem.
+
+Gaya ini menjadi pilihan dasar untuk aktivitas sehari-hari seperti kuliah, belajar, atau bertemu teman. Kombinasi pakaian yang sederhana dan terawat sesuai dengan kebiasaan Nicho menjaga kerapian tanpa membuatnya terlihat terlalu formal.
+
+**Variasi: Smart Casual**
+Untuk kegiatan kampus, presentasi, atau situasi yang membutuhkan penampilan sedikit lebih rapi, Nicho dapat mengenakan kemeja kasual, polo rajut, atau sweater tipis dengan celana chino atau celana bahan berpotongan lurus. Warna yang dapat digunakan antara lain navy, putih, biru muda, cokelat, dan abu-abu. Alas kaki dapat berupa sneakers bersih atau loafers sederhana. Gaya ini adalah pilihan situasional, bukan pakaian yang harus ia kenakan setiap hari.
+
+**Variasi: Relaxed Minimalist**
+Ketika suasana lebih santai, terutama saat bersama teman dekat, Nicho dapat mengenakan sweatshirt polos, kaus berpotongan sedikit longgar, atau kardigan sederhana, dipadukan dengan jeans lurus atau celana longgar yang tetap terlihat rapi. Warna yang sesuai antara lain hitam, abu-abu, putih, navy, dan biru denim. Potongan yang lebih santai memberi variasi pada penampilannya tanpa menghilangkan kebiasaannya menjaga kerapian.
+
+Pilihan pakaian Nicho tetap mengikuti kegiatan, cuaca, kenyamanan, dan konteks adegan. Ia tidak harus selalu mengenakan kaus polos atau celana hitam, dan gaya Smart Casual maupun Relaxed Minimalist tidak perlu muncul sebagai penanda emosi yang kaku. Gaya berpakaian merupakan panduan visual, bukan aturan yang membatasi variasi pakaian sehari-harinya.
+
+
 ## 2. Kepribadian dan Struktur Diri
 
 ### Rasa Ingin Tahu dan Kecintaan terhadap Proses Belajar

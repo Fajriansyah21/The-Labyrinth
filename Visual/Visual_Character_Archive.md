@@ -77,15 +77,16 @@ Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail 
 - [x] Potret Character Sheet
 - [x] Character Profile Sheet
 - [x] Facial Expression Sheet
-- [ ] Outfit Sheet — 8 outfit, grid 4×2
+- [x] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, DAN FACIAL EXPRESSION SHEET DISETUJUI PENULIS; TAHAP BERIKUTNYA BELUM DIMULAI
+- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, FACIAL EXPRESSION SHEET, DAN OUTFIT SHEET DISETUJUI PENULIS; TAHAP BERIKUTNYA BELUM DIMULAI
 - **Detail visual:** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang diperiksa ulang dari dokumen canon. Ciri fisik (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) disetujui sebagai desain visual berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya.
 - **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
-- **Status file visual:** DESAIN DISETUJUI DALAM PERCAKAPAN, NAMUN FILE POTRET, PROFILE SHEET, DAN FACIAL EXPRESSION SHEET BELUM DIUNGGAH KE REPOSITORY; path GitHub untuk aset gambar belum terverifikasi.
+- **Catatan Outfit Sheet:** Tepat delapan outfit dalam grid 4 kolom × 2 baris, fokus pada tampilan seluruh tubuh dan pakaian, tanpa judul atau deskripsi yang mengalihkan perhatian. Desain disetujui penulis pada 2026-10-31.
+- **Status file visual:** DESAIN DISETUJUI DALAM PERCAKAPAN, NAMUN FILE POTRET, PROFILE SHEET, FACIAL EXPRESSION SHEET, DAN OUTFIT SHEET BELUM DIUNGGAH KE REPOSITORY; path GitHub untuk aset gambar belum terverifikasi.
 
 ### Eleina
 - [ ] Audit canon dan brief visual

@@ -124,5 +124,5 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
 
 - [Arsip utama visual karakter](Visual/Visual_Character_Archive.md): spesifikasi visual, checklist persetujuan, dan status aset.
 - [Referensi Art Style](Visual/ArtStyle.jpg): acuan gaya rendering yang disetujui.
-- **Devan:** [Folder visual](Visual/Devan) · [Potret Character Sheet](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Oufit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png).
+- **Devan:** [Folder visual](Visual/Devan) · [Potret Character Sheet](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png).
 - Aset Devan lainnya akan ditautkan setelah nama dan path file diverifikasi. Visual yang disetujui adalah referensi desain, bukan pengganti sumber canon tertulis.

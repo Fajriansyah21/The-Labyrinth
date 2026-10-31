@@ -221,4 +221,4 @@ Bagian ini dipertahankan secara khusus karena piano memiliki fungsi yang berbeda
 - Jangan menetapkan peristiwa pemicu perkembangan Nicho tanpa memeriksa outline.
 - Jangan menjadikan interpretasi psikologis sebagai fakta yang selalu diketahui Nicho sendiri.
 - Jangan menetapkan persepsi Adel, Devan, atau Reza tanpa memeriksa dokumen hubungan masing-masing.
-- Profil ini belum diperbarui ke GitHub dan masih menunggu persetujuan penulis.
+- Versi profil ini telah disetujui penulis dan diperbarui ke GitHub.

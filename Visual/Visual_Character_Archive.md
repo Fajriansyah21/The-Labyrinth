@@ -78,9 +78,9 @@ Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail 
 - [x] Character Profile Sheet
 - [x] Facial Expression Sheet
 - [x] Outfit Sheet — 8 outfit, grid 4×2
-- [ ] Body Language Sheet
+- [x] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, FACIAL EXPRESSION SHEET, DAN OUTFIT SHEET DISETUJUI PENULIS; TAHAP BERIKUTNYA BELUM DIMULAI
+- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, FACIAL EXPRESSION SHEET, OUTFIT SHEET, DAN BODY LANGUAGE SHEET DISETUJUI PENULIS; VISUAL KELOMPOK/HUBUNGAN BELUM DIMULAI
 - **Detail visual:** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang diperiksa ulang dari dokumen canon. Ciri fisik (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) disetujui sebagai desain visual berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya.
 - **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.

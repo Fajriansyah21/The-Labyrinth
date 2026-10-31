@@ -1,7 +1,7 @@
 # Rencana Pengembangan Visual Karakter — THE LABYRINTH
 
 **Status:** Ringkasan kerja; detail operasional dan checklist karakter berada di [Visual Character Archive](Visual_Character_Archive.md).  
-**Art style:** [BELUM DITENTUKAN] — menunggu arahan penulis.  
+**Art style:** referensi dari penulis diterima pada 2026-10-31; detail acuan tercatat di [Visual Character Archive](Visual_Character_Archive.md).  
 **Prinsip:** Visual menjaga konsistensi karakter, bukan menetapkan canon baru.
 
 ## 1. Dokumen utama
@@ -22,13 +22,15 @@ Dokumen ini adalah ringkasan ruang lingkup dan tidak menggantikan arsip utama. J
 4. **Outfit Sheet:** variasi pakaian dengan karakter dan identitas visual yang konsisten.
 5. **Body Language Sheet:** pose berdiri dan duduk, gestur, postur, serta kebiasaan fisik yang sesuai karakter.
 
+**Arah visual:** ilustrasi fashion bergaya anime semi-realistis/stilisasi, linework sketsa, shading painterly, lipatan dan kontras yang jelas, serta latar putih bersih. **Skin tone dan undertone harus mengikuti masing-masing karakter**, bukan diseragamkan atau disalin dari palet monokrom contoh pakaian. Lihat [catatan art style lengkap](Visual_Character_Archive.md).
+
 Spesifikasi lengkap tiap aset dan checklist persetujuannya dikelola dalam [Visual Character Archive](Visual_Character_Archive.md).
 
 ## 3. Hal yang masih perlu diselaraskan
 
 - **Jumlah Outfit Sheet:** dokumen ini sebelumnya menetapkan 8 outfit dalam grid 4×2, sedangkan arsip utama mencatat target 10 outfit. Status: **[PERLU KONFIRMASI PENULIS]**.
 - **Sudut Character Profile Sheet:** dokumen ini sebelumnya meminta empat sudut (depan, kiri, kanan, belakang), sedangkan arsip utama menyebut depan, samping, dan belakang. Status: **[PERLU KONFIRMASI PENULIS]**.
-- **Art style:** [BELUM DITENTUKAN]. Arahan penulis akan dicatat di arsip utama dan diringkas di sini.
+- **Art style:** referensi awal sudah diterima dan dicatat di arsip utama; detail tambahan dari penulis tetap bisa memperjelasnya.
 - **Karakter yang dikerjakan berikutnya:** [BELUM DITENTUKAN].
 
 ## 4. Aset yang ditunda

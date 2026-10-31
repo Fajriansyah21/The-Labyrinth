@@ -131,7 +131,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [x] Portrait — desain disetujui; file repository: `Visual/Devan/Potret_Devan.png`
 - [x] Character Profile Sheet — desain disetujui; file repository: `Visual/Devan/FullBody_Devan.png`
 - [x] Expression sheet — desain disetujui; file repository: `Visual/Devan/Expressions_Sheet_Devan.png`
-- [ ] Outfit Sheet — gunakan template standar 8 outfit dalam grid 4×2; rancangan lama 10 outfit tidak lagi berlaku.
+- [ ] Outfit Sheet — 8 outfit dalam grid 4×2.
 - [ ] Visual kelompok/hubungan
 - **Canon terverifikasi:** tinggi 180 cm; usia 19 tahun dan mahasiswa tahun pertama di awal cerita utama, sesuai profil yang diperiksa terakhir.
 - **Desain visual disetujui:** rambut hitam tebal berlapis; mata cokelat gelap; kulit sawo matang terang/cokelat muda hangat; wajah mengikuti portrait yang disetujui; tubuh sedikit atletis sebagai keputusan desain.
@@ -157,7 +157,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Expression sheet
 - [ ] Outfit Sheet — perlu disusun ulang mengikuti template standar 8 outfit dalam grid 4×2.
 - [ ] Visual kelompok/hubungan
-- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit Sheet Nicho harus mengikuti template yang berlaku untuk semua karakter: 8 outfit dalam grid 4×2, dengan panel bernomor dan judul; layout mengikuti arahan visual yang disetujui tanpa highlight kecil tambahan di setiap outfit. Rancangan lama 10 outfit/grid 2×5 tidak lagi berlaku.
+- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit Sheet Nicho menggunakan standar yang sama dengan semua karakter: 8 outfit dalam grid 4×2, dengan panel bernomor dan judul; layout mengikuti arahan visual yang disetujui tanpa highlight kecil tambahan di setiap outfit.
 - **Status aset:** portrait, full-body reference, expression sheet, dan outfit reference disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
 
 ### Elvano
@@ -174,7 +174,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Ciri fisik:** [BELUM DITENTUKAN] sampai diverifikasi dari profil canon.
 

@@ -90,9 +90,11 @@ Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual E
 - Dasarkan pose pada kepribadian, kebiasaan, hubungan, dan konteks yang terverifikasi.
 - Tandai interpretasi yang belum diputuskan sebagai OPSI DESAIN.
 
-## 4. Status karakter — mulai dari nol
+## 4. Status karakter dan progres visual
 
-Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail desain dari rancangan visual sebelumnya tidak berlaku sebagai status proyek yang baru. Ini tidak menghapus fakta canon dari dokumen cerita utama; fakta tersebut perlu diverifikasi kembali saat audit karakter.
+**Catatan riwayat:** Pada awal pembaruan alur kerja visual, rancangan visual lama yang dibatalkan oleh penulis dinyatakan tidak berlaku dan proses desain dimulai ulang dari nol. Reset tersebut hanya berlaku untuk rancangan lama sebelum alur kerja saat ini. Reset tidak membatalkan progres baru yang telah disetujui, tidak menghapus aset yang sudah diunggah, dan tidak mengubah canon cerita.
+
+Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan keberadaan file di repository dicatat secara terpisah agar status keduanya tidak tertukar. Setiap karakter dikerjakan berdasarkan sumber canon yang relevan dan persetujuan penulis.
 
 ### Devan
 - [x] Audit canon dan brief visual

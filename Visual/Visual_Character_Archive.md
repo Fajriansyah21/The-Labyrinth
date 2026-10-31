@@ -73,15 +73,17 @@ Kerjakan satu tahap demi satu tahap. Minta persetujuan penulis sebelum menjadika
 Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail desain dari rancangan visual sebelumnya tidak berlaku sebagai status proyek yang baru. Ini tidak menghapus fakta canon dari dokumen cerita utama; fakta tersebut perlu diverifikasi kembali saat audit karakter.
 
 ### Devan
-- [ ] Audit canon dan brief visual
-- [ ] Potret Character Sheet
+- [x] Audit canon dan brief visual
+- [x] Potret Character Sheet
 - [ ] Character Profile Sheet
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** BELUM DIMULAI
-- **Detail visual:** BELUM DIAUDIT ULANG DARI SUMBER CANON
+- **Status desain visual:** POTRET CHARACTER SHEET DISETUJUI PENULIS; TAHAP BERIKUTNYA BELUM DIMULAI
+- **Detail visual:** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang diperiksa ulang dari dokumen canon. Ciri fisik potret (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) disetujui sebagai desain visual berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya.
+- **Catatan tahap:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Draf revisi terakhir disetujui penulis pada 2026-10-31.
+- **Status file potret:** BELUM DIUNGGAH KE REPOSITORY; gambar yang dihasilkan dalam percakapan belum memiliki path GitHub terverifikasi.
 
 ### Eleina
 - [ ] Audit canon dan brief visual

@@ -121,19 +121,8 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
 
 
 ### Visual karakter
-Folder visual berisi referensi gambar karakter yang tersedia saat ini. Klik nama karakter untuk membuka folder visualnya di GitHub.
 
-- [Visual Devan](Visual/Devan): [Potret](Visual/Devan/Potret_Devan.png) · [Full Body](Visual/Devan/FullBody_Devan.png) · [Referensi Outfit](Visual/Devan/Outfit_Reference_Devan.png) · [Lembar Ekspresi](Visual/Devan/Expressions_Sheet_Devan.png)
-- [Visual Eleina](Visual/Eleina): [Potret](Visual/Eleina/Potret_Eleina.png) · [Full Body](Visual/Eleina/FullBody_Eleina.png) · [Referensi Outfit](Visual/Eleina/Outfit_Reference_Eleina.png) · [Lembar Ekspresi](Visual/Eleina/Expression_Sheet_Eleina.png)
-- [Visual Nicho](Visual/Nicho): [Potret](Visual/Nicho/Potret_Nicho.png)
-
-Karakter lain belum memiliki folder visual khusus di repository pada saat indeks ini diperbarui. Tautan visual akan ditambahkan setelah asetnya tersedia.
-
-
-## Template visual karakter
-
-- [Template Visual Karakter dan Arsip Utama](Visual/Visual_Character_Archive.md): satu-satunya dokumen operasional untuk spesifikasi visual, checklist karakter, persetujuan desain, dan status aset.
-- [Referensi Art Style](Visual/ArtStyle.jpg): acuan rendering ilustrasi yang telah disetujui penulis.
-- **Tahap awal:** Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet (9 ekspresi), Outfit Sheet (template 8 outfit, grid 4×2), dan Body Language Sheet.
-- **Ditunda:** Character Lineup, Relationship Visual, Lighting & Mood Sheet, Key Scene Illustration, dan Detail Identity Sheet.
-- Skin tone dan undertone wajib mengikuti masing-masing karakter, bukan diseragamkan berdasarkan referensi pakaian.
+- [Arsip utama visual karakter](Visual/Visual_Character_Archive.md): spesifikasi visual, checklist persetujuan, dan status aset.
+- [Referensi Art Style](Visual/ArtStyle.jpg): acuan gaya rendering yang disetujui.
+- **Devan:** [Folder visual](Visual/Devan) · [Potret Character Sheet](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png).
+- Aset Devan lainnya akan ditautkan setelah nama dan path file diverifikasi. Visual yang disetujui adalah referensi desain, bukan pengganti sumber canon tertulis.

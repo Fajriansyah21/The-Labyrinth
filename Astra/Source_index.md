@@ -80,10 +80,10 @@ Persetujuan teks di percakapan tidak otomatis memperbarui file. Perbarui sumber 
 
 ## G. Referensi visual karakter
 
-Gunakan gambar sebagai referensi visual, bukan pengganti profil karakter atau sumber canon tertulis.
+Gunakan gambar sebagai referensi visual desain, bukan pengganti profil karakter atau sumber canon tertulis. Untuk status persetujuan, brief, dan aturan pengerjaan, periksa [Arsip Visual Karakter](../Visual/Visual_Character_Archive.md). Gaya rendering merujuk pada [ArtStyle.jpg](../Visual/ArtStyle.jpg); referensi gaya tidak menetapkan ciri fisik atau outfit karakter.
 
 | Karakter | Folder / arsip | Aset yang path-nya sudah diverifikasi |
 |---|---|---|
-| Devan | [Folder visual](../Visual/Devan) · [Arsip utama visual](../Visual/Visual_Character_Archive.md) | [Potret Character Sheet](../Visual/Devan/Potret_Devan.png), [Character Profile Sheet](../Visual/Devan/Character_Profile_Sheet_Devan.png), [Outfit Sheet](../Visual/Devan/Outfit_Sheet_Devan.png), [Body Language Sheet](../Visual/Devan/Body_Language_Sheet_Devan.png) |
+| Devan | [Folder visual](../Visual/Devan) · [Arsip utama visual](../Visual/Visual_Character_Archive.md) | [Potret Character Sheet](../Visual/Devan/Potret_Devan.png), [Character Profile Sheet](../Visual/Devan/Character_Profile_Sheet_Devan.png), [Outfit Sheet — 8 outfit, grid 4×2](../Visual/Devan/Outfit_Sheet_Devan.png), [Body Language Sheet — 8 pose, grid 4×2](../Visual/Devan/Body_Language_Sheet_Devan.png) |
 
-**Catatan:** tautan hanya ditambahkan untuk aset yang path-nya sudah berhasil diverifikasi. Tambahkan aset Devan lainnya setelah nama file dipastikan. Jangan menganggap visual sebagai canon tertulis, terutama untuk pose atau gestur yang merupakan interpretasi desain.
+**Status Devan:** empat aset di atas telah ditemukan di repository dan desain visual Devan untuk tahap-tahap tersebut telah disetujui penulis. **Facial Expression Sheet** belum ditemukan saat pemeriksaan terakhir, jadi belum ditautkan. Jangan menganggap visual sebagai canon tertulis, terutama pose atau gestur yang merupakan interpretasi desain.

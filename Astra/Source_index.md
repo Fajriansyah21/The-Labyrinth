@@ -80,12 +80,10 @@ Persetujuan teks di percakapan tidak otomatis memperbarui file. Perbarui sumber 
 
 ## G. Referensi visual karakter
 
-Gunakan gambar di bagian ini sebagai referensi visual, bukan pengganti profil karakter atau sumber canon tertulis. Folder dan aset yang tersedia saat ini:
+Gunakan gambar sebagai referensi visual, bukan pengganti profil karakter atau sumber canon tertulis.
 
-| Karakter | Folder visual | Aset yang tersedia |
+| Karakter | Folder / arsip | Aset yang path-nya sudah diverifikasi |
 |---|---|---|
-| Devan | [Visual/Devan](../Visual/Devan) | [Potret](../Visual/Devan/Potret_Devan.png), [Full Body](../Visual/Devan/FullBody_Devan.png), [Referensi Outfit](../Visual/Devan/Outfit_Reference_Devan.png), [Lembar Ekspresi](../Visual/Devan/Expressions_Sheet_Devan.png) |
-| Eleina | [Visual/Eleina](../Visual/Eleina) | [Potret](../Visual/Eleina/Potret_Eleina.png), [Full Body](../Visual/Eleina/FullBody_Eleina.png), [Referensi Outfit](../Visual/Eleina/Outfit_Reference_Eleina.png), [Lembar Ekspresi](../Visual/Eleina/Expression_Sheet_Eleina.png) |
-| Nicho | [Visual/Nicho](../Visual/Nicho) | [Potret](../Visual/Nicho/Potret_Nicho.png) |
+| Devan | [Folder visual](../Visual/Devan) · [Arsip utama visual](../Visual/Visual_Character_Archive.md) | [Potret Character Sheet](../Visual/Devan/Potret_Devan.png), [Character Profile Sheet](../Visual/Devan/Character_Profile_Sheet_Devan.png), [Body Language Sheet](../Visual/Devan/Body_Language_Sheet_Devan.png) |
 
-**Catatan cakupan:** berdasarkan isi folder Visual yang diperiksa, aset visual khusus yang tersedia saat ini baru untuk Devan, Eleina, dan Nicho. Jangan membuat tautan ke visual karakter lain sebelum folder atau file terkait benar-benar tersedia.
+**Catatan:** tautan hanya ditambahkan untuk aset yang path-nya sudah berhasil diverifikasi. Tambahkan aset Devan lainnya setelah nama file dipastikan. Jangan menganggap visual sebagai canon tertulis, terutama untuk pose atau gestur yang merupakan interpretasi desain.

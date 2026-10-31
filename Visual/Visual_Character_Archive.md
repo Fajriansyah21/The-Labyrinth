@@ -11,9 +11,9 @@
 3. Jangan mengarang detail fisik sebagai canon. Jika sumber belum menetapkan bentuk wajah, mata, rambut, warna kulit, tinggi, atau proporsi, tandai **[BELUM DITENTUKAN]** dan tanyakan/ajukan opsi kepada penulis sebelum menguncinya.
 4. Kerjakan dan minta persetujuan tahap demi tahap. Jangan lanjut ke tahap berikutnya sebelum tahap aktif disetujui.
 5. **Portrait yang disetujui adalah acuan wajah wajib** untuk semua gambar berikutnya. Pertahankan bentuk wajah, mata, hidung, mulut, warna kulit/undertone, rambut, dan ciri khas. Jika wajah mulai berubah, revisi gambarnya, jangan menerima wajah baru.
-6. **Art style utama: [BELUM DITENTUKAN].** Arsip lama pernah mencatat ilustrasi anime semi-realistis dengan garis sketsa lembut dan shading halus sebagai gaya default/provisional. Jangan jadikan itu keputusan final; tunggu art style yang akan diberikan penulis, lalu perbarui bagian ini.
+6. **Art style utama: mengikuti referensi visual yang diberikan penulis pada 2026-10-31.** Gunakan ilustrasi fashion bergaya anime semi-realistis/stilisasi, linework sketsa yang terlihat, shading painterly dengan lipatan kain yang tegas, gradasi abu-abu yang halus, kontras cukup kuat, dan latar putih bersih. Referensi yang dikirim menampilkan pakaian bernuansa monokrom; ini tidak berarti seluruh karakter atau pakaian wajib hitam-putih. Warna akhir mengikuti brief karakter dan kebutuhan outfit.
 7. Expression sheet dan outfit sheet harus menggunakan panel/frame terpisah dan label yang jelas. Jangan biarkan gambar saling bercampur atau terpotong.
-8. **Jaga warna kulit secara konsisten.** Catat warna/undertone dari sumber dan portrait yang disetujui. Perbedaan pencahayaan boleh terjadi, tetapi jangan membuat kulit lebih pucat/gelap tanpa alasan.
+8. **Warna kulit harus spesifik untuk setiap karakter.** Gunakan warna kulit dan undertone masing-masing berdasarkan sumber canon serta portrait karakter yang disetujui. Jangan menyeragamkan skin tone antarkarakter atau menyalin warna kulit dari gambar referensi outfit. Jaga konsistensi skin tone di portrait, full-body, expression, outfit, dan body-language sheet; perubahan pencahayaan boleh memengaruhi tampilan sesaat, tetapi bukan warna dasar karakter.
 9. Timeline utama adalah kuliah. Prioritaskan pakaian sehari-hari/kampus untuk masa kini; seragam sekolah masuk bagian **MASA LALU / FLASHBACK** jika dibutuhkan. Jangan mengarang emblem, nama kampus, dress code, atau logo.
 10. Gambar yang dibuat di chat tidak otomatis tersimpan ke GitHub. Bedakan persetujuan desain dari status file. Tandai **ASET TERUNGGAH** hanya setelah path file di repository benar-benar diverifikasi.
 11. Setelah setiap persetujuan/upload, perbarui checklist karakter dan catatan keputusan dalam arsip ini.
@@ -84,6 +84,19 @@ Sebelum membuat gambar:
 - Jangan menjadikan komposisi ilustrasi sebagai bukti canon baru.
 - [ ] Penulis menyetujui visual kelompok/hubungan.
 - [ ] Simpan dan verifikasi file di GitHub.
+
+## Art style — referensi penulis (2026-10-31)
+
+**Status:** REFERENSI GAYA DISETUJUI; rincian spesifik dapat diperbarui jika penulis memberi arahan tambahan.
+
+- **Gaya ilustrasi:** fashion illustration bergaya anime semi-realistis/stilisasi.
+- **Linework:** garis sketsa gelap yang tampak, terutama pada kontur dan lipatan.
+- **Shading:** painterly, dengan gradasi lembut dan bayangan lipatan kain yang jelas.
+- **Kontras:** nilai terang-gelap cukup kuat agar bentuk pakaian terbaca.
+- **Latar:** putih polos atau sangat bersih, tanpa dekorasi yang mengganggu.
+- **Referensi yang terlihat:** lembar outfit tanpa wajah/kepala, dengan fokus pada potongan, siluet, bahan, dan lipatan pakaian. Ini referensi rendering pakaian, bukan instruksi untuk menghilangkan kepala/wajah pada portrait atau full-body character sheet.
+- **Warna kulit:** wajib mengikuti skin tone dan undertone masing-masing karakter, sesuai sumber canon dan portrait yang disetujui. Jangan mengubah skin tone demi meniru palet monokrom referensi pakaian.
+- **Batas referensi:** gambar ini menjadi acuan gaya rendering. Outfit yang terlihat di dalamnya bukan otomatis outfit canon untuk karakter THE LABYRINTH.
 
 ## Catatan penggabungan rancangan visual
 

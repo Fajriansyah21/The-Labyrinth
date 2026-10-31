@@ -40,10 +40,11 @@ Kerjakan satu tahap demi satu tahap. Minta persetujuan penulis sebelum menjadika
 
 ### A. Potret Character Sheet
 - Latar putih bersih.
-- Framing dari bagian atas rambut hingga bagian atas dada.
-- Fokus pada bentuk wajah, rambut, mata, dan kesan visual karakter.
-- Pakaian bukan fokus utama.
+- Tampak frontal dengan bahu sejajar dan framing dari bagian atas rambut hingga bagian atas dada.
+- **Karakter tidak memakai pakaian; bahu terbuka dan tidak boleh ada pakaian yang terlihat di dalam frame.**
+- Fokus pada bentuk wajah, rambut, mata, dan identitas visual karakter.
 - Jangan menambahkan ciri fisik yang belum didukung canon atau persetujuan penulis.
+- Gunakan hasil potret yang disetujui sebagai acuan identitas wajah untuk sheet berikutnya.
 
 ### B. Character Profile Sheet
 Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual Eleina pada 2026-10-31. Struktur ini mengatur tata letak, bukan menetapkan ciri fisik atau outfit baru sebagai canon.
@@ -52,7 +53,9 @@ Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual E
 - Empat sudut wajib: depan, kiri, kanan, dan belakang.
 - Seluruh tubuh terlihat pada keempat sudut; tinggi badan dicantumkan hanya jika sudah diverifikasi dari sumber canon.
 - Pose netral dan konsisten agar siluet serta proporsi mudah dibandingkan.
-- Pakaian dasar: karakter laki-laki memakai kaus putih ketat dan celana pendek hitam; karakter perempuan memakai tank top putih dan celana pendek hitam. Jangan mengganti pakaian dasar ini hanya karena pakaian pada contoh referensi berbeda.
+- **Pakaian dasar karakter laki-laki: tanpa baju, hanya memakai celana pendek hitam.**
+- **Pakaian dasar karakter perempuan: memakai sport bra hitam dan celana pendek hitam.**
+- Pakaian dasar ini khusus untuk Character Profile Sheet, bukan outfit canon sehari-hari karakter. Jangan menambahkan pakaian lain atau mengganti warna/potongan dasar tersebut.
 
 **Panel detail di sisi kanan**
 1. Detail wajah: tampak depan dan sudut tiga perempat/profil yang relevan.
@@ -71,9 +74,11 @@ Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual E
 - Contoh Eleina menjadi acuan struktur saja; jangan menyalin desain, warna, atau ciri Eleina ke karakter lain.
 
 ### C. Facial Expression Sheet
-- Sembilan ekspresi dalam panel terpisah.
+- Sembilan ekspresi dalam panel terpisah, dengan tata letak grid 3×3.
 - Latar putih bersih.
 - Framing dari bagian atas rambut hingga bagian atas dada.
+- **Karakter tidak memakai pakaian; bahu terbuka dan tidak boleh ada pakaian yang terlihat di dalam frame.**
+- Pertahankan identitas wajah, rambut, dan ciri fisik yang sama dengan Potret Character Sheet yang disetujui.
 - Pilih ekspresi berdasarkan kepribadian dan konteks karakter, bukan satu set ekspresi generik untuk semua tokoh.
 
 ### D. Outfit Sheet

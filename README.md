@@ -128,3 +128,11 @@ Folder visual berisi referensi gambar karakter yang tersedia saat ini. Klik nama
 - [Visual Nicho](Visual/Nicho): [Potret](Visual/Nicho/Potret_Nicho.png)
 
 Karakter lain belum memiliki folder visual khusus di repository pada saat indeks ini diperbarui. Tautan visual akan ditambahkan setelah asetnya tersedia.
+
+
+## Rencana pengembangan visual
+
+- [Rencana Pengembangan Visual Karakter](Visual/Visual_Development_Plan.md): ruang lingkup aset visual tahap awal, aset yang ditunda, aturan canon/persetujuan, dan tempat mencatat art style setelah diberikan penulis.
+- **Tahap awal:** Potret Character, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet.
+- **Ditunda:** Character Lineup, Relationship Visual, Lighting & Mood Sheet, Key Scene Illustration, dan Detail Identity Sheet.
+- **Art style:** [BELUM DITENTUKAN]. Menunggu arahan penulis; jangan menetapkan style berdasarkan asumsi.

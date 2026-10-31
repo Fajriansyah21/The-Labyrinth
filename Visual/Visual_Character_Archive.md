@@ -4,7 +4,7 @@
 
 **Riwayat reset:** Reset berlaku terhadap rancangan visual terdahulu sebelum alur kerja visual yang sekarang. Reset tersebut bukan status bahwa seluruh proyek visual saat ini masih kosong.
 
-**Status terkini:** Tahap Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet untuk Devan telah disetujui penulis. Empat file Devan telah ditemukan dan diverifikasi di repository; file Facial Expression Sheet belum terverifikasi. Potret dan Character Profile Sheet Eleina telah disetujui penulis. Draft Facial Expression Sheet telah dibuat dan menunggu evaluasi/approval penulis.
+**Status terkini:** Tahap Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet untuk Devan telah disetujui penulis. Kelima file Devan telah ditemukan dan diverifikasi di repository. Potret dan Character Profile Sheet Eleina telah disetujui penulis. Draft Facial Expression Sheet telah dibuat dan menunggu evaluasi/approval penulis.
 
 **Sumber acuan:** Gunakan dokumen ini untuk spesifikasi visual, checklist, brief, dan status persetujuan/aset. Fakta cerita dan karakter harus tetap diverifikasi dari dokumen canon yang relevan. Jangan menghidupkan kembali rancangan visual lama yang telah dibatalkan.
 
@@ -111,7 +111,7 @@ Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan 
 - **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Outfit Sheet:** Tepat delapan outfit dalam grid 4 kolom × 2 baris, fokus pada tampilan seluruh tubuh dan pakaian, tanpa judul atau deskripsi yang mengalihkan perhatian. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Body Language Sheet:** Tepat delapan pose dalam grid 4×2, mencakup pose santai, mendengarkan, menikmati musik, setelah latihan basket, menawarkan bantuan, bercanda dengan teman dekat, khawatir dan siap membantu, serta menarik diri saat terluka. Desain disetujui penulis pada 2026-10-31. Pose dan gestur spesifik yang belum ditetapkan canon tetap merupakan interpretasi visual, bukan kebiasaan permanen Devan.
-- **Status file visual:** Path Potret Character Sheet, Character Profile Sheet, Outfit Sheet, dan Body Language Sheet telah ditemukan dan diverifikasi di repository. Path file Facial Expression Sheet belum terverifikasi.
+- **Status file visual:** Path Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet telah ditemukan dan diverifikasi di repository.
 
 ### Eleina
 - [x] Audit canon dan brief visual

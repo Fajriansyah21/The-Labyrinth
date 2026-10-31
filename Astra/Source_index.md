@@ -80,7 +80,7 @@ Persetujuan teks di percakapan tidak otomatis memperbarui file. Perbarui sumber 
 
 ## G. Referensi visual karakter
 
-Gunakan gambar sebagai referensi visual desain, bukan pengganti profil karakter atau sumber canon tertulis. Untuk status persetujuan, brief, dan aturan pengerjaan, periksa [Arsip Visual Karakter](../Visual/Visual_Character_Archive.md). Gaya rendering merujuk pada [ArtStyle.jpg](../Visual/ArtStyle.jpg); referensi gaya tidak menetapkan ciri fisik atau outfit karakter.
+Gunakan gambar sebagai referensi visual desain, bukan pengganti profil karakter atau sumber canon tertulis. Untuk daftar aset yang sudah diverifikasi, buka [Indeks Visual](../Visual/README.md). Untuk status persetujuan, brief, dan aturan pengerjaan, periksa [Arsip Visual Karakter](../Visual/Visual_Character_Archive.md). Gaya rendering merujuk pada [ArtStyle.jpg](../Visual/ArtStyle.jpg); referensi gaya tidak menetapkan ciri fisik atau outfit karakter.
 
 | Karakter | Folder / arsip | Aset yang path-nya sudah diverifikasi |
 |---|---|---|

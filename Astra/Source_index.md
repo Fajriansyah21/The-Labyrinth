@@ -76,3 +76,16 @@ Aturan cakupan: profil individual menjelaskan bagaimana seorang tokoh berpikir, 
 - **[BELUM DITENTUKAN]:** informasi yang belum diputuskan.
 
 Persetujuan teks di percakapan tidak otomatis memperbarui file. Perbarui sumber yang relevan setelah isi dan cakupannya siap, lalu verifikasi hasilnya.
+
+
+## G. Referensi visual karakter
+
+Gunakan gambar di bagian ini sebagai referensi visual, bukan pengganti profil karakter atau sumber canon tertulis. Folder dan aset yang tersedia saat ini:
+
+| Karakter | Folder visual | Aset yang tersedia |
+|---|---|---|
+| Devan | [Visual/Devan](../Visual/Devan) | [Potret](../Visual/Devan/Potret_Devan.png), [Full Body](../Visual/Devan/FullBody_Devan.png), [Referensi Outfit](../Visual/Devan/Outfit_Reference_Devan.png), [Lembar Ekspresi](../Visual/Devan/Expressions_Sheet_Devan.png) |
+| Eleina | [Visual/Eleina](../Visual/Eleina) | [Potret](../Visual/Eleina/Potret_Eleina.png), [Full Body](../Visual/Eleina/FullBody_Eleina.png), [Referensi Outfit](../Visual/Eleina/Outfit_Reference_Eleina.png), [Lembar Ekspresi](../Visual/Eleina/Expression_Sheet_Eleina.png) |
+| Nicho | [Visual/Nicho](../Visual/Nicho) | [Potret](../Visual/Nicho/Potret_Nicho.png) |
+
+**Catatan cakupan:** berdasarkan isi folder Visual yang diperiksa, aset visual khusus yang tersedia saat ini baru untuk Devan, Eleina, dan Nicho. Jangan membuat tautan ke visual karakter lain sebelum folder atau file terkait benar-benar tersedia.

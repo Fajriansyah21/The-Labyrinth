@@ -11,7 +11,7 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 
 ## Devan
 
-**Status:** Potret Character Sheet, Character Profile Sheet, Outfit Sheet, dan Body Language Sheet telah disetujui penulis dan file-nya terverifikasi di repository.
+**Status:** Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet telah disetujui penulis dan file-nya terverifikasi di repository.
 
 | Aset | Tautan | Status |
 |---|---|---|
@@ -19,7 +19,8 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 | Character Profile Sheet | [Character_Profile_Sheet_Devan.png](Devan/Character_Profile_Sheet_Devan.png) | Terunggah dan terverifikasi |
 | Outfit Sheet — 8 outfit, grid 4×2 | [Outfit_Sheet_Devan.png](Devan/Outfit_Sheet_Devan.png) | Terunggah dan terverifikasi |
 | Body Language Sheet — 8 pose, grid 4×2 | [Body_Language_Sheet_Devan.png](Devan/Body_Language_Sheet_Devan.png) | Terunggah dan terverifikasi |
-| Facial Expression Sheet | Belum ditautkan | Belum ditemukan pada path yang diperiksa |
+| Facial Expression Sheet — 9 ekspresi, grid 3×3 | [Facial_Expression_Sheet_Devan.png](Devan/Facial_Expression_Sheet_Devan.png) | Terunggah dan terverifikasi |
+
 
 ### Catatan penggunaan
 

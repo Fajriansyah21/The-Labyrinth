@@ -96,12 +96,12 @@ Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail 
 ### Eleina
 - [x] Audit canon dan brief visual
 - [x] Potret Character Sheet
-- [ ] Character Profile Sheet
+- [x] Character Profile Sheet
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** POTRET CHARACTER SHEET DISETUJUI PENULIS; TAHAP BERIKUTNYA CHARACTER PROFILE SHEET
+- **Status desain visual:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET DISETUJUI PENULIS; TAHAP BERIKUTNYA FACIAL EXPRESSION SHEET
 - **Sumber yang diperiksa:** [Latar Belakang Eleina](../Karakter/Eleina/Latar_Belakang_Eleina.md), [Profil Karakter Eleina](../Karakter/Eleina/Profil_Karakter_Eleina.md), [Eleina dengan Devan](../Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Devan.md), dan [Devan dengan Eleina](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md). Profil karakter telah difinalkan; latar belakang keluarga dinyatakan sebagai canon yang telah disetujui.
 - **Brief fisik sementara (rujukan profil draf, perlu konfirmasi sebelum desain):** wajah oval dengan kontur lembut dan dagu membulat; mata relatif besar berbentuk almond dengan iris hazel; alis cokelat gelap ramping; hidung proporsional berujung lembut; bibir kecil hingga sedang. Rambut cokelat, panjang melewati dada, ber-layer, belahan mendekati tengah, dengan gelombang lembut di ujung. Tinggi 168 cm dan tubuh ramping dengan bahu kecil tercatat di profil. Ciri-ciri tersebut belum otomatis menjadi canon final karena profil masih berstatus draf.
 - **Skin tone dan undertone:** [BELUM DITENTUKAN]. Profil hanya menyebut kulit tampak cerah dengan rona hangat pada foto acuan dan secara eksplisit menyatakan bahwa warna kulit dalam pencahayaan netral tidak dapat dipastikan dari foto. Jangan menetapkan shade atau undertone final sebelum ada sumber yang lebih kuat atau konfirmasi penulis.
@@ -110,6 +110,7 @@ Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail 
 - **Arah pakaian sementara (profil draf):** casual natural dengan sentuhan soft feminine. Referensi yang disebut meliputi kaus/blus/kemeja kasual/sweater tipis, kardigan sesuai konteks, jeans lurus atau celana kasual, rok midi sebagai variasi, dan sneakers sederhana. Palet putih, krem, cokelat, biru denim, dan abu-abu disebut sebagai warna yang mudah dipadukan, bukan ketentuan wajib.
 - **Catatan hubungan yang relevan untuk ekspresi/gestur:** hubungan dengan Devan tumbuh melalui rasa aman, perhatian kecil, dan kepercayaan bertahap. Ketika cerita utama dimulai, perasaan romantis belum diungkapkan secara terbuka. Jangan membuat ekspresi/pose Eleina seolah mereka sudah menjadi pasangan yang terbuka atau terlalu intim.
 - **Hal yang masih perlu dikonfirmasi:** skin tone dan undertone netral belum ditetapkan secara terpisah dari pencahayaan foto acuan.
+- **Catatan Character Profile Sheet:** Struktur mengikuti referensi Devan yang diperbarui penulis: turnaround tubuh penuh tampak depan, kiri, kanan, dan belakang; detail wajah dari beberapa sudut; detail mata dan rambut; palet warna; panduan proporsi/postur; serta detail telinga, hidung, dan bibir. Pakaian turnaround dipertahankan berupa bra olahraga hitam dan celana pendek hitam. Draft disetujui penulis pada 2026-10-31. Gambar hasil generasi dibuat dalam sesi; unggahan aset ke repository belum dilakukan.
 - **Catatan Potret Character Sheet:** Potret frontal berlatar putih, framing dari bagian atas rambut hingga bahu/atas dada, tanpa pakaian, dengan fokus pada wajah, mata, dan rambut. Draft potret disetujui penulis pada 2026-10-31. Desain mempertahankan bentuk wajah oval dan dagu lembut, mata hazel, rambut cokelat panjang ber-layer dengan belahan mendekati tengah dan gelombang lembut. Gambar hasil generasi telah dibuat dalam sesi; unggahan aset ke repository belum dilakukan.
 - **Status file:** aset Potret Character Sheet belum diunggah ke repository.
 

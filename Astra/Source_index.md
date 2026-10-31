@@ -84,6 +84,6 @@ Gunakan gambar sebagai referensi visual, bukan pengganti profil karakter atau su
 
 | Karakter | Folder / arsip | Aset yang path-nya sudah diverifikasi |
 |---|---|---|
-| Devan | [Folder visual](../Visual/Devan) · [Arsip utama visual](../Visual/Visual_Character_Archive.md) | [Potret Character Sheet](../Visual/Devan/Potret_Devan.png), [Character Profile Sheet](../Visual/Devan/Character_Profile_Sheet_Devan.png), [Outfit Sheet](../Visual/Devan/Oufit_Sheet_Devan.png), [Body Language Sheet](../Visual/Devan/Body_Language_Sheet_Devan.png) |
+| Devan | [Folder visual](../Visual/Devan) · [Arsip utama visual](../Visual/Visual_Character_Archive.md) | [Potret Character Sheet](../Visual/Devan/Potret_Devan.png), [Character Profile Sheet](../Visual/Devan/Character_Profile_Sheet_Devan.png), [Outfit Sheet](../Visual/Devan/Outfit_Sheet_Devan.png), [Body Language Sheet](../Visual/Devan/Body_Language_Sheet_Devan.png) |
 
 **Catatan:** tautan hanya ditambahkan untuk aset yang path-nya sudah berhasil diverifikasi. Tambahkan aset Devan lainnya setelah nama file dipastikan. Jangan menganggap visual sebagai canon tertulis, terutama untuk pose atau gestur yang merupakan interpretasi desain.

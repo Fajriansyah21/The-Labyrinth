@@ -183,7 +183,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Ciri fisik:** [BELUM DITENTUKAN] sampai diverifikasi dari profil canon.
 
@@ -192,7 +192,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Ciri fisik:** [BELUM DITENTUKAN] sampai diverifikasi dari profil canon.
 
@@ -201,7 +201,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Catatan:** verifikasi nama yang dipakai dalam canon terbaru.
 - **Ciri fisik:** [BELUM DITENTUKAN] sampai diverifikasi dari profil canon.
@@ -211,7 +211,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Catatan:** verifikasi nama yang dipakai dalam canon terbaru.
 - **Ciri fisik:** [BELUM DITENTUKAN] sampai diverifikasi dari profil canon.
@@ -221,7 +221,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Ciri fisik:** [BELUM DITENTUKAN] sampai diverifikasi dari profil canon.
 

@@ -1,8 +1,12 @@
-# THE LABYRINTH — Template Visual Karakter
+# THE LABYRINTH — Arsip Visual Karakter
 
-**Status proyek visual:** DIMULAI ULANG DARI NOL  
-**Persetujuan penulis:** Penulis menyatakan rancangan visual sebelumnya keliru dan meminta seluruh progres/desain visual lama dihapus dari alur kerja.  
-**Sumber tunggal:** Gunakan dokumen ini sebagai template visual utama. Jangan menggunakan desain, checklist persetujuan, atau detail visual karakter dari rancangan lama sebagai acuan. Fakta cerita/karakter hanya boleh diambil kembali dari dokumen canon yang relevan ketika proses karakter dimulai.
+**Status proyek visual saat ini:** Proses visual berjalan bertahap per karakter. Pengerjaan dimulai ulang dari nol untuk rancangan lama yang dinyatakan keliru oleh penulis, tetapi progres baru yang telah dibuat dan disetujui setelah reset tetap berlaku. Aset yang sudah diunggah dan diverifikasi di repository tidak dihapus atau dianggap hilang.
+
+**Riwayat reset:** Reset berlaku terhadap rancangan visual terdahulu sebelum alur kerja visual yang sekarang. Reset tersebut bukan status bahwa seluruh proyek visual saat ini masih kosong.
+
+**Status terkini:** Tahap Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet untuk Devan telah disetujui penulis. Empat file Devan telah ditemukan dan diverifikasi di repository; file Facial Expression Sheet belum terverifikasi. Karakter berikutnya yang akan dikerjakan adalah Eleina, dimulai dari audit sumber canon dan penyusunan brief visual. Belum ada desain visual Eleina yang disetujui melalui alur kerja ini.
+
+**Sumber acuan:** Gunakan dokumen ini untuk spesifikasi visual, checklist, brief, dan status persetujuan/aset. Fakta cerita dan karakter harus tetap diverifikasi dari dokumen canon yang relevan. Jangan menghidupkan kembali rancangan visual lama yang telah dibatalkan.
 
 ## 1. Art style yang disetujui
 

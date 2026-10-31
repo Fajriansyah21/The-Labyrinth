@@ -118,3 +118,13 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 ## Catatan status
 
 Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen referensi atau rancangan tidak otomatis menjadi canon. Profil Karakter Devan saat ini merupakan draf terstruktur yang perlu ditinjau penulis sebelum dianggap final.
+
+
+### Visual karakter
+Folder visual berisi referensi gambar karakter yang tersedia saat ini. Klik nama karakter untuk membuka folder visualnya di GitHub.
+
+- [Visual Devan](Visual/Devan): [Potret](Visual/Devan/Potret_Devan.png) · [Full Body](Visual/Devan/FullBody_Devan.png) · [Referensi Outfit](Visual/Devan/Outfit_Reference_Devan.png) · [Lembar Ekspresi](Visual/Devan/Expressions_Sheet_Devan.png)
+- [Visual Eleina](Visual/Eleina): [Potret](Visual/Eleina/Potret_Eleina.png) · [Full Body](Visual/Eleina/FullBody_Eleina.png) · [Referensi Outfit](Visual/Eleina/Outfit_Reference_Eleina.png) · [Lembar Ekspresi](Visual/Eleina/Expression_Sheet_Eleina.png)
+- [Visual Nicho](Visual/Nicho): [Potret](Visual/Nicho/Potret_Nicho.png)
+
+Karakter lain belum memiliki folder visual khusus di repository pada saat indeks ini diperbarui. Tautan visual akan ditambahkan setelah asetnya tersedia.

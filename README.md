@@ -22,6 +22,8 @@ Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. G
 - [Source Index](Astra/Source_index.md): indeks sumber, fungsi, dan status dokumen.
 
 ### Karakter: Devan
+
+**Referensi visual Devan:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret](Visual/Devan/Potret_Devan.png) · [Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png). Keempat aset telah diverifikasi. Facial Expression Sheet belum ditemukan di path yang diperiksa. Gambar adalah referensi desain yang disetujui, bukan pengganti canon tertulis.
 - [Latar Belakang Devan](Karakter/Devan/Latar_Belakang_Devan.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): profil karakter Devan yang mencakup identitas, kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
 

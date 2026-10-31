@@ -10,13 +10,32 @@
 
 ### Penampilan Fisik
 
-Nicho memiliki wajah oval yang agak panjang dengan dagu sedikit runcing. Matanya berwarna abu-abu gelap, dengan tatapan yang cenderung analitis dan fokus. Ia mampu mempertahankan kontak mata dengan stabil, meskipun tatapannya tidak selalu terasa hangat. Ketika sedang berpikir, matanya sedikit menyipit. Sesekali, ia juga menunjukkan tatapan kosong singkat ketika sedang memproses sesuatu.
+#### Wajah
 
-Rambutnya hitam dengan sedikit nuansa kebiruan, bertekstur lurus dan halus, serta dipotong medium pendek dengan belahan samping. Rambutnya biasanya tertata rapi karena kerapian telah menjadi kebiasaan sehari-hari.
+Foto acuan utama menunjukkan Nicho memiliki wajah oval yang agak panjang, dengan kontur rahang cukup tegas dan dagu yang sedikit meruncing. Proporsi wajahnya memberi kesan dewasa dan rapi, tetapi garis-garis wajahnya tidak terlalu keras. Dahinya tampak proporsional dan bagian pipinya relatif halus.
 
-Tubuhnya ramping dengan postur tegak dan gerakan yang cenderung terkontrol. Ia jarang melakukan gerakan yang tidak diperlukan dan biasanya bergerak secara efisien. Nicho juga jarang menyentuh orang lain. Ketika melakukannya, ia terkadang terlihat sedikit canggung.
+Matanya berbentuk almond dengan kelopak atas yang cukup tegas. Dalam foto acuan, tatapannya tampak tenang dan fokus, dengan mata sedikit menyipit secara alami. Warna mata canon Nicho adalah abu-abu gelap. Ekspresinya dapat membuatnya terlihat sulit dibaca, tetapi ia tidak harus selalu memasang tatapan tajam atau dingin. Alisnya berwarna gelap, relatif tebal, dan cenderung lurus dengan lengkungan yang tipis.
 
-Secara keseluruhan, Nicho memberi kesan rapi, teratur, dan sulit dibaca. Namun, kesan dari penampilannya tidak sepenuhnya menggambarkan sisi dirinya yang lain.
+Hidung Nicho tampak ramping, dengan batang yang relatif lurus dan proporsional terhadap wajah. Bibirnya berukuran sedang dengan bentuk yang rapi; senyum tertutup yang tipis dapat memberi kesan santai dan sedikit percaya diri tanpa membuatnya tampak menyombongkan diri. Senyum tersebut hanya salah satu ekspresi yang mungkin muncul, bukan ekspresi permanen.
+
+Secara keseluruhan, wajah Nicho memadukan kontur oval agak panjang, mata abu-abu gelap yang fokus, dan fitur yang rapi. Ia dapat terlihat tenang atau sulit dibaca tanpa harus selalu tampak serius. Ekspresinya perlu mengikuti situasi dan kondisi emosionalnya.
+
+#### Rambut
+
+Rambut Nicho berwarna hitam dengan sedikit nuansa kebiruan. Teksturnya lurus dan halus, dengan potongan medium pendek serta belahan samping. Dalam foto acuan, bagian atas rambut terlihat bervolume dengan beberapa lapisan dan helaian yang jatuh ke dahi. Tatanannya tetap rapi, tetapi tidak kaku atau tersisir sempurna. Pantulan kebiruan dapat terlihat dalam pencahayaan tertentu, sedangkan warna dasarnya tetap hitam.
+
+#### Postur dan pembawaan
+
+Tubuh Nicho ramping dengan postur tegak. Gerakannya cenderung terkontrol dan efisien, serta ia jarang melakukan gerakan yang tidak diperlukan. Ia juga jarang menyentuh orang lain; ketika melakukannya, ia terkadang tampak sedikit canggung. Ciri-ciri ini menggambarkan kebiasaannya membawa diri, bukan berarti ia harus selalu kaku dalam setiap situasi.
+
+#### Acuan visual untuk ilustrasi
+
+Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Nicho. Dalam ilustrasi berikutnya, pertahankan wajah oval agak panjang dengan dagu sedikit meruncing, mata berbentuk almond berwarna abu-abu gelap, alis gelap yang relatif tebal dan cenderung lurus, hidung ramping yang proporsional, bibir berukuran sedang, serta rambut hitam bernuansa kebiruan dengan belahan samping dan volume alami.
+
+Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai kebutuhan adegan, tetapi tidak seharusnya mengubah identitas dasar wajah Nicho. Ia harus tetap terlihat sebagai orang yang sama ketika tersenyum, tertawa, serius, gugup, lelah, atau sedih. Jangan membuatnya selalu berekspresi datar hanya karena ia cenderung sulit dibaca.
+
+Warna dan detail yang tidak dapat dipastikan hanya dari foto harus tetap mengikuti informasi canon yang telah ditetapkan dalam profil. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar ekspresi yang wajib muncul di setiap gambar.
+
 
 ## 2. Kepribadian dan Struktur Diri
 

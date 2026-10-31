@@ -130,9 +130,10 @@ Folder visual berisi referensi gambar karakter yang tersedia saat ini. Klik nama
 Karakter lain belum memiliki folder visual khusus di repository pada saat indeks ini diperbarui. Tautan visual akan ditambahkan setelah asetnya tersedia.
 
 
-## Rencana pengembangan visual
+## Template visual karakter
 
-- [Rencana Pengembangan Visual Karakter](Visual/Visual_Development_Plan.md): ruang lingkup aset visual tahap awal, aset yang ditunda, aturan canon/persetujuan, dan tempat mencatat art style setelah diberikan penulis.
-- **Tahap awal:** Potret Character, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet.
+- [Template Visual Karakter dan Arsip Utama](Visual/Visual_Character_Archive.md): satu-satunya dokumen operasional untuk spesifikasi visual, checklist karakter, persetujuan desain, dan status aset.
+- [Referensi Art Style](Visual/ArtStyle.jpg): acuan rendering ilustrasi yang telah disetujui penulis.
+- **Tahap awal:** Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet (9 ekspresi), Outfit Sheet (template 8 outfit, grid 4×2), dan Body Language Sheet.
 - **Ditunda:** Character Lineup, Relationship Visual, Lighting & Mood Sheet, Key Scene Illustration, dan Detail Identity Sheet.
-- **Art style:** [BELUM DITENTUKAN]. Menunggu arahan penulis; jangan menetapkan style berdasarkan asumsi.
+- Skin tone dan undertone wajib mengikuti masing-masing karakter, bukan diseragamkan berdasarkan referensi pakaian.

@@ -46,11 +46,29 @@ Kerjakan satu tahap demi satu tahap. Minta persetujuan penulis sebelum menjadika
 - Jangan menambahkan ciri fisik yang belum didukung canon atau persetujuan penulis.
 
 ### B. Character Profile Sheet
-- Empat sudut: depan, kiri, kanan, dan belakang.
-- Seluruh tubuh terlihat agar proporsi dan siluet mudah dibandingkan.
-- Tinggi badan hanya dicantumkan jika sudah diverifikasi dari sumber canon.
-- Pakaian dasar sederhana dan netral agar proporsi tubuh terbaca.
-- Jaga desain agar konsisten dengan portrait yang sudah disetujui.
+Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual Eleina pada 2026-10-31. Struktur ini mengatur tata letak, bukan menetapkan ciri fisik atau outfit baru sebagai canon.
+
+**Panel utama — turnaround tubuh penuh**
+- Empat sudut wajib: depan, kiri, kanan, dan belakang.
+- Seluruh tubuh terlihat pada keempat sudut; tinggi badan dicantumkan hanya jika sudah diverifikasi dari sumber canon.
+- Pose netral dan konsisten agar siluet serta proporsi mudah dibandingkan.
+- Pakaian dasar: karakter laki-laki memakai kaus putih ketat dan celana pendek hitam; karakter perempuan memakai tank top putih dan celana pendek hitam. Jangan mengganti pakaian dasar ini hanya karena pakaian pada contoh referensi berbeda.
+
+**Panel detail di sisi kanan**
+1. Detail wajah: tampak depan dan sudut tiga perempat/profil yang relevan.
+2. Detail mata: close-up untuk bentuk, warna, dan ciri khas mata.
+3. Detail rambut: close-up tekstur rambut serta tampilan belakang rambut.
+4. Palet warna: swatch rambut utama, highlight rambut bila ada, mata, kulit, bibir, dan rona pipi jika relevan. Warna harus konsisten dengan portrait yang disetujui dan keputusan skin tone karakter.
+5. Proporsi & postur: sketsa panduan depan/samping/belakang serta tinggi badan yang terverifikasi.
+6. Detail lain: close-up telinga, hidung, bibir, atau ciri fisik khas yang memang sudah didukung referensi/canon.
+
+**Tata letak dan gaya**
+- Susun turnaround di area kiri sebagai elemen terbesar; panel detail ditata rapi di area kanan.
+- Gunakan latar putih bersih, pembatas panel yang halus dan jelas, label singkat berbahasa Indonesia, serta tipografi yang tidak mengalahkan ilustrasi.
+- Ikuti ArtStyle.jpg yang disetujui: anime semi-realistis, linework sketsa terlihat, shading painterly, dan detail yang bersih.
+- Pertahankan wajah, rambut, warna kulit, dan proporsi yang konsisten dengan Potret Character Sheet yang sudah disetujui.
+- Jangan mengisi panel dengan ciri fisik hasil tebakan. Detail yang belum ditentukan harus ditandai untuk konfirmasi atau tidak ditampilkan.
+- Contoh Eleina menjadi acuan struktur saja; jangan menyalin desain, warna, atau ciri Eleina ke karakter lain.
 
 ### C. Facial Expression Sheet
 - Sembilan ekspresi dalam panel terpisah.

@@ -87,7 +87,7 @@ Semua status visual di bawah ini sengaja direset. Tanda persetujuan atau detail 
 - **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Outfit Sheet:** Tepat delapan outfit dalam grid 4 kolom × 2 baris, fokus pada tampilan seluruh tubuh dan pakaian, tanpa judul atau deskripsi yang mengalihkan perhatian. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Body Language Sheet:** Tepat delapan pose dalam grid 4×2, mencakup pose santai, mendengarkan, menikmati musik, setelah latihan basket, menawarkan bantuan, bercanda dengan teman dekat, khawatir dan siap membantu, serta menarik diri saat terluka. Desain disetujui penulis pada 2026-10-31. Pose dan gestur spesifik yang belum ditetapkan canon tetap merupakan interpretasi visual, bukan kebiasaan permanen Devan.
-- **Status file visual:** File Potret Character Sheet, Character Profile Sheet, dan Body Language Sheet telah ditemukan dan diverifikasi di repository. Path file Facial Expression Sheet dan Outfit Sheet belum terverifikasi.
+- **Status file visual:** Path Potret Character Sheet, Character Profile Sheet, Outfit Sheet, dan Body Language Sheet telah ditemukan dan diverifikasi di repository. Path file Facial Expression Sheet belum terverifikasi.
 
 ### Eleina
 - [ ] Audit canon dan brief visual

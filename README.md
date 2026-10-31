@@ -122,7 +122,13 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
 
 ### Visual karakter
 
-- [Arsip utama visual karakter](Visual/Visual_Character_Archive.md): spesifikasi visual, checklist persetujuan, dan status aset.
-- [Referensi Art Style](Visual/ArtStyle.jpg): acuan gaya rendering yang disetujui.
-- **Devan:** [Folder visual](Visual/Devan) · [Potret Character Sheet](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png).
-- Aset Devan lainnya akan ditautkan setelah nama dan path file diverifikasi. Visual yang disetujui adalah referensi desain, bukan pengganti sumber canon tertulis.
+- [Arsip utama visual karakter](Visual/Visual_Character_Archive.md): spesifikasi visual, checklist, brief, dan status persetujuan/aset per karakter.
+- [Referensi Art Style](Visual/ArtStyle.jpg): acuan gaya rendering yang disetujui, bukan acuan desain fisik atau outfit karakter.
+- **Devan, visual yang sudah diunggah dan diverifikasi:**
+  - [Folder seluruh aset Devan](Visual/Devan)
+  - [Potret Character Sheet](Visual/Devan/Potret_Devan.png)
+  - [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png)
+  - [Outfit Sheet — 8 outfit, grid 4×2](Visual/Devan/Outfit_Sheet_Devan.png)
+  - [Body Language Sheet — 8 pose, grid 4×2](Visual/Devan/Body_Language_Sheet_Devan.png)
+  - **Facial Expression Sheet:** belum ditemukan di repository saat pemeriksaan terakhir; tautan akan ditambahkan setelah file diunggah dan path diverifikasi.
+- Visual Devan telah disetujui penulis sebagai referensi desain. Visual bukan pengganti sumber canon tertulis; pose dan gestur yang belum ditetapkan dalam canon tetap merupakan interpretasi visual.

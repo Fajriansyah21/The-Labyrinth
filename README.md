@@ -23,7 +23,7 @@ Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. G
 
 ### Karakter: Devan
 
-**Referensi visual Devan:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret](Visual/Devan/Potret_Devan.png) · [Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png). Keempat aset telah diverifikasi. Facial Expression Sheet belum ditemukan di path yang diperiksa. Gambar adalah referensi desain yang disetujui, bukan pengganti canon tertulis.
+**Referensi visual Devan:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret](Visual/Devan/Potret_Devan.png) · [Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png). Kelima aset visual telah ditemukan dan path-nya diverifikasi. Gambar adalah referensi desain yang disetujui, bukan pengganti canon tertulis.
 - [Latar Belakang Devan](Karakter/Devan/Latar_Belakang_Devan.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): profil karakter Devan yang mencakup identitas, kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
 
@@ -133,5 +133,5 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
   - [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png)
   - [Outfit Sheet — 8 outfit, grid 4×2](Visual/Devan/Outfit_Sheet_Devan.png)
   - [Body Language Sheet — 8 pose, grid 4×2](Visual/Devan/Body_Language_Sheet_Devan.png)
-  - **Facial Expression Sheet:** belum ditemukan di repository saat pemeriksaan terakhir; tautan akan ditambahkan setelah file diunggah dan path diverifikasi.
+  - [Facial Expression Sheet](Visual/Devan/Facial_Expression_Sheet_Devan.png)
 - Visual Devan telah disetujui penulis sebagai referensi desain. Visual bukan pengganti sumber canon tertulis; pose dan gestur yang belum ditetapkan dalam canon tetap merupakan interpretasi visual.

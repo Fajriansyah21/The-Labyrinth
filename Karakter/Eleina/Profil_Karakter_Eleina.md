@@ -1,6 +1,6 @@
 # Profil Karakter Eleina
 
-> **Status:** Draf pengembangan profil, dengan latar belakang keluarga sebagai canon yang telah disetujui penulis. Profil ini menyatukan sumber kepribadian, karakteristik, latar belakang, dan hubungan Eleina. Persetujuan atas latar belakang keluarga tidak otomatis mengunci seluruh interpretasi psikologis atau detail lain dalam profil. Penanda **[BELUM DITENTUKAN]** menunjukkan hal yang masih terbuka.
+> **Status:** Profil karakter telah difinalkan berdasarkan keputusan penulis dan sumber yang tersedia. Latar belakang keluarga yang telah disetujui tetap menjadi canon; hobi membaca novel, merawat tanaman, dan membuat kue juga telah ditetapkan sebagai canon. Penanda **[BELUM DITENTUKAN]** tetap digunakan untuk detail lain yang belum diputuskan dan tidak membatalkan finalisasi profil ini.
 
 ## 1. Identitas dan Gambaran Umum
 
@@ -64,6 +64,16 @@ Gaya berpakaian Eleina memadukan **casual natural sebagai dasar** dengan **sentu
 - **Aksesori dan tas:** pilih yang sederhana dan fungsional jika diperlukan; aksesori tertentu belum ditetapkan sebagai ciri khas Eleina.
 
 Contoh padu padan yang sesuai adalah kaus atau blus putih dengan jeans biru dan sneakers, atau kardigan krem dengan rok midi ketika ia ingin terlihat lebih rapi. Pilihan pakaian tetap mengikuti kegiatan, cuaca, kenyamanan, suasana hati, dan konteks adegan. Jangan membuat Eleina selalu memakai kardigan atau rok hanya karena gaya soft feminine menjadi salah satu acuannya.
+
+### 1.2. Hobi
+
+Hobi resmi Eleina adalah:
+
+- **Membaca novel.** Ia menikmati membaca sebagai kegiatan pribadi. Genre atau jenis novel favoritnya belum ditentukan.
+- **Merawat tanaman.** Ia menikmati kegiatan merawat tanaman tanpa harus menjadi ahli atau mendalaminya secara khusus. Jenis tanaman yang biasa dirawatnya belum ditentukan.
+- **Membuat kue.** Ia menikmati proses membuat kue sekaligus hasilnya. Ia terkadang dapat membagikan hasil buatannya kepada orang lain, tetapi tidak selalu membuat kue dengan tujuan untuk dibagikan. Jenis kue andalannya belum ditentukan.
+
+Ketiga hobi ini merupakan canon. Detail spesifik seperti genre novel favorit, jenis tanaman, resep, dan kue andalan tidak perlu ditetapkan sampai dibutuhkan dalam cerita.
 
 ## 2. Kepribadian dan Struktur Diri
 
@@ -187,7 +197,7 @@ Eleina dapat memaafkan seseorang dan tetap berhati-hati. Ia dapat masih menyayan
 
 Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.
 
-Sumber karakteristik mencantumkan membaca, merawat tanaman, pekerjaan kecil, serta minat pada novel fiksi atau romansa dan membuat kue. **Status minat-minat spesifik tersebut sebagai canon final: [BELUM DITENTUKAN]** sampai dikonfirmasi penulis. Jangan menjadikannya detail wajib hanya karena tercantum dalam bahan rancangan.
+Membaca novel, merawat tanaman, dan membuat kue telah ditetapkan sebagai hobi resmi Eleina. Aktivitas kecil lainnya dapat menjadi pilihan situasional, bukan otomatis hobi tetap. Genre novel favorit, jenis tanaman, dan jenis kue yang biasa dibuatnya masih **[BELUM DITENTUKAN]**.
 
 ### 3.9. Respons ketika Mempertahankan Hubungan
 
@@ -311,7 +321,7 @@ Daftar ini adalah alat analisis penulis, bukan proses yang harus dijelaskan dala
 
 ### 5.6. Menenangkan Diri dan Minat
 
-Eleina dapat mengambil waktu sendiri, kembali ke rutinitas, atau melakukan kegiatan kecil ketika membutuhkan ruang untuk memproses perasaan. Membaca, merawat tanaman, dan membuat kue tercantum dalam sumber karakteristik sebagai minat atau aktivitas yang berkaitan dengannya, tetapi status masing-masing sebagai canon final masih **[BELUM DITENTUKAN]**. Gunakan hanya jika telah dikonfirmasi atau jika penulis sengaja menetapkannya.
+Eleina dapat mengambil waktu sendiri, kembali ke rutinitas, atau melakukan kegiatan kecil ketika membutuhkan ruang untuk memproses perasaan. Membaca novel, merawat tanaman, dan membuat kue merupakan hobi canon yang dapat ia pilih dalam situasi yang sesuai. Namun, jangan menganggap ia selalu menggunakan hobi tersebut untuk menenangkan diri; alasan dan pilihannya bergantung pada konteks.
 
 ## 6. Hubungan dan Dinamika Sosial
 
@@ -445,7 +455,6 @@ Profil ini adalah alat bantu penulis, bukan izin untuk memasukkan penjelasan psi
 Interpretasi ini berguna sebagai model kerja, tetapi tidak berarti setiap tindakan Eleina selalu berasal dari pola tersebut. Konteks adegan tetap menentukan.
 
 **[BELUM DITENTUKAN]**
-- Status final hobi membaca novel, merawat tanaman, dan membuat kue.
 - Bentuk, intensitas, dan pemicu spesifik setiap pola psikologis dalam adegan yang belum ditulis.
 - Detail perundungan yang belum ditetapkan, termasuk alasan para pelaku.
 - Urutan dan hasil pasti perkembangan Eleina dalam cerita, di luar peristiwa yang telah tercantum dalam dokumen canon.

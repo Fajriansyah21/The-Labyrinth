@@ -60,7 +60,7 @@ Sebelum membuat gambar:
 ### Tahap 4 — Outfit Sheet (wajib)
 - Lembar ini berfokus pada pakaian dan aksesori, bukan expression sheet.
 - Template standar: **8 outfit**, disusun **4 panel di baris atas dan 4 panel di baris bawah (grid 4×2)**. Setiap outfit berada dalam panel terpisah dengan batas dan label jelas; karakter terlihat cukup utuh untuk menilai pakaian.
-- Jika karakter tertentu sudah memiliki keputusan outfit khusus yang disetujui sebelumnya, catat sebagai pengecualian di checklist karakter tersebut.
+- Standar ini berlaku untuk **semua karakter**, tanpa pengecualian: tepat 8 outfit dalam grid 4×2.
 - Pilih outfit sesuai karakter, kegiatan, iklim, konteks sosial, dan timeline. Hindari variasi yang tidak cocok hanya demi memenuhi jumlah.
 - Utamakan outfit masa kuliah untuk cerita utama. Seragam SMA/sekolah dipisah sebagai **MASA LALU / FLASHBACK** jika dibutuhkan, tidak dihitung sebagai pakaian utama masa kini kecuali penulis memutuskan lain.
 - Gunakan portrait sebagai acuan wajah yang ketat pada seluruh panel. Pertahankan wajah, rambut, warna kulit, proporsi, dan art style. Jika wajah drift, revisi.
@@ -107,7 +107,7 @@ Dokumen ini adalah **satu-satunya template/panduan operasional visual karakter**
 1. **Potret Character Sheet:** acuan wajah, rambut, dan mata; latar putih; framing dari atas rambut sampai bagian atas dada; pakaian tidak menjadi fokus.
 2. **Character Profile Sheet:** empat sudut (depan, kiri, kanan, belakang), seluruh tubuh dan alas kaki terlihat; pakaian dasar netral; tinggi hanya dicantumkan jika terverifikasi dari canon.
 3. **Facial Expression Sheet:** 9 ekspresi dalam panel terpisah; framing kepala sampai bagian atas dada; ekspresi dipilih sesuai karakter.
-4. **Outfit Sheet:** 8 outfit dalam grid 4×2, kecuali ada keputusan khusus karakter yang sebelumnya sudah disetujui dan dicatat.
+4. **Outfit Sheet:** 8 outfit dalam grid 4×2 untuk setiap karakter, tanpa pengecualian.
 5. **Body Language Sheet:** variasi pose berdiri dan duduk, gestur, postur, serta kebiasaan fisik yang sesuai karakter.
 
 ### Aset yang ditunda
@@ -131,7 +131,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [x] Portrait — desain disetujui; file repository: `Visual/Devan/Potret_Devan.png`
 - [x] Character Profile Sheet — desain disetujui; file repository: `Visual/Devan/FullBody_Devan.png`
 - [x] Expression sheet — desain disetujui; file repository: `Visual/Devan/Expressions_Sheet_Devan.png`
-- [x] Outfit reference — konsep 10 outfit disetujui sebelumnya sebagai pengecualian khusus Devan; template umum tetap 8 outfit; dokumen panduan tersedia, gambar final outfit belum diverifikasi sebagai aset repository.
+- [ ] Outfit Sheet — gunakan template standar 8 outfit dalam grid 4×2; rancangan lama 10 outfit tidak lagi berlaku.
 - [ ] Visual kelompok/hubungan
 - **Canon terverifikasi:** tinggi 180 cm; usia 19 tahun dan mahasiswa tahun pertama di awal cerita utama, sesuai profil yang diperiksa terakhir.
 - **Desain visual disetujui:** rambut hitam tebal berlapis; mata cokelat gelap; kulit sawo matang terang/cokelat muda hangat; wajah mengikuti portrait yang disetujui; tubuh sedikit atletis sebagai keputusan desain.
@@ -143,7 +143,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [x] Portrait — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [x] Full-body reference — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [x] Expression sheet — desain disetujui; gambar final belum diverifikasi sebagai aset repository
-- [ ] Outfit Sheet (template 8 outfit; pengecualian karakter dicatat di bawah)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Desain visual disetujui:** rambut cokelat panjang dengan belahan mendekati tengah dan helaian depan yang jatuh natural; mata hazel/cokelat-hazel; wajah oval lembut; kulit cerah bernuansa hangat mengikuti portrait yang disetujui.
 - **Pose portrait:** menghadap kamera, kepala tegak, bahu sejajar.
@@ -155,9 +155,9 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [x] Outfit reference — desain disetujui; gambar final belum diverifikasi sebagai aset repository
+- [ ] Outfit Sheet — perlu disusun ulang mengikuti template standar 8 outfit dalam grid 4×2.
 - [ ] Visual kelompok/hubungan
-- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit reference berisi 10 variasi pakaian masa kuliah dalam grid 2×5 sebagai pengecualian khusus Nicho yang sudah disetujui sebelumnya; template umum tetap 8 outfit, dengan panel bernomor dan judul; layout mengikuti lembar referensi Devan tanpa highlight kecil tambahan di setiap outfit.
+- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit Sheet Nicho harus mengikuti template yang berlaku untuk semua karakter: 8 outfit dalam grid 4×2, dengan panel bernomor dan judul; layout mengikuti arahan visual yang disetujui tanpa highlight kecil tambahan di setiap outfit. Rancangan lama 10 outfit/grid 2×5 tidak lagi berlaku.
 - **Status aset:** portrait, full-body reference, expression sheet, dan outfit reference disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
 
 ### Elvano
@@ -165,7 +165,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Portrait
 - [ ] Full-body reference
 - [ ] Expression sheet
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (8 outfit, grid 4×2)
 - [ ] Visual kelompok/hubungan
 - **Ciri fisik:** [BELUM DITENTUKAN di arsip ini; periksa profil canon sebelum mendesain.]
 

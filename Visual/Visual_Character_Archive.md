@@ -38,10 +38,10 @@ Sebelum membuat gambar:
 - [ ] Penulis menyetujui portrait.
 - [ ] Simpan dan verifikasi file di GitHub.
 
-**Portrait yang disetujui menjadi acuan wajah wajib** untuk tahap 2 sampai 5.
+**Portrait yang disetujui menjadi acuan wajah wajib** untuk semua tahap visual berikutnya.
 
-### Tahap 2 — Full-body reference (wajib)
-- Turnaround tampak depan, samping, dan belakang; seluruh tubuh dan alas kaki terlihat.
+### Tahap 2 — Character Profile Sheet (wajib)
+- Tampilkan empat sudut: **depan, kiri, kanan, dan belakang**; seluruh tubuh dan alas kaki terlihat.
 - Pose berdiri alami dan tegak; tampak depan berkepala tegak dengan bahu sejajar.
 - Tambahkan garis panduan tinggi jika berguna. Cantumkan angka tinggi hanya jika canon sudah menetapkannya.
 - Bentuk tubuh, lebar bahu, dan proporsi harus berasal dari canon atau persetujuan penulis, bukan asumsi.
@@ -57,9 +57,10 @@ Sebelum membuat gambar:
 - [ ] Penulis menyetujui expression sheet.
 - [ ] Simpan dan verifikasi file di GitHub.
 
-### Tahap 4 — Outfit reference (wajib)
-- Lembar ini **hanya berfokus pada pakaian dan aksesori**, bukan portrait atau expression sheet.
-- Target standar: **10 outfit**, masing-masing panel terpisah, full-body terbaca, dan label jelas. Jumlah boleh berubah hanya atas persetujuan penulis.
+### Tahap 4 — Outfit Sheet (wajib)
+- Lembar ini berfokus pada pakaian dan aksesori, bukan expression sheet.
+- Template standar: **8 outfit**, disusun **4 panel di baris atas dan 4 panel di baris bawah (grid 4×2)**. Setiap outfit berada dalam panel terpisah dengan batas dan label jelas; karakter terlihat cukup utuh untuk menilai pakaian.
+- Jika karakter tertentu sudah memiliki keputusan outfit khusus yang disetujui sebelumnya, catat sebagai pengecualian di checklist karakter tersebut.
 - Pilih outfit sesuai karakter, kegiatan, iklim, konteks sosial, dan timeline. Hindari variasi yang tidak cocok hanya demi memenuhi jumlah.
 - Utamakan outfit masa kuliah untuk cerita utama. Seragam SMA/sekolah dipisah sebagai **MASA LALU / FLASHBACK** jika dibutuhkan, tidak dihitung sebagai pakaian utama masa kini kecuali penulis memutuskan lain.
 - Gunakan portrait sebagai acuan wajah yang ketat pada seluruh panel. Pertahankan wajah, rambut, warna kulit, proporsi, dan art style. Jika wajah drift, revisi.
@@ -85,9 +86,9 @@ Sebelum membuat gambar:
 - [ ] Penulis menyetujui visual kelompok/hubungan.
 - [ ] Simpan dan verifikasi file di GitHub.
 
-## Art style — referensi penulis (2026-10-31)
+## Art style — referensi penulis
 
-**Status:** REFERENSI GAYA DISETUJUI; rincian spesifik dapat diperbarui jika penulis memberi arahan tambahan.
+**Status:** DISETUJUI PENULIS pada 2026-10-31. File referensi: [`ArtStyle.jpg`](ArtStyle.jpg).
 
 - **Gaya ilustrasi:** fashion illustration bergaya anime semi-realistis/stilisasi.
 - **Linework:** garis sketsa gelap yang tampak, terutama pada kontur dan lipatan.
@@ -98,15 +99,19 @@ Sebelum membuat gambar:
 - **Warna kulit:** wajib mengikuti skin tone dan undertone masing-masing karakter, sesuai sumber canon dan portrait yang disetujui. Jangan mengubah skin tone demi meniru palet monokrom referensi pakaian.
 - **Batas referensi:** gambar ini menjadi acuan gaya rendering. Outfit yang terlihat di dalamnya bukan otomatis outfit canon untuk karakter THE LABYRINTH.
 
-## Catatan penggabungan rancangan visual
+## Template visual utama dan ruang lingkup
 
-Dokumen ini menjadi **arsip kerja utama** untuk alur visual dan checklist karakter. `Visual_Development_Plan.md` berfungsi sebagai ringkasan dan indeks yang merujuk ke arsip ini.
+Dokumen ini adalah **satu-satunya template/panduan operasional visual karakter**. Gunakan bagian ini, checklist karakter, dan catatan keputusan di bawahnya sebagai sumber tunggal agar spesifikasi tidak tersebar atau bertentangan.
 
-- **Jumlah outfit belum diselaraskan:** rancangan pengembangan sebelumnya menetapkan 8 outfit dalam grid 4×2, sedangkan arsip ini mencatat target 10 outfit. Tandai **[PERLU KONFIRMASI PENULIS]** dan jangan menganggap salah satunya sebagai keputusan final sebelum penulis memilih.
-- **Sudut Character Profile Sheet belum diselaraskan:** rancangan sebelumnya meminta empat sudut (depan, kiri, kanan, belakang), sedangkan tahap full-body di arsip ini menyebut depan, samping, dan belakang. Untuk sementara, gunakan spesifikasi empat sudut sebagai opsi rancangan dan konfirmasikan sebelum membuat aset final.
-- **Art style:** menunggu arahan penulis. Catatan gaya sebelumnya hanya referensi sementara, bukan keputusan final.
-- Lima aset yang tercakup dalam tahap awal: Potret Character, Character Profile/Full-body Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet.
-- Aset yang ditunda: Character Lineup, Relationship Visual, Lighting & Mood Sheet, Key Scene Illustration, dan Detail Identity Sheet.
+### Lima aset tahap awal
+1. **Potret Character Sheet:** acuan wajah, rambut, dan mata; latar putih; framing dari atas rambut sampai bagian atas dada; pakaian tidak menjadi fokus.
+2. **Character Profile Sheet:** empat sudut (depan, kiri, kanan, belakang), seluruh tubuh dan alas kaki terlihat; pakaian dasar netral; tinggi hanya dicantumkan jika terverifikasi dari canon.
+3. **Facial Expression Sheet:** 9 ekspresi dalam panel terpisah; framing kepala sampai bagian atas dada; ekspresi dipilih sesuai karakter.
+4. **Outfit Sheet:** 8 outfit dalam grid 4×2, kecuali ada keputusan khusus karakter yang sebelumnya sudah disetujui dan dicatat.
+5. **Body Language Sheet:** variasi pose berdiri dan duduk, gestur, postur, serta kebiasaan fisik yang sesuai karakter.
+
+### Aset yang ditunda
+Character Lineup, Relationship Visual, Lighting & Mood Sheet, Key Scene Illustration, dan Detail Identity Sheet ditunda sampai desain individual cukup stabil.
 
 ## Definisi status
 
@@ -124,9 +129,9 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 ### Devan
 - [x] Audit canon dan brief visual
 - [x] Portrait — desain disetujui; file repository: `Visual/Devan/Potret_Devan.png`
-- [x] Full-body reference — desain disetujui; file repository: `Visual/Devan/FullBody_Devan.png`
+- [x] Character Profile Sheet — desain disetujui; file repository: `Visual/Devan/FullBody_Devan.png`
 - [x] Expression sheet — desain disetujui; file repository: `Visual/Devan/Expressions_Sheet_Devan.png`
-- [x] Outfit reference — konsep 10 outfit disetujui; dokumen panduan tersedia, gambar final outfit belum diverifikasi sebagai aset repository.
+- [x] Outfit reference — konsep 10 outfit disetujui sebelumnya sebagai pengecualian khusus Devan; template umum tetap 8 outfit; dokumen panduan tersedia, gambar final outfit belum diverifikasi sebagai aset repository.
 - [ ] Visual kelompok/hubungan
 - **Canon terverifikasi:** tinggi 180 cm; usia 19 tahun dan mahasiswa tahun pertama di awal cerita utama, sesuai profil yang diperiksa terakhir.
 - **Desain visual disetujui:** rambut hitam tebal berlapis; mata cokelat gelap; kulit sawo matang terang/cokelat muda hangat; wajah mengikuti portrait yang disetujui; tubuh sedikit atletis sebagai keputusan desain.
@@ -138,11 +143,11 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [x] Portrait — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [x] Full-body reference — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [x] Expression sheet — desain disetujui; gambar final belum diverifikasi sebagai aset repository
-- [ ] Outfit reference (target 10 outfit)
+- [ ] Outfit Sheet (template 8 outfit; pengecualian karakter dicatat di bawah)
 - [ ] Visual kelompok/hubungan
 - **Desain visual disetujui:** rambut cokelat panjang dengan belahan mendekati tengah dan helaian depan yang jatuh natural; mata hazel/cokelat-hazel; wajah oval lembut; kulit cerah bernuansa hangat mengikuti portrait yang disetujui.
 - **Pose portrait:** menghadap kamera, kepala tegak, bahu sejajar.
-- **Art style:** ilustrasi anime semi-realistis dengan garis sketsa lembut, shading painterly, palet netral dan latar bersih.
+- **Art style:** mengikuti referensi penulis `ArtStyle.jpg`: fashion illustration anime semi-realistis/stilisasi, linework sketsa terlihat, shading painterly, dan latar putih bersih.
 - **Status aset:** portrait, full-body reference, dan expression sheet disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
 
 ### Nicho
@@ -152,7 +157,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 - [ ] Expression sheet
 - [x] Outfit reference — desain disetujui; gambar final belum diverifikasi sebagai aset repository
 - [ ] Visual kelompok/hubungan
-- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit reference berisi 10 variasi pakaian masa kuliah dalam grid 2×5, dengan panel bernomor dan judul; layout mengikuti lembar referensi Devan tanpa highlight kecil tambahan di setiap outfit.
+- **Desain visual disetujui:** portrait dan full-body menjadi acuan wajah/rambut/proporsi. Outfit reference berisi 10 variasi pakaian masa kuliah dalam grid 2×5 sebagai pengecualian khusus Nicho yang sudah disetujui sebelumnya; template umum tetap 8 outfit, dengan panel bernomor dan judul; layout mengikuti lembar referensi Devan tanpa highlight kecil tambahan di setiap outfit.
 - **Status aset:** portrait, full-body reference, expression sheet, dan outfit reference disetujui dalam percakapan; file gambar belum diunggah/diverifikasi sebagai aset GitHub.
 
 ### Elvano
@@ -223,7 +228,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 ## Template catatan keputusan (salin untuk setiap tahap)
 
 ### [Nama karakter] — [Tahap visual]
-- **Tahap:** [AUDIT / PORTRAIT / FULL-BODY / EXPRESSION / OUTFIT / GROUP]
+- **Tahap:** [AUDIT / PORTRAIT / CHARACTER PROFILE / EXPRESSION / OUTFIT / BODY LANGUAGE / GROUP]
 - **Status desain:** [OPSI / REFERENSI / DESAIN VISUAL DISETUJUI]
 - **Status file:** [BELUM DIUNGGAH / TERUNGGAH DAN DIVERIFIKASI]
 - **Sumber canon yang diperiksa:** [path dokumen]
@@ -239,7 +244,7 @@ Perbarui bagian karakter setelah tiap tahap. Jangan menganggap gambar yang dibua
 ## Metadata untuk setiap gambar yang sudah diunggah
 
 - **Nama file:** [nama file]
-- **Jenis visual:** [portrait / full-body / expression / outfit / group]
+- **Jenis visual:** [portrait / character profile / expression / outfit / body language / group]
 - **Status desain:** [OPSI / REFERENSI / DISETUJUI]
 - **Status file:** [BELUM DIUNGGAH / TERUNGGAH DAN DIVERIFIKASI]
 - **Acuan wajah:** [path portrait utama]

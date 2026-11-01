@@ -157,7 +157,7 @@ Matanya berwarna cokelat gelap dan berbentuk almond, dengan sudut luar yang sedi
 
 Hidungnya memiliki batang yang relatif lurus dan proporsional terhadap wajah. Ujung hidungnya membulat lembut dan tidak terlalu menonjol. Bibirnya berukuran sedang, dengan bibir bawah sedikit lebih penuh daripada bibir atas. Dalam foto acuan, sudut bibirnya terangkat tipis membentuk senyum kecil yang santai, tidak lebar dan tidak dibuat-buat. Senyum tersebut memberi kesan ramah dan sedikit jahil, tetapi bukan berarti Devan harus selalu digambarkan tersenyum.
 
-Kulitnya tampak berwarna sawo matang terang hingga cokelat muda dalam foto acuan. Pencahayaan hangat memengaruhi rona kulit yang terlihat, sehingga ilustrasi lain boleh memiliki pencahayaan berbeda tanpa mengubah warna dasar kulit Devan secara drastis. Hindari membuat kulitnya terlalu pucat atau terlalu gelap tanpa alasan pencahayaan yang jelas.
+Kulit Devan berwarna sawo matang terang dengan undertone hangat yang cenderung keemasan. Warna dasarnya perlu terlihat alami dan cukup pekat agar ia tidak tampak pucat, tetapi tidak sampai menjadi cokelat gelap. Pencahayaan dapat mengubah rona yang terlihat pada ilustrasi, sehingga warna kulit di bawah cahaya putih atau dalam bayangan tetap harus konsisten dengan dasar sawo matang terang yang hangat. Hindari membuat kulitnya terlalu pucat atau terlalu gelap tanpa alasan pencahayaan yang jelas.
 
 Secara keseluruhan, wajah Devan memadukan rahang yang terdefinisi, mata yang teduh, hidung yang proporsional, dan senyum tipis. Daya tariknya berasal dari keseimbangan fitur-fitur tersebut, bukan dari satu ciri yang terlalu mencolok. Ia terlihat menarik secara alami tanpa kesan sengaja berusaha menarik perhatian.
 
@@ -204,7 +204,7 @@ Dalam ilustrasi, gaya berpakaian Devan dapat bervariasi dari satu adegan ke adeg
 
 #### Acuan visual untuk ilustrasi
 
-Foto yang diberikan penulis merupakan acuan visual utama bagi wajah dan rambut Devan. Dalam ilustrasi berikutnya, pertahankan bentuk wajah oval yang sedikit memanjang, garis rahang yang jelas tetapi lembut, mata cokelat gelap berbentuk almond, alis hitam yang cukup tebal, hidung lurus yang proporsional, bibir berukuran sedang, warna kulit sawo matang terang, serta rambut hitam tebal berlapis dengan helaian yang jatuh alami ke dahi.
+Foto yang diberikan penulis merupakan acuan visual utama bagi wajah dan rambut Devan. Dalam ilustrasi berikutnya, pertahankan bentuk wajah oval yang sedikit memanjang, garis rahang yang jelas tetapi lembut, mata cokelat gelap berbentuk almond, alis hitam yang cukup tebal, hidung lurus yang proporsional, bibir berukuran sedang, warna kulit sawo matang terang dengan undertone hangat keemasan, serta rambut hitam tebal berlapis dengan helaian yang jatuh alami ke dahi.
 
 Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai kebutuhan adegan. Namun, perubahan tersebut tidak seharusnya mengubah identitas dasar wajah Devan. Ia harus tetap terlihat sebagai orang yang sama ketika tersenyum, tertawa, serius, kelelahan, sedih, atau berada dalam situasi menegangkan. Jangan menerapkan senyum tipis dari foto sebagai ekspresi permanen untuk semua ilustrasi.
 

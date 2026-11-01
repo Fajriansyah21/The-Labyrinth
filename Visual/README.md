@@ -29,6 +29,18 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 - Pose dan gestur spesifik yang belum ditetapkan dalam canon merupakan interpretasi visual, bukan kebiasaan permanen karakter.
 - Jangan menandai aset sebagai terunggah sebelum path-nya diverifikasi.
 
+## Eleina
+
+**Status:** lima file visual ditemukan dan path-nya diverifikasi. Potret, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet telah disetujui penulis; Character Profile Sheet masih draft dan menunggu pengesahan terpisah.
+
+| Aset | Tautan | Status |
+|---|---|---|
+| Potret Character Sheet | [Potret_Eleina.png](Eleina/Potret_Eleina.png) | Terunggah dan terverifikasi |
+| Character Profile Sheet | [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain masih draft |
+| Facial Expression Sheet — 9 ekspresi, grid 3×3 | [Facial_Expression_Eleina.png](Eleina/Facial_Expression_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
+| Outfit Sheet — 8 outfit, grid 4×2 | [Outfit_Sheet_Eleina.png](Eleina/Outfit_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
+| Body Language Sheet — 8 pose, grid 4×2 | [Body_Language_Sheet_Eleina.png](Eleina/Body_Language_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
+
 ## Karakter lain
 
 Aset karakter lain akan ditambahkan di sini setelah path file diverifikasi. Gunakan [Arsip Visual Karakter](Visual_Character_Archive.md) untuk memeriksa tahap dan status persetujuannya.

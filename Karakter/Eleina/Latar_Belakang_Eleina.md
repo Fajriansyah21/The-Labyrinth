@@ -80,7 +80,9 @@ Karena itu, Eleina mulai membatasi hal-hal yang ia ceritakan kepada ayah. Ia mas
 
 Ia semakin sering mengatakan bahwa dirinya baik-baik saja.
 
-Awalnya, kebiasaan tersebut muncul karena ia ingin melindungi ayah dari kekhawatiran tambahan. Seiring waktu, kebiasaan itu berkembang menjadi salah satu cara Eleina menghadapi masalah: menyimpan perasaannya sendiri agar orang lain tidak perlu ikut terbebani.
+Awalnya, kebiasaan tersebut muncul karena ia ingin melindungi ayah dari kekhawatiran tambahan. Seiring waktu, kebiasaan itu berkembang menjadi salah satu cara Eleina menghadapi masalah: menyimpan sebagian perasaannya sendiri agar orang lain tidak perlu ikut terbebani.
+
+Meski begitu, hubungan mereka tetap hangat. Ketika ayah berada di rumah, Eleina masih bisa bercanda, menceritakan hal menyenangkan, dan menikmati waktu bersama. Perubahannya lebih terlihat saat ia menghadapi masalah: ia mulai memilih cerita mana yang akan dibagikan dan mana yang akan disimpan sendiri.
 
 ---
 
@@ -88,69 +90,55 @@ Awalnya, kebiasaan tersebut muncul karena ia ingin melindungi ayah dari kekhawat
 
 Seiring waktu, Eleina menjadi semakin mandiri. Ia mulai mengurus kebutuhannya sendiri, menyelesaikan masalah kecil tanpa meminta bantuan, dan menahan emosinya ketika merasa bahwa ia tidak ingin membebani ayah.
 
-Sebagian dari kemandirian tersebut merupakan perkembangan yang wajar bagi seorang remaja. Namun, sebagian lainnya mulai terbentuk dari keyakinan bahwa ia harus mampu menghadapi berbagai hal sendiri agar ayah tidak semakin terbebani.
+Sebagian dari kemandirian tersebut merupakan perkembangan yang wajar bagi seorang remaja. Namun, sebagian lainnya mulai terbentuk dari kebiasaan menghadapi masalah sendiri agar ayah tidak semakin terbebani. Kedua hal itu tumbuh bersamaan, sehingga tidak semua bentuk kemandiriannya berasal dari luka atau ketakutan.
 
 Sekitar satu tahun setelah kematian istrinya, ayah mulai mempertimbangkan untuk menikah lagi.
 
 Keputusan tersebut bukan berarti ayah melupakan istrinya atau ingin mencari pengganti bagi ibu Eleina. Ia masih mencintai dan menghormati mendiang istrinya. Namun, pekerjaannya membuatnya sering berada di luar kota, dan ia tidak ingin Eleina tumbuh sendirian tanpa pendamping di rumah. Pada saat yang sama, ayah juga menyadari bahwa dirinya masih membutuhkan teman hidup.
 
-Ayah membicarakan rencana tersebut dengan Eleina dan tidak memaksanya untuk langsung menerima keadaan baru. Ia juga memastikan bahwa perempuan yang akan dinikahinya tidak dimaksudkan untuk menggantikan posisi ibu Eleina.
+Ayah membicarakan rencana tersebut dengan Eleina dan tidak memaksanya untuk langsung menerima keadaan baru. Ia juga tidak meminta Eleina menganggap perempuan yang akan dinikahinya sebagai pengganti ibu.
 
-Eleina merasakan berbagai perasaan yang bercampur aduk. Ia masih sangat merindukan ibunya, tetapi ia juga melihat bahwa ayahnya kesepian.
+Eleina merasakan berbagai perasaan yang bercampur aduk. Ia masih sangat merindukan ibunya, tetapi ia juga melihat bahwa ayahnya kesepian. Ia berusaha menerima keputusan itu karena ingin ayahnya bahagia, meskipun dirinya sendiri masih perlu waktu untuk menyesuaikan diri.
 
-Karena menyayangi ayah, Eleina berusaha menerima keputusan tersebut. Ia ingin ayahnya bahagia, meskipun dirinya sendiri masih harus menyesuaikan diri dengan kehilangan yang belum sepenuhnya selesai.
+Sebelum pernikahan berlangsung, Eleina mendapat kesempatan untuk mengenal calon ibu tirinya dan keluarga perempuan tersebut. Pada awalnya, tidak ada permusuhan yang muncul secara langsung. Eleina mencoba mengenal mereka dan berharap ia dapat menemukan tempatnya dalam keluarga baru tanpa harus melupakan keluarga yang telah dimilikinya.
 
 ---
 
 ## 6. Keluarga Baru dan Pengucilan
 
-Sebelum pernikahan berlangsung, Eleina mendapat kesempatan untuk mengenal calon ibu tirinya dan keluarga barunya. Pada awalnya, hubungan mereka berjalan cukup baik. Tidak ada permusuhan yang muncul secara langsung.
+Pada awalnya, Eleina berharap kehadiran keluarga baru dapat membuat rumah terasa hangat kembali. Ia tidak mengharapkan seseorang menggantikan ibunya. Ia hanya ingin tetap merasa diterima dan memiliki tempat dalam kehidupan keluarga.
 
-Eleina bahkan sempat berharap bahwa kehadiran keluarga baru dapat membuat rumah terasa hangat kembali. Ia tidak mengharapkan seseorang menggantikan ibunya. Ia hanya ingin memiliki keluarga yang membuatnya merasa tetap mempunyai tempat untuk pulang.
+Namun, setelah pernikahan berlangsung, keadaan perlahan berubah, terutama ketika ayah sedang berada di luar kota.
 
-Namun, setelah pernikahan berlangsung, keadaan perlahan berubah.
+Ibu tirinya lebih sering memusatkan perhatian pada anak-anak kandungnya. Ia tidak secara sengaja merencanakan untuk mengucilkan Eleina. Ia cenderung menganggap Eleina sudah mandiri dan tidak terlalu membutuhkan perhatian, sehingga kebutuhan Eleina lebih mudah terlewatkan.
 
-Pengucilan terhadap Eleina tidak terjadi secara tiba-tiba. Perlakuan berbeda muncul melalui hal-hal kecil yang semakin sering terjadi, terutama ketika ayah sedang berada di luar kota.
+Saudara-saudara tirinya juga tidak harus membenci atau sengaja menyakiti Eleina. Mereka sudah memiliki kedekatan dan kebiasaan sendiri, sehingga sering kali lebih dahulu memikirkan satu sama lain. Dalam kegiatan keluarga, percakapan, atau keputusan sehari-hari, Eleina tidak selalu dilibatkan. Sesekali mereka masih dapat berinteraksi dengan baik, tetapi keakraban itu tidak otomatis membuat Eleina merasa menjadi bagian dari keluarga.
 
-Eleina mulai tidak dilibatkan dalam beberapa kegiatan keluarga. Ia juga mulai merasa bahwa ada bagian dari kehidupan keluarga yang tidak benar-benar menyediakan ruang baginya. Ketika anak-anak dari ibu tirinya mendapatkan perhatian atau bantuan, hal serupa tidak selalu diberikan kepada Eleina.
+Pengucilan tersebut tumbuh melalui kejadian-kejadian kecil yang berulang. Eleina mungkin tidak diajak dalam suatu kegiatan, tidak mendapat bantuan yang diberikan kepada anak-anak lain, atau baru mengetahui sesuatu setelah keputusan dibuat. Tidak semua kejadian terlihat serius jika berdiri sendiri, tetapi pengulangan membuatnya semakin menyadari bahwa posisinya berbeda.
 
-Tidak semua perlakuan tersebut berupa kekerasan atau penghinaan secara langsung. Justru, banyak di antaranya tampak cukup kecil sehingga Eleina sendiri kesulitan menentukan apakah dirinya memiliki alasan untuk merasa terluka.
+Karena tidak selalu ada penghinaan atau penolakan yang terang-terangan, Eleina kesulitan menjelaskan mengapa ia merasa terluka. Ia terkadang mempertanyakan apakah dirinya terlalu sensitif, apakah keluarga itu hanya sedang sibuk, atau apakah ia memang seharusnya bisa mengurus semuanya sendiri.
 
-Pada awalnya, ia mencoba mencari penjelasan lain.
+Ketika ayah berada di rumah, hubungan mereka tetap hangat. Eleina masih bisa bercanda dan menceritakan hal-hal menyenangkan. Namun, ketika ayah bertanya tentang masalahnya, ia kadang menyebut kejadian tertentu lalu mengecilkan persoalannya saat ditanya lebih lanjut. Ia tidak ingin membuat ayah khawatir atau memulai konflik yang belum tentu bisa ia jelaskan.
 
-Mungkin ia terlalu sensitif.
+Ayah sesekali memperhatikan perubahan pada Eleina. Ia melihat putrinya lebih sering mengurus keperluannya sendiri, lebih jarang meminta bantuan, atau tidak sebanyak dulu menceritakan masalah sehari-hari. Namun, ia cenderung menganggap perubahan tersebut sebagai tanda bahwa Eleina sedang tumbuh dewasa dan menyesuaikan diri dengan keluarga baru. Ia belum memahami keseluruhan pola pengucilan yang dialami putrinya.
 
-Mungkin mereka hanya sedang sibuk.
-
-Mungkin ia memang sudah cukup besar untuk mengurus dirinya sendiri.
-
-Karena tidak ingin membuat ayah khawatir ketika sedang bekerja, Eleina memilih untuk tidak banyak bercerita. Ia kembali mengandalkan dirinya sendiri dan mulai terbiasa menghadapi keadaan yang membuatnya tidak nyaman tanpa meminta bantuan.
-
-Pengalaman ini memperkuat kebiasaan yang sebelumnya terbentuk setelah kematian ibu: menyimpan masalah dan berusaha tidak merepotkan orang lain.
+Eleina terkadang kecewa karena ayah tidak menyadari apa yang sedang terjadi. Namun, kekecewaan itu tidak menghapus kasih sayangnya kepada ayah atau pemahamannya bahwa ayah juga sedang berusaha menjalani hidup. Ia masih menyayanginya, meskipun ada hal-hal yang belum mampu ia ceritakan secara terbuka.
 
 ---
 
 ## 7. Perubahan dalam Diri Eleina
 
-Pengalaman kehilangan ibu dan perlakuan keluarga barunya perlahan memperkuat pola perilaku yang mulai terbentuk setelah masa berkabung. Eleina semakin sering mengurangi permintaan, menghindari konflik, dan mengatakan bahwa dirinya tidak membutuhkan sesuatu meskipun sebenarnya menginginkannya.
+Pengalaman kehilangan ibu dan perlakuan keluarga barunya perlahan memengaruhi cara Eleina menghadapi keadaan tertentu. Ia semakin terbiasa mengurangi permintaan, menghindari konflik yang dirasa tidak perlu, dan mengatakan bahwa dirinya tidak membutuhkan sesuatu meskipun sebenarnya menginginkannya.
 
-Ia mulai percaya bahwa menjadi seseorang yang mudah diatur dan tidak merepotkan dapat membuat keadaan lebih tenang.
+Ia belajar menyesuaikan diri dengan keadaan dan sering berusaha menjaga suasana agar tidak menjadi lebih sulit. Namun, Eleina tidak selalu mengalah atau diam. Ia masih bisa menyampaikan keinginan, menunjukkan ketidaksukaan, dan mempertahankan pendapatnya ketika merasa cukup aman untuk melakukannya. Ia lebih mungkin menarik kembali permintaannya ketika mulai takut akan merepotkan orang lain atau menimbulkan ketegangan.
 
-Ketika orang lain membutuhkan bantuan, Eleina berusaha hadir. Ketika seseorang sedang sedih, ia mencoba menenangkan. Saat terjadi masalah, ia cenderung memikirkan dampaknya terhadap orang lain sebelum mempertimbangkan perasaannya sendiri.
+Kepedulian Eleina terhadap orang lain tetap tulus dan berakar pada sifat yang sudah dimilikinya sejak kecil. Ia memperhatikan keadaan orang lain, menawarkan bantuan, dan mencoba memahami perasaan mereka karena ia memang peduli. Akan tetapi, dalam situasi tertentu, kepedulian itu bercampur dengan keinginan untuk tidak menjadi beban atau kehilangan tempat dalam hubungan.
 
-Sikap tersebut berakar pada kelembutan dan empati yang memang sudah dimilikinya sejak kecil. Namun, pengalaman hidup perlahan mengubah sebagian dari sifat tersebut menjadi cara untuk melindungi dirinya.
+Kemandiriannya juga memiliki dua sisi. Ia mampu mengurus banyak hal sendiri dan dapat menikmati kebebasan tersebut. Namun, ia terkadang sulit membedakan antara benar-benar tidak membutuhkan bantuan dan sudah terbiasa tidak meminta bantuan.
 
-Eleina tidak selalu membantu hanya karena peduli. Dalam keadaan tertentu, ia juga bisa terdorong membantu karena takut merasa tidak berguna. Ia tidak selalu mengalah hanya karena ingin menjaga perasaan orang lain. Terkadang, ia mengalah karena takut kehilangan tempatnya dalam kehidupan mereka.
+Eleina tetap memiliki sisi ceria dan ekspresif. Ia bisa tertawa lepas, menikmati percakapan, membaca novel, merawat tanaman, dan membuat kue. Hobi-hobi itu bukan sekadar pelarian dari kesedihan, melainkan bagian nyata dari hal-hal yang ia sukai dan nikmati. Ketika berada di lingkungan yang nyaman, sisi cerianya dapat muncul secara alami. Saat merasa tidak diterima atau tidak nyaman, ia cenderung lebih berhati-hati dalam menunjukkan perasaan.
 
-Kemandiriannya pun memiliki sisi yang lebih rumit. Ia memang mampu melakukan banyak hal sendiri, tetapi semakin sulit baginya membedakan antara:
-
-“Aku memang tidak membutuhkan bantuan.”
-
-dan
-
-“Aku sudah terbiasa tidak meminta bantuan.”
-
-Di mata orang lain, Eleina mungkin terlihat kuat, dewasa, tenang, dan dapat diandalkan. Namun, ia semakin terbiasa menyembunyikan kelelahan dan kesedihannya. Orang lain bisa melihat kemampuannya mengurus diri sendiri tanpa menyadari bahwa sebagian dari kemandirian tersebut terbentuk karena ia tidak merasa nyaman meminta pertolongan.
+Di mata orang lain, Eleina mungkin terlihat kuat, dewasa, tenang, dan dapat diandalkan. Mereka dapat melihat kemampuannya mengurus diri sendiri tanpa menyadari bahwa ia juga memiliki kebutuhan yang jarang diungkapkan. Bahkan Eleina sendiri belum selalu memahami pola tersebut. Ia terkadang menyadari bahwa dirinya kecewa atau menginginkan sesuatu, tetapi belum tentu melihat bahwa ia berulang kali mengesampingkan kebutuhannya sendiri.
 
 ---
 
@@ -162,19 +150,19 @@ Eleina tidak tumbuh dengan keyakinan bahwa dirinya sejak awal tidak layak dicint
 
 Karena itu, perubahan yang dialaminya setelah kematian ibu terasa semakin membingungkan. Ia pernah memiliki tempat yang aman, kemudian kehilangan sosok yang menjadi bagian penting dari tempat tersebut. Setelah itu, ia harus menyesuaikan diri dengan lingkungan keluarga baru yang tidak selalu membuatnya merasa diterima.
 
-Pengalaman tersebut membuat Eleina semakin takut kehilangan orang-orang yang disayanginya. Ia tidak ingin kembali merasakan bahwa dirinya dapat tersisih atau ditinggalkan. Di balik kelembutannya, ia menyimpan keinginan untuk merasa dipilih dan memiliki tempat yang aman dalam kehidupan seseorang.
+Pengalaman tersebut membuat Eleina takut kehilangan orang-orang yang disayanginya atau menjadi beban bagi mereka. Ia ingin menjaga hubungan dan tetap memiliki tempat dalam kehidupan orang-orang yang penting baginya. Namun, ia tidak selalu memahami ketakutan itu secara utuh atau mampu menjelaskannya kepada diri sendiri.
 
-Namun, ia jarang mengungkapkan kebutuhan tersebut secara langsung.
+Ketika merasa tidak nyaman dalam suatu hubungan, Eleina mungkin mempertanyakan apakah dirinya terlalu sensitif, terlalu banyak meminta, atau kurang mampu membuat keadaan menyenangkan bagi orang lain. Namun, ia tidak selalu menyalahkan diri sendiri. Ada kalanya ia menyadari bahwa perlakuan yang diterimanya memang mengecewakan, meskipun ia belum tentu mengungkapkan kekecewaan tersebut.
 
-Ia lebih mudah memberikan perhatian daripada memintanya. Ia lebih terbiasa menjaga orang lain daripada meminta dirinya dijaga. Ketika membutuhkan seseorang, ia lebih mudah mengatakan, “Aku nggak apa-apa,” daripada mengakui bahwa dirinya sebenarnya membutuhkan bantuan.
+Eleina lebih terbiasa memberikan perhatian daripada memintanya. Ia dapat memahami keadaan orang lain sambil tetap merasa terluka oleh tindakan mereka. Ia juga dapat menyayangi ayahnya sekaligus kecewa karena ayah belum menyadari apa yang dialaminya. Perasaan-perasaan itu tidak saling membatalkan.
 
-Eleina juga cenderung menyalahkan dirinya sendiri ketika hubungan dengan orang lain terasa tidak baik. Ia mungkin bertanya-tanya apakah dirinya terlalu banyak meminta, terlalu sensitif, atau kurang mampu membuat orang lain nyaman.
+Perlakuan berbeda yang diterimanya bukanlah sesuatu yang ia sebabkan. Kebiasaannya menahan kebutuhan mungkin membuat kesulitannya lebih sulit terlihat oleh orang lain, tetapi hal itu tidak membuatnya bertanggung jawab atas pengucilan yang dialaminya.
 
-Padahal, perlakuan buruk yang diterimanya bukanlah sesuatu yang ia sebabkan.
+Konflik internal Eleina terletak pada kesulitannya menjaga keseimbangan antara kepedulian terhadap orang lain dan perhatian terhadap dirinya sendiri. Ia ingin menjadi orang yang baik dan menjaga hubungan, tetapi terkadang takut bahwa mengungkapkan kebutuhan atau kekecewaan akan membuatnya menjadi beban.
 
-Konflik internal Eleina terletak pada kesulitannya membedakan antara bertanggung jawab terhadap perasaan orang lain dan merasa bertanggung jawab atas kebahagiaan mereka. Ia ingin menjaga hubungan dan menghindari konflik, tetapi terkadang melakukannya dengan mengabaikan kebutuhan sendiri.
+Perjalanan Eleina kelak bukan tentang berhenti peduli atau menjadi pribadi yang sepenuhnya berbeda. Ia perlu belajar bahwa dirinya tetap layak disayangi ketika sedang lelah, membutuhkan bantuan, atau tidak mampu memenuhi kebutuhan semua orang. Ia juga perlu memahami bahwa menyampaikan perasaan dan meminta pertolongan tidak otomatis membuatnya merepotkan orang lain.
 
-Ia belum sepenuhnya memahami bahwa kepedulian tidak mengharuskannya selalu mengalah, dan bahwa seseorang dapat menyayanginya tanpa menuntutnya menjadi orang yang selalu kuat serta tidak pernah membutuhkan bantuan.
+Pemahaman tersebut merupakan arah perkembangan karakternya, bukan sesuatu yang sudah sepenuhnya disadari Eleina sejak awal.
 
 ---
 

@@ -1,74 +1,69 @@
 # Template Latar Belakang Karakter THE LABYRINTH
 
-> **Status:** Template kerja untuk digunakan dan disesuaikan  
-> **Fungsi:** Menjadi kerangka dasar penulisan latar belakang karakter, bukan formulir wajib yang harus diisi seluruhnya.  
-> **Prinsip:** Kedalaman analisis dijaga tetap konsisten, sementara jumlah, urutan, dan nama subjudul mengikuti perjalanan hidup masing-masing karakter.
+> **Status:** Template kerja standar untuk semua tokoh  
+> **Fungsi:** Menjadi kerangka dasar penulisan latar belakang karakter, dengan struktur tetap 10 poin dan kedalaman pembahasan yang fleksibel.  
+> **Prinsip:** Format yang konsisten tidak berarti perjalanan hidup setiap karakter harus seragam.
 
 ## Cara menggunakan template
 
-Template ini disusun dari pola yang terlihat pada dokumen Latar Belakang Devan dan Latar Belakang Eleina. Kerangka berikut merupakan panduan pengembangan, bukan keputusan canon untuk karakter tertentu.
+Template ini digunakan sebagai struktur standar untuk seluruh tokoh THE LABYRINTH. Gunakan sepuluh subjudul di bawah dalam urutan yang sama, tetapi sesuaikan panjang dan kedalaman pembahasannya dengan pengalaman serta kebutuhan masing-masing karakter.
 
-Jumlah subjudul dapat berkisar sekitar **8 sampai 10 poin**, atau disesuaikan bila latar belakang karakter memerlukan struktur yang lebih pendek atau lebih panjang. Jangan menambah poin hanya demi memenuhi jumlah tertentu.
-
-- Pertahankan bagian yang relevan dengan pengalaman dan perkembangan karakter.
-- Ubah nama subjudul agar menggambarkan peristiwa spesifik yang benar-benar dialami karakter.
-- Pisahkan peristiwa jika masing-masing memiliki konsekuensi penting terhadap kehidupan atau hubungan karakter.
-- Gabungkan bagian yang berdekatan jika pemisahan membuat pembahasan berulang.
-- Tidak semua karakter harus mengalami tragedi, kematian anggota keluarga, kehilangan, atau konflik keluarga.
-- Jangan mengubah interpretasi menjadi fakta canon tanpa dukungan sumber atau keputusan penulis.
+- Sepuluh poin merupakan struktur standar, bukan kewajiban untuk membuat setiap bagian panjang atau dramatis.
+- Poin yang tidak terlalu relevan boleh dibahas secara singkat. Jangan menambahkan konflik atau pengalaman yang tidak didukung sumber hanya untuk mengisi bagian.
+- Tidak semua karakter harus memiliki luka batin besar, tragedi, kehilangan, atau titik balik dramatis.
+- Perjalanan hidup karakter boleh sederhana, bertahap, positif, ambigu, atau belum selesai.
+- Jangan memaksakan perubahan karakter jika pengalaman yang ada tidak mendukungnya.
+- Bedakan fakta canon, interpretasi yang didukung sumber, opsi brainstorming, dan rekomendasi Astra.
 - Jika informasi penting belum ditentukan, tandai **[BELUM DITENTUKAN]**.
+- Hindari mengulang informasi yang sama di beberapa bagian. Jika suatu pengalaman berkaitan dengan beberapa poin, bahas aspek yang berbeda sesuai fungsi masing-masing poin.
+- Template ini membantu menjaga konsistensi struktur, bukan menyamakan kepribadian, pengalaman, konflik, atau perkembangan semua tokoh.
 
-## Kerangka dasar yang dapat disesuaikan
+## Struktur standar 10 poin
 
-### 1. Masa Kecil dan Kehidupan Keluarga
-Gambarkan lingkungan tumbuh karakter, kondisi keluarga, hubungan dengan orang-orang terdekat, serta suasana emosional pada masa awal kehidupannya.
+### 1. Masa Kecil dan Lingkungan Keluarga
+Gambarkan lingkungan tumbuh karakter, kondisi keluarga, pola pengasuhan, hubungan dengan orang-orang terdekat, serta pengalaman awal yang relevan dengan pembentukan dirinya. Jika masa kecil tidak banyak berpengaruh pada cerita, bagian ini dapat dibuat ringkas.
 
-### 2. Peristiwa Penting dalam Kehidupan
-Uraikan peristiwa atau rangkaian pengalaman yang berpengaruh besar terhadap kehidupan karakter. Peristiwa ini tidak harus berupa tragedi.
+### 2. Kehidupan Sebelum Peristiwa Penting
+Jelaskan keadaan karakter sebelum pengalaman atau perubahan yang berpengaruh besar: kehidupan sehari-hari, kebiasaan, cara pandang, hubungan, serta kondisi dirinya pada masa itu. Bagian ini menjadi titik pembanding bila memang terjadi perubahan setelahnya.
 
-### 3. Perkembangan Peristiwa dan Konsekuensinya
-Jelaskan apa yang terjadi setelah peristiwa penting, bagaimana karakter menghadapinya, dan dampak nyata yang muncul dalam kehidupannya. Bagian ini dapat dipecah menjadi beberapa subjudul bila terdapat beberapa peristiwa penting yang berbeda.
+### 3. Peristiwa Penting dalam Kehidupan
+Uraikan peristiwa atau rangkaian pengalaman yang memiliki arti dalam perjalanan hidup karakter. Peristiwa tersebut tidak harus berupa tragedi; pencapaian, keputusan, perubahan lingkungan, pertemuan, atau pengalaman biasa yang berdampak dapat menjadi bagian ini jika didukung sumber.
 
-### 4. Perubahan Hubungan dengan Orang-Orang Terdekat
-Jelaskan perubahan dalam hubungan keluarga, pertemanan, atau relasi penting lainnya setelah pengalaman tertentu. Gunakan bagian ini jika relevan; gabungkan dengan bagian peristiwa bila tidak membutuhkan pembahasan tersendiri.
+### 4. Dampak dan Konsekuensi Masa Lalu
+Jelaskan akibat nyata dari pengalaman yang telah dibahas, misalnya perubahan keadaan hidup, tanggung jawab baru, konsekuensi keputusan, perubahan rutinitas, atau dampak terhadap lingkungan dan hubungan. Bedakan kejadian yang benar-benar terjadi dari kesimpulan mengenai dampak psikologisnya.
 
-### 5. Perubahan dalam Diri Karakter
-Uraikan perubahan atau perkembangan pada cara berpikir, perilaku, kebiasaan, ekspresi emosi, cara mengambil keputusan, dan cara menghadapi orang lain. Bedakan sifat yang telah ada sejak awal dengan perubahan yang muncul kemudian.
+### 5. Perubahan dalam Diri
+Bahas bagaimana karakter berkembang atau berubah dalam pola pikir, perilaku, kebiasaan, cara mengambil keputusan, ekspresi emosi, maupun cara menghadapi orang lain. Bedakan sifat yang telah ada sejak awal dari perubahan yang muncul kemudian. Jika karakter relatif konsisten, jelaskan perkembangan kecil atau nyatakan bahwa perubahan tertentu belum terlihat.
 
 ### 6. Luka Batin dan Konflik Internal
-Bahas konflik emosional yang didukung oleh latar belakang karakter, seperti ketakutan, rasa bersalah, keyakinan yang terbentuk, kebutuhan emosional, atau pertentangan dalam dirinya. Jangan memaksakan luka batin jika sumber cerita tidak mendukungnya.
+Bahas ketakutan, keraguan, rasa bersalah, kebutuhan emosional, keyakinan, atau pertentangan dalam diri karakter hanya sejauh didukung sumber. Tidak semua karakter harus memiliki luka batin besar atau konflik yang dramatis. Jika konflik internalnya ringan, tidak dominan, atau belum ditentukan, jelaskan secara proporsional dan gunakan **[BELUM DITENTUKAN]** bila perlu.
 
 ### 7. Pengaruh Masa Lalu terhadap Hubungan dengan Tokoh Lain
-Jelaskan bagaimana pengalaman masa lalu memengaruhi kepercayaan, kedekatan, cara menunjukkan perhatian, respons terhadap konflik, atau kebutuhan karakter dalam hubungan tertentu. Bagian ini dapat dipecah berdasarkan tokoh atau hubungan jika diperlukan.
+Jelaskan bagaimana pengalaman karakter memengaruhi kepercayaan, kedekatan, batas pribadi, cara menunjukkan perhatian, respons terhadap konflik, atau kebiasaan dalam hubungan. Fokus pada pengaruh terhadap karakter yang sedang dibahas. Jangan menyatakan pikiran atau perasaan tokoh lain sebagai fakta tanpa dukungan sumber; gunakan dokumen hubungan yang relevan bila perlu.
 
-### 8. Inti Perjalanan Karakter
-Rangkum arah perkembangan emosional karakter: hal yang mungkin perlu dihadapi, dipahami, diterima, atau diubah. Ini merupakan gambaran perjalanan, bukan jaminan bahwa karakter telah berhasil berubah.
+### 8. Cara Menghadapi Masalah dan Melindungi Diri
+Uraikan cara karakter menghadapi tekanan, menyelesaikan masalah, mencari dukungan, menghindari konflik, atau mengelola perasaan. Sertakan pola yang membantu maupun yang dapat menimbulkan kesulitan, jika memang ada. Jangan menganggap semua tindakan sebagai mekanisme pertahanan psikologis tanpa dasar yang cukup.
 
-## Bagian tambahan bila diperlukan
+### 9. Titik Balik dan Perkembangan Lanjutan
+Bahas pengalaman, keputusan, atau perubahan keadaan yang mendorong perkembangan karakter setelah periode sebelumnya. Titik balik tidak harus dramatis atau berupa satu peristiwa besar; bisa juga berupa proses bertahap. Jika belum ada titik balik yang jelas, jelaskan perkembangan yang berlangsung perlahan atau tandai **[BELUM DITENTUKAN]**.
 
-Poin berikut dapat dijadikan subjudul tersendiri jika cakupan ceritanya cukup besar:
-
-- Peristiwa penting berikutnya atau konsekuensi yang berbeda dari peristiwa utama.
-- Masa berkabung, pemulihan, atau penyesuaian setelah perubahan besar.
-- Perubahan kondisi keluarga atau lingkungan hidup.
-- Keputusan penting yang mengubah arah kehidupan karakter.
-- Peristiwa yang memengaruhi hubungan tertentu secara khusus.
-- Perkembangan lanjutan yang tidak cukup dijelaskan pada bagian perubahan diri.
-
-Bagian tambahan bukan daftar wajib. Pilih hanya yang membantu menjelaskan perjalanan karakter secara akurat dan tidak repetitif.
+### 10. Inti Perjalanan Karakter
+Rangkum hal utama yang membentuk perjalanan karakter: persoalan yang dihadapi, nilai atau keyakinan yang dipertahankan atau dipertanyakan, serta arah perkembangan yang mungkin dijalani. Bagian ini bukan keharusan untuk membuat karakter menebus kesalahan, menyembuhkan luka, atau mengalami perubahan besar. Jangan menetapkan hasil akhir perjalanan sebelum diputuskan penulis.
 
 ## Pemeriksaan sebelum dokumen diselesaikan
 
+- [ ] Sepuluh subjudul standar digunakan dengan urutan yang sama.
+- [ ] Kedalaman tiap poin sesuai dengan relevansinya bagi karakter.
+- [ ] Tidak ada tragedi, luka batin, konflik, atau titik balik yang dipaksakan.
 - [ ] Kronologi dan fakta sesuai sumber cerita yang tersedia.
 - [ ] Hubungan sebab-akibat antara pengalaman dan perubahan karakter masuk akal, tidak diasumsikan secara otomatis.
-- [ ] Sifat bawaan dibedakan dari respons yang berkembang akibat pengalaman.
-- [ ] Konflik internal dan luka batin memiliki dasar yang cukup.
+- [ ] Sifat awal dibedakan dari perubahan atau perkembangan berikutnya.
+- [ ] Luka batin dan konflik internal memiliki dasar yang cukup.
 - [ ] Pengaruh masa lalu terhadap hubungan tidak menyatakan pikiran tokoh lain sebagai fakta tanpa dasar.
-- [ ] Tidak ada pengulangan yang tidak diperlukan di antara subjudul.
-- [ ] Jumlah dan urutan subjudul mengikuti kebutuhan karakter, bukan dipaksakan oleh template.
+- [ ] Tidak ada pengulangan yang tidak diperlukan antarpoin.
 - [ ] Informasi yang belum diputuskan ditandai **[BELUM DITENTUKAN]**.
 - [ ] Interpretasi dan rekomendasi tidak disajikan sebagai canon.
 
 ## Catatan status
 
-Template ini adalah alat bantu penulisan. Penggunaannya tidak otomatis menjadikan isi latar belakang sebagai canon. Fakta cerita tetap harus diverifikasi terhadap sumber yang relevan dan keputusan penulis.
+Template ini merupakan alat bantu penulisan, bukan sumber canon tersendiri. Penggunaan struktur ini tidak otomatis menjadikan isi latar belakang sebagai canon. Fakta cerita tetap harus diverifikasi terhadap sumber yang relevan dan keputusan penulis.

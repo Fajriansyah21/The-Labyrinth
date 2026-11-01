@@ -1,3 +1,173 @@
-Wajahnya bulat lembut dengan pipi sedikit berisi, memberi kesan ramah dan mudah didekati. Matanya cokelat hangat dengan tatapan penuh perhatian yang sering tampak seperti sedang “memastikan” kondisi orang lain baik-baik saja. Rambutnya cokelat tua sebahu dengan layer sederhana; sering diikat rendah atau diselipkan ke belakang telinga saat sedang bekerja atau membantu sesuatu.
+# Profil Karakter Adelia (Adel)
 
-Posturnya proporsional dengan tubuh sedikit lebih berisi; bahunya rileks dan tidak defensif. Gerakannya stabil, fungsional, dan diam-diam proaktif—ia cenderung langsung mengisi kekosongan atau membantu tanpa perlu diminta. Tangannya hampir selalu sibuk, entah merapikan sesuatu, membawa barang, atau melakukan pekerjaan kecil lainnya. Ia juga sering memberi sentuhan ringan yang menenangkan pada orang lain secara natural.
+> **Status:** Profil kerja berdasarkan canon yang tersedia dan hasil brainstorming yang telah disepakati.  
+> **Catatan:** Bagian yang bersifat interpretasi atau usulan perkembangan tidak otomatis menjadi canon. Informasi yang belum diputuskan ditandai **[BELUM DITENTUKAN]**.
+
+## 1. Identitas dan Gambaran Umum
+
+**Nama:** Adelia  
+**Nama panggilan:** Adel  
+**Usia:** 18 tahun  
+**Tinggi badan:** 168 cm  
+**Keluarga:** Anak tunggal.
+
+Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat, serta rambut cokelat tua sebahu dengan layer sederhana. Rambutnya sering diikat rendah atau diselipkan ke belakang telinga ketika sedang melakukan sesuatu. Tubuhnya proporsional dengan bentuk sedikit lebih berisi. Posturnya cenderung rileks dan gerakannya praktis, tetapi penampilan fisik ini tidak menentukan seluruh kesan atau perilakunya.
+
+Adel adalah pribadi yang cenderung introvert, hangat, tenang, dan membumi. Ia tidak selalu menjadi orang yang paling banyak bicara, tetapi juga bukan perempuan pemalu yang pasif atau takut berinteraksi. Ia dapat memulai percakapan, menyampaikan pendapat, dan menunjukkan sisi spontan ketika situasi atau orang-orang di sekitarnya membuatnya nyaman.
+
+Kemandirian merupakan bagian penting dari dirinya, tetapi bukan berarti Adel tidak membutuhkan kedekatan, perhatian, atau bantuan orang lain. Ia memiliki kehidupan dan minatnya sendiri, termasuk memasak, serta dapat menikmati kebersamaan tanpa harus terus menjadi pusat perhatian.
+
+## 2. Kepribadian dan Struktur Diri
+
+### Sifat utama
+
+- **Introvert, bukan antisosial atau pemalu.** Adel cenderung mengamati keadaan dan mendengarkan, terutama di lingkungan baru. Namun, ia tetap ramah dan dapat mengambil inisiatif ketika ingin berbicara, memiliki alasan praktis, atau merasa cukup nyaman.
+- **Hangat dan perhatian.** Ia sering menunjukkan perhatian lewat tindakan konkret, seperti membantu, mengingat kebutuhan kecil, meluangkan waktu, atau berbagi makanan. Perhatian itu tidak selalu disertai ucapan panjang.
+- **Tenang dan praktis.** Adel biasanya berusaha memahami keadaan dan mencari langkah yang bisa dilakukan. Ia tidak selalu bereaksi besar, tetapi ketenangannya bukan berarti ia tidak punya emosi.
+- **Mandiri dan adaptif.** Ia terbiasa mengurus banyak hal sendiri. Meski begitu, ia dapat menerima bantuan dan tidak harus membuktikan bahwa ia sanggup melakukan semuanya tanpa orang lain.
+- **Memiliki sisi spontan.** Ketika bersama orang yang dekat, Adel bisa lebih banyak bercanda, menanggapi percakapan dengan santai, menunjukkan kejengkelan, dan menyampaikan pendapat secara langsung. Sisi ini membuatnya lebih terbuka, bukan berubah menjadi pribadi yang sepenuhnya berbeda.
+- **Membumi.** Humornya cenderung sederhana, spontan, dan mengikuti situasi. Ia tidak perlu selalu melontarkan lelucon atau menjadi penggerak suasana.
+
+### Perbedaan menurut situasi
+
+Bersama orang yang belum dikenal, Adel biasanya lebih banyak mendengarkan dan menyesuaikan diri terlebih dahulu. Ia tetap dapat memulai percakapan jika ada kebutuhan atau merasa tertarik, tetapi tidak merasa harus selalu mengisi keheningan.
+
+Bersama teman dekat, ia lebih leluasa berbicara, bercanda, menyela secara wajar, atau mengungkapkan ketidaksetujuan. Dalam kelompok, ia bisa aktif menikmati percakapan tanpa harus menjadi orang paling ramai. Ia juga tidak harus menyamai energi teman yang lebih ekstrovert.
+
+### Kelebihan dan keterbatasan
+
+Adel cukup mampu menyesuaikan diri, memperhatikan kebutuhan praktis, dan bertindak ketika ada sesuatu yang perlu dilakukan. Namun, ia tidak selalu tahu cara terbaik untuk menanggapi masalah emosional orang lain. Kadang ia bisa ragu, lelah, salah memahami situasi, atau memilih menyelesaikan masalah sendiri terlebih dahulu.
+
+Ia dapat bersikap tegas ketika batasnya dilanggar. Menjaga hubungan tidak selalu berarti mengalah; jika masalah terus berulang, Adel bisa menyampaikan keberatan dan mempertimbangkan kembali batas yang perlu ia tetapkan.
+
+## 3. Dunia Batin dan Psikologi
+
+### Kebutuhan dan nilai
+
+Adel menghargai kejujuran, konsistensi, kedekatan yang tulus, serta ruang pribadi. Ia ingin hubungan terasa nyata melalui perilaku, bukan hanya janji atau kata-kata. Ia juga membutuhkan waktu untuk dirinya sendiri dan tidak harus selalu tersedia bagi orang lain.
+
+Kedekatan berarti bagi Adel, tetapi ia tidak selalu mengungkapkan kebutuhan emosionalnya secara langsung. Ia bisa memikirkan persoalan terlebih dahulu sebelum bercerita, terutama jika belum tahu bagaimana memulainya. Hal ini tidak berarti ia selalu memendam masalah atau menolak dukungan.
+
+### Cara memahami perasaan
+
+Adel dapat mengenali sebagian kecenderungan dirinya, tetapi tidak selalu memahami alasan di balik setiap reaksi. Ia tidak terus-menerus menganalisis diri sendiri. Ada kalanya ia baru menyadari bahwa dirinya kecewa, membutuhkan teman, atau sedang terlalu lelah setelah keadaan menjadi lebih tenang.
+
+Ia bisa menerima perhatian dengan hangat. Dalam beberapa keadaan, ia mungkin sempat merasa lebih baik mengurus sesuatu sendiri, tetapi dapat menerima bantuan ketika bantuan itu diberikan dengan tulus dan tidak memaksanya untuk membuka diri sebelum siap.
+
+### Interpretasi psikologis
+
+**INTERPRETASI:** Karena terbiasa beradaptasi dan mengurus kebutuhan praktis, Adel terkadang mungkin lebih cepat memikirkan apa yang bisa ia lakukan daripada menyampaikan apa yang ia butuhkan. Ini bukan aturan yang berlaku setiap saat dan bukan berarti ia mengukur harga dirinya hanya dari kegunaannya bagi orang lain.
+
+**[BELUM DITENTUKAN]:** Seberapa jauh kecenderungan tersebut menjadi konflik internal utama Adel, dan bagaimana ia sendiri memahami pola itu, belum ditetapkan sebagai canon.
+
+Adel tidak otomatis takut ditinggalkan, membenci hubungan romantis, atau menganggap semua orang akan mengecewakannya. Pengalaman masa lalu memberi konteks pada sikapnya, tetapi tidak menentukan semua perasaan dan pilihannya.
+
+## 4. Pengaruh Pengalaman terhadap Karakter
+
+### Keluarga dan perceraian
+
+**CANON:** Adel adalah anak tunggal. Ibunya menyayanginya, tetapi bekerja dalam waktu panjang sehingga kesempatan mereka untuk bersama terbatas. Ayahnya cenderung berjarak secara emosional. Orang tuanya bercerai ketika Adel duduk di kelas 1 SMP, dan setelah perceraian ayahnya tidak lagi menghubunginya.
+
+Adel tidak mengetahui perselingkuhan ayahnya ketika perceraian terjadi. Ia baru mengetahuinya kemudian. Fakta tersebut tidak otomatis membuatnya membenci ayahnya atau menyalahkan dirinya sendiri.
+
+Pengalaman keluarga memberi konteks bagi kemandirian dan penyesuaian diri Adel, tetapi tidak boleh dipakai sebagai penjelasan tunggal bagi setiap kebiasaan atau reaksinya.
+
+### Memasak
+
+**CANON:** Adel mulai belajar memasak dengan mengamati dan membantu ibunya. Setelah perceraian, ia semakin terbiasa menyiapkan makanan sendiri karena ibunya sering sibuk bekerja. Seiring waktu, memasak berkembang menjadi minat yang benar-benar ia nikmati. Ia juga senang berbagi makanan dengan orang lain.
+
+Memasak bukan semata-mata pelarian dari kesepian atau simbol emosional setiap kali dilakukan. Adel bisa memasak karena ia memang ingin melakukannya, merasa penasaran dengan resep, atau ingin berbagi. Ia juga bisa kesal ketika hasilnya gagal dan berhenti sejenak jika sudah lelah.
+
+### Pengalaman romantis
+
+**CANON:** Ketika duduk di kelas 2 SMP, Adel mengalami pengkhianatan dari pacarnya. Ia memeriksa petunjuk sebelum menghadapi pasangannya dan mengakhiri hubungan setelah pengkhianatan itu terkonfirmasi.
+
+Pengalaman tersebut membuat Adel lebih memperhatikan kesesuaian antara perkataan dan tindakan seseorang. Namun, ia tidak otomatis menjadi anti-romansa, selalu curiga, atau menutup diri dari hubungan baru. Ia masih dapat memberi kepercayaan, dengan memperhatikan perilaku nyata dan keadaan hubungan yang sedang dijalani.
+
+Rincian peristiwa dan kronologi lebih lengkap tetap merujuk pada dokumen **Latar_Belakang_Adelia.md**. Profil ini merangkum pengaruh yang relevan tanpa menggantikan dokumen latar belakang.
+
+## 5. Perilaku dan Ekspresi Diri
+
+### Cara berbicara dan bersosialisasi
+
+Adel berbicara sesuai kebutuhan dan situasi. Ia bisa mendengarkan lebih banyak ketika baru mengenal seseorang, tetapi tidak harus selalu menunggu orang lain mengajaknya bicara. Jika memiliki sesuatu untuk disampaikan, ia dapat memulai percakapan atau mengungkapkan pendapat.
+
+Bersama orang dekat, responsnya cenderung lebih spontan. Ia dapat bercanda, menanggapi gurauan, atau menyatakan bahwa ia tidak setuju tanpa perlu mengubah percakapan menjadi konfrontasi besar. Ia tidak harus selalu banyak bicara untuk menunjukkan bahwa ia menikmati kebersamaan.
+
+### Perhatian dan kasih sayang
+
+Adel sering menunjukkan kepedulian melalui tindakan konkret: membantu pekerjaan kecil, mengingat hal yang dibutuhkan seseorang, meluangkan waktu, atau memasak dan membagikan makanan. Ia tidak selalu menjelaskan makna tindakannya dengan kata-kata.
+
+Namun, ia bukan orang yang harus merawat semua orang. Ia bisa menolak, sedang tidak punya tenaga, atau memprioritaskan urusannya sendiri. Tindakan perhatian tidak boleh ditulis seolah-olah setiap kali dilakukan Adel pasti mengorbankan kebutuhan pribadinya.
+
+### Menghadapi kesedihan dan masalah orang lain
+
+Adel cenderung menawarkan kehadiran atau bantuan nyata sebelum memberikan nasihat. Ia bisa bertanya apakah seseorang ingin bercerita atau hanya ingin ditemani. Akan tetapi, ia tidak selalu tahu respons yang tepat dan tidak harus menjadi konselor yang selalu memahami perasaan orang lain.
+
+### Kejengkelan dan konflik
+
+Ketika kesal, Adel dapat menjawab lebih singkat, menggunakan nada yang lebih datar, atau menyampaikan keberatan secara langsung. Ia tidak otomatis meledak-ledak, mendiamkan orang sebagai hukuman, atau selalu menyembunyikan rasa marah.
+
+Jika terjadi kesalahpahaman yang penting, ia bisa meluruskan maksudnya. Ia tidak perlu menjelaskan setiap tindakan kepada semua orang. Dalam konflik, ia dapat mencoba memahami pihak lain sekaligus mempertahankan batasnya sendiri.
+
+### Tekanan, kegagalan, dan hari yang melelahkan
+
+Saat menghadapi masalah, Adel cenderung memeriksa apa yang bisa diperbaiki. Jika sesuatu gagal, ia bisa frustrasi, mencoba lagi, meminta pendapat, atau berhenti sejenak karena lelah. Ia tidak harus selalu langsung menemukan pelajaran dari kegagalan.
+
+Pada hari ketika energinya rendah, Adel mungkin lebih pendiam, kurang spontan, lebih mudah kesal, atau ingin punya waktu sendiri. Itu tidak berarti ia otomatis menjauh dari semua orang. Responsnya tetap bergantung pada keadaan dan orang yang bersamanya.
+
+### Gestur dan kebiasaan fisik
+
+Gerakan Adel cenderung stabil dan fungsional. Tangannya dapat sibuk merapikan sesuatu atau membantu pekerjaan yang sedang berlangsung. Ia kadang menunjukkan perhatian melalui sentuhan ringan yang terasa wajar dalam hubungan yang sesuai.
+
+Gestur tersebut adalah kemungkinan ekspresi, bukan tanda yang harus selalu muncul. Jangan membuat Adel terus-menerus sibuk membantu atau menyentuh orang lain di setiap adegan.
+
+## 6. Hubungan dan Dinamika Sosial
+
+Adel membangun kedekatan melalui kebersamaan, konsistensi, dan perhatian yang nyata. Ia dapat terbuka secara bertahap, tetapi bukan berarti orang lain harus melewati serangkaian ujian sebelum ia mau percaya. Ia juga dapat menikmati hubungan baru tanpa langsung menganggapnya sangat dekat.
+
+Dalam pertemanan, Adel mampu hadir dan memberi bantuan, sekaligus tetap memiliki batas serta kebutuhan pribadi. Ia bisa menceritakan masalah kepada orang yang dipercaya, meminta pendapat, atau menerima bantuan. Ia tidak harus selalu menjadi pihak yang mengurus orang lain.
+
+Dalam hubungan romantis, ia lebih memperhatikan kesesuaian ucapan dan tindakan setelah pengalaman pengkhianatan. Sikap hati-hati ini tidak sama dengan kecurigaan tanpa dasar. Cara pasangannya memperlakukannya dalam hubungan yang sedang berlangsung tetap penting.
+
+Dalam hubungan keluarga, kasih sayang dan kekecewaan dapat hadir bersamaan. Adel dapat memahami kesibukan ibunya sekaligus berharap punya lebih banyak waktu bersama. Memahami alasan seseorang tidak selalu menghapus kebutuhan atau rasa kecewanya sendiri.
+
+**Catatan kontinuitas:** Dinamika khusus Adel dengan setiap tokoh perlu merujuk pada dokumen karakteristik hubungan yang sesuai. Jangan menyimpulkan kedekatan, konflik, atau pola interaksi spesifik hanya dari profil umum ini.
+
+## 7. Konflik, Perkembangan, dan Perubahan
+
+Adel tidak perlu menjalani perubahan dari pribadi pemalu menjadi berani bersosialisasi, karena ia bukan karakter yang ditetapkan sebagai pemalu. Ia sudah dapat berbicara, memulai interaksi, menyampaikan pendapat, dan menikmati kebersamaan. Perbedaan perilakunya lebih banyak muncul dari tingkat kenyamanan, energi, dan konteks hubungan.
+
+Salah satu **REKOMENDASI ASTRA** untuk kemungkinan perkembangannya adalah mengeksplorasi keseimbangan antara kemandirian dan kesediaan menerima dukungan. Adel dapat belajar menyampaikan kebutuhannya lebih jelas tanpa harus kehilangan kemampuan mengurus diri sendiri. Arah ini bukan kewajiban alur dan belum menjadi canon final.
+
+Perkembangan tidak harus berlangsung lurus. Adel mungkin menerima bantuan dalam satu situasi tetapi memilih menyelesaikan masalah sendiri di situasi lain. Ia dapat bersikap tegas, lalu mempertanyakan keputusannya; dapat memahami orang lain, tetapi tetap merasa kecewa; atau mencoba memperbaiki kegagalan tanpa selalu berhasil.
+
+Perubahan karakter sebaiknya muncul dari pengalaman dan pilihan yang benar-benar terjadi dalam cerita, bukan karena profil mengharuskan Adel menjadi lebih baik atau lebih matang. Ia tetap boleh salah menilai situasi, bersikap tidak sabar, salah memahami orang lain, atau belum tahu apa yang ia rasakan.
+
+## 8. Bagian Khusus: Pedoman Penulisan Adel
+
+- Jangan menyamakan introversi dengan rasa malu, kepasifan, atau ketidakmampuan memulai percakapan.
+- Sisi spontan Adel lebih mudah terlihat ketika ia nyaman, tetapi ia tidak harus menjadi tokoh paling ramai di kelompok.
+- Tunjukkan perhatian melalui tindakan ketika sesuai dengan situasi, bukan dengan membuatnya selalu menjadi pengurus semua orang.
+- Kemandirian tidak berarti ia tidak butuh bantuan. Sebaliknya, menerima bantuan tidak berarti ia kehilangan kemandirian.
+- Ia bisa tenang sekaligus kesal, perhatian sekaligus menetapkan batas, dan berhati-hati sekaligus tetap terbuka pada hubungan baru.
+- Jangan menjadikan memasak sebagai simbol emosional setiap saat. Adel juga memasak karena menyukainya.
+- Jangan menyimpulkan kebencian terhadap ayah, rasa bersalah atas perceraian, ketakutan ditinggalkan, atau ketidakpercayaan universal tanpa dukungan adegan dan keputusan penulis.
+- Hindari membuat Adel selalu memahami perasaan sendiri atau orang lain. Ia dapat bingung, salah membaca situasi, dan membutuhkan waktu untuk memahami responsnya.
+- Gestur, nada bicara, dan kebiasaan bukan rumus yang wajib muncul berulang kali. Pilih sesuai keadaan fisik, emosi, dan lawan bicara dalam adegan.
+- **POV:** Narasi utama THE LABYRINTH mengikuti Devan, kecuali penulis secara sengaja menetapkan POV lain. Jika adegan dilihat melalui Devan, gambarkan keadaan batin Adel melalui hal yang dapat diamati atau disimpulkan Devan, bukan menyatakan pikiran Adel sebagai fakta yang diketahui Devan.
+
+### Catatan Kontinuitas dan Sumber
+
+**Sumber utama:**
+- `Astra/Template_Profil_Karakter.md`
+- `Karakter/Adel/Latar_Belakang_Adelia.md`
+- Dokumen rancangan kepribadian dan karakteristik Adel di folder `Rancangan/`
+- Dokumen karakteristik hubungan yang relevan
+- `Astra/Guide_The_Labyrinth.md`
+
+**Status informasi:**
+- Fakta keluarga, pengalaman memasak, dan pengalaman pengkhianatan dirujuk dari dokumen latar belakang.
+- Kecenderungan kepribadian dalam profil ini merangkum hasil brainstorming yang telah disepakati.
+- Pembahasan kebutuhan psikologis dan arah perkembangan yang diberi label **INTERPRETASI** atau **REKOMENDASI ASTRA** bukan otomatis canon.
+- Detail yang belum diputuskan tetap perlu ditandai **[BELUM DITENTUKAN]** dan tidak boleh diisi dengan asumsi.

@@ -43,9 +43,9 @@ Rambut Eleina berwarna cokelat dan panjang melewati dada. Rambutnya memiliki lay
 
 Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak mengambil banyak ruang. Saat mendengarkan, ia dapat sedikit mencondongkan tubuh ke depan. Ia kadang menyelipkan rambut ke belakang telinga ketika berpikir, gugup, atau berkonsentrasi. Ia dapat mempertahankan kontak mata ketika memperhatikan orang lain, tetapi lebih mungkin mengalihkan pandangan ketika pembicaraan beralih kepada perasaannya sendiri.
 
-#### Rancangan proporsi tubuh (brainstorming)
+#### Proporsi tubuh
 
-**Status: OPSI BRAINSTORMING, belum ditetapkan sebagai canon final.** Bagian ini mencatat pilihan desain sementara yang disepakati dalam diskusi dan perlu dibedakan dari detail fisik yang sudah ditetapkan.
+**Status: CANON.** Rancangan proporsi tubuh ini telah disetujui penulis sebagai bagian dari desain fisik Eleina.
 
 - **Siluet:** ramping dengan lekuk tubuh alami yang terlihat, tanpa proporsi berlebihan.
 - **Bahu:** relatif kecil, selaras dengan deskripsi postur yang sudah ada.
@@ -54,7 +54,7 @@ Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak
 - **Gerak tubuh:** santai dan natural; gerak tidak harus selalu anggun atau halus, dan dapat menjadi lebih ekspresif ketika Eleina merasa nyaman.
 - **Tampilan melalui pakaian:** lekuk tubuh lebih terlihat ketika Eleina mengenakan pakaian sehari-hari yang mengikuti bentuk tubuhnya. Pakaian yang lebih longgar dapat membuat siluet tersebut tampak lebih samar tanpa mengubah bentuk tubuhnya.
 
-Rancangan ini merupakan acuan visual awal, bukan ukuran anatomi yang presisi. Dalam narasi, detail tubuh hanya perlu muncul ketika relevan dengan apa yang Devan amati dan kebutuhan adegan. Jangan menjadikannya uraian anatomi yang berdiri sendiri atau dasar untuk menyimpulkan kepribadian Eleina.
+Deskripsi ini merupakan acuan visual, bukan ukuran anatomi yang presisi. Dalam narasi, detail tubuh hanya perlu muncul ketika relevan dengan apa yang Devan amati dan kebutuhan adegan. Jangan menjadikannya uraian anatomi yang berdiri sendiri atau dasar untuk menyimpulkan kepribadian Eleina.
 
 #### Acuan visual untuk ilustrasi
 

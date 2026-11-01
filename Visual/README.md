@@ -43,17 +43,17 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 
 ## Nicho
 
-**Status desain:** lima sheet individual telah disetujui penulis. **Status aset:** file gambar belum diverifikasi terunggah ke repository; tautan PNG individual belum ditambahkan agar tidak mengarah ke path yang belum ada.
+**Status desain:** kelima sheet individual disetujui penulis. **Status aset:** seluruh file PNG telah diverifikasi di repository.
 
-| Aset | Status | Rujukan |
+| Aset | Status | File |
 |---|---|---|
-| Potret Character Sheet | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
-| Character Profile Sheet | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
-| Facial Expression Sheet — 9 ekspresi, grid 3×3 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
-| Outfit Sheet — 8 outfit, grid 4×2 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
-| Body Language Sheet — 8 pose, panel kiri dan grid 4×2 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
+| Potret Character Sheet | Disetujui dan terunggah | [Potret_Nicho.png](Nicho/Potret_Nicho.png) |
+| Character Profile Sheet | Disetujui dan terunggah | [Character_Profile_Sheet_Nicho.png](Nicho/Character_Profile_Sheet_Nicho.png) |
+| Facial Expression Sheet | Disetujui dan terunggah | [Facial_Expression_Nicho.png](Nicho/Facial_Expression_Nicho.png) |
+| Outfit Sheet — 8 outfit, grid 4×2 | Disetujui dan terunggah | [Outfit_Sheet_Nicho.png](Nicho/Outfit_Sheet_Nicho.png) |
+| Body Language Sheet — 8 pose, panel kiri dan grid 4×2 | Disetujui dan terunggah | [Body_Language_Sheet_Nicho.png](Nicho/Body_Language_Sheet_Nicho.png) |
 
-Folder aset Nicho akan dapat ditautkan setelah file PNG benar-benar diunggah ke repository.
+Lihat juga [arsip visual Nicho](Visual_Character_Archive.md#nicho) untuk brief, keputusan desain, dan batas canon.
 
 ## Karakter lain
 

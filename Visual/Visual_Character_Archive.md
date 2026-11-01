@@ -114,6 +114,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASET
+- **Detail visual terdahulu (arsip):** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang pernah dilakukan dari dokumen canon. Ciri visual terdahulu (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) pernah disetujui sebagai desain berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya. Tinjau kembali sebelum dipakai dalam alur baru.
 - **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
@@ -130,7 +131,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [x] Audit canon dan brief visual (riwayat; perlu verifikasi ulang untuk alur baru)
 - [ ] Proporsi tubuh dan postur dasar
 - [ ] Potret Character Sheet
-- [ ] Character Profile Sheet — desain ditetapkan sebagai canon visual
+- [ ] Character Profile Sheet (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
@@ -155,11 +156,11 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 ### Nicho
 - [x] Audit canon dan brief visual (riwayat; perlu verifikasi ulang untuk alur baru)
 - [ ] Proporsi tubuh dan postur dasar
-- [ ] Potret Character Sheet — desain disetujui penulis
-- [ ] Character Profile Sheet — desain disetujui penulis
-- [ ] Facial Expression Sheet — desain disetujui penulis
-- [ ] Outfit Sheet — 8 outfit, grid 4×2; desain disetujui penulis
-- [ ] Body Language Sheet — struktur panel kiri dengan potret dan poin bahasa tubuh, delapan pose dalam grid 4×2; desain disetujui penulis
+- [ ] Potret Character Sheet (persetujuan terdahulu; perlu ditinjau ulang)
+- [ ] Character Profile Sheet (persetujuan terdahulu; perlu ditinjau ulang)
+- [ ] Facial Expression Sheet (persetujuan terdahulu; perlu ditinjau ulang)
+- [ ] Outfit Sheet — 8 outfit, grid 4×2 (persetujuan terdahulu; perlu ditinjau ulang)
+- [ ] Body Language Sheet (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASET
 - **Sumber canon yang diperiksa:** [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md), [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md), [Visual README](README.md), dan pedoman dalam arsip visual ini.

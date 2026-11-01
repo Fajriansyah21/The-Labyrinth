@@ -11,7 +11,11 @@
 **Tinggi badan:** 168 cm  
 **Keluarga:** Anak tunggal.
 
-Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat, serta rambut cokelat tua sebahu dengan layer sederhana. Rambutnya sering diikat rendah atau diselipkan ke belakang telinga ketika sedang melakukan sesuatu. Tubuhnya proporsional dengan bentuk sedikit lebih berisi. Posturnya cenderung rileks dan gerakannya praktis, tetapi penampilan fisik ini tidak menentukan seluruh kesan atau perilakunya.
+Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat, dan alis natural. Senyumnya cenderung tipis dan ekspresinya tampak tenang serta ramah tanpa harus selalu tersenyum. Rambutnya berwarna cokelat tua dengan layer ringan; penampilan khasnya adalah rambut yang diikat ke belakang secara longgar, dengan beberapa helai jatuh membingkai wajah. Ia juga dapat menyelipkan rambut ke belakang telinga ketika sedang melakukan sesuatu. Tubuhnya proporsional dengan bentuk sedikit lebih berisi. Posturnya cenderung rileks dan gerakannya praktis, tetapi penampilan fisik ini tidak menentukan seluruh kesan atau perilakunya.
+
+**Acuan visual utama:** Foto referensi yang disepakati penulis menjadi patokan utama untuk penampilan khas Adel, terutama bentuk wajah, mata, ekspresi, dan tatanan rambut. Foto tersebut menggambarkan kesan visual umum Adel, bukan ekspresi yang harus selalu muncul dalam setiap adegan.
+
+**Pakaian pada foto referensi:** Cardigan rajut warna terracotta, blus krem dengan detail renda, dan kalung tipis berwarna emas. Detail ini menjadi referensi tampilan dalam foto, bukan ketentuan bahwa Adel selalu mengenakan pakaian atau aksesori tersebut. Pilihan pakaian tetap dapat berubah mengikuti kegiatan dan situasi.
 
 Adel adalah pribadi yang cenderung introvert, hangat, tenang, dan membumi. Ia tidak selalu menjadi orang yang paling banyak bicara, tetapi juga bukan perempuan pemalu yang pasif atau takut berinteraksi. Ia dapat memulai percakapan, menyampaikan pendapat, dan menunjukkan sisi spontan ketika situasi atau orang-orang di sekitarnya membuatnya nyaman.
 

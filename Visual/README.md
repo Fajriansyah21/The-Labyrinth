@@ -41,6 +41,20 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 | Outfit Sheet — 8 outfit, grid 4×2 | [Outfit_Sheet_Eleina.png](Eleina/Outfit_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
 | Body Language Sheet — 8 pose, grid 4×2 | [Body_Language_Sheet_Eleina.png](Eleina/Body_Language_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
 
+## Nicho
+
+**Status desain:** lima sheet individual telah disetujui penulis. **Status aset:** file gambar belum diverifikasi terunggah ke repository; tautan PNG individual belum ditambahkan agar tidak mengarah ke path yang belum ada.
+
+| Aset | Status | Rujukan |
+|---|---|---|
+| Potret Character Sheet | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
+| Character Profile Sheet | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
+| Facial Expression Sheet — 9 ekspresi, grid 3×3 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
+| Outfit Sheet — 8 outfit, grid 4×2 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
+| Body Language Sheet — 8 pose, panel kiri dan grid 4×2 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
+
+Gunakan [folder visual Nicho](Nicho) untuk aset saat file-file PNG nanti diunggah.
+
 ## Karakter lain
 
 Aset karakter lain akan ditambahkan di sini setelah path file diverifikasi. Gunakan [Arsip Visual Karakter](Visual_Character_Archive.md) untuk memeriksa tahap dan status persetujuannya.

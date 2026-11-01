@@ -26,18 +26,16 @@ Skin tone dan undertone **harus ditentukan per karakter** berdasarkan sumber can
 
 ## 2. Urutan pengerjaan per karakter
 
-Kerjakan satu tahap demi satu tahap. Jangan membuat aset final sebelum fondasi proporsi tubuh disepakati. Minta persetujuan penulis sebelum menjadikan opsi visual sebagai desain yang disetujui.
+Urutan kerja visual individual terdiri dari enam tahap berikut. Kerjakan satu tahap demi satu tahap dan minta persetujuan penulis sebelum menjadikan opsi visual sebagai desain yang disetujui.
 
-1. Audit sumber canon dan buat brief visual.
-2. **Tentukan proporsi tubuh terlebih dahulu:** tinggi badan jika terverifikasi, bentuk tubuh/build, lebar bahu, perbandingan torso dan anggota tubuh, panjang kaki/lengan secara relatif, serta postur dasar. Pisahkan fakta canon dari pilihan desain visual.
-3. Potret Character Sheet, untuk menetapkan identitas wajah dan rambut setelah brief dasar disepakati.
-4. Character Profile Sheet, memakai proporsi tubuh yang telah disetujui sebagai acuan turnaround.
-5. Facial Expression Sheet.
-6. Outfit Sheet.
-7. Body Language Sheet.
-8. Visual kelompok/hubungan, jika sudah waktunya.
+1. **Audit Canon dan brief karakter.** Audit sumber canon lalu susun brief visual. Pada tahap ini, tentukan terlebih dahulu fondasi proporsi tubuh dan postur: tinggi badan jika terverifikasi, bentuk tubuh/build, lebar bahu, perbandingan torso dan anggota tubuh, panjang kaki/lengan secara relatif, serta postur dasar. Pisahkan fakta canon dari pilihan desain visual. Proporsi tubuh harus disepakati sebelum aset visual dibuat.
+2. **Potret Character Sheet.** Menetapkan identitas wajah dan rambut berdasarkan brief yang telah disepakati.
+3. **Character Profile Sheet.** Menggunakan fondasi proporsi tubuh yang sudah disetujui untuk turnaround depan, kiri, kanan, dan belakang serta panel detail.
+4. **Facial Expression Sheet.** Menetapkan ekspresi yang sesuai dengan karakter.
+5. **Outfit Sheet.** Menampilkan tepat delapan outfit dalam grid 4×2.
+6. **Body Language Sheet.** Menampilkan pose, gestur, dan postur yang sesuai dengan karakter.
 
-**Catatan:** Potret Character Sheet tidak menampilkan tubuh penuh, tetapi tetap dibuat setelah tahap proporsi tubuh agar identitas visual dan aset berikutnya dibangun dari fondasi yang sama.
+Visual kelompok/hubungan merupakan pekerjaan terpisah setelah tahap visual individual selesai dan waktunya disetujui penulis.
 
 ## 3. Template standar aset
 
@@ -105,8 +103,7 @@ Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual E
 Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain dan keberadaan file di repository dicatat secara terpisah agar status keduanya tidak tertukar. Setiap karakter dikerjakan berdasarkan sumber canon yang relevan dan persetujuan penulis.
 
 ### Devan
-- [x] Audit canon dan brief visual (riwayat; perlu verifikasi ulang untuk alur baru)
-- [ ] Proporsi tubuh dan postur dasar
+- [ ] Audit Canon dan brief karakter, termasuk proporsi tubuh dan postur dasar
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
 - [ ] Facial Expression Sheet
@@ -255,7 +252,7 @@ Gunakan format berikut saat memulai atau menyelesaikan tahap visual:
 
 - **Karakter:**
 - **Tahap:**
-- **Proporsi tubuh/postur dasar:** tinggi terverifikasi, build, lebar bahu, rasio torso dan anggota tubuh, postur; pisahkan canon dan opsi desain.
+- **Proporsi tubuh/postur dasar dalam brief:** tinggi terverifikasi, build, lebar bahu, rasio torso dan anggota tubuh, postur; pisahkan canon dan opsi desain.
 - **Sumber canon yang diperiksa:**
 - **Fakta canon yang memengaruhi desain:**
 - **Status desain:** OPSI / MENUNGGU PERSETUJUAN / DISETUJUI
@@ -267,8 +264,8 @@ Gunakan format berikut saat memulai atau menyelesaikan tahap visual:
 
 ## 6. Aturan kerja
 
-- Mulai setiap karakter dengan audit canon; jangan mengandalkan ringkasan desain visual lama.
-- Tetapkan dan minta persetujuan proporsi tubuh/postur dasar sebelum membuat aset visual apa pun.
+- Mulai setiap karakter dengan Audit Canon dan brief karakter; jangan mengandalkan ringkasan desain visual lama.
+- Tentukan dan minta persetujuan proporsi tubuh/postur dasar di dalam tahap Audit Canon dan brief karakter, sebelum membuat Potret Character Sheet.
 - Persetujuan aset dari alur lama adalah riwayat saja sampai ditinjau dan disetujui kembali.
 - Bedakan CANON, OPSI DESAIN, dan DESAIN VISUAL DISETUJUI.
 - Jangan menetapkan opsi brainstorming sebagai keputusan penulis.

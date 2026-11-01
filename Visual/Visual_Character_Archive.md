@@ -1,10 +1,10 @@
 # THE LABYRINTH — Arsip Visual Karakter
 
-**Status proyek visual saat ini:** Alur kerja visual dimulai ulang dari tahap penentuan proporsi tubuh sebelum pembuatan aset visual. Persetujuan terdahulu untuk Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet dicatat sebagai riwayat, tetapi tidak otomatis berlaku untuk alur baru. Setiap aset harus ditinjau dan disetujui kembali setelah fondasi proporsi tubuh ditetapkan. File lama tetap berada di repository sebagai arsip/referensi dan tidak dihapus.
+**Status proyek visual saat ini:** Alur kerja visual dimulai ulang dari tahap penentuan proporsi tubuh sebelum pembuatan aset visual. Proporsi tubuh dan postur dasar Devan kini telah disetujui penulis dan menjadi fondasi untuk tahap visual berikutnya. Persetujuan terdahulu untuk Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet dicatat sebagai riwayat, tetapi tidak otomatis berlaku untuk alur baru. Aset visual baru tetap harus ditinjau dan disetujui satu per satu. File lama tetap berada di repository sebagai arsip/referensi dan tidak dihapus.
 
 **Riwayat reset:** Reset ini adalah keputusan alur kerja baru dari penulis. Reset tidak mengubah fakta cerita atau canon karakter yang bersumber dari dokumen cerita. Desain visual lama boleh dipakai sebagai bahan pembanding, tetapi bukan acuan final sebelum dikonfirmasi kembali.
 
-**Status terkini:** Devan, Eleina, dan Nicho memulai ulang proses desain visual dari tahap proporsi tubuh. Lima aset visual masing-masing tetap tersimpan sebagai arsip, tetapi status persetujuan aktifnya perlu diperoleh kembali melalui alur baru. Visual kelompok/hubungan tetap ditunda sampai tahap individual selesai.
+**Status terkini:** Devan telah menyelesaikan tahap penentuan dan persetujuan proporsi tubuh/postur dasar; tahap berikutnya adalah Potret Character Sheet. Eleina dan Nicho masih memulai ulang proses desain visual dari tahap penentuan proporsi tubuh. Aset visual terdahulu tetap tersimpan sebagai arsip, tetapi persetujuan aktifnya perlu diperoleh kembali melalui alur baru. Visual kelompok/hubungan tetap ditunda sampai tahap individual selesai.
 
 **Sumber acuan:** Gunakan dokumen ini untuk spesifikasi visual, checklist, brief, dan status persetujuan/aset. Fakta cerita dan karakter harus tetap diverifikasi dari dokumen canon yang relevan. Jangan menghidupkan kembali rancangan visual lama yang telah dibatalkan.
 
@@ -103,14 +103,15 @@ Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual E
 Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain dan keberadaan file di repository dicatat secara terpisah agar status keduanya tidak tertukar. Setiap karakter dikerjakan berdasarkan sumber canon yang relevan dan persetujuan penulis.
 
 ### Devan
-- [ ] Audit Canon dan brief karakter, termasuk proporsi tubuh dan postur dasar
+- [x] Audit Canon dan brief karakter, termasuk proporsi tubuh dan postur dasar
+- [x] Proporsi tubuh dan postur dasar disetujui penulis
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASET
+- **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR DISETUJUI PENULIS; MENUNGGU POTRET CHARACTER SHEET DAN PERSETUJUAN ASET BERIKUTNYA
 - **Detail visual terdahulu (arsip):** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang pernah dilakukan dari dokumen canon. Ciri visual terdahulu (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) pernah disetujui sebagai desain berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya. Tinjau kembali sebelum dipakai dalam alur baru.
 - **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.

@@ -53,7 +53,7 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 | Outfit Sheet — 8 outfit, grid 4×2 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
 | Body Language Sheet — 8 pose, panel kiri dan grid 4×2 | Desain disetujui; file belum diverifikasi di repository | [Arsip visual Nicho](Visual_Character_Archive.md#nicho) |
 
-Gunakan [folder visual Nicho](Nicho) untuk aset saat file-file PNG nanti diunggah.
+Folder aset Nicho akan dapat ditautkan setelah file PNG benar-benar diunggah ke repository.
 
 ## Karakter lain
 

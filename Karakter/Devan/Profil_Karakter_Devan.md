@@ -157,7 +157,7 @@ Matanya berwarna cokelat gelap dan berbentuk almond, dengan sudut luar yang sedi
 
 Hidungnya memiliki batang yang relatif lurus dan proporsional terhadap wajah. Ujung hidungnya membulat lembut dan tidak terlalu menonjol. Bibirnya berukuran sedang, dengan bibir bawah sedikit lebih penuh daripada bibir atas. Dalam foto acuan, sudut bibirnya terangkat tipis membentuk senyum kecil yang santai, tidak lebar dan tidak dibuat-buat. Senyum tersebut memberi kesan ramah dan sedikit jahil, tetapi bukan berarti Devan harus selalu digambarkan tersenyum.
 
-Kulit Devan berwarna sawo matang terang dengan undertone hangat yang cenderung keemasan. Warna dasarnya perlu terlihat alami dan cukup pekat agar ia tidak tampak pucat, tetapi tidak sampai menjadi cokelat gelap. Pencahayaan dapat mengubah rona yang terlihat pada ilustrasi, sehingga warna kulit di bawah cahaya putih atau dalam bayangan tetap harus konsisten dengan dasar sawo matang terang yang hangat. Hindari membuat kulitnya terlalu pucat atau terlalu gelap tanpa alasan pencahayaan yang jelas.
+Warna dasar kulit Devan ditetapkan sawo matang terang dengan undertone hangat yang cenderung keemasan. Warna dasarnya perlu terlihat alami dan cukup pekat agar ia tidak tampak pucat, tetapi tidak sampai menjadi cokelat gelap. Pencahayaan dapat mengubah rona yang terlihat pada ilustrasi, sehingga warna kulit di bawah cahaya putih atau dalam bayangan tetap harus konsisten dengan dasar sawo matang terang yang hangat. Hindari membuat kulitnya terlalu pucat atau terlalu gelap tanpa alasan pencahayaan yang jelas. Kode warna atau nilai warna yang benar-benar presisi masih [BELUM DITENTUKAN].
 
 Secara keseluruhan, wajah Devan memadukan rahang yang terdefinisi, mata yang teduh, hidung yang proporsional, dan senyum tipis. Daya tariknya berasal dari keseimbangan fitur-fitur tersebut, bukan dari satu ciri yang terlalu mencolok. Ia terlihat menarik secara alami tanpa kesan sengaja berusaha menarik perhatian.
 
@@ -208,7 +208,7 @@ Foto yang diberikan penulis merupakan acuan visual utama bagi wajah dan rambut D
 
 Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai kebutuhan adegan. Namun, perubahan tersebut tidak seharusnya mengubah identitas dasar wajah Devan. Ia harus tetap terlihat sebagai orang yang sama ketika tersenyum, tertawa, serius, kelelahan, sedih, atau berada dalam situasi menegangkan. Jangan menerapkan senyum tipis dari foto sebagai ekspresi permanen untuk semua ilustrasi.
 
-Foto acuan tidak cukup untuk memastikan semua detail anatomi, seperti proporsi tubuh secara akurat atau warna kulit dalam pencahayaan netral. Detail yang tidak terlihat jelas tetap terbuka dan tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar.
+Foto acuan tidak cukup untuk memastikan semua detail anatomi, seperti proporsi tubuh secara akurat. Warna dasar kulit Devan telah ditetapkan berdasarkan acuan visual yang disetujui, tetapi nilai warna yang presisi dan tampilannya dalam semua kondisi pencahayaan belum ditentukan. Detail lain yang tidak terlihat jelas tetap terbuka dan tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar.
 
 ## 6. Hubungan dan Dinamika Sosial
 

@@ -132,17 +132,15 @@ Pengalaman ini memperkuat kebiasaan yang sebelumnya terbentuk setelah kematian i
 
 ## 7. Perubahan dalam Diri Eleina
 
-Perlakuan keluarga barunya perlahan memperkuat pola perilaku yang mulai terbentuk sejak kematian ibu. Eleina semakin sering mengurangi permintaan, menghindari konflik, dan mengatakan bahwa dirinya tidak membutuhkan sesuatu meskipun sebenarnya menginginkannya.
+Pengalaman kehilangan ibu dan perlakuan keluarga barunya perlahan memperkuat pola perilaku yang mulai terbentuk setelah masa berkabung. Eleina semakin sering mengurangi permintaan, menghindari konflik, dan mengatakan bahwa dirinya tidak membutuhkan sesuatu meskipun sebenarnya menginginkannya.
 
-Ia mulai percaya bahwa menjadi anak yang mudah diatur dan tidak merepotkan dapat membuat keadaan lebih tenang.
+Ia mulai percaya bahwa menjadi seseorang yang mudah diatur dan tidak merepotkan dapat membuat keadaan lebih tenang.
 
 Ketika orang lain membutuhkan bantuan, Eleina berusaha hadir. Ketika seseorang sedang sedih, ia mencoba menenangkan. Saat terjadi masalah, ia cenderung memikirkan dampaknya terhadap orang lain sebelum mempertimbangkan perasaannya sendiri.
 
 Sikap tersebut berakar pada kelembutan dan empati yang memang sudah dimilikinya sejak kecil. Namun, pengalaman hidup perlahan mengubah sebagian dari sifat tersebut menjadi cara untuk melindungi dirinya.
 
-Eleina tidak lagi membantu hanya karena peduli. Dalam keadaan tertentu, ia juga membantu karena takut merasa tidak berguna.
-
-Ia tidak selalu mengalah hanya karena ingin menjaga perasaan orang lain. Terkadang, ia mengalah karena takut kehilangan tempatnya dalam kehidupan mereka.
+Eleina tidak selalu membantu hanya karena peduli. Dalam keadaan tertentu, ia juga bisa terdorong membantu karena takut merasa tidak berguna. Ia tidak selalu mengalah hanya karena ingin menjaga perasaan orang lain. Terkadang, ia mengalah karena takut kehilangan tempatnya dalam kehidupan mereka.
 
 Kemandiriannya pun memiliki sisi yang lebih rumit. Ia memang mampu melakukan banyak hal sendiri, tetapi semakin sulit baginya membedakan antara:
 
@@ -152,7 +150,7 @@ dan
 
 “Aku sudah terbiasa tidak meminta bantuan.”
 
-Di mata orang lain, Eleina mulai terlihat kuat, dewasa, tenang, dan dapat diandalkan. Namun, ia semakin terbiasa menyembunyikan kelelahan dan kesedihannya. Orang lain mungkin melihat kemampuannya mengurus diri sendiri, tanpa menyadari bahwa sebagian dari kemandirian tersebut terbentuk karena ia tidak merasa nyaman meminta pertolongan.
+Di mata orang lain, Eleina mungkin terlihat kuat, dewasa, tenang, dan dapat diandalkan. Namun, ia semakin terbiasa menyembunyikan kelelahan dan kesedihannya. Orang lain bisa melihat kemampuannya mengurus diri sendiri tanpa menyadari bahwa sebagian dari kemandirian tersebut terbentuk karena ia tidak merasa nyaman meminta pertolongan.
 
 ---
 
@@ -180,22 +178,30 @@ Ia belum sepenuhnya memahami bahwa kepedulian tidak mengharuskannya selalu menga
 
 ---
 
-## 9. Pengaruh Masa Lalu terhadap Hubungan Eleina dengan Devan
+## 9. Pengaruh Masa Lalu terhadap Hubungan Eleina dengan Tokoh Lain
 
-Ketika Eleina semakin dekat dengan Devan, sifat lembut dan perhatian yang telah menjadi bagian dari dirinya sejak kecil semakin terlihat. Ia memperhatikan perubahan kecil dalam suasana hati Devan, mengingat hal-hal sederhana tentangnya, dan cenderung menunjukkan perhatian melalui tindakan daripada kata-kata besar.
+Pengalaman hidup Eleina memengaruhi cara ia membangun dan menjalani hubungan dengan orang lain, baik dalam pertemanan maupun hubungan yang lebih dekat. Namun, pengaruh tersebut tidak berarti bahwa setiap sikapnya selalu disebabkan oleh luka masa lalu. Kelembutan, perhatian, dan empatinya sudah menjadi bagian dari dirinya sejak kecil.
 
-Devan menjadi salah satu orang yang membuat Eleina merasa aman karena ia tidak terbiasa memaksanya membuka diri. Ia tidak menuntut Eleina untuk selalu menjelaskan perasaannya atau membuat kebutuhan emosionalnya terasa seperti kewajiban.
+Eleina cenderung memperhatikan keadaan orang lain dan menunjukkan kepedulian melalui tindakan sederhana. Ia bisa mengingat hal-hal kecil, menawarkan bantuan, atau berusaha menemani seseorang yang sedang kesulitan. Dalam banyak keadaan, hal itu muncul karena ia memang peduli.
 
-Namun, kedekatan tersebut juga dapat memunculkan ketakutan Eleina akan kehilangan seseorang yang berarti baginya.
+Namun, ketika merasa tidak aman dalam suatu hubungan, kebiasaan tersebut dapat bercampur dengan ketakutannya sendiri. Eleina mungkin lebih memilih mendengarkan daripada menceritakan masalahnya, memberikan bantuan daripada memintanya, atau mengalah agar perselisihan tidak berkembang. Ia juga bisa mengatakan bahwa dirinya baik-baik saja meskipun sebenarnya merasa terluka.
 
-Ia ingin menjadi seseorang yang penting bagi Devan, tetapi tidak selalu mampu mengatakannya. Ia ingin dipilih, tetapi takut terlihat terlalu membutuhkan. Ia ingin diperhatikan, tetapi lebih terbiasa memberikan perhatian terlebih dahulu. Ia ingin Devan tetap berada di sisinya, tetapi tidak ingin membuatnya merasa terbebani.
+Sikapnya dapat berbeda-beda tergantung pada siapa yang dihadapinya, seberapa aman ia merasa bersama orang tersebut, dan bagaimana hubungan mereka berkembang. Ia tidak otomatis terbuka kepada semua orang hanya karena dirinya perhatian, begitu pula ia tidak selalu menutup diri ketika sedang menghadapi masalah.
 
-Karena itu, Eleina terkadang mengorbankan kebutuhannya sendiri demi menjaga hubungan tetap tenang. Ia mungkin memilih diam ketika terluka, mengatakan bahwa dirinya baik-baik saja meskipun sebenarnya tidak, atau menganggap kebutuhan emosionalnya tidak sepenting kebutuhan orang lain.
+Ketika orang lain memperlakukannya dengan hangat dan memberinya ruang untuk menyampaikan kebutuhan, Eleina memiliki kesempatan untuk merasa lebih aman. Meski begitu, rasa aman tidak serta-merta menghapus kebiasaan yang telah terbentuk selama bertahun-tahun. Ia mungkin masih kesulitan meminta bantuan atau menjelaskan bahwa sesuatu telah menyakitinya.
 
-Namun, Eleina bukan seseorang yang lemah atau tidak mampu membangun hubungan yang sehat. Ia memiliki kemampuan untuk memahami, merawat, dan memberikan rasa aman kepada orang lain. Tantangan terbesarnya adalah belajar memberikan perhatian yang sama kepada dirinya sendiri.
+Hubungan Eleina dengan setiap tokoh perlu dikembangkan berdasarkan karakter dan dinamika hubungan mereka masing-masing. Latar belakang ini menjadi dasar untuk memahami pola yang mungkin muncul, bukan penentu mutlak bagi setiap interaksi. Pengaruh masa lalunya terhadap hubungan khusus dengan Devan akan dibahas dalam dokumen hubungan Eleina dan Devan secara terpisah.
 
-Perkembangan emosional Eleina dapat berpusat pada pemahaman bahwa ia tidak harus berguna agar layak dicintai, tidak harus selalu kuat agar tetap dipilih, dan tidak perlu menghapus kebutuhan dirinya sendiri demi mempertahankan seseorang.
+---
 
-Ia perlu belajar bahwa memiliki kebutuhan bukan berarti menjadi beban, meminta bantuan bukan berarti lemah, dan hubungan yang sehat tidak mengharuskannya menghilangkan dirinya sendiri demi menjaga orang lain tetap tinggal.
+## 10. Inti Perjalanan Karakter Eleina
 
-**Inti perjalanan karakter Eleina** adalah belajar bahwa dirinya tetap layak dicintai ketika sedang lelah, membutuhkan bantuan, atau tidak mampu menjadi orang yang selalu menjaga semua orang. Ia tidak harus mengorbankan dirinya sendiri untuk mendapatkan tempat dalam kehidupan orang lain.
+Inti perjalanan karakter Eleina adalah belajar bahwa dirinya tetap layak dicintai ketika sedang lelah, membutuhkan bantuan, atau tidak mampu menjadi orang yang selalu menjaga semua orang.
+
+Ia perlu memahami bahwa memiliki kebutuhan bukan berarti menjadi beban, meminta bantuan bukan berarti lemah, dan menjaga hubungan tidak harus dilakukan dengan mengabaikan dirinya sendiri.
+
+Perjalanannya bukan tentang menghilangkan kelembutan atau membuatnya berhenti peduli kepada orang lain. Ia justru perlu belajar mempertahankan kepedulian itu tanpa menjadikan dirinya sendiri sebagai pihak yang selalu dikorbankan.
+
+Eleina juga perlu membedakan kemandirian yang tumbuh dari kemampuan dan pilihan pribadi dengan kebiasaan menghadapi semuanya sendirian karena takut merepotkan orang lain. Ia dapat tetap menjadi sosok yang mandiri dan penuh perhatian sambil belajar mengungkapkan perasaan, meminta pertolongan, serta menetapkan batas ketika dibutuhkan.
+
+Pada akhirnya, perkembangan Eleina berpusat pada pemahaman bahwa ia tidak harus selalu berguna agar layak dicintai, tidak harus selalu kuat agar tetap dipilih, dan tidak perlu menghapus kebutuhan dirinya sendiri demi mempertahankan tempat dalam kehidupan orang lain.

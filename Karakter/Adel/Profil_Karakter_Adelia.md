@@ -13,6 +13,16 @@
 
 Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat, dan alis natural. Senyumnya cenderung tipis dan ekspresinya tampak tenang serta ramah tanpa harus selalu tersenyum. Rambutnya berwarna cokelat tua dengan layer ringan; penampilan khasnya adalah rambut yang diikat ke belakang secara longgar, dengan beberapa helai jatuh membingkai wajah. Ia juga dapat menyelipkan rambut ke belakang telinga ketika sedang melakukan sesuatu. **Proporsi tubuh:** Siluet tubuh Adel mengarah pada bentuk *hourglass* yang natural. Lebar bahu dan pinggulnya hampir sama, sementara pinggangnya lebih kecil dengan lekukan yang lembut, bukan kontras atau tajam. Dadanya lebih berisi, tetapi menyatu secara alami dengan torso yang seimbang sehingga bagian atas tubuhnya tidak tampak terlalu dominan. Torso memiliki proporsi yang seimbang, sedangkan kakinya terlihat sedikit panjang dibandingkan torso. Pahanya relatif ramping. Lengannya ramping dengan garis lembut dan volume alami, bukan sangat tipis atau berotot tegas. Betisnya relatif ramping dengan sedikit isi alami dan lekukan otot yang halus; transisi dari betis ke pergelangan kaki tidak terlalu tajam. Secara keseluruhan, tubuh Adel memiliki kesan sedang ke jenjang: tidak mungil, tetapi juga tidak menjulang atau tampak seperti model runway. Bentuk tubuh dan posturnya tetap terasa menyatu dan alami. Posturnya cenderung rileks dan gerakannya praktis, tetapi penampilan fisik ini tidak menentukan seluruh kesan atau perilakunya.
 
+### Skin Tone
+
+**Status: Hasil brainstorming, belum ditetapkan sebagai canon final.**
+
+- **Tingkat kecerahan:** *Light-medium*, cerah kecokelatan.
+- **Undertone:** Netral, tidak didominasi nuansa kuning keemasan maupun merah muda.
+- **Kesan keseluruhan:** Alami dan seimbang, tidak terlalu pucat atau terlalu hangat.
+
+Catatan: *Light-medium* menjelaskan tingkat kecerahan kulit, sedangkan undertone netral menjelaskan kecenderungan rona dasarnya. Keduanya merupakan arah visual sementara dan masih menunggu konfirmasi final penulis.
+
 **Acuan visual utama:** Foto referensi yang disepakati penulis menjadi patokan utama untuk penampilan khas Adel, terutama bentuk wajah, mata, ekspresi, dan tatanan rambut. Foto tersebut menggambarkan kesan visual umum Adel, bukan ekspresi yang harus selalu muncul dalam setiap adegan.
 
 **Pakaian pada foto referensi:** Cardigan rajut warna terracotta, blus krem dengan detail renda, dan kalung tipis berwarna emas. Detail ini menjadi referensi tampilan dalam foto, bukan ketentuan bahwa Adel selalu mengenakan pakaian atau aksesori tersebut. Pilihan pakaian tetap dapat berubah mengikuti kegiatan dan situasi.

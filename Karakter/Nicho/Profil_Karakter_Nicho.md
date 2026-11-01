@@ -28,6 +28,16 @@ Rambut Nicho berwarna hitam dengan sedikit nuansa kebiruan. Teksturnya lurus dan
 
 Tubuh Nicho ramping dengan postur tegak. Gerakannya cenderung terkontrol dan efisien, serta ia jarang melakukan gerakan yang tidak diperlukan. Ia juga jarang menyentuh orang lain; ketika melakukannya, ia terkadang tampak sedikit canggung. Ciri-ciri ini menggambarkan kebiasaannya membawa diri, bukan berarti ia harus selalu kaku dalam setiap situasi.
 
+
+#### Bentuk dan proporsi tubuh
+
+Tinggi badan Nicho adalah 178 cm. Bentuk tubuhnya ramping dengan siluet **Slim Athletic**: bahu proporsional, dada sedikit lebih berisi secara alami, lengan ramping dengan definisi otot tipis, dan pinggang yang tetap ramping. Tubuhnya tidak tampak terlalu kurus, tetapi juga tidak besar atau berotot menonjol. Kesan atletisnya ringan dan natural, bukan seperti seseorang yang rutin melakukan latihan beban intensif.
+
+Proporsi torso dan kakinya seimbang, dengan kaki yang sedikit jenjang. Panjang kaki tidak berlebihan seperti proporsi model runway; bentuk keseluruhan tetap natural dan membuat tinggi 178 cm-nya terlihat jelas. Saat mengenakan pakaian sehari-hari, siluet bahu, dada, pinggang, dan kakinya sebaiknya terbaca secara wajar tanpa pakaian yang harus ketat.
+
+Nicho cukup aktif dalam kesehariannya, tetapi ia tidak memiliki rutinitas olahraga yang telah ditetapkan. Karena itu, jangan menyimpulkan bahwa ia mempunyai stamina, kekuatan, atau kemampuan atletik tertentu hanya dari bentuk tubuhnya. Berat badan dan ukuran tubuh terperinci masih [BELUM DITENTUKAN].
+
+
 #### Acuan visual untuk ilustrasi
 
 Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Nicho. Dalam ilustrasi berikutnya, pertahankan wajah oval agak panjang dengan dagu sedikit meruncing, mata berbentuk almond berwarna abu-abu gelap, alis gelap yang relatif tebal dan cenderung lurus, hidung ramping yang proporsional, bibir berukuran sedang, serta rambut hitam bernuansa kebiruan dengan belahan samping dan volume alami.

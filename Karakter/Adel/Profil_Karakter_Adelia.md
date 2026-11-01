@@ -17,6 +17,33 @@ Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat
 
 **Pakaian pada foto referensi:** Cardigan rajut warna terracotta, blus krem dengan detail renda, dan kalung tipis berwarna emas. Detail ini menjadi referensi tampilan dalam foto, bukan ketentuan bahwa Adel selalu mengenakan pakaian atau aksesori tersebut. Pilihan pakaian tetap dapat berubah mengikuti kegiatan dan situasi.
 
+
+### Pedoman Outfit Adel
+
+**Gaya utama:** Gabungan *Soft Feminine*, *Casual Chic*, dan *Cozy Natural*. Ketiganya membentuk satu identitas berpakaian yang feminin, santai, hangat, dan natural, bukan tiga persona yang terpisah.
+
+**Prinsip siluet dan kenyamanan:** Adel dapat memadukan atasan yang mengikuti bentuk tubuh dengan cardigan longgar atau bawahan berpotongan santai. Perpaduan ini memberi bentuk pada outfit tanpa membuatnya terlihat terlalu dibuat-buat. Kenyamanan dan kecocokan dengan kegiatan tetap menjadi pertimbangan utama.
+
+**Palet warna rekomendasi:** Krem, oatmeal, terracotta, cokelat, sage, dan dusty rose. Warna-warna ini merupakan palet acuan, bukan aturan wajib untuk setiap pakaian. Terracotta dan krem dapat menjadi warna yang sering muncul, selaras dengan foto referensi.
+
+**Bahan yang cocok:** Rajut, katun, dan linen sebagai pilihan utama, terutama untuk memberi kesan lembut, hangat, dan natural.
+
+**Pilihan pakaian dan kombinasi yang dapat digunakan:**
+- Atasan rajut atau blus yang mengikuti bentuk tubuh, dipadukan dengan cardigan longgar.
+- Kaos polos atau atasan simpel dengan jeans berpotongan lurus maupun celana bahan yang santai.
+- Blus dengan detail renda sederhana dan rok midi berpotongan A-line untuk tampilan yang lebih feminin.
+- Atasan rajut dengan celana linen atau bawahan santai untuk kesan cozy dan natural.
+- Sepatu kasual atau flat shoes serta aksesori minimalis, misalnya kalung tipis berwarna emas.
+
+**Bawahan:** Adel fleksibel memakai rok maupun celana. Pilihannya mengikuti kegiatan, kebutuhan, kenyamanan, dan suasana hatinya. Tidak ditetapkan bahwa ia harus lebih sering memakai salah satunya.
+
+**Outfit berdasarkan situasi:**
+- **Di rumah:** Cenderung memilih pakaian praktis dan nyaman, seperti kaus, atasan rajut ringan, celana santai, atau pakaian rumahan sederhana.
+- **Saat bepergian:** Dapat memadukan atasan feminin, cardigan, jeans, celana bahan, atau rok sesuai kegiatan. Ia dapat lebih memperhatikan perpaduan warna dan potongan, tanpa harus selalu tampil formal.
+- **Saat acara khusus:** Dapat memilih potongan yang lebih rapi dan feminin tanpa meninggalkan kesan natural.
+
+Pedoman ini memberi arah gaya, bukan daftar pakaian yang wajib selalu dikenakan. Kombinasi outfit dapat berubah mengikuti kegiatan, cuaca, kenyamanan, dan suasana hati Adel. Warna, bahan, aksesori, serta contoh kombinasi di atas merupakan rekomendasi desain yang telah disetujui sebagai arah umum, bukan batasan mutlak.
+
 Adel adalah pribadi yang cenderung introvert, hangat, tenang, dan membumi. Ia tidak selalu menjadi orang yang paling banyak bicara, tetapi juga bukan perempuan pemalu yang pasif atau takut berinteraksi. Ia dapat memulai percakapan, menyampaikan pendapat, dan menunjukkan sisi spontan ketika situasi atau orang-orang di sekitarnya membuatnya nyaman.
 
 Kemandirian merupakan bagian penting dari dirinya, tetapi bukan berarti Adel tidak membutuhkan kedekatan, perhatian, atau bantuan orang lain. Ia memiliki kehidupan dan minatnya sendiri, termasuk memasak, serta dapat menikmati kebersamaan tanpa harus terus menjadi pusat perhatian.

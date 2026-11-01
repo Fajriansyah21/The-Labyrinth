@@ -31,7 +31,7 @@ Alis Eleina berwarna cokelat gelap, cukup ramping, dan memiliki lengkungan alami
 
 Bibir Eleina berukuran kecil hingga sedang, dengan lekukan halus pada bagian tengah bibir atas dan bibir bawah yang sedikit lebih penuh. Sudut bibirnya dapat terangkat tipis membentuk senyum kecil yang natural. Senyum ini merupakan salah satu ekspresi yang mungkin muncul, bukan ekspresi permanen yang harus digunakan dalam setiap ilustrasi.
 
-Kulitnya tampak cerah dengan rona hangat dalam foto acuan. Pipi dan area sekitar hidung menunjukkan semburat kemerahan lembut, tetapi rona tersebut dapat dipengaruhi pencahayaan hangat. Karena itu, kemerahan pada pipi tidak ditetapkan sebagai ciri permanen atau ekspresi yang harus selalu muncul.
+Warna dasar kulit Eleina ditetapkan cerah dengan undertone hangat bernuansa peach. Dalam acuan visual, kulitnya terlihat terang dan lembut, bukan putih pucat. Pipi dan area sekitar hidung dapat menunjukkan semburat kemerahan, tetapi rona tersebut bisa dipengaruhi pencahayaan atau blush sehingga tidak ditetapkan sebagai ciri permanen. Warna dasar kulit perlu tetap konsisten ketika pencahayaan berubah; kode warna atau nilai warna yang benar-benar presisi masih [BELUM DITENTUKAN].
 
 Secara keseluruhan, wajah Eleina memadukan kontur oval yang halus, mata hazel yang ekspresif, dan senyum kecil yang hangat. Kesan lembut dan anggun muncul dari keseimbangan fitur-fiturnya, bukan dari satu bagian wajah yang terlalu menonjol. Ia tidak harus selalu terlihat malu-malu, sedih, atau tersenyum; ekspresinya perlu mengikuti situasi dan keadaan emosionalnya.
 
@@ -62,7 +62,7 @@ Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut El
 
 Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai kebutuhan adegan, tetapi tidak seharusnya mengubah identitas dasar wajah Eleina. Ia harus tetap terlihat sebagai orang yang sama ketika tersenyum, tertawa, serius, kelelahan, sedih, atau berada dalam situasi menegangkan. Jangan menjadikan senyum tipis, semburat kemerahan pada pipi, atau pencahayaan hangat dari foto sebagai ciri yang wajib muncul dalam setiap ilustrasi.
 
-Detail yang tidak dapat dipastikan dari foto, termasuk warna kulit dalam pencahayaan netral dan rincian fisik yang tidak terlihat jelas, tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar gestur atau ekspresi yang harus selalu digunakan.
+Warna dasar kulit Eleina telah ditetapkan berdasarkan acuan visual yang disetujui, tetapi nilai warna yang presisi dan tampilannya dalam semua kondisi pencahayaan belum ditentukan. Rincian fisik lain yang tidak terlihat jelas tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar gestur atau ekspresi yang harus selalu digunakan.
 
 
 #### Gaya berpakaian sehari-hari

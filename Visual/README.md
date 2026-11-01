@@ -31,12 +31,12 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 
 ## Eleina
 
-**Status:** lima file visual ditemukan dan path-nya diverifikasi. Potret, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet telah disetujui penulis; Character Profile Sheet masih draft dan menunggu pengesahan terpisah.
+**Status:** kelima file visual ditemukan dan path-nya diverifikasi. Semua desain, termasuk Character Profile Sheet, telah ditetapkan sebagai canon visual oleh penulis.
 
 | Aset | Tautan | Status |
 |---|---|---|
 | Potret Character Sheet | [Potret_Eleina.png](Eleina/Potret_Eleina.png) | Terunggah dan terverifikasi |
-| Character Profile Sheet | [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain masih draft |
+| Character Profile Sheet | [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png) | Terunggah, terverifikasi, dan ditetapkan sebagai canon visual |
 | Facial Expression Sheet — 9 ekspresi, grid 3×3 | [Facial_Expression_Eleina.png](Eleina/Facial_Expression_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
 | Outfit Sheet — 8 outfit, grid 4×2 | [Outfit_Sheet_Eleina.png](Eleina/Outfit_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |
 | Body Language Sheet — 8 pose, grid 4×2 | [Body_Language_Sheet_Eleina.png](Eleina/Body_Language_Sheet_Eleina.png) | Terunggah dan terverifikasi; desain disetujui |

@@ -66,6 +66,8 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 - [Latar Belakang Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Latar_Belakang_Nicho.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Profil_Karakter_Nicho.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
 
+- **Referensi visual Nicho:** [Folder visual Nicho](Visual/Nicho) · [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md). Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet (8 outfit), dan Body Language Sheet (8 pose) telah disetujui penulis. **File gambar belum diverifikasi terunggah**, jadi tautan aset PNG individual akan ditambahkan setelah file tersedia di repository.
+
 #### Hubungan Tokoh Nicho
 Semua dokumen hubungan di bawah ini berstatus **DRAFT dan masih belum ada**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
 

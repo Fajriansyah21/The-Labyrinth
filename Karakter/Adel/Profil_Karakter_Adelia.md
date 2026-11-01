@@ -15,13 +15,13 @@ Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat
 
 ### Skin Tone
 
-**Status: Hasil brainstorming, belum ditetapkan sebagai canon final.**
+**Status: CANON.** Skin tone Adel telah ditetapkan oleh penulis.
 
 - **Tingkat kecerahan:** *Light-medium*, cerah kecokelatan.
 - **Undertone:** Netral, tidak didominasi nuansa kuning keemasan maupun merah muda.
 - **Kesan keseluruhan:** Alami dan seimbang, tidak terlalu pucat atau terlalu hangat.
 
-Catatan: *Light-medium* menjelaskan tingkat kecerahan kulit, sedangkan undertone netral menjelaskan kecenderungan rona dasarnya. Keduanya merupakan arah visual sementara dan masih menunggu konfirmasi final penulis.
+Catatan: *Light-medium* menjelaskan tingkat kecerahan kulit, sedangkan undertone netral menjelaskan kecenderungan rona dasarnya. Undertone netral bukan berarti kulit tampak abu-abu atau kehilangan rona alami.
 
 **Acuan visual utama:** Foto referensi yang disepakati penulis menjadi patokan utama untuk penampilan khas Adel, terutama bentuk wajah, mata, ekspresi, dan tatanan rambut. Foto tersebut menggambarkan kesan visual umum Adel, bukan ekspresi yang harus selalu muncul dalam setiap adegan.
 

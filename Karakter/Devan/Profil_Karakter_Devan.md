@@ -167,6 +167,25 @@ Rambut Devan berwarna hitam pekat, tebal, berlapis, dan bervolume alami. Bagian 
 
 Rambutnya tidak ditata kaku atau dibuat terlalu sempurna. Bentuknya terlihat alami dan santai, seolah Devan tidak menghabiskan banyak waktu untuk menata rambut, tetapi tetap menjaga penampilannya agar terlihat rapi. Sisi rambut membingkai wajah tanpa harus dipotong sangat pendek.
 
+#### Bentuk tubuh dan proporsi
+
+Rancangan visual tubuh Devan adalah atletis natural, bukan tubuh besar atau berotot menonjol. Tingginya 180 cm sesuai identitas yang tercatat di atas. Bentuk tubuhnya terlihat bugar dan seimbang tanpa membuat otot menjadi pusat perhatian.
+
+- **Rangka dan bahu:** Rangka tubuh proporsional dengan bahu yang cukup lebar. Bahunya sedikit lebih lebar daripada pinggang, tetapi tidak membentuk siluet V yang ekstrem.
+- **Dada dan punggung:** Terbentuk secara natural dan cukup berisi untuk mendukung bentuk bahu, tanpa kesan terlalu bidang atau seperti binaragawan.
+- **Pinggang dan perut:** Seimbang dengan dada dan pinggul. Perut relatif datar dengan otot inti yang terbentuk halus; definisi *six-pack* tidak ditonjolkan.
+- **Pinggul dan kaki:** Lebar pinggul seimbang dengan pinggang dan paha. Paha memiliki volume yang wajar, sedangkan betis tidak terlalu besar atau terlalu ramping. Panjang torso dan kaki tampak seimbang.
+- **Leher, lengan, dan tangan:** Leher proporsional dengan kepala dan bahu. Lengan serta tangan terlihat natural, tidak terlalu kurus maupun kekar. Panjang jari seimbang dengan telapak tangan, tanpa bentuk yang terlalu ramping atau tebal.
+- **Definisi otot:** Otot tampak samar dan wajar, bukan hasil penampilan yang sengaja dipamerkan. Tubuhnya sebaiknya tetap terlihat masuk akal saat mengenakan pakaian kasual sehari-hari.
+
+Rancangan ini merupakan acuan visual agar ilustrasi Devan konsisten, bukan penetapan ukuran anatomi terperinci. Hindari menambahkan ukuran lingkar tubuh, berat badan, atau detail fisik lain yang belum ditentukan.
+
+#### Postur dan cara bergerak
+
+Saat berdiri, Devan cenderung tegak tetapi santai. Ia tidak perlu selalu berdiri dengan dada dibusungkan atau bahu ditarik ke belakang. Cara berjalannya ringan dan rileks, dengan sedikit kesan mantap: langkahnya stabil, tetapi tidak dibuat-buat agar tampak percaya diri.
+
+Gerak tubuhnya tetap mengikuti konteks. Ketika berjalan bersama teman, ia bisa tampak lebih santai; ketika terburu-buru, langkahnya dapat memanjang dan lebih cepat; ketika memikirkan sesuatu, ia mungkin melambat tanpa sadar. Variasi tersebut merupakan kemungkinan perilaku sesuai situasi, bukan gestur yang harus muncul setiap kali.
+
 #### Gaya berpakaian sehari-hari
 
 Gaya berpakaian Devan mengarah pada *relaxed minimalist* dengan sentuhan *casual layering* dan *soft streetwear*. Ia mengutamakan kenyamanan, kerapian, dan kemudahan bergerak. Pakaiannya tidak dirancang untuk menjadi pusat perhatian, mengikuti tren secara berlebihan, atau membuatnya terlihat selalu bergaya. Potongannya santai dan cenderung longgar, tetapi tetap memiliki bentuk yang wajar; pakaian tidak terlalu ketat maupun sengaja dibuat kebesaran tanpa struktur.

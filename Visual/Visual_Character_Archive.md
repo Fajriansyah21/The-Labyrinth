@@ -1,10 +1,10 @@
 # THE LABYRINTH — Arsip Visual Karakter
 
-**Status proyek visual saat ini:** Proses visual berjalan bertahap per karakter. Pengerjaan dimulai ulang dari nol untuk rancangan lama yang dinyatakan keliru oleh penulis, tetapi progres baru yang telah dibuat dan disetujui setelah reset tetap berlaku. Aset yang sudah diunggah dan diverifikasi di repository tidak dihapus atau dianggap hilang.
+**Status proyek visual saat ini:** Alur kerja visual dimulai ulang dari tahap penentuan proporsi tubuh sebelum pembuatan aset visual. Persetujuan terdahulu untuk Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet dicatat sebagai riwayat, tetapi tidak otomatis berlaku untuk alur baru. Setiap aset harus ditinjau dan disetujui kembali setelah fondasi proporsi tubuh ditetapkan. File lama tetap berada di repository sebagai arsip/referensi dan tidak dihapus.
 
-**Riwayat reset:** Reset berlaku terhadap rancangan visual terdahulu sebelum alur kerja visual yang sekarang. Reset tersebut bukan status bahwa seluruh proyek visual saat ini masih kosong.
+**Riwayat reset:** Reset ini adalah keputusan alur kerja baru dari penulis. Reset tidak mengubah fakta cerita atau canon karakter yang bersumber dari dokumen cerita. Desain visual lama boleh dipakai sebagai bahan pembanding, tetapi bukan acuan final sebelum dikonfirmasi kembali.
 
-**Status terkini:** Kelima aset visual Devan telah disetujui dan diverifikasi di repository. Untuk Eleina, lima file (Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet) telah ditemukan dan diverifikasi di repository. Kelima desain tersebut telah ditetapkan sebagai canon visual oleh penulis. Visual kelompok/hubungan Eleina ditunda sesuai keputusan penulis.
+**Status terkini:** Devan, Eleina, dan Nicho memulai ulang proses desain visual dari tahap proporsi tubuh. Lima aset visual masing-masing tetap tersimpan sebagai arsip, tetapi status persetujuan aktifnya perlu diperoleh kembali melalui alur baru. Visual kelompok/hubungan tetap ditunda sampai tahap individual selesai.
 
 **Sumber acuan:** Gunakan dokumen ini untuk spesifikasi visual, checklist, brief, dan status persetujuan/aset. Fakta cerita dan karakter harus tetap diverifikasi dari dokumen canon yang relevan. Jangan menghidupkan kembali rancangan visual lama yang telah dibatalkan.
 
@@ -26,15 +26,18 @@ Skin tone dan undertone **harus ditentukan per karakter** berdasarkan sumber can
 
 ## 2. Urutan pengerjaan per karakter
 
-Kerjakan satu tahap demi satu tahap. Minta persetujuan penulis sebelum menjadikan opsi visual sebagai desain yang disetujui.
+Kerjakan satu tahap demi satu tahap. Jangan membuat aset final sebelum fondasi proporsi tubuh disepakati. Minta persetujuan penulis sebelum menjadikan opsi visual sebagai desain yang disetujui.
 
 1. Audit sumber canon dan buat brief visual.
-2. Potret Character Sheet.
-3. Character Profile Sheet.
-4. Facial Expression Sheet.
-5. Outfit Sheet.
-6. Body Language Sheet.
-7. Visual kelompok/hubungan, jika sudah waktunya.
+2. **Tentukan proporsi tubuh terlebih dahulu:** tinggi badan jika terverifikasi, bentuk tubuh/build, lebar bahu, perbandingan torso dan anggota tubuh, panjang kaki/lengan secara relatif, serta postur dasar. Pisahkan fakta canon dari pilihan desain visual.
+3. Potret Character Sheet, untuk menetapkan identitas wajah dan rambut setelah brief dasar disepakati.
+4. Character Profile Sheet, memakai proporsi tubuh yang telah disetujui sebagai acuan turnaround.
+5. Facial Expression Sheet.
+6. Outfit Sheet.
+7. Body Language Sheet.
+8. Visual kelompok/hubungan, jika sudah waktunya.
+
+**Catatan:** Potret Character Sheet tidak menampilkan tubuh penuh, tetapi tetap dibuat setelah tahap proporsi tubuh agar identitas visual dan aset berikutnya dibangun dari fondasi yang sama.
 
 ## 3. Template standar aset
 
@@ -97,26 +100,26 @@ Gunakan struktur lembar referensi yang disetujui penulis melalui contoh visual E
 
 ## 4. Status karakter dan progres visual
 
-**Catatan riwayat:** Pada awal pembaruan alur kerja visual, rancangan visual lama yang dibatalkan oleh penulis dinyatakan tidak berlaku dan proses desain dimulai ulang dari nol. Reset tersebut hanya berlaku untuk rancangan lama sebelum alur kerja saat ini. Reset tidak membatalkan progres baru yang telah disetujui, tidak menghapus aset yang sudah diunggah, dan tidak mengubah canon cerita.
+**Catatan riwayat:** Penulis memutuskan untuk memulai ulang alur lima aset visual dari tahap penentuan proporsi tubuh. Persetujuan visual terdahulu dicatat sebagai riwayat dan tidak dianggap sebagai persetujuan aktif untuk versi baru. File lama tetap disimpan sebagai arsip, bukan dihapus.
 
-Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan keberadaan file di repository dicatat secara terpisah agar status keduanya tidak tertukar. Setiap karakter dikerjakan berdasarkan sumber canon yang relevan dan persetujuan penulis.
+Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain dan keberadaan file di repository dicatat secara terpisah agar status keduanya tidak tertukar. Setiap karakter dikerjakan berdasarkan sumber canon yang relevan dan persetujuan penulis.
 
 ### Devan
-- [x] Audit canon dan brief visual
-- [x] Potret Character Sheet
-- [x] Character Profile Sheet
-- [x] Facial Expression Sheet
-- [x] Outfit Sheet — 8 outfit, grid 4×2
+- [x] Audit canon dan brief visual (riwayat; perlu verifikasi ulang untuk alur baru)
+- [ ] Proporsi tubuh dan postur dasar
+- [ ] Potret Character Sheet
+- [ ] Character Profile Sheet
+- [ ] Facial Expression Sheet
+- [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [x] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, FACIAL EXPRESSION SHEET, OUTFIT SHEET, DAN BODY LANGUAGE SHEET DISETUJUI PENULIS; VISUAL KELOMPOK/HUBUNGAN BELUM DIMULAI
-- **Detail visual:** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang diperiksa ulang dari dokumen canon. Ciri fisik (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) disetujui sebagai desain visual berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya.
+- **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASETntitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang diperiksa ulang dari dokumen canon. Ciri fisik (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) disetujui sebagai desain visual berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya.
 - **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
-- **Catatan Outfit Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan outfit dalam grid 4×2: casual sehari-hari, soft feminine dengan kardigan, kampus lebih rapi, santai dan nyaman dengan sweater tipis, feminin kasual dengan rok midi, jalan santai, di rumah, dan kasual rapi untuk acara. Outfit rumah dan acara dipertahankan untuk menunjukkan rentang keseharian Eleina. Siluet dan palet warna bervariasi; identitas wajah/rambut mengikuti potret Eleina dan rendering mengikuti ArtStyle.jpg. Aksesori pada gambar merupakan pilihan desain, bukan aksesori khas yang telah ditetapkan. Persetujuan desain tidak menetapkan bahwa semua outfit sudah pernah dikenakan dalam canon cerita. File terunggah dan path diverifikasi: [Outfit_Sheet_Eleina.png](Eleina/Outfit_Sheet_Eleina.png).
+- **Catatan Outfit Sheet:** Persetujuan terdahulu perlu ditinjau kembali dalam alur visual baru. Rincian outfit Devan untuk versi baru berstatus [BELUM DITENTUKAN]. Jangan memakai catatan outfit Eleina sebagai spesifikasi Devan. File terdahulu tetap tersedia sebagai arsip: [Outfit_Sheet_Devan.png](Devan/Outfit_Sheet_Devan.png).
 - **Catatan Body Language Sheet:** Tepat delapan pose dalam grid 4×2, mencakup pose santai, mendengarkan, menikmati musik, setelah latihan basket, menawarkan bantuan, bercanda dengan teman dekat, khawatir dan siap membantu, serta menarik diri saat terluka. Desain disetujui penulis pada 2026-10-31. Pose dan gestur spesifik yang belum ditetapkan canon tetap merupakan interpretasi visual, bukan kebiasaan permanen Devan.
-- **Status file visual:** Kelima aset telah ditemukan dan diverifikasi di repository:
+- **Status file arsip:** Kelima aset terdahulu telah ditemukan dan diverifikasi di repository:
   - [Potret Character Sheet](Devan/Potret_Devan.png)
   - [Character Profile Sheet](Devan/Character_Profile_Sheet_Devan.png)
   - [Facial Expression Sheet](Devan/Facial_Expression_Sheet_Devan.png)
@@ -124,15 +127,15 @@ Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan 
   - [Body Language Sheet](Devan/Body_Language_Sheet_Devan.png)
 
 ### Eleina
-- [x] Audit canon dan brief visual
-- [x] Potret Character Sheet
-- [x] Character Profile Sheet — desain ditetapkan sebagai canon visual
-- [x] Facial Expression Sheet
-- [x] Outfit Sheet — 8 outfit, grid 4×2
+- [x] Audit canon dan brief visual (riwayat; perlu verifikasi ulang untuk alur baru)
+- [ ] Proporsi tubuh dan postur dasar
+- [ ] Potret Character Sheet
+- [ ] Character Profile Sheet — desain ditetapkan sebagai canon visual
+- [ ] Facial Expression Sheet
+- [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [x] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** KELIMA ASET VISUAL, TERMASUK CHARACTER PROFILE SHEET, TELAH DITETAPKAN SEBAGAI CANON VISUAL OLEH PENULIS
-- **Status file:** kelima aset telah ditemukan dan diverifikasi di repository: [Potret Character Sheet](Eleina/Potret_Eleina.png), [Character Profile Sheet](Eleina/Character_Profil_Sheet_Eleina.png), [Facial Expression Sheet](Eleina/Facial_Expression_Eleina.png), [Outfit Sheet](Eleina/Outfit_Sheet_Eleina.png), dan [Body Language Sheet](Eleina/Body_Language_Sheet_Eleina.png). Kelima desain tersebut ditetapkan sebagai canon visual oleh penulis.
+- **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASETn dan diverifikasi di repository: [Potret Character Sheet](Eleina/Potret_Eleina.png), [Character Profile Sheet](Eleina/Character_Profil_Sheet_Eleina.png), [Facial Expression Sheet](Eleina/Facial_Expression_Eleina.png), [Outfit Sheet](Eleina/Outfit_Sheet_Eleina.png), dan [Body Language Sheet](Eleina/Body_Language_Sheet_Eleina.png). Kelima desain tersebut ditetapkan sebagai canon visual oleh penulis.
 - **Catatan Body Language Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan pose dalam grid 4×2: (1) berdiri santai, (2) mendengarkan dengan perhatian, (3) membaca novel, (4) merawat tanaman, (5) membuat kue, (6) bercanda dengan teman dekat, (7) menawarkan bantuan, dan (8) bersikap tegas. Aktivitas membaca, merawat tanaman, dan membuat kue berasal dari hobi yang tercatat; gestur spesifik tetap interpretasi visual, bukan kebiasaan permanen. File terunggah dan path diverifikasi: [Body_Language_Sheet_Eleina.png](Eleina/Body_Language_Sheet_Eleina.png).
 - **Catatan Outfit Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan outfit dalam grid 4×2: casual sehari-hari, soft feminine dengan kardigan, kampus lebih rapi, santai dan nyaman dengan sweater tipis, feminin kasual dengan rok midi, jalan santai, di rumah, dan kasual rapi untuk acara. Outfit rumah dan acara dipertahankan untuk menunjukkan rentang keseharian Eleina. Siluet dan palet warna bervariasi; identitas wajah/rambut mengikuti potret Eleina dan rendering mengikuti ArtStyle.jpg. Aksesori pada gambar merupakan pilihan desain, bukan aksesori khas yang telah ditetapkan. Persetujuan desain tidak menetapkan bahwa semua outfit sudah pernah dikenakan dalam canon cerita. File terunggah dan path diverifikasi: [Outfit_Sheet_Eleina.png](Eleina/Outfit_Sheet_Eleina.png).
 - **Sumber yang diperiksa:** [Latar Belakang Eleina](../Karakter/Eleina/Latar_Belakang_Eleina.md), [Profil Karakter Eleina](../Karakter/Eleina/Profil_Karakter_Eleina.md), [Eleina dengan Devan](../Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Devan.md), dan [Devan dengan Eleina](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md). Profil karakter telah difinalkan; latar belakang keluarga dinyatakan sebagai canon yang telah disetujui.
@@ -150,15 +153,15 @@ Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan 
 - **Status file:** `Visual/Eleina/Potret_Eleina.png` telah ditemukan dan diverifikasi di repository: [Potret_Eleina.png](Eleina/Potret_Eleina.png).
 
 ### Nicho
-- [x] Audit canon dan brief visual
-- [x] Potret Character Sheet — desain disetujui penulis
-- [x] Character Profile Sheet — desain disetujui penulis
-- [x] Facial Expression Sheet — desain disetujui penulis
-- [x] Outfit Sheet — 8 outfit, grid 4×2; desain disetujui penulis
-- [x] Body Language Sheet — struktur panel kiri dengan potret dan poin bahasa tubuh, delapan pose dalam grid 4×2; desain disetujui penulis
+- [x] Audit canon dan brief visual (riwayat; perlu verifikasi ulang untuk alur baru)
+- [ ] Proporsi tubuh dan postur dasar
+- [ ] Potret Character Sheet — desain disetujui penulis
+- [ ] Character Profile Sheet — desain disetujui penulis
+- [ ] Facial Expression Sheet — desain disetujui penulis
+- [ ] Outfit Sheet — 8 outfit, grid 4×2; desain disetujui penulis
+- [ ] Body Language Sheet — struktur panel kiri dengan potret dan poin bahasa tubuh, delapan pose dalam grid 4×2; desain disetujui penulis
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, FACIAL EXPRESSION SHEET, OUTFIT SHEET, DAN BODY LANGUAGE SHEET DISETUJUI PENULIS
-- **Status file:** Kelima file PNG telah diverifikasi di repository: [Potret Character Sheet](Nicho/Potret_Nicho.png) · [Character Profile Sheet](Nicho/Character_Profile_Sheet_Nicho.png) · [Facial Expression Sheet](Nicho/Facial_Expression_Nicho.png) · [Outfit Sheet](Nicho/Outfit_Sheet_Nicho.png) · [Body Language Sheet](Nicho/Body_Language_Sheet_Nicho.png).
+- **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASETng) · [Character Profile Sheet](Nicho/Character_Profile_Sheet_Nicho.png) · [Facial Expression Sheet](Nicho/Facial_Expression_Nicho.png) · [Outfit Sheet](Nicho/Outfit_Sheet_Nicho.png) · [Body Language Sheet](Nicho/Body_Language_Sheet_Nicho.png).
 - **Sumber canon yang diperiksa:** [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md), [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md), [Visual README](README.md), dan pedoman dalam arsip visual ini.
 - **Catatan Potret Character Sheet:** Potret frontal berlatar putih dengan bahu terbuka, framing dari atas rambut hingga bagian atas dada. Wajah pada potret yang dipilih penulis menjadi acuan identitas visual untuk sheet berikutnya. Ciri visual yang disetujui: wajah oval agak panjang dengan rahang tegas dan dagu meruncing; mata abu-abu gelap berbentuk almond; alis gelap cukup tebal dan relatif lurus dengan lengkungan tipis; hidung lurus proporsional; bibir sedang dan rapi; rambut hitam bernuansa kebiruan, lurus, pendek-menengah, belahan samping dengan volume di atas dan beberapa helaian jatuh di dahi.
 - **Catatan Character Profile Sheet:** Desain disetujui penulis setelah penyesuaian proporsi tubuh. Tinggi 178 cm, usia 19 tahun, tubuh ramping dan proporsional dengan sedikit definisi otot pada dada, perut, bahu, dan lengan; tidak terlalu kurus dan tidak berotot atletis berlebihan. Skin tone cerah-sedang dengan undertone netral dipilih penulis untuk desain visual. Struktur sheet mengikuti acuan yang disetujui: turnaround tubuh penuh depan/kiri/kanan/belakang dan panel detail wajah, mata, rambut, palet warna, proporsi/postur, serta fitur wajah.
@@ -251,6 +254,7 @@ Gunakan format berikut saat memulai atau menyelesaikan tahap visual:
 
 - **Karakter:**
 - **Tahap:**
+- **Proporsi tubuh/postur dasar:** tinggi terverifikasi, build, lebar bahu, rasio torso dan anggota tubuh, postur; pisahkan canon dan opsi desain.
 - **Sumber canon yang diperiksa:**
 - **Fakta canon yang memengaruhi desain:**
 - **Status desain:** OPSI / MENUNGGU PERSETUJUAN / DISETUJUI
@@ -263,6 +267,8 @@ Gunakan format berikut saat memulai atau menyelesaikan tahap visual:
 ## 6. Aturan kerja
 
 - Mulai setiap karakter dengan audit canon; jangan mengandalkan ringkasan desain visual lama.
+- Tetapkan dan minta persetujuan proporsi tubuh/postur dasar sebelum membuat aset visual apa pun.
+- Persetujuan aset dari alur lama adalah riwayat saja sampai ditinjau dan disetujui kembali.
 - Bedakan CANON, OPSI DESAIN, dan DESAIN VISUAL DISETUJUI.
 - Jangan menetapkan opsi brainstorming sebagai keputusan penulis.
 - Jangan mengklaim file telah tersimpan di GitHub sebelum path-nya diverifikasi.

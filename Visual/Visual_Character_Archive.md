@@ -128,10 +128,11 @@ Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan 
 - [x] Potret Character Sheet
 - [x] Character Profile Sheet
 - [x] Facial Expression Sheet
-- [ ] Outfit Sheet — 8 outfit, grid 4×2
+- [x] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** POTRET, CHARACTER PROFILE SHEET (DESAIN MASIH BERSTATUS DRAFT SAMPAI ADA PENGESAHAN TERPISAH), DAN FACIAL EXPRESSION SHEET DISETUJUI PENULIS
+- **Status desain visual:** POTRET, FACIAL EXPRESSION SHEET, DAN OUTFIT SHEET DISETUJUI PENULIS; CHARACTER PROFILE SHEET MASIH BERSTATUS DRAFT MENUNGGU PENGESAHAN TERPISAH
+- **Catatan Outfit Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan outfit dalam grid 4×2: casual sehari-hari, soft feminine dengan kardigan, kampus lebih rapi, santai dan nyaman dengan sweater tipis, feminin kasual dengan rok midi, jalan santai, di rumah, dan kasual rapi untuk acara. Outfit rumah dan acara dipertahankan untuk menunjukkan rentang keseharian Eleina. Siluet dan palet warna bervariasi; identitas wajah/rambut mengikuti potret Eleina dan rendering mengikuti ArtStyle.jpg. Aksesori pada gambar merupakan pilihan desain, bukan aksesori khas yang telah ditetapkan. Persetujuan desain tidak menetapkan bahwa semua outfit sudah pernah dikenakan dalam canon cerita. Status file: gambar dibuat dalam percakapan, belum diunggah dan diverifikasi di repository.
 - **Sumber yang diperiksa:** [Latar Belakang Eleina](../Karakter/Eleina/Latar_Belakang_Eleina.md), [Profil Karakter Eleina](../Karakter/Eleina/Profil_Karakter_Eleina.md), [Eleina dengan Devan](../Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Devan.md), dan [Devan dengan Eleina](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md). Profil karakter telah difinalkan; latar belakang keluarga dinyatakan sebagai canon yang telah disetujui.
 - **Brief fisik yang disetujui melalui acuan visual:** wajah oval dengan kontur lembut dan dagu membulat; mata relatif besar berbentuk almond dengan iris hazel; alis cokelat gelap ramping; hidung proporsional berujung lembut; bibir kecil hingga sedang. Rambut cokelat panjang melewati dada, ber-layer, belahan mendekati tengah, dengan gelombang lembut di ujung. Tinggi 168 cm dan tubuh ramping dengan bahu kecil tercatat di profil. Potret frontal dengan bahu sejajar dan framing dari atas rambut hingga bagian atas dada telah disetujui penulis pada 2026-11-01.
 - **Skin tone dan undertone:** rona kulit pada potret yang disetujui mengikuti hasil visual acuan. Undertone dalam pencahayaan netral belum ditetapkan secara terpisah; jangan menganggap rona hangat akibat pencahayaan sebagai fakta canon yang lebih spesifik.

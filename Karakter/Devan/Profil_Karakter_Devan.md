@@ -1,5 +1,10 @@
 # Profil Karakter Devan
 
+## Status Persetujuan Desain Fisik
+
+**CANON: DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone karakter ini telah disetujui penulis. Pertahankan ketiganya sebagai acuan tetap dalam pengembangan profil dan visual berikutnya. Persetujuan ini tidak otomatis menetapkan detail anatomi terperinci, kode warna kulit yang belum ditentukan, atau ciri fisik lain yang tidak tercantum dalam profil.
+
+
 > **Status:** Versi final untuk tahap ini; detail [BELUM DITENTUKAN] tetap terbuka dan dapat ditinjau kembali jika kebutuhan cerita berubah  
 
 ## 1. Identitas dan Gambaran Umum

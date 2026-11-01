@@ -150,16 +150,24 @@ Checklist di bawah mencatat progres aktif setelah reset. Persetujuan desain dan 
 - **Status file:** `Visual/Eleina/Potret_Eleina.png` telah ditemukan dan diverifikasi di repository: [Potret_Eleina.png](Eleina/Potret_Eleina.png).
 
 ### Nicho
-- [ ] Audit canon dan brief visual
-- [ ] Potret Character Sheet
-- [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
-- [ ] Outfit Sheet — 8 outfit, grid 4×2
-- [x] Body Language Sheet
+- [x] Audit canon dan brief visual
+- [x] Potret Character Sheet — desain disetujui penulis
+- [x] Character Profile Sheet — desain disetujui penulis
+- [x] Facial Expression Sheet — desain disetujui penulis
+- [x] Outfit Sheet — 8 outfit, grid 4×2; desain disetujui penulis
+- [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual:** BELUM DIMULAI
-- **Detail visual:** BELUM DIAUDIT ULANG DARI SUMBER CANON
-
+- **Status desain visual:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET, FACIAL EXPRESSION SHEET, DAN OUTFIT SHEET DISETUJUI PENULIS; BODY LANGUAGE SHEET BELUM DIMULAI
+- **Status file:** Empat desain pertama telah dibuat dan disetujui dalam sesi kerja, tetapi file belum diverifikasi terunggah di repository. Jangan mencantumkan path aset sebagai terverifikasi sebelum file benar-benar tersedia di GitHub.
+- **Sumber canon yang diperiksa:** [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md), [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md), [Visual README](README.md), dan pedoman dalam arsip visual ini.
+- **Catatan Potret Character Sheet:** Potret frontal berlatar putih dengan bahu terbuka, framing dari atas rambut hingga bagian atas dada. Wajah pada potret yang dipilih penulis menjadi acuan identitas visual untuk sheet berikutnya. Ciri visual yang disetujui: wajah oval agak panjang dengan rahang tegas dan dagu meruncing; mata abu-abu gelap berbentuk almond; alis gelap cukup tebal dan relatif lurus dengan lengkungan tipis; hidung lurus proporsional; bibir sedang dan rapi; rambut hitam bernuansa kebiruan, lurus, pendek-menengah, belahan samping dengan volume di atas dan beberapa helaian jatuh di dahi.
+- **Catatan Character Profile Sheet:** Desain disetujui penulis setelah penyesuaian proporsi tubuh. Tinggi 178 cm, usia 19 tahun, tubuh ramping dan proporsional dengan sedikit definisi otot pada dada, perut, bahu, dan lengan; tidak terlalu kurus dan tidak berotot atletis berlebihan. Skin tone cerah-sedang dengan undertone netral dipilih penulis untuk desain visual. Struktur sheet mengikuti acuan yang disetujui: turnaround tubuh penuh depan/kiri/kanan/belakang dan panel detail wajah, mata, rambut, palet warna, proporsi/postur, serta fitur wajah.
+- **Catatan Facial Expression Sheet:** Desain disetujui penulis. Sembilan ekspresi dalam grid 3×3: netral, senyum tipis, penasaran, berpikir serius, terhibur, kesal, terkejut, canggung, dan sedih tertahan. Identitas wajah dan rambut mengikuti potret yang disetujui. Framing dari atas rambut hingga bagian atas dada, bahu terbuka tanpa pakaian terlihat, latar putih.
+- **Catatan Outfit Sheet:** Desain disetujui penulis. Tepat delapan outfit dalam grid 4×2: (1) kaus putih dan celana hitam untuk sehari-hari, (2) polo abu-abu gelap dengan celana navy, (3) kemeja kampus biru muda dengan celana abu-abu gelap, (4) polo rajut navy dengan chino beige, (5) sweater abu-abu muda dengan celana hitam, (6) kaus hitam sedikit longgar dengan jeans biru, (7) kardigan charcoal di atas kaus putih dengan celana gelap, dan (8) overshirt beige di atas kaus putih dengan celana hitam. Identitas wajah, rambut, proporsi, dan warna kulit mengikuti desain Nicho yang disetujui. Persetujuan sheet tidak menetapkan bahwa semua outfit sudah pernah dikenakan dalam canon cerita.
+- **Body Language Sheet:** Belum dibrief dan belum dibuat. Tahap berikutnya setelah pembaruan checklist ini.
+- **Keputusan penulis:** Empat desain visual pertama disetujui dalam percakapan. Persetujuan desain visual tidak otomatis berarti file sudah diunggah ke repository atau semua detail visual merupakan fakta tertulis dalam canon cerita.
+- **Hal yang belum ditentukan:** Aset file dan path GitHub untuk empat sheet yang disetujui belum diverifikasi; visual kelompok/hubungan belum dimulai.
+ 
 ### Elvano
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet

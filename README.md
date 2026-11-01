@@ -88,6 +88,25 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT dan masih belum ada**. Str
 
 - [Rancangan lama kepribadian, sifat, dan karakteristik i](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
 
+### Karakter: Adelia
+- [Latar Belakang Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Latar_Belakang_Adelia.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
+- [Profil Karakter Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Profil_Karakter_Adelia.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
+
+#### Hubungan Tokoh Adelia
+Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
+
+- [Hubungan Adelia dengan Alexia]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Andrian]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Arkana]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Devan]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Eleina]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Elvano]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Naura]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Nicho]() — **Status: DRAFT**
+- [Hubungan Adelia dengan Reza]() — **Status: DRAFT**
+
+- [Rancangan lama kepribadian, sifat, dan karakteristik Adelia](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
+
 ### Karakter: [Nama Karakter] - Template
 - [Latar Belakang i](): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter i](): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.

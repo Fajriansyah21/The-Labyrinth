@@ -169,6 +169,8 @@ Rambutnya tidak ditata kaku atau dibuat terlalu sempurna. Bentuknya terlihat ala
 
 #### Bentuk tubuh dan proporsi
 
+**Status desain visual: DISETUJUI PENULIS sebagai fondasi proporsi tubuh Devan.** Persetujuan ini mengunci arahan bentuk tubuh dan postur dasar di bawah untuk proses visual berikutnya. Persetujuan ini tidak menetapkan ukuran anatomi terperinci yang belum tersedia.
+
 Rancangan visual tubuh Devan adalah atletis natural, bukan tubuh besar atau berotot menonjol. Tingginya 180 cm sesuai identitas yang tercatat di atas. Bentuk tubuhnya terlihat bugar dan seimbang tanpa membuat otot menjadi pusat perhatian.
 
 - **Rangka dan bahu:** Rangka tubuh proporsional dengan bahu yang cukup lebar. Bahunya sedikit lebih lebar daripada pinggang, tetapi tidak membentuk siluet V yang ekstrem.
@@ -178,7 +180,7 @@ Rancangan visual tubuh Devan adalah atletis natural, bukan tubuh besar atau bero
 - **Leher, lengan, dan tangan:** Leher proporsional dengan kepala dan bahu. Lengan serta tangan terlihat natural, tidak terlalu kurus maupun kekar. Panjang jari seimbang dengan telapak tangan, tanpa bentuk yang terlalu ramping atau tebal.
 - **Definisi otot:** Otot tampak samar dan wajar, bukan hasil penampilan yang sengaja dipamerkan. Tubuhnya sebaiknya tetap terlihat masuk akal saat mengenakan pakaian kasual sehari-hari.
 
-Rancangan ini merupakan acuan visual agar ilustrasi Devan konsisten, bukan penetapan ukuran anatomi terperinci. Hindari menambahkan ukuran lingkar tubuh, berat badan, atau detail fisik lain yang belum ditentukan.
+Rancangan proporsi dan postur dasar ini telah disetujui penulis sebagai acuan visual Devan. Persetujuan tersebut tidak menetapkan ukuran anatomi terperinci. Hindari menambahkan ukuran lingkar tubuh, berat badan, rasio numerik, atau detail fisik lain yang belum ditentukan.
 
 #### Postur dan cara bergerak
 

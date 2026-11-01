@@ -24,6 +24,15 @@ Secara keseluruhan, wajah Nicho memadukan kontur oval agak panjang, mata abu-abu
 
 Rambut Nicho berwarna hitam dengan sedikit nuansa kebiruan. Teksturnya lurus dan halus, dengan potongan medium pendek serta belahan samping. Dalam foto acuan, bagian atas rambut terlihat bervolume dengan beberapa lapisan dan helaian yang jatuh ke dahi. Tatanannya tetap rapi, tetapi tidak kaku atau tersisir sempurna. Pantulan kebiruan dapat terlihat dalam pencahayaan tertentu, sedangkan warna dasarnya tetap hitam.
 
+#### Skin Tone
+
+**Status: CANON.** Tingkat kecerahan dan undertone kulit Nicho telah ditetapkan oleh penulis.
+
+- **Tingkat kecerahan:** *Light-medium*, cerah kecokelatan.
+- **Undertone:** *Cool*, dengan nuansa dingin yang subtil dan natural. Warna dasar kulit dapat menunjukkan sedikit kesan merah muda atau kemerahan, tetapi tidak sampai membuat kulit terlihat merah muda mencolok atau pucat.
+- **Kesan keseluruhan:** Kulit tetap terlihat cerah kecokelatan dan alami. Nuansa cool memberi keselarasan halus dengan rambut hitam bernuansa kebiruan serta mata abu-abu gelap, tanpa menciptakan kontras yang berlebihan.
+- **Panduan visual:** Pencahayaan dan lingkungan dapat memengaruhi tampilan warna kulit. Jangan menggambarkan kulit Nicho selalu kemerahan atau kebiruan; undertone merupakan nuansa dasar, bukan warna permukaan yang harus terlihat kuat di setiap kondisi.
+
 #### Postur dan pembawaan
 
 Tubuh Nicho ramping dengan postur tegak. Gerakannya cenderung terkontrol dan efisien, serta ia jarang melakukan gerakan yang tidak diperlukan. Ia juga jarang menyentuh orang lain; ketika melakukannya, ia terkadang tampak sedikit canggung. Ciri-ciri ini menggambarkan kebiasaannya membawa diri, bukan berarti ia harus selalu kaku dalam setiap situasi.

@@ -43,6 +43,19 @@ Rambut Eleina berwarna cokelat dan panjang melewati dada. Rambutnya memiliki lay
 
 Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak mengambil banyak ruang. Saat mendengarkan, ia dapat sedikit mencondongkan tubuh ke depan. Ia kadang menyelipkan rambut ke belakang telinga ketika berpikir, gugup, atau berkonsentrasi. Ia dapat mempertahankan kontak mata ketika memperhatikan orang lain, tetapi lebih mungkin mengalihkan pandangan ketika pembicaraan beralih kepada perasaannya sendiri.
 
+#### Rancangan proporsi tubuh (brainstorming)
+
+**Status: OPSI BRAINSTORMING, belum ditetapkan sebagai canon final.** Bagian ini mencatat pilihan desain sementara yang disepakati dalam diskusi dan perlu dibedakan dari detail fisik yang sudah ditetapkan.
+
+- **Siluet:** ramping dengan lekuk tubuh alami yang terlihat, tanpa proporsi berlebihan.
+- **Bahu:** relatif kecil, selaras dengan deskripsi postur yang sudah ada.
+- **Pinggang dan pinggul:** pinggang memiliki definisi lembut; pinggul sedikit lebih lebar daripada pinggang dan tetap proporsional.
+- **Kaki:** sedikit lebih panjang secara visual dibandingkan proporsi rata-rata, untuk memberi kesan jenjang yang tetap natural.
+- **Gerak tubuh:** santai dan natural; gerak tidak harus selalu anggun atau halus, dan dapat menjadi lebih ekspresif ketika Eleina merasa nyaman.
+- **Tampilan melalui pakaian:** lekuk tubuh lebih terlihat ketika Eleina mengenakan pakaian sehari-hari yang mengikuti bentuk tubuhnya. Pakaian yang lebih longgar dapat membuat siluet tersebut tampak lebih samar tanpa mengubah bentuk tubuhnya.
+
+Rancangan ini merupakan acuan visual awal, bukan ukuran anatomi yang presisi. Dalam narasi, detail tubuh hanya perlu muncul ketika relevan dengan apa yang Devan amati dan kebutuhan adegan. Jangan menjadikannya uraian anatomi yang berdiri sendiri atau dasar untuk menyimpulkan kepribadian Eleina.
+
 #### Acuan visual untuk ilustrasi
 
 Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Eleina. Dalam ilustrasi berikutnya, pertahankan wajah oval dengan dagu lembut, mata hazel yang relatif besar berbentuk almond, alis cokelat gelap yang ramping dengan lengkungan alami, hidung yang halus dan proporsional, bibir kecil hingga sedang, serta rambut cokelat panjang ber-layer dengan gelombang lembut di bagian ujung.

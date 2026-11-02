@@ -1,6 +1,6 @@
 # THE LABYRINTH — Indeks Visual
 
-Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status desain. Gambar berfungsi sebagai referensi desain visual, bukan pengganti sumber canon tertulis.
+Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status desain. Potret Character Sheet dan Character Profile Sheet Devan, Eleina, Nicho, dan Adel telah ditetapkan penulis sebagai canon visual pada 2026-11-02. Gambar berfungsi sebagai acuan desain visual, bukan pengganti sumber canon tertulis untuk kepribadian, plot, atau fakta cerita.
 
 ## Sumber utama
 
@@ -11,7 +11,7 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 
 ## Devan
 
-**Status:** Potret Character Sheet, Character Profile Sheet, Facial Expression Sheet, Outfit Sheet, dan Body Language Sheet telah disetujui penulis dan file-nya terverifikasi di repository.
+**Status canon visual aktif:** Potret Character Sheet dan Character Profile Sheet disetujui penulis dan file-nya terverifikasi. Status sheet lain mengikuti persetujuan terpisah di arsip.
 
 | Aset | Tautan | Status |
 |---|---|---|
@@ -31,7 +31,7 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 
 ## Eleina
 
-**Status:** kelima file visual ditemukan dan path-nya diverifikasi. Semua desain, termasuk Character Profile Sheet, telah ditetapkan sebagai canon visual oleh penulis.
+**Status canon visual aktif:** Potret Character Sheet dan Character Profile Sheet disetujui penulis dan file-nya terverifikasi. Aset lainnya mengikuti status persetujuan terpisah di arsip.
 
 | Aset | Tautan | Status |
 |---|---|---|
@@ -43,7 +43,7 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 
 ## Nicho
 
-**Status desain:** kelima sheet individual disetujui penulis. **Status aset:** seluruh file PNG telah diverifikasi di repository.
+**Status canon visual aktif:** Potret Character Sheet dan Character Profile Sheet versi revisi disetujui penulis dan file-nya terverifikasi. Status sheet lain mengikuti persetujuan terpisah di arsip.
 
 | Aset | Status | File |
 |---|---|---|
@@ -54,6 +54,17 @@ Halaman ini menghubungkan aset visual yang sudah tersedia dengan arsip status de
 | Body Language Sheet — 8 pose, panel kiri dan grid 4×2 | Disetujui dan terunggah | [Body_Language_Sheet_Nicho.png](Nicho/Body_Language_Sheet_Nicho.png) |
 
 Lihat juga [arsip visual Nicho](Visual_Character_Archive.md#nicho) untuk brief, keputusan desain, dan batas canon.
+
+## Adel (Adelia)
+
+**Status canon visual aktif:** Potret Character Sheet dan Character Profile Sheet versi revisi disetujui penulis pada 2026-11-02. File terunggah dan path terverifikasi.
+
+| Aset | Tautan | Status |
+|---|---|---|
+| Potret Character Sheet | [Potret_Adelia.png](Adelia/Potret_Adelia.png) | Canon visual, terunggah dan terverifikasi |
+| Character Profile Sheet | [Character_Profile_Sheet_Adelia.png](Adelia/Character_Profile_Sheet_Adelia.png) | Canon visual, terunggah dan terverifikasi |
+
+Lihat [arsip visual karakter](Visual_Character_Archive.md#adel) untuk keputusan desain dan batas canon.
 
 ## Karakter lain
 

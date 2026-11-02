@@ -136,7 +136,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** AUDIT CANON, PROPORSI TUBUH/POSTUR DASAR, POTRET CHARACTER SHEET, DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS;.
+- **Status desain visual aktif:** AUDIT CANON, PROPORSI TUBUH/POSTUR DASAR, POTRET CHARACTER SHEET, DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS.
 - **Catatan reset Eleina:** File visual lama yang tercatat di bawah tetap disimpan sebagai arsip/referensi dan tidak otomatis menjadi versi aktif. Potret Character Sheet versi baru telah disetujui penulis pada 2026-11-02. Character Profile Sheet versi revisi juga telah disetujui penulis pada 2026-11-02 setelah dua perubahan administratif: mengisi peran sebagai “Heroine · Love Interest Devan” dan memperjelas label kulit menjadi “Cerah, peach hangat”. Proporsi tubuh, bentuk wajah, desain rambut, pakaian dasar, dan tata letak dipertahankan. File revisi telah diunggah dan path-nya diverifikasi; gunakan sebagai acuan canon visual aktif.
 - **Status Potret dan Character Profile Sheet versi terbaru:** desain kedua aset telah disetujui penulis; file Potret_Eleina.png dan Character_Profil_Sheet_Eleina.png telah diunggah, path diverifikasi, dan ditetapkan sebagai canon visual aktif oleh penulis pada 2026-11-02.
 - **File terbaru:** [Potret_Eleina.png](Eleina/Potret_Eleina.png) dan [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png).
@@ -166,7 +166,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Outfit Sheet — 8 outfit, grid 4×2 (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Body Language Sheet (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS;.
+- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS.
 - **Status Potret dan Character Profile Sheet versi terbaru:** kedua desain telah disetujui final oleh penulis. Character Profile Sheet versi revisi memuat definisi otot yang lebih halus, rendering kulit cerah kecokelatan dengan undertone dingin yang subtil, serta peran “Teman pertama Devan saat SMA dan pasangan Adelia”. File revisi sudah diunggah dan path-nya diverifikasi sebagai aset canon visual aktif.
 - **File terbaru:** [Potret_Nicho.png](Nicho/Potret_Nicho.png) dan [Character_Profile_Sheet_Nicho.png](Nicho/Character_Profile_Sheet_Nicho.png).
 - **Sumber canon yang diperiksa:** [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md), [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md), [Visual README](README.md), dan pedoman dalam arsip visual ini.
@@ -182,7 +182,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — persetujuan penulis ditegaskan pada 2026-11-02 sebagai canon visual.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
@@ -193,7 +193,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — persetujuan penulis ditegaskan pada 2026-11-02 sebagai canon visual.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
@@ -204,7 +204,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — persetujuan penulis ditegaskan pada 2026-11-02 sebagai canon visual.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
@@ -215,7 +215,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — persetujuan penulis ditegaskan pada 2026-11-02 sebagai canon visual.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
@@ -239,7 +239,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — persetujuan penulis ditegaskan pada 2026-11-02 sebagai canon visual.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
@@ -250,7 +250,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Audit canon dan brief visual
 - [ ] Potret Character Sheet
 - [ ] Character Profile Sheet
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — persetujuan penulis ditegaskan pada 2026-11-02 sebagai canon visual.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan

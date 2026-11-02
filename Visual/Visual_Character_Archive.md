@@ -112,7 +112,8 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR DISETUJUI PENULIS; MENUNGGU POTRET CHARACTER SHEET DAN PERSETUJUAN ASET BERIKUTNYA
-- **Status Potret dan Character Profile Sheet versi terbaru:** DESAIN SUDAH DIBUAT; FILE BELUM DIUNGGAH; path repository dan status persetujuan final untuk versi terbaru akan diverifikasi setelah unggahan.
+- **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
+- **File terbaru:** [Potret_Devan.png](Devan/Potret_Devan.png) dan [Character_Profile_Sheet_Devan.png](Devan/Character_Profile_Sheet_Devan.png).
 - **Detail visual terdahulu (arsip):** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang pernah dilakukan dari dokumen canon. Ciri visual terdahulu (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) pernah disetujui sebagai desain berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya. Tinjau kembali sebelum dipakai dalam alur baru.
 - **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.
@@ -136,7 +137,8 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR SUDAH TERCATAT SEBAGAI CANON; MENUNGGU POTRET CHARACTER SHEET DALAM ALUR BARU
-- **Status Potret dan Character Profile Sheet versi terbaru:** DESAIN SUDAH DIBUAT; FILE BELUM DIUNGGAH; path repository dan status persetujuan final untuk versi terbaru akan diverifikasi setelah unggahan.
+- **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
+- **File terbaru:** [Potret_Eleina.png](Eleina/Potret_Eleina.png) dan [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png).
 - **Catatan Body Language Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan pose dalam grid 4×2: (1) berdiri santai, (2) mendengarkan dengan perhatian, (3) membaca novel, (4) merawat tanaman, (5) membuat kue, (6) bercanda dengan teman dekat, (7) menawarkan bantuan, dan (8) bersikap tegas. Aktivitas membaca, merawat tanaman, dan membuat kue berasal dari hobi yang tercatat; gestur spesifik tetap interpretasi visual, bukan kebiasaan permanen. File terunggah dan path diverifikasi: [Body_Language_Sheet_Eleina.png](Eleina/Body_Language_Sheet_Eleina.png).
 - **Catatan Outfit Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan outfit dalam grid 4×2: casual sehari-hari, soft feminine dengan kardigan, kampus lebih rapi, santai dan nyaman dengan sweater tipis, feminin kasual dengan rok midi, jalan santai, di rumah, dan kasual rapi untuk acara. Outfit rumah dan acara dipertahankan untuk menunjukkan rentang keseharian Eleina. Siluet dan palet warna bervariasi; identitas wajah/rambut mengikuti potret Eleina dan rendering mengikuti ArtStyle.jpg. Aksesori pada gambar merupakan pilihan desain, bukan aksesori khas yang telah ditetapkan. Persetujuan desain tidak menetapkan bahwa semua outfit sudah pernah dikenakan dalam canon cerita. File terunggah dan path diverifikasi: [Outfit_Sheet_Eleina.png](Eleina/Outfit_Sheet_Eleina.png).
 - **Sumber yang diperiksa:** [Latar Belakang Eleina](../Karakter/Eleina/Latar_Belakang_Eleina.md), [Profil Karakter Eleina](../Karakter/Eleina/Profil_Karakter_Eleina.md), [Eleina dengan Devan](../Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Devan.md), dan [Devan dengan Eleina](../Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md). Profil karakter telah difinalkan; latar belakang keluarga dinyatakan sebagai canon yang telah disetujui.
@@ -163,7 +165,8 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Body Language Sheet (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** RESET ALUR; MENUNGGU PENETAPAN PROPORSI TUBUH DAN PERSETUJUAN ULANG ASET
-- **Status Potret dan Character Profile Sheet versi terbaru:** DESAIN SUDAH DIBUAT; FILE BELUM DIUNGGAH; path repository dan status persetujuan final untuk versi terbaru akan diverifikasi setelah unggahan.
+- **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
+- **File terbaru:** [Potret_Nicho.png](Nicho/Potret_Nicho.png) dan [Character_Profile_Sheet_Nicho.png](Nicho/Character_Profile_Sheet_Nicho.png).
 - **Sumber canon yang diperiksa:** [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md), [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md), [Visual README](README.md), dan pedoman dalam arsip visual ini.
 - **Catatan Potret Character Sheet:** Potret frontal berlatar putih dengan bahu terbuka, framing dari atas rambut hingga bagian atas dada. Wajah pada potret yang dipilih penulis menjadi acuan identitas visual untuk sheet berikutnya. Ciri visual yang disetujui: wajah oval agak panjang dengan rahang tegas dan dagu meruncing; mata abu-abu gelap berbentuk almond; alis gelap cukup tebal dan relatif lurus dengan lengkungan tipis; hidung lurus proporsional; bibir sedang dan rapi; rambut hitam bernuansa kebiruan, lurus, pendek-menengah, belahan samping dengan volume di atas dan beberapa helaian jatuh di dahi.
 - **Catatan Character Profile Sheet:** Desain disetujui penulis setelah penyesuaian proporsi tubuh. Tinggi 178 cm, usia 19 tahun, tubuh ramping dan proporsional dengan sedikit definisi otot pada dada, perut, bahu, dan lengan; tidak terlalu kurus dan tidak berotot atletis berlebihan. Skin tone cerah-sedang dengan undertone netral dipilih penulis untuk desain visual. Struktur sheet mengikuti acuan yang disetujui: turnaround tubuh penuh depan/kiri/kanan/belakang dan panel detail wajah, mata, rambut, palet warna, proporsi/postur, serta fitur wajah.
@@ -226,7 +229,8 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** PROPORSI TUBUH, BENTUK TUBUH, DAN SKIN TONE DISETUJUI SEBAGAI FINAL/CANON; POTRET DAN CHARACTER PROFILE SHEET SUDAH DIBUAT, MENUNGGU UNGGAHAN FILE.
-- **Status Potret dan Character Profile Sheet versi terbaru:** DESAIN SUDAH DIBUAT; FILE BELUM DIUNGGAH; path repository dan status persetujuan final untuk versi terbaru akan diverifikasi setelah unggahan.
+- **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
+- **File terbaru:** [Potret_Adelia.png](Adelia/Potret_Adelia.png) dan [Character_Profile_Sheet_Adelia.png](Adelia/Character_Profile_Sheet_Adelia.png).
 - **Detail visual:** BELUM DIAUDIT ULANG DARI SUMBER CANON
 
 ### Alexia

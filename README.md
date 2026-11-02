@@ -45,7 +45,7 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 ### Karakter: Eleina
 - [Latar Belakang Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Latar_Belakang_Eleina.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Profil_Karakter_Eleina.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-- **Referensi visual Eleina:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret Character Sheet](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Outfit Sheet — 8 outfit](Visual/Eleina/Outfit_Sheet_Eleina.png) · [Body Language Sheet — 8 pose](Visual/Eleina/Body_Language_Sheet_Eleina.png). Potret dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; file dan path terverifikasi. Sheet lain mengikuti status persetujuan terpisah.
+- **Referensi visual Eleina:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret Character Sheet](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Outfit Sheet — 8 outfit](Visual/Eleina/Outfit_Sheet_Eleina.png) · [Body Language Sheet — 8 pose](Visual/Eleina/Body_Language_Sheet_Eleina.png). Potret dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; file dan path terverifikasi. Sheet lain mengikuti status persetujuan terpisah.
 
 #### Hubungan Tokoh Eleina
 Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
@@ -68,7 +68,7 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 
 - **Referensi visual Nicho:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Nicho](Visual/Nicho). Potret Character Sheet dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; kedua file terverifikasi. Sheet lain mengikuti status persetujuan terpisah:
 - [Potret Character Sheet](Visual/Nicho/Potret_Nicho.png)
-- [Character Profile Sheet](Visual/Nicho/Character_Profile_Sheet_Nicho.png)
+- [Character Profile Sheet](Visual/Nicho/Character_Profile_Sheet_Nicho.png) · [Facial Expression Sheet](Visual/Nicho/Facial_Expression_Nicho.png)
 - [Facial Expression Sheet](Visual/Nicho/Facial_Expression_Nicho.png)
 - [Outfit Sheet — 8 outfit, grid 4×2](Visual/Nicho/Outfit_Sheet_Nicho.png)
 - [Body Language Sheet — 8 pose, panel kiri dan grid 4×2](Visual/Nicho/Body_Language_Sheet_Nicho.png)
@@ -90,7 +90,7 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT dan masih belum ada**. Str
 
 ### Referensi visual Adel (Adelia)
 - [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Adel](Visual/Adelia)
-- **Canon visual disetujui 2026-11-02:** [Potret Character Sheet](Visual/Adelia/Potret_Adelia.png) dan [Character Profile Sheet](Visual/Adelia/Character_Profile_Sheet_Adelia.png). Kedua file telah diunggah dan path-nya diverifikasi.
+- **Canon visual disetujui 2026-11-02:** [Potret Character Sheet](Visual/Adelia/Potret_Adelia.png) dan [Character Profile Sheet](Visual/Adelia/Character_Profile_Sheet_Adelia.png) · [Facial Expression Sheet](Visual/Adelia/Facial_Expression_Adelia.png). Kedua file telah diunggah dan path-nya diverifikasi.
 
 ### Karakter: Adelia
 - [Latar Belakang Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Latar_Belakang_Adelia.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
@@ -161,7 +161,7 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
 - **Devan, visual yang sudah diunggah dan diverifikasi:**
   - [Folder seluruh aset Devan](Visual/Devan)
   - [Potret Character Sheet](Visual/Devan/Potret_Devan.png)
-  - [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png)
+  - [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Facial Expression Sheet](Visual/Devan/Facial_Expression_Sheet_Devan.png)
   - [Outfit Sheet — 8 outfit, grid 4×2](Visual/Devan/Outfit_Sheet_Devan.png)
   - [Body Language Sheet — 8 pose, grid 4×2](Visual/Devan/Body_Language_Sheet_Devan.png)
   - [Facial Expression Sheet](Visual/Devan/Facial_Expression_Sheet_Devan.png)
@@ -170,7 +170,7 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
 
 ## Canon visual aktif
 
-Pada 2026-11-02, penulis menyetujui Potret Character Sheet dan Character Profile Sheet untuk keempat karakter berikut sebagai canon visual. File dan path sudah diverifikasi. Aset lain (Facial Expression, Outfit, Body Language, serta visual kelompok/hubungan) memiliki status persetujuan terpisah.
+Pada 2026-11-02, penulis menyetujui Potret Character Sheet, Character Profile Sheet, dan Facial Expression Sheet untuk keempat karakter berikut sebagai canon visual. File dan path sudah diverifikasi. Outfit Sheet, Body Language Sheet, serta visual kelompok/hubungan memiliki status persetujuan terpisah.
 
 - **Devan:** [Potret](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png)
 - **Eleina:** [Potret](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png)

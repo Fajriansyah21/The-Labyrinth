@@ -129,14 +129,15 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 
 ### Eleina
 - [x] Audit canon dan brief visual berdasarkan profil karakter dan sumber terkait
-- [x] Proporsi tubuh dan postur dasar disetujui penulis (acuan canon yang sudah tercatat di Profil Karakter Eleina)
-- [x] Potret Character Sheet — desain sudah dibuat; file baru menunggu diunggah
-- [x] Character Profile Sheet — desain sudah dibuat; file baru menunggu diunggah
+- [x] Proporsi tubuh dan postur dasar disetujui penulis untuk alur visual baru pada 2026-11-02
+- [ ] Potret Character Sheet — menunggu dibuat dan disetujui dalam alur visual baru
+- [ ] Character Profile Sheet — menunggu dibuat dan disetujui dalam alur visual baru
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR SUDAH TERCATAT SEBAGAI CANON; MENUNGGU POTRET CHARACTER SHEET DALAM ALUR BARU
+- **Status desain visual aktif:** AUDIT CANON SERTA PROPORSI TUBUH DAN POSTUR DASAR DISETUJUI PENULIS PADA 2026-11-02; TAHAP BERIKUTNYA POTRET CHARACTER SHEET
+- **Catatan reset Eleina:** File visual lama yang tercatat di bawah tetap disimpan sebagai arsip/referensi. Keberadaan file atau persetujuan terdahulu tidak berarti Potret Character Sheet maupun Character Profile Sheet telah disetujui dalam alur visual baru.
 - **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
 - **File terbaru:** [Potret_Eleina.png](Eleina/Potret_Eleina.png) dan [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png).
 - **Catatan Body Language Sheet:** Desain disetujui penulis pada 2026-11-01. Tepat delapan pose dalam grid 4×2: (1) berdiri santai, (2) mendengarkan dengan perhatian, (3) membaca novel, (4) merawat tanaman, (5) membuat kue, (6) bercanda dengan teman dekat, (7) menawarkan bantuan, dan (8) bersikap tegas. Aktivitas membaca, merawat tanaman, dan membuat kue berasal dari hobi yang tercatat; gestur spesifik tetap interpretasi visual, bukan kebiasaan permanen. File terunggah dan path diverifikasi: [Body_Language_Sheet_Eleina.png](Eleina/Body_Language_Sheet_Eleina.png).

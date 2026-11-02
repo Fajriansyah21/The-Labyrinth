@@ -166,3 +166,15 @@ Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen
   - [Body Language Sheet — 8 pose, grid 4×2](Visual/Devan/Body_Language_Sheet_Devan.png)
   - [Facial Expression Sheet](Visual/Devan/Facial_Expression_Sheet_Devan.png)
 - Visual Devan telah disetujui penulis sebagai referensi desain. Visual bukan pengganti sumber canon tertulis; pose dan gestur yang belum ditetapkan dalam canon tetap merupakan interpretasi visual.
+
+
+## Canon visual aktif
+
+Pada 2026-11-02, penulis menyetujui Potret Character Sheet dan Character Profile Sheet untuk keempat karakter berikut sebagai canon visual. File dan path sudah diverifikasi. Aset lain (Facial Expression, Outfit, Body Language, serta visual kelompok/hubungan) memiliki status persetujuan terpisah.
+
+- **Devan:** [Potret](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png)
+- **Eleina:** [Potret](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png)
+- **Nicho:** [Potret](Visual/Nicho/Potret_Nicho.png) · [Character Profile Sheet](Visual/Nicho/Character_Profile_Sheet_Nicho.png)
+- **Adel (Adelia):** [Potret](Visual/Adelia/Potret_Adelia.png) · [Character Profile Sheet](Visual/Adelia/Character_Profile_Sheet_Adelia.png)
+
+Indeks dan status lengkap: [Indeks Visual](Visual/README.md) · [Arsip Visual Karakter](Visual/Visual_Character_Archive.md) · [Source Index Astra](Astra/Source_index.md).

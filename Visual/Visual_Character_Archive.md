@@ -105,17 +105,17 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 ### Devan
 - [x] Audit Canon dan brief karakter, termasuk proporsi tubuh dan postur dasar
 - [x] Proporsi tubuh dan postur dasar disetujui penulis
-- [x] Potret Character Sheet — desain sudah dibuat; file baru menunggu diunggah
+- [x] Potret Character Sheet — desain versi terbaru disetujui penulis pada 2026-11-02; file terunggah dan path diverifikasi
 - [x] Character Profile Sheet — desain sudah dibuat; file baru menunggu diunggah
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR DISETUJUI PENULIS; MENUNGGU POTRET CHARACTER SHEET DAN PERSETUJUAN ASET BERIKUTNYA
-- **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
+- **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR SERTA POTRET CHARACTER SHEET DISETUJUI PENULIS; MENUNGGU PENINJAUAN DAN PERSETUJUAN CHARACTER PROFILE SHEET
+- **Status Potret dan Character Profile Sheet versi terbaru:** Potret Character Sheet versi terbaru disetujui penulis pada 2026-11-02. Character Profile Sheet sudah terunggah dan path-nya diverifikasi, tetapi desain versi terbaru masih menunggu peninjauan dan persetujuan penulis.
 - **File terbaru:** [Potret_Devan.png](Devan/Potret_Devan.png) dan [Character_Profile_Sheet_Devan.png](Devan/Character_Profile_Sheet_Devan.png).
 - **Detail visual terdahulu (arsip):** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang pernah dilakukan dari dokumen canon. Ciri visual terdahulu (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) pernah disetujui sebagai desain berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya. Tinjau kembali sebelum dipakai dalam alur baru.
-- **Catatan Potret Character Sheet:** Potret frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, tanpa pakaian; fokus pada wajah, rambut, mata, dan kesan visual. Disetujui penulis pada 2026-10-31.
+- **Catatan Potret Character Sheet:** Potret versi terbaru disetujui penulis pada 2026-11-02. Desain frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, bahu terbuka tanpa pakaian yang terlihat, serta fokus pada wajah, rambut, dan mata. Gunakan file terbaru sebagai acuan identitas visual untuk Character Profile Sheet dan aset berikutnya.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
 - **Catatan Outfit Sheet:** Persetujuan terdahulu perlu ditinjau kembali dalam alur visual baru. Rincian outfit Devan untuk versi baru berstatus [BELUM DITENTUKAN]. Jangan memakai catatan outfit Eleina sebagai spesifikasi Devan. File terdahulu tetap tersedia sebagai arsip: [Outfit_Sheet_Devan.png](Devan/Outfit_Sheet_Devan.png).

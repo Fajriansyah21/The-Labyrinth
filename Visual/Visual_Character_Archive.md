@@ -1,10 +1,10 @@
 # THE LABYRINTH — Arsip Visual Karakter
 
-**Status proyek visual saat ini:** Untuk alur visual terbaru, penulis telah menetapkan Potret Character Sheet dan Character Profile Sheet Devan, Eleina, Nicho, dan Adel sebagai canon visual yang disetujui pada 2026-11-02. File gambar telah diunggah di folder masing-masing dan path-nya diverifikasi. Aset visual lain (Facial Expression, Outfit, Body Language, dan visual kelompok/hubungan) memiliki status persetujuan masing-masing dan tidak otomatis ikut disetujui oleh keputusan ini. File lama tetap berada di repository sebagai arsip/referensi.
+**Status proyek visual saat ini:** Untuk alur visual terbaru, penulis telah menetapkan Potret Character Sheet, Character Profile Sheet, dan Facial Expression Sheet Devan, Eleina, Nicho, dan Adel sebagai canon visual yang disetujui pada 2026-11-02. File gambar telah diunggah di folder masing-masing dan path-nya diverifikasi. Outfit Sheet, Body Language Sheet, dan visual kelompok/hubungan memiliki status persetujuan masing-masing dan tidak otomatis ikut disetujui. File lama tetap berada di repository sebagai arsip/referensi.
 
 **Riwayat reset:** Reset ini adalah keputusan alur kerja baru dari penulis. Reset tidak mengubah fakta cerita atau canon karakter yang bersumber dari dokumen cerita. Desain visual lama boleh dipakai sebagai bahan pembanding, tetapi bukan acuan final sebelum dikonfirmasi kembali.
 
-**Status terkini:** Potret Character Sheet dan Character Profile Sheet untuk Devan, Eleina, Nicho, dan Adel sudah disetujui penulis sebagai canon visual dan file-nya telah diverifikasi di repository. Tautan langsung seluruh aset ada di [Indeks Visual](README.md), [README repository](../README.md), dan [Source Index Astra](../Astra/Source_index.md). Tahap berikutnya untuk tiap karakter ditentukan secara terpisah; visual kelompok/hubungan tetap ditunda sampai penulis memilih untuk mengerjakannya.
+**Status terkini:** Potret Character Sheet, Character Profile Sheet, dan Facial Expression Sheet untuk Devan, Eleina, Nicho, dan Adel sudah disetujui penulis sebagai canon visual dan file-nya telah diverifikasi di repository. Tautan langsung seluruh aset ada di [Indeks Visual](README.md), [README repository](../README.md), dan [Source Index Astra](../Astra/Source_index.md). Tahap berikutnya untuk tiap karakter ditentukan secara terpisah; visual kelompok/hubungan tetap ditunda sampai penulis memilih untuk mengerjakannya.
 
 **Sumber acuan:** Gunakan dokumen ini untuk spesifikasi visual, checklist, brief, dan status persetujuan/aset. Fakta cerita dan karakter harus tetap diverifikasi dari dokumen canon yang relevan. Jangan menghidupkan kembali rancangan visual lama yang telah dibatalkan.
 
@@ -107,17 +107,17 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [x] Proporsi tubuh dan postur dasar disetujui penulis
 - [x] Potret Character Sheet — desain versi terbaru disetujui penulis pada 2026-11-02; file terunggah dan path diverifikasi
 - [x] Character Profile Sheet — desain versi revisi disetujui penulis pada 2026-11-02; file revisi diunggah dan path diverifikasi sebagai canon visual
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — disetujui penulis sebagai canon visual pada 2026-11-02; file dan path tercatat di repository.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR, POTRET CHARACTER SHEET, SERTA DESAIN REVISI CHARACTER PROFILE SHEET DISETUJUI PENULIS; FILE POTRET DAN CHARACTER PROFILE SHEET REVISI DIUNGGAH, PATH DIVERIFIKASI, DAN DITETAPKAN SEBAGAI CANON VISUAL
+- **Status desain visual aktif:** PROPORSI TUBUH DAN POSTUR DASAR, POTRET CHARACTER SHEET, SERTA DESAIN REVISI CHARACTER PROFILE SHEET DISETUJUI PENULIS; FILE POTRET DAN CHARACTER PROFILE SHEET REVISI DIUNGGAH, PATH DIVERIFIKASI, DAN DITETAPKAN SEBAGAI CANON VISUAL; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS
 - **Status Potret dan Character Profile Sheet versi terbaru:** Potret Character Sheet versi terbaru disetujui penulis pada 2026-11-02. Character Profile Sheet versi revisi disetujui penulis pada 2026-11-02 setelah definisi otot dibuat lebih lembut agar sesuai dengan brief tubuh atletis alami, dengan struktur lembar, rambut, pakaian dasar, dan tata letak dipertahankan. Status desain: DISETUJUI PENULIS. Status file revisi: SUDAH DIUNGGAH DAN PATH DIVERIFIKASI; gambar tersebut menjadi acuan canon visual aktif.
 - **File terbaru:** [Potret_Devan.png](Devan/Potret_Devan.png) dan [Character_Profile_Sheet_Devan.png](Devan/Character_Profile_Sheet_Devan.png).
 - **Detail visual terdahulu (arsip):** Audit identitas, usia, tinggi badan, status pendidikan, kepribadian, dan latar belakang pernah dilakukan dari dokumen canon. Ciri visual terdahulu (rambut hitam bervolume, mata cokelat gelap, bentuk wajah, dan warna kulit light-medium hingga medium dengan kesan hangat) pernah disetujui sebagai desain berdasarkan foto acuan penulis; detail fisik tersebut tidak diklaim sebagai fakta tertulis canon jika sumber cerita tidak menetapkannya. Tinjau kembali sebelum dipakai dalam alur baru.
 - **Catatan Potret Character Sheet:** Potret versi terbaru disetujui penulis pada 2026-11-02. Desain frontal dengan bahu sejajar, latar putih, framing dari atas rambut hingga bagian atas dada, bahu terbuka tanpa pakaian yang terlihat, serta fokus pada wajah, rambut, dan mata. Gunakan file terbaru sebagai acuan identitas visual untuk Character Profile Sheet dan aset berikutnya.
 - **Catatan Character Profile Sheet:** Lembar empat sudut pandang dengan seluruh tubuh terlihat, disertai panel detail visual dan proporsi. Catatan persetujuan pada 2026-10-31 adalah riwayat dari alur sebelumnya dan tidak otomatis berlaku untuk versi aktif. Versi revisi disetujui penulis pada 2026-11-02. Arah revisi mengurangi definisi otot agar tubuh terlihat atletis alami, menjaga konsistensi wajah dengan potret terbaru, serta menyelaraskan sketsa panduan proporsi dengan render utama. Status desain akhir: DISETUJUI PENULIS. Status file revisi: SUDAH DIUNGGAH, PATH DIVERIFIKASI, DAN DITETAPKAN SEBAGAI CANON VISUAL.
-- **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Desain disetujui penulis pada 2026-10-31.
+- **Catatan Facial Expression Sheet:** Lembar sembilan ekspresi dalam grid 3×3, mempertahankan konsistensi wajah, rambut, dan warna kulit. Penulis menegaskan persetujuan aset ini sebagai canon visual aktif pada 2026-11-02. File: [Facial_Expression_Sheet_Devan.png](Devan/Facial_Expression_Sheet_Devan.png).
 - **Catatan Outfit Sheet:** Persetujuan terdahulu perlu ditinjau kembali dalam alur visual baru. Rincian outfit Devan untuk versi baru berstatus [BELUM DITENTUKAN]. Jangan memakai catatan outfit Eleina sebagai spesifikasi Devan. File terdahulu tetap tersedia sebagai arsip: [Outfit_Sheet_Devan.png](Devan/Outfit_Sheet_Devan.png).
 - **Catatan Body Language Sheet:** Tepat delapan pose dalam grid 4×2, mencakup pose santai, mendengarkan, menikmati musik, setelah latihan basket, menawarkan bantuan, bercanda dengan teman dekat, khawatir dan siap membantu, serta menarik diri saat terluka. Desain disetujui penulis pada 2026-10-31. Pose dan gestur spesifik yang belum ditetapkan canon tetap merupakan interpretasi visual, bukan kebiasaan permanen Devan.
 - **Status file arsip:** Kelima aset terdahulu telah ditemukan dan diverifikasi di repository:
@@ -132,11 +132,11 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [x] Proporsi tubuh dan postur dasar disetujui penulis untuk alur visual baru pada 2026-11-02
 - [x] Potret Character Sheet — desain versi baru disetujui penulis pada 2026-11-02; file diunggah, path diverifikasi, dan ditetapkan sebagai canon visual
 - [x] Character Profile Sheet — versi revisi disetujui penulis pada 2026-11-02; revisi administratif peran dan label kulit diterapkan. File diunggah, path diverifikasi, dan ditetapkan sebagai canon visual.
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — disetujui penulis sebagai canon visual pada 2026-11-02; file dan path tercatat di repository.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** AUDIT CANON, PROPORSI TUBUH/POSTUR DASAR, POTRET CHARACTER SHEET, DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI PENULIS PADA 2026-11-02; TAHAP BERIKUTNYA FACIAL EXPRESSION SHEET.
+- **Status desain visual aktif:** AUDIT CANON, PROPORSI TUBUH/POSTUR DASAR, POTRET CHARACTER SHEET, DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS;.
 - **Catatan reset Eleina:** File visual lama yang tercatat di bawah tetap disimpan sebagai arsip/referensi dan tidak otomatis menjadi versi aktif. Potret Character Sheet versi baru telah disetujui penulis pada 2026-11-02. Character Profile Sheet versi revisi juga telah disetujui penulis pada 2026-11-02 setelah dua perubahan administratif: mengisi peran sebagai “Heroine · Love Interest Devan” dan memperjelas label kulit menjadi “Cerah, peach hangat”. Proporsi tubuh, bentuk wajah, desain rambut, pakaian dasar, dan tata letak dipertahankan. File revisi telah diunggah dan path-nya diverifikasi; gunakan sebagai acuan canon visual aktif.
 - **Status Potret dan Character Profile Sheet versi terbaru:** desain kedua aset telah disetujui penulis; file Potret_Eleina.png dan Character_Profil_Sheet_Eleina.png telah diunggah, path diverifikasi, dan ditetapkan sebagai canon visual aktif oleh penulis pada 2026-11-02.
 - **File terbaru:** [Potret_Eleina.png](Eleina/Potret_Eleina.png) dan [Character_Profil_Sheet_Eleina.png](Eleina/Character_Profil_Sheet_Eleina.png).
@@ -162,11 +162,11 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [x] Proporsi tubuh dan postur dasar — revisi definisi otot dan rendering kulit disetujui penulis bersama Character Profile Sheet pada 2026-11-02.
 - [x] Potret Character Sheet — versi final disetujui penulis pada 2026-11-02; file diunggah, path diverifikasi, dan ditetapkan sebagai canon visual.
 - [x] Character Profile Sheet — versi revisi disetujui final oleh penulis pada 2026-11-02; definisi otot diperhalus, nuansa kulit disesuaikan, dan peran diisi “Teman pertama Devan saat SMA dan pasangan Adelia”. File revisi diunggah, path diverifikasi, dan ditetapkan sebagai canon visual.
-- [ ] Facial Expression Sheet (persetujuan terdahulu; perlu ditinjau ulang)
+- [x] Facial Expression Sheet — disetujui penulis sebagai canon visual pada 2026-11-02; file dan path tercatat di repository.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2 (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Body Language Sheet (persetujuan terdahulu; perlu ditinjau ulang)
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; TAHAP BERIKUTNYA FACIAL EXPRESSION SHEET.
+- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS;.
 - **Status Potret dan Character Profile Sheet versi terbaru:** kedua desain telah disetujui final oleh penulis. Character Profile Sheet versi revisi memuat definisi otot yang lebih halus, rendering kulit cerah kecokelatan dengan undertone dingin yang subtil, serta peran “Teman pertama Devan saat SMA dan pasangan Adelia”. File revisi sudah diunggah dan path-nya diverifikasi sebagai aset canon visual aktif.
 - **File terbaru:** [Potret_Nicho.png](Nicho/Potret_Nicho.png) dan [Character_Profile_Sheet_Nicho.png](Nicho/Character_Profile_Sheet_Nicho.png).
 - **Sumber canon yang diperiksa:** [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md), [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md), [Visual README](README.md), dan pedoman dalam arsip visual ini.
@@ -176,7 +176,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - **Catatan Outfit Sheet:** Desain disetujui penulis. Tepat delapan outfit dalam grid 4×2: (1) kaus putih dan celana hitam untuk sehari-hari, (2) polo abu-abu gelap dengan celana navy, (3) kemeja kampus biru muda dengan celana abu-abu gelap, (4) polo rajut navy dengan chino beige, (5) sweater abu-abu muda dengan celana hitam, (6) kaus hitam sedikit longgar dengan jeans biru, (7) kardigan charcoal di atas kaus putih dengan celana gelap, dan (8) overshirt beige di atas kaus putih dengan celana hitam. Identitas wajah, rambut, proporsi, dan warna kulit mengikuti desain Nicho yang disetujui. Persetujuan sheet tidak menetapkan bahwa semua outfit sudah pernah dikenakan dalam canon cerita.
 - **Catatan Body Language Sheet:** Desain disetujui penulis. Struktur mengikuti referensi Eleina: panel kiri memuat potret acuan wajah Nicho dan poin bahasa tubuh; sisi kanan memuat delapan pose dalam grid 4×2. Seluruh pose memakai kaus putih, celana hitam, dan sneakers putih. Pose: (1) berdiri santai, (2) mendengarkan dengan perhatian, (3) mempertimbangkan sesuatu, (4) menjelaskan sesuatu, (5) membantu memecahkan masalah, (6) memeriksa catatan, (7) menawarkan bantuan fisik, (8) santai bersama teman dekat. Identitas wajah mengikuti potret Nicho yang disetujui: rambut hitam bernuansa kebiruan, mata abu-abu gelap, wajah oval agak panjang, rahang tegas, dan dagu meruncing. Poin bahasa tubuh menekankan gerakan terukur dan efisien, kecenderungan tenang dan fokus, gestur kecil saat menjelaskan, sikap lebih santai bersama orang dekat, serta kemungkinan sedikit canggung saat menyentuh orang lain. Sheet ini merupakan referensi visual; pose ilustratif tidak otomatis menjadi peristiwa canon cerita.
 - **Keputusan penulis:** Potret Character Sheet Nicho versi yang dikirim pada 2026-11-02 disetujui final. Persetujuan desain visual tidak otomatis berarti file sudah diunggah atau diganti di repository, dan tidak menetapkan detail yang tidak terlihat dalam gambar.
-- **Hal yang belum ditentukan:** Facial Expression Sheet, Outfit Sheet, Body Language Sheet, dan visual kelompok/hubungan belum ditinjau ulang dalam alur visual baru. Visual kelompok/hubungan belum dimulai.
+- **Hal yang belum ditentukan:** Outfit Sheet, Body Language Sheet, dan visual kelompok/hubungan tetap memiliki status persetujuan terpisah. Visual kelompok/hubungan belum dimulai.
  
 ### Elvano
 - [ ] Audit canon dan brief visual
@@ -226,11 +226,11 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [x] Audit canon dan brief visual
 - [x] Potret Character Sheet — versi final disetujui penulis pada 2026-11-02. Wajah bulat lembut, mata cokelat hangat, dan rambut cokelat tua diikat longgar menjadi acuan visual. File diunggah, path diverifikasi, dan ditetapkan sebagai canon visual.
 - [x] Character Profile Sheet — versi revisi disetujui final oleh penulis pada 2026-11-02. Label kulit diperjelas menjadi “Cerah kecokelatan (light-medium), undertone netral” dan label peran diubah menjadi “Pasangan Nicho”; seluruh elemen desain lain dipertahankan. File revisi diunggah, path diverifikasi, dan ditetapkan sebagai canon visual.
-- [ ] Facial Expression Sheet
+- [x] Facial Expression Sheet — disetujui penulis sebagai canon visual pada 2026-11-02; file dan path tercatat di repository.
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; TAHAP BERIKUTNYA ADALAH VISUAL ASSET SELANJUTNYA SESUAI PILIHAN PENULIS.
+- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS; TAHAP BERIKUTNYA DITENTUKAN PENULIS.
 - **Status Potret dan Character Profile Sheet versi terbaru:** kedua desain disetujui final oleh penulis. Character Profile Sheet revisi mencantumkan peran “Pasangan Nicho” dan label kulit “Cerah kecokelatan (light-medium), undertone netral”. File revisi sudah diunggah dan path-nya diverifikasi sebagai aset canon visual aktif.
 - **File terbaru:** [Potret_Adelia.png](Adelia/Potret_Adelia.png) dan [Character_Profile_Sheet_Adelia.png](Adelia/Character_Profile_Sheet_Adelia.png).
 - **Detail visual:** Potret disetujui; rambut diikat longgar dengan banyak helaian lepas dikonfirmasi sebagai desain final oleh penulis. Warna kulit tampak cerah kecokelatan dengan kesan netral pada pencahayaan gambar; kode warna kulit tetap belum ditentukan.

@@ -225,13 +225,13 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 ### Adel
 - [x] Audit canon dan brief visual
 - [x] Potret Character Sheet — versi yang dikirim penulis disetujui final pada 2026-11-02. Wajah bulat lembut, mata cokelat hangat, rambut cokelat tua diikat longgar dengan helaian pembingkai wajah, framing depan, dan latar putih menjadi acuan visual. File repository belum diverifikasi identik dengan gambar final dalam percakapan.
-- [ ] Character Profile Sheet — revisi administratif label warna kulit disiapkan pada 2026-11-02 menjadi “Cerah kecokelatan (light-medium), undertone netral”; seluruh desain lain dipertahankan. Menunggu persetujuan visual final penulis.
+- [x] Character Profile Sheet — versi revisi disetujui final oleh penulis pada 2026-11-02. Label kulit diperjelas menjadi “Cerah kecokelatan (light-medium), undertone netral” dan label peran diubah menjadi “Pasangan Nicho”; seluruh elemen desain lain dipertahankan. File revisi belum diunggah atau diverifikasi sebagai pengganti aset di repository.
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** POTRET CHARACTER SHEET DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; CHARACTER PROFILE SHEET DALAM TAHAP REVISI ADMINISTRATIF LABEL WARNA KULIT, MENUNGGU PERSETUJUAN FINAL.
-- **Status Potret dan Character Profile Sheet versi terbaru:** potret versi yang dikirim dalam percakapan telah disetujui final oleh penulis. File di repository belum diverifikasi identik dengan versi tersebut. Character Profile Sheet sedang direvisi terbatas pada label warna kulit menjadi “Cerah kecokelatan (light-medium), undertone netral”; gambar revisi dibuat pada 2026-11-02 dan menunggu persetujuan penulis. File di repository belum diganti atau diverifikasi identik dengan gambar revisi.
+- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; TAHAP BERIKUTNYA ADALAH VISUAL ASSET SELANJUTNYA SESUAI PILIHAN PENULIS.
+- **Status Potret dan Character Profile Sheet versi terbaru:** kedua desain disetujui final oleh penulis. Character Profile Sheet revisi mencantumkan peran “Pasangan Nicho” dan label kulit “Cerah kecokelatan (light-medium), undertone netral”. File revisi belum diunggah atau diverifikasi sebagai pengganti aset di repository.
 - **File terbaru:** [Potret_Adelia.png](Adelia/Potret_Adelia.png) dan [Character_Profile_Sheet_Adelia.png](Adelia/Character_Profile_Sheet_Adelia.png).
 - **Detail visual:** Potret disetujui; rambut diikat longgar dengan banyak helaian lepas dikonfirmasi sebagai desain final oleh penulis. Warna kulit tampak cerah kecokelatan dengan kesan netral pada pencahayaan gambar; kode warna kulit tetap belum ditentukan.
 

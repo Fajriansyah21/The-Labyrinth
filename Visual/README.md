@@ -69,3 +69,14 @@ Lihat [arsip visual karakter](Visual_Character_Archive.md#adel) untuk keputusan 
 ## Karakter lain
 
 Aset karakter lain akan ditambahkan di sini setelah path file diverifikasi. Gunakan [Arsip Visual Karakter](Visual_Character_Archive.md) untuk memeriksa tahap dan status persetujuannya.
+
+## Canon visual aktif
+
+Potret Character Sheet dan Character Profile Sheet berikut telah disetujui penulis pada 2026-11-02 sebagai canon visual. Kedua file pada setiap pasangan telah diunggah dan path-nya diverifikasi. Persetujuan ini tidak otomatis berlaku untuk Facial Expression Sheet, Outfit Sheet, Body Language Sheet, atau visual kelompok/hubungan.
+
+- **Devan:** [Potret](Devan/Potret_Devan.png) · [Character Profile Sheet](Devan/Character_Profile_Sheet_Devan.png)
+- **Eleina:** [Potret](Eleina/Potret_Eleina.png) · [Character Profile Sheet](Eleina/Character_Profil_Sheet_Eleina.png)
+- **Nicho:** [Potret](Nicho/Potret_Nicho.png) · [Character Profile Sheet](Nicho/Character_Profile_Sheet_Nicho.png)
+- **Adel (Adelia):** [Potret](Adelia/Potret_Adelia.png) · [Character Profile Sheet](Adelia/Character_Profile_Sheet_Adelia.png)
+
+Untuk keputusan dan checklist per tahap, lihat [Visual Character Archive](Visual_Character_Archive.md). Untuk peta repository, lihat [README utama](../README.md) dan [Source Index Astra](../Astra/Source_index.md).

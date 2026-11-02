@@ -223,17 +223,17 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - **Detail visual:** BELUM DIAUDIT ULANG DARI SUMBER CANON
 
 ### Adel
-- [ ] Audit canon dan brief visual
-- [x] Potret Character Sheet — desain sudah dibuat; file baru menunggu diunggah
+- [x] Audit canon dan brief visual
+- [x] Potret Character Sheet — versi yang dikirim penulis disetujui final pada 2026-11-02. Wajah bulat lembut, mata cokelat hangat, rambut cokelat tua diikat longgar dengan helaian pembingkai wajah, framing depan, dan latar putih menjadi acuan visual. File repository belum diverifikasi identik dengan gambar final dalam percakapan.
 - [x] Character Profile Sheet — desain sudah dibuat; file baru menunggu diunggah
 - [ ] Facial Expression Sheet
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** PROPORSI TUBUH, BENTUK TUBUH, DAN SKIN TONE DISETUJUI SEBAGAI FINAL/CANON; POTRET DAN CHARACTER PROFILE SHEET SUDAH DIBUAT, MENUNGGU UNGGAHAN FILE.
-- **Status Potret dan Character Profile Sheet versi terbaru:** FILE SUDAH TERUNGGAH DAN PATH DIVERIFIKASI; persetujuan desain versi terbaru tetap menunggu konfirmasi penulis.
+- **Status desain visual aktif:** POTRET CHARACTER SHEET DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; TAHAP BERIKUTNYA MENINJAU CHARACTER PROFILE SHEET.
+- **Status Potret dan Character Profile Sheet versi terbaru:** potret versi yang dikirim dalam percakapan telah disetujui final oleh penulis. File di repository belum diverifikasi identik dengan versi tersebut. Character Profile Sheet menunggu peninjauan dalam alur visual baru.
 - **File terbaru:** [Potret_Adelia.png](Adelia/Potret_Adelia.png) dan [Character_Profile_Sheet_Adelia.png](Adelia/Character_Profile_Sheet_Adelia.png).
-- **Detail visual:** BELUM DIAUDIT ULANG DARI SUMBER CANON
+- **Detail visual:** Potret disetujui; rambut diikat longgar dengan banyak helaian lepas dikonfirmasi sebagai desain final oleh penulis. Warna kulit tampak cerah kecokelatan dengan kesan netral pada pencahayaan gambar; kode warna kulit tetap belum ditentukan.
 
 ### Alexia
 - [ ] Audit canon dan brief visual

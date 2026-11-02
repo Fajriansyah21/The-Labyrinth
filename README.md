@@ -23,7 +23,7 @@ Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. G
 
 ### Karakter: Devan
 
-**Referensi visual Devan:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret](Visual/Devan/Potret_Devan.png) · [Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png). Kelima aset visual telah ditemukan dan path-nya diverifikasi. Gambar adalah referensi desain yang disetujui, bukan pengganti canon tertulis.
+**Referensi visual Devan:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret](Visual/Devan/Potret_Devan.png) · [Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png). Potret dan Character Profile Sheet versi revisi ditetapkan sebagai canon visual oleh penulis pada 2026-11-02; kedua file telah diunggah dan path-nya diverifikasi. Sheet lain memiliki status persetujuan terpisah. Gambar bukan pengganti canon tertulis.
 - [Latar Belakang Devan](Karakter/Devan/Latar_Belakang_Devan.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): profil karakter Devan yang mencakup identitas, kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
 
@@ -45,7 +45,7 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 ### Karakter: Eleina
 - [Latar Belakang Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Latar_Belakang_Eleina.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Profil_Karakter_Eleina.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-- **Referensi visual Eleina:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret Character Sheet](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Outfit Sheet — 8 outfit](Visual/Eleina/Outfit_Sheet_Eleina.png) · [Body Language Sheet — 8 pose](Visual/Eleina/Body_Language_Sheet_Eleina.png). Kelima file ditemukan, path-nya diverifikasi, dan seluruh desain termasuk Character Profile Sheet telah ditetapkan sebagai canon visual.
+- **Referensi visual Eleina:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret Character Sheet](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Outfit Sheet — 8 outfit](Visual/Eleina/Outfit_Sheet_Eleina.png) · [Body Language Sheet — 8 pose](Visual/Eleina/Body_Language_Sheet_Eleina.png). Potret dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; file dan path terverifikasi. Sheet lain mengikuti status persetujuan terpisah.
 
 #### Hubungan Tokoh Eleina
 Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
@@ -66,7 +66,7 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isiny
 - [Latar Belakang Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Latar_Belakang_Nicho.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
 - [Profil Karakter Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Profil_Karakter_Nicho.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
 
-- **Referensi visual Nicho:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Nicho](Visual/Nicho). Kelima sheet telah disetujui penulis dan file PNG sudah diverifikasi di repository:
+- **Referensi visual Nicho:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Nicho](Visual/Nicho). Potret Character Sheet dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; kedua file terverifikasi. Sheet lain mengikuti status persetujuan terpisah:
 - [Potret Character Sheet](Visual/Nicho/Potret_Nicho.png)
 - [Character Profile Sheet](Visual/Nicho/Character_Profile_Sheet_Nicho.png)
 - [Facial Expression Sheet](Visual/Nicho/Facial_Expression_Nicho.png)
@@ -87,6 +87,10 @@ Semua dokumen hubungan di bawah ini berstatus **DRAFT dan masih belum ada**. Str
 - [Hubungan Nicho dengan Reza]() — **Status: DRAFT**
 
 - [Rancangan lama kepribadian, sifat, dan karakteristik i](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
+
+### Referensi visual Adel (Adelia)
+- [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Adel](Visual/Adelia)
+- **Canon visual disetujui 2026-11-02:** [Potret Character Sheet](Visual/Adelia/Potret_Adelia.png) dan [Character Profile Sheet](Visual/Adelia/Character_Profile_Sheet_Adelia.png). Kedua file telah diunggah dan path-nya diverifikasi.
 
 ### Karakter: Adelia
 - [Latar Belakang Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Latar_Belakang_Adelia.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.

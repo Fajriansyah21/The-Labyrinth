@@ -54,6 +54,15 @@ Dokumen profil menjelaskan identitas, kepribadian, psikologi, perilaku, hubungan
 | [Latar Belakang Adelia](../Karakter/Adel/Latar_Belakang_Adelia.md) | Kronologi keluarga, pengalaman pembentuk, dan dampaknya. | Sumber latar belakang |
 | [Profil Karakter Adelia](../Karakter/Adel/Profil_Karakter_Adelia.md) | Profil karakter dalam tujuh bagian, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan. | Sumber profil; periksa isi terbaru |
 
+
+### Arkana
+
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar Belakang Arkana](../Karakter/Arkana/Latar_Belakang_Arkana.md) | Riwayat keluarga, kriminalitas ayah dan kakak, perundungan semasa SD dan SMP, hubungan dengan ibu, serta kemarahan yang terbentuk dari pengalaman tersebut. | Sumber latar belakang |
+| [Profil Karakter Arkana](../Karakter/Arkana/Profil_Karakter_Arkana.md) | Identitas dasar, usia dan tinggi badan, peran dalam tim basket Devan, hubungan dengan Alexia, motivasi sebagai *survivor*, kontrol diri, ciri fisik, dan bahasa tubuh. | Sumber profil; periksa isi terbaru |
+
+
 ### Template karakter
 
 Template untuk karakter baru tersedia di bagian A. Bagian ini hanya menjadi pola kerja. Jangan memperlakukan nama placeholder atau tautan kosong sebagai dokumen canon yang sudah tersedia.

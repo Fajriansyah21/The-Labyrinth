@@ -1,10 +1,10 @@
 # THE LABYRINTH — Devan Outfit Sheet
-**Status: DESAIN REVISI DISETUJUI / CANON VISUAL BRIEF**  
-**Tanggal persetujuan revisi:** 2026-11-03  
-**Cakupan persetujuan:** revisi terpilih pada Outfit Sheet delapan outfit. Tiga outfit dipertahankan tanpa perubahan konsep utama, sementara lima outfit disempurnakan atau didesain ulang sesuai brief ini. Persetujuan ini tidak menyatakan bahwa Devan telah mengenakan setiap outfit tersebut dalam peristiwa cerita. Gambar final revisi masih perlu dibuat, ditinjau, dan diverifikasi secara terpisah.
+**Status: OUTFIT SHEET FINAL DISETUJUI / CANON VISUAL**  
+**Tanggal persetujuan desain final:** 2026-11-03  
+**Cakupan persetujuan:** gambar Outfit Sheet terbaru yang dikirim penulis disetujui sebagai desain visual final untuk delapan outfit. Gambar ini menjadi acuan utama pakaian, warna, siluet, aksesori, properti, dan layout. Persetujuan ini tidak menyatakan bahwa Devan telah mengenakan setiap outfit tersebut dalam peristiwa cerita.
 
 ## 1. Status dan sumber
-Brief revisi ini disetujui penulis pada 2026-11-03 dan menggantikan spesifikasi outfit sebelumnya sebagai acuan canon visual aktif. Fakta fisik Devan tetap mengikuti [Profil Karakter Devan](../../Karakter/Devan/Profil_Karakter_Devan.md). Gaya rendering mengikuti [Arsip Visual Karakter](../Visual_Character_Archive.md) dan ArtStyle.jpg yang disetujui. Persetujuan brief ini tidak menggantikan atau mengubah canon naratif.
+Gambar Outfit Sheet terbaru disetujui penulis pada 2026-11-03 dan menggantikan proposal revisi sebelumnya sebagai acuan canon visual aktif. Fakta fisik Devan tetap mengikuti [Profil Karakter Devan](../../Karakter/Devan/Profil_Karakter_Devan.md). Gaya rendering mengikuti [Arsip Visual Karakter](../Visual_Character_Archive.md) dan ArtStyle.jpg yang disetujui. Persetujuan brief ini tidak menggantikan atau mengubah canon naratif.
 
 ## 2. Fisik Devan yang wajib konsisten
 - Usia 19 tahun dalam cerita utama; tinggi 180 cm.
@@ -28,23 +28,26 @@ Brief revisi ini disetujui penulis pada 2026-11-03 dan menggantikan spesifikasi 
 - Detail pakaian seimbang: tekstur kain, jahitan, saku, kerah, panel, ritsleting, manset dan potongan terlihat bila relevan.
 - Aksesori dipilih secara selektif.
 
-## 4. Delapan outfit canon setelah revisi
+## 4. Delapan outfit canon final berdasarkan gambar yang disetujui
 
-Revisi menggunakan cakupan **selected**: pertahankan outfit yang sudah memiliki identitas aktivitas kuat, dan sempurnakan outfit yang masih terasa terlalu generik. Variasi desain dibuat lebih kaya melalui layering, konstruksi pakaian, tekstur, potongan, dan warna, tetapi tetap mengikuti gaya Devan: relaxed minimalist, casual layering, dan soft streetwear.
+Pada 2026-11-03 penulis memilih gambar Outfit Sheet Devan terbaru sebagai desain visual yang disukai dan menyetujuinya sebagai **canon visual final**. Gambar tersebut menjadi acuan utama untuk warna, jenis pakaian, siluet, aksesori, properti, dan pembagian delapan outfit. Spesifikasi revisi sebelumnya yang berbeda, terutama Campus overshirt olive-brown dan Smart-Casual forest-green cardigan, **digantikan** oleh desain yang tampak pada gambar terbaru.
 
-1. **Casual Everyday — disempurnakan:** kaus heavyweight warna ivory atau abu-abu muda dengan potongan relaxed, saku dada kecil atau detail jahitan halus, celana straight-fit charcoal, dan sneakers off-white/abu-abu. Detail konstruksi kain dibuat terbaca tanpa menjadikannya dekoratif berlebihan.
-2. **Campus — revisi utama:** overshirt kasual warna muted olive-brown atau deep taupe, dikenakan terbuka di atas kaus warm ivory. Overshirt memiliki kancing dan dua saku dada sederhana; celana straight-fit dark charcoal; sneakers kasual off-white atau abu-abu muda. Kesan santai, praktis, dan pantas untuk aktivitas kampus, bukan pakaian kantor.
-3. **Basketball Practice — dipertahankan:** kaus olahraga charcoal atau dark navy, celana basket longgar abu-abu gelap, sepatu basket, serta panel/jahitan olahraga sederhana tanpa logo tim. Tetap sporty dan mudah dikenali.
-4. **Hangout with Friends — disempurnakan:** T-shirt cocoa brown dengan tekstur atau potongan relaxed yang berbeda dari Casual Everyday, celana relaxed cargo warna taupe atau muted khaki, dan sneakers kasual netral. Siluet soft streetwear yang santai, tanpa grafis besar atau aksesori berlebihan.
-5. **Motorcycle Riding — dipertahankan:** jaket motor ringan warna charcoal dengan struktur jelas, kerah, panel, ritsleting, manset, dan saku; jaket terbuka di atas kaus abu-abu; celana panjang gelap dan sepatu tertutup yang kokoh. Tanpa branding balap.
-6. **Relaxing Outdoors — disempurnakan:** outer ringan warna muted sage atau olive dengan konstruksi praktis seperti hood, saku, dan manset elastis, dikenakan di atas kaus warm ivory. Celana relaxed-fit warna cocoa atau dark taupe dan sneakers kasual. Pemutar MP3 kecil hitam dengan aksen perak boleh disertakan sebagai properti opsional.
-7. **Smart-Casual — revisi utama:** layering lebih tertata berupa inner polo knit atau kaus berkerah warna warm beige, dipadukan dengan outer tipis/cardigan berstruktur warna forest green. Gunakan celana tailored warna stone gray atau warm charcoal dan loafers minimalis warna dark brown atau hitam. Jam tangan sederhana boleh menjadi aksesori opsional. Tanpa blazer, jas, atau dasi. Harus berbeda jelas dari Campus dalam warna, siluet, material, dan tingkat kerapian.
-8. **At Home — dipertahankan:** kaus warna light gray atau warm ivory, jogger muted olive atau celana pendek rumahan, dan sandal rumah sederhana. Outfit paling santai, minim aksesori, dengan bahu dan postur rileks.
+1. **Casual Everyday:** kaus oversized/relaxed warna putih gading dengan saku dada kecil, jeans biru medium wash berpotongan relaxed-straight, sneakers putih, dan tas ransel hitam yang dikenakan di satu bahu. Tampilan sederhana untuk keseharian.
+2. **Campus:** polo shirt charcoal/dark gray berlengan pendek dengan kerah dan placket kancing, celana panjang beige/khaki berpotongan lurus, sneakers putih, tas ransel hitam satu bahu, serta folder atau beberapa buku yang dibawa di tangan. Kesan rapi, praktis, dan cocok untuk kegiatan kampus. Tidak menggunakan overshirt.
+3. **Basketball Practice:** jersey olahraga tanpa lengan warna hitam/charcoal dengan detail garis putih tipis di kerah dan lubang lengan, celana basket hitam longgar dengan trim putih, kaus kaki putih, sepatu basket hitam dengan aksen merah, wristband gelap, dan bola basket. Tubuh tetap atletis-natural, tidak dibesarkan secara berlebihan.
+4. **Hangout with Friends:** overshirt/jaket kemeja kasual warna muted olive dengan kancing dan saku dada, dikenakan terbuka di atas kaus hitam, jeans biru medium wash, sneakers putih, serta tas selempang hitam yang dikenakan di satu bahu. Kesan santai dan sedikit streetwear.
+5. **Motorcycle Riding:** jaket motor kulit atau material leather-like warna hitam dengan kerah tegak, panel dan jahitan struktural, ritsleting serta saku; inner T-shirt putih; celana cargo hitam dengan saku samping; sepatu/boots hitam; dan helm motor hitam yang dibawa di satu tangan. Tidak menggunakan branding atau logo balap.
+6. **Relaxing Outdoors:** jaket hoodie ringan warna muted olive/army green dengan ritsleting depan dan saku praktis, dikenakan terbuka di atas kaus warm beige/light taupe; celana cargo relaxed-fit warna brown-taupe dengan saku samping; sneakers putih; serta tas selempang hitam dengan strap diagonal di dada. Kesan nyaman dan fungsional untuk kegiatan luar.
+7. **Smart-Casual:** kemeja button-up lengan panjang warna blue-gray/slate blue, dimasukkan rapi ke celana tailored charcoal/dark gray; ikat pinggang hitam dengan buckle sederhana; jam tangan hitam; dan sepatu hitam bergaya formal-kasual. Lengan kemeja dapat digulung rapi sampai sekitar siku. Tidak menggunakan cardigan forest-green, polo knit beige, blazer, jas, atau dasi. Kesan rapi, dewasa, dan tetap sederhana.
+8. **At Home:** sweatshirt longgar warna charcoal/dark gray dengan lengan panjang dan manset rib, celana jogger warna light gray dengan drawstring, serta sandal rumah terbuka warna gelap. Tanpa tas atau aksesori luar. Kesan paling santai dan nyaman.
 
-### Prinsip pembeda Campus dan Smart-Casual
-- **Campus:** overshirt terbuka di atas kaus; muted olive-brown/deep taupe dan warm ivory; celana kasual straight-fit; sneakers. Kesan mahasiswa yang santai dan praktis.
-- **Smart-Casual:** inner polo knit/berkerah dan outer tipis/cardigan yang lebih tertata; forest green dan warm beige; tailored trousers; loafers. Kesan lebih dewasa dan rapi, tetapi tetap tidak formal.
-- Jangan membuat kedua outfit kembali menggunakan kemeja biru/blue-gray dan celana charcoal dengan tampilan yang hampir sama.
+### Pembeda Campus dan Smart-Casual pada desain final
+- **Campus:** polo shirt charcoal berlengan pendek, celana beige/khaki, sneakers putih, tas ransel satu bahu, dan folder/buku. Palet gelap di bagian atas dan terang di bagian bawah; suasana mahasiswa yang praktis.
+- **Smart-Casual:** kemeja button-up blue-gray lengan panjang, celana tailored charcoal, ikat pinggang, jam tangan, dan sepatu hitam. Palet biru keabu-abuan dan charcoal; siluet lebih rapi serta tertata.
+- Jangan mengganti desain final ini dengan konsep overshirt Campus atau cardigan Smart-Casual dari proposal revisi sebelumnya.
+
+### Hierarki referensi visual
+Gambar Outfit Sheet terbaru yang disetujui penulis adalah **referensi utama dan acuan final** untuk kedelapan outfit. Deskripsi di atas merangkum elemen yang tampak pada gambar. Jika ada detail kecil yang tidak cukup jelas, utamakan gambar dan jangan menambahkan ornamen atau atribut baru tanpa persetujuan penulis.
 
 ## 5. Palet yang disarankan
 Warna berikut merupakan acuan palet visual, bukan kode yang wajib digunakan persis:
@@ -79,47 +82,63 @@ Jangan mencampur peran ketiga referensi. Gambar inspirasi busana umum bukan refe
 
 ## 8. English image-generation prompt
 
-Create a polished eight-outfit character design sheet featuring Devan from THE LABYRINTH, using the three provided reference images strictly according to their roles.
+Create a polished eight-outfit character design sheet featuring Devan from THE LABYRINTH. The latest author-approved outfit sheet image is the PRIMARY visual reference for all eight clothing designs. Reproduce its outfit choices, colors, silhouettes, accessories, props, and overall arrangement faithfully. Do not revert to earlier proposed outfit concepts.
 
 REFERENCE ROLES:
-- Reference Image 1 is the face reference. Preserve Devan's facial identity, hairstyle, eye shape, and recognizable features.
-- Reference Image 2 is the body-proportion reference. Preserve his established build, anatomy, height impression, and body proportions.
-- Reference Image 3 is the layout reference only. Use it for panel structure, spacing, and arrangement.
-Do not mix these roles or copy unrelated characters, outfits, logos, or identifying details.
+- Reference Image 1: face and hair identity only. Preserve Devan's facial identity, hairstyle, eye shape, and recognizable features.
+- Reference Image 2: body proportions and anatomy only. Preserve his established build, height impression, and proportions.
+- Reference Image 3: use the latest approved Devan outfit sheet as the clothing and layout reference. Follow its exact eight outfit concepts and 4-column × 2-row arrangement.
+Do not mix reference roles or copy unrelated characters or identifying details.
 
 CHARACTER CANON:
-Devan is a 19-year-old male university student, 180 cm tall. He has an oval, slightly elongated face; a defined but soft jawline; slim cheeks; a rounded chin; dark-brown almond-shaped eyes with slightly elongated outer corners and somewhat heavy eyelids; and thick, black, layered hair with natural volume, longer at the top/front and a loose uneven fringe. His skin is light tan with a warm golden undertone. His build is naturally athletic and balanced, not bulky or excessively muscular, with shoulders slightly wider than his waist and balanced torso and leg proportions. Preserve his identity and anatomy in every panel. Do not change his build to suit an outfit. Use natural head-to-body proportions, never chibi proportions or an oversized head.
+Devan is a 19-year-old male university student, 180 cm tall. He has an oval, slightly elongated face; a defined but soft jawline; slim cheeks; a rounded chin; dark-brown almond-shaped eyes with slightly elongated outer corners and somewhat heavy eyelids; and thick black layered hair with natural volume, longer at the top/front and a loose uneven fringe. His skin is light tan with a warm golden undertone. His build is naturally athletic and balanced, not bulky or excessively muscular, with shoulders slightly wider than his waist and balanced torso and leg proportions. Preserve his identity and anatomy in every panel.
 
 ART STYLE:
-Semi-realistic, stylized anime fashion illustration. Visible sketch-like linework, especially around contours, garment construction and folds; painterly shading; soft gradients; clear fabric shadows; moderately strong light-dark value contrast; muted natural clothing colors with generally soft color contrast. Keep the result polished but visibly illustrated, not photorealistic or glossy 3D. Use restrained, believable garment details such as fabric texture, seams, pockets, collars, panels, zippers and cuffs when appropriate.
+Semi-realistic, stylized anime fashion illustration. Visible sketch-like linework, painterly shading, soft gradients, clear fabric shadows, moderately strong light-dark value contrast, and muted natural clothing colors. Keep the result polished but visibly illustrated, not photorealistic or glossy 3D.
 
 CANVAS AND LAYOUT:
-Exactly eight panels in a strict 4-column by 2-row grid. Plain white background, thin clear dividers, consistent panel dimensions, full-body front-facing views from hair to footwear, no cropping. Keep character scale, apparent proportions, headroom and foot clearance consistent. Put only the outfit name at the bottom of each panel, with no numbers or extra descriptions. Maintain balanced visual clarity between face, body and clothing. Use moderate-intensity activity-appropriate poses. Expressions may vary naturally with the activity but must remain restrained and believable. Hands and props must not obscure important garment features.
+Exactly eight panels in a strict 4-column by 2-row grid. Plain white background, thin clear dividers, consistent panel dimensions, full-body views from hair to footwear, no cropping. Keep character scale and proportions consistent. Put only the exact outfit name at the bottom of each panel:
+1. Casual Everyday
+2. Campus
+3. Basketball Practice
+4. Hangout with Friends
+5. Motorcycle Riding
+6. Relaxing Outdoors
+7. Smart-Casual
+8. At Home
 
-OUTFITS:
-1. CASUAL EVERYDAY — An ivory or light-gray heavyweight relaxed-fit T-shirt with a small chest pocket or subtle construction stitching, charcoal straight-fit trousers, and off-white or gray sneakers. Show believable fabric weight and seams without decorative excess. Relaxed pose.
-2. CAMPUS — A muted olive-brown or deep-taupe casual overshirt worn open over a warm-ivory T-shirt. Include simple buttons and two restrained chest pockets. Pair with dark-charcoal straight-fit trousers and understated off-white or light-gray sneakers. The silhouette should feel practical, youthful and relaxed, not office-formal. Pose: a natural hand near the overshirt edge or pocket.
-3. BASKETBALL PRACTICE — Charcoal or dark-navy athletic T-shirt, loose dark-gray basketball shorts, basketball shoes, restrained sportswear seams or panels, no team logos. Hold a basketball at the side without hiding the clothing. Naturally focused expression; do not exaggerate his muscles.
-4. HANGOUT WITH FRIENDS — A cocoa-brown T-shirt with a relaxed cut or subtle fabric texture distinct from Outfit 1, muted-khaki or taupe relaxed cargo trousers, and neutral casual sneakers. Soft streetwear influence without oversized graphics or excessive accessories. Small conversational hand gesture.
-5. MOTORCYCLE RIDING — Structured lightweight charcoal motorcycle jacket worn open over a gray T-shirt, with clearly visible collar, panel seams, zipper, cuffs and practical pockets; dark long trousers and sturdy closed shoes. No racing stripes, logos or brand marks. One hand may lightly touch the jacket collar, keeping the jacket front visible. Calm, attentive expression. Helmet optional and must not obscure the face.
-6. RELAXING OUTDOORS — A lightweight muted-sage or olive outer layer with practical construction details such as a hood, pockets and elastic cuffs, worn over a warm-ivory T-shirt. Pair with cocoa or dark-taupe relaxed-fit trousers and casual sneakers. A small black MP3 player with silver accents may be included as an optional understated prop. Comfortable, natural pose.
-7. SMART-CASUAL — A warm-beige knit polo or collared inner layer beneath a refined, lightweight forest-green cardigan or structured soft outer layer. Pair with tailored stone-gray or warm-charcoal trousers and minimalist dark-brown or black loafers. A simple watch is optional. No blazer, suit or tie. Clearly distinguish this outfit from Campus through its layered construction, richer forest-green/beige palette, tailored trousers and more polished footwear. Pose: lightly adjusting the cardigan cuff or front, relaxed but composed.
-8. AT HOME — Comfortable light-gray or warm-ivory T-shirt, muted-olive joggers or casual home shorts, simple house slippers if appropriate. Minimal details and accessories, relaxed fabric folds, loose shoulders and natural at-home expression. Do not automatically make him look sleepy.
+OUTFITS — MATCH THE APPROVED IMAGE:
 
-COLOR PALETTE:
-Favor ivory and soft gray for Casual Everyday; muted olive-brown/deep taupe for Campus; charcoal/dark navy for Basketball Practice; cocoa brown and muted khaki/taupe for Hangout; charcoal and gray for Motorcycle Riding; muted sage/olive and warm ivory for Relaxing Outdoors; forest green, warm beige and stone gray for Smart-Casual; light gray/warm ivory and muted olive for At Home. Preserve clear visual separation between Campus and Smart-Casual. Exact HEX values for newly introduced colors are not mandatory unless separately specified.
+1. CASUAL EVERYDAY — Relaxed white/ivory short-sleeved T-shirt with a small chest pocket, medium-wash blue relaxed-straight jeans, white sneakers, and a black backpack worn over one shoulder. Keep it simple and everyday.
+
+2. CAMPUS — Charcoal/dark-gray short-sleeved polo shirt with a collar and button placket, straight beige/khaki trousers, white sneakers, and a black one-shoulder backpack. Devan holds a folder or a few books in one hand. Neat, practical university-student appearance. Do not use an overshirt.
+
+3. BASKETBALL PRACTICE — Black/charcoal sleeveless athletic jersey with thin white trim around the neckline and armholes, loose black basketball shorts with white trim, white crew socks, black basketball shoes with red accents, dark wristbands, and a basketball. Keep his physique naturally athletic, not exaggerated.
+
+4. HANGOUT WITH FRIENDS — Muted olive casual overshirt/shirt-jacket with buttons and chest pockets, worn open over a black T-shirt; medium-wash blue jeans; white sneakers; and a black one-shoulder sling bag. Relaxed, understated soft-streetwear feel.
+
+5. MOTORCYCLE RIDING — Black leather or leather-like motorcycle jacket with a raised collar, visible structured panels, seams, zipper and pockets; white T-shirt underneath; black cargo trousers with side pockets; black sturdy shoes/boots; and a black motorcycle helmet carried in one hand. No racing logos or branding.
+
+6. RELAXING OUTDOORS — Lightweight muted olive/army-green hooded zip jacket with practical pockets, worn open over a warm-beige/light-taupe T-shirt; relaxed brown-taupe cargo trousers with side pockets; white sneakers; and a black crossbody bag with its strap running diagonally across the chest. Comfortable and functional outdoor appearance.
+
+7. SMART-CASUAL — Long-sleeved blue-gray/slate-blue button-up shirt tucked neatly into tailored charcoal/dark-gray trousers; simple black belt with understated buckle; black wristwatch; and black smart-casual shoes. Sleeves may be neatly rolled to around the elbows. This is a clean, mature, understated smart-casual look. Do not use a forest-green cardigan, beige knit polo, blazer, suit, or tie.
+
+8. AT HOME — Loose charcoal/dark-gray long-sleeved sweatshirt with ribbed cuffs, light-gray joggers with a visible drawstring, and simple dark open-toe house sandals. No outdoor bag or unnecessary accessories. Comfortable and relaxed.
+
+CAMPUS AND SMART-CASUAL MUST BE CLEARLY DIFFERENT:
+Campus uses a charcoal short-sleeved polo, beige trousers, white sneakers, a backpack and folder/books. Smart-Casual uses a blue-gray long-sleeved button-up, charcoal tailored trousers, a black belt, wristwatch and black shoes. Do not make them look like two versions of the same shirt outfit.
 
 CONSISTENCY:
-Maintain the same face, hair, skin tone, height impression and body proportions in all eight panels. Make each outfit distinguishable at a glance. Use fit and fabric drape to vary silhouettes without changing anatomy. Keep lighting direction, line weight and rendering quality consistent. Make the motorcycle jacket more structurally detailed than simple T-shirts, while keeping homewear the least elaborate. Do not add details merely to fill space.
+Maintain the same face, hair, skin tone, height impression and body proportions in all eight panels. Use natural poses and restrained expressions. Props must not obscure the garments. Keep garment construction and fabric folds clear but do not add unnecessary decorative details. The approved outfit image takes precedence over any earlier written concept that conflicts with it.
 
 NEGATIVE CONSTRAINTS:
-No incorrect or inconsistent facial identity, changing hairstyle or hair color, incorrect skin undertone, exaggerated muscles, extreme V-shaped anatomy, chibi proportions, cropped bodies, missing feet, inconsistent character scale, more or fewer than eight panels, any layout other than 4×2, thick decorative borders, colored or environmental backgrounds, outfit numbers, extra captions, watermarks, signatures, unrequested logos, prominent commercial branding, excessive accessories, oversized graphics, extreme action poses, exaggerated expressions, photorealism, glossy 3D rendering, or excessive visual effects.
+No incorrect or inconsistent facial identity, changing hairstyle or hair color, altered skin tone, exaggerated muscles, chibi proportions, cropped bodies, missing footwear, inconsistent character scale, more or fewer than eight panels, any layout other than 4×2, colored or environmental backgrounds, outfit numbers, extra captions, watermarks, signatures, unrequested logos, excessive accessories, oversized graphics, extreme poses, photorealism, glossy 3D rendering, or excessive visual effects. Do not substitute the earlier olive-brown overshirt Campus concept or forest-green cardigan Smart-Casual concept.
 
 FINAL GOAL:
-A cohesive and readable character outfit sheet that immediately identifies Devan as the same person across eight believable outfits. The viewer should be able to compare each silhouette, construction detail and activity context clearly. The outfit designs are approved as visual-design canon; this does not establish that every outfit has appeared in the story. The generated image itself must still be reviewed and approved as an asset before it is marked as uploaded and verified.
+Faithfully recreate the latest author-approved eight-outfit design sheet for Devan. This approved image defines the current visual-design canon for his outfit sheet. Approval of the visual design does not establish that every outfit has appeared in the story.
 
 ## 9. Status aset
-- **Status brief desain revisi:** DISETUJUI PENULIS / CANON VISUAL BRIEF pada 2026-11-03.
-- **Status gambar Outfit Sheet revisi:** BELUM DIBUAT / BELUM DIUNGGAH / BELUM DIVERIFIKASI DALAM REPOSITORY.
-- Brief ini menggantikan spesifikasi outfit sebelumnya. Gambar lama tetap merupakan arsip visual, bukan bukti bahwa revisi terbaru telah dibuat.
-- Persetujuan brief tidak otomatis berarti file gambar revisi telah dibuat, diunggah, atau disetujui sebagai aset visual final.
+- **Status desain Outfit Sheet:** DISETUJUI PENULIS / CANON VISUAL FINAL pada 2026-11-03 berdasarkan gambar terbaru yang dikirim dalam percakapan.
+- **Status file gambar di GitHub:** BELUM DIUNGGAH / BELUM DIVERIFIKASI DI REPOSITORY. Gambar tersedia sebagai lampiran percakapan, tetapi integrasi GitHub untuk file gambar biner tidak tersedia melalui operasi teks yang digunakan dalam pembaruan ini.
+- **Status brief:** diperbarui agar selaras dengan gambar final yang disetujui.
+- Desain final ini menggantikan proposal revisi sebelumnya. Proposal lama tidak lagi menjadi acuan aktif; riwayatnya dapat dipahami dari commit GitHub sebelumnya.

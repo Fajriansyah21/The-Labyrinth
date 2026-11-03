@@ -133,7 +133,7 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [x] Potret Character Sheet — desain versi baru disetujui penulis pada 2026-11-02; file diunggah, path diverifikasi, dan ditetapkan sebagai canon visual
 - [x] Character Profile Sheet — versi revisi disetujui penulis pada 2026-11-02; revisi administratif peran dan label kulit diterapkan. File diunggah, path diverifikasi, dan ditetapkan sebagai canon visual.
 - [x] Facial Expression Sheet — disetujui penulis sebagai canon visual pada 2026-11-02; file dan path tercatat di repository.
-- [ ] Outfit Sheet — 8 outfit, grid 4×2
+- [x] Outfit Sheet — tepat 8 outfit dalam grid 4×2 disetujui penulis sebagai canon visual pada 2026-11-03; rincian desain tercatat di [Outfit_Sheet_Design_Canon.md](Adelia/Outfit_Sheet_Design_Canon.md). File gambar final diterima sebagai lampiran percakapan, tetapi belum diunggah/diverifikasi di repository.
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
 - **Status desain visual aktif:** AUDIT CANON, PROPORSI TUBUH/POSTUR DASAR, POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET VERSI REVISI, FACIAL EXPRESSION SHEET, DAN OUTFIT SHEET DISETUJUI PENULIS SEBAGAI CANON VISUAL. OUTFIT SHEET DISETUJUI PADA 2026-11-03.
@@ -227,10 +227,12 @@ Checklist di bawah mencatat progres aktif untuk alur baru. Persetujuan desain da
 - [ ] Outfit Sheet — 8 outfit, grid 4×2
 - [ ] Body Language Sheet
 - [ ] Visual kelompok/hubungan
-- **Status desain visual aktif:** POTRET CHARACTER SHEET DAN CHARACTER PROFILE SHEET VERSI REVISI DISETUJUI FINAL OLEH PENULIS PADA 2026-11-02; FACIAL EXPRESSION SHEET JUGA DISETUJUI PENULIS; TAHAP BERIKUTNYA DITENTUKAN PENULIS.
+- **Status desain visual aktif:** POTRET CHARACTER SHEET, CHARACTER PROFILE SHEET VERSI REVISI, DAN FACIAL EXPRESSION SHEET DISETUJUI SEBAGAI CANON VISUAL PADA 2026-11-02; OUTFIT SHEET 8 OUTFIT GRID 4×2 DISETUJUI SEBAGAI CANON VISUAL PADA 2026-11-03. BODY LANGUAGE SHEET DAN VISUAL KELOMPOK/HUBUNGAN BELUM DIKERJAKAN.
 - **Status Potret dan Character Profile Sheet versi terbaru:** kedua desain disetujui final oleh penulis. Character Profile Sheet revisi mencantumkan peran “Pasangan Nicho” dan label kulit “Cerah kecokelatan (light-medium), undertone netral”. File revisi sudah diunggah dan path-nya diverifikasi sebagai aset canon visual aktif.
 - **File terbaru:** [Potret_Adelia.png](Adelia/Potret_Adelia.png) dan [Character_Profile_Sheet_Adelia.png](Adelia/Character_Profile_Sheet_Adelia.png).
 - **Detail visual:** Potret disetujui; rambut diikat longgar dengan banyak helaian lepas dikonfirmasi sebagai desain final oleh penulis. Warna kulit tampak cerah kecokelatan dengan kesan netral pada pencahayaan gambar; kode warna kulit tetap belum ditentukan.
+- **Catatan Outfit Sheet final:** Tepat delapan outfit dalam grid 4×2 disetujui penulis pada 2026-11-03: (1) Everyday Terracotta — atasan rajut terracotta, jeans biru lurus, sneakers putih/netral; (2) Campus Casual — blus cream, celana lurus cokelat tua, sepatu flat netral, tas bahu cokelat; (3) Study Session — kemeja putih berlengan gulung, celana olive, ikat pinggang gelap, sepatu loafers/casual gelap, buku catatan; (4) Casual Outing — atasan cokelat, rok denim A-line biru gelap, sepatu netral, tas bahu kecil; (5) Soft Natural Smart-Casual — blus sage green, celana lurus beige, sepatu flat/loafers cokelat; (6) Relaxed Day Out — kaos katun bergaris muted brown/cream, jeans indigo gelap, sneakers, tas crossbody kecil; (7) Cooking / Home Time — kaos rumahan cream/beige, celana santai charcoal, apron oatmeal/beige, sandal rumah, mug; (8) Neat Occasion — blus terracotta/warm brown, rok A-line midi cokelat tua, sepatu flat netral, handbag kecil. Detail lengkap tercatat di [Outfit_Sheet_Design_Canon.md](Adelia/Outfit_Sheet_Design_Canon.md). Persetujuan desain tidak menetapkan kapan atau apakah outfit tertentu muncul dalam alur cerita.
+- **Status file gambar Outfit Sheet:** diterima sebagai lampiran percakapan dan disetujui, tetapi belum diunggah/diverifikasi di repository.
 
 ### Alexia
 - [ ] Audit canon dan brief visual

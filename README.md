@@ -1,180 +1,31 @@
 # THE LABYRINTH
 
-Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**. Gunakan dokumen yang relevan sebelum menjawab pertanyaan cerita, menyunting karakter, mengembangkan hubungan, atau memeriksa kontinuitas.
+Repository ini menyimpan sumber pengembangan novel original **THE LABYRINTH**.
 
-## Aturan penggunaan sumber
+## Mulai dari sini
 
-1. Baca [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTIONS.txt) sebelum memulai pekerjaan.
-2. Periksa dokumen relevan yang tercantum di [Astra/Source_index.md](Astra/Source_index.md).
-3. Gunakan isi sumber, bukan asumsi, untuk memastikan fakta cerita.
-4. Bedakan **CANON**, **INTERPRETASI**, **OPSI BRAINSTORMING**, **REKOMENDASI ASTRA**, dan **[BELUM DITENTUKAN]**.
-5. Jika sumber bertentangan, jelaskan konflik dan minta keputusan penulis bila hierarki sumber tidak menyelesaikannya.
-6. Persetujuan dalam percakapan tidak otomatis memperbarui repository. Jangan mengklaim file telah diperbarui tanpa commit yang berhasil.
+Sebelum mengerjakan cerita, baca [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTIONS.txt), lalu gunakan [Source Index](Astra/Source_index.md) untuk menemukan dokumen canon, profil karakter, hubungan antartokoh, outline, dan referensi visual yang relevan.
 
-## Peta repository
+**Source Index adalah peta utama sumber proyek.** Di dalamnya terdapat fungsi dokumen, status pengerjaan, tautan sumber, aturan penggunaan, prioritas pemeriksaan, serta ringkasan alur kerja Astra. Periksa dokumen sumber aslinya sebelum menetapkan fakta cerita.
 
-### Astra dan pedoman kerja
-- [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTIONS.txt): peran, hierarki canon, prioritas analisis, POV, revisi, dan checksum.
+## Navigasi cepat
+
+- [Source Index Astra](Astra/Source_index.md): indeks utama seluruh sumber dan statusnya.
 - [Master Pedoman Astra](Astra/Master_Pedoman_Astra_The_Labyrinth.md): pedoman pengembangan cerita.
-- [Instruksi Khusus](Astra/Instruksi-Khusus.txt): ketentuan tambahan.
-- [Template Latar Belakang Karakter](Astra/Template_Latar_Belakang_Karakter.md): kerangka fleksibel untuk latar belakang karakter; jumlah dan subjudul disesuaikan dengan perjalanan hidup masing-masing tokoh.\n- [Template Profil Karakter](Astra/Template_Profil_Karakter.md): kerangka fleksibel untuk profil karakter; gunakan sekitar 8 poin utama dan tambahkan poin kesembilan jika kebutuhan karakter memerlukannya.
 - [Guide The Labyrinth](Astra/Guide_The_Labyrinth.md): riwayat diskusi dan perkembangan gagasan.
-- [Source Index](Astra/Source_index.md): indeks sumber, fungsi, dan status dokumen.
+- [Indeks Visual](Visual/README.md): navigasi aset visual.
+- [Arsip Visual Karakter](Visual/Visual_Character_Archive.md): brief, checklist, dan status persetujuan visual.
+- [ArtStyle.jpg](Visual/ArtStyle.jpg): referensi gaya rendering yang disetujui.
 
-### Karakter: Devan
+## Catatan canon visual
 
-**Referensi visual Devan:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret](Visual/Devan/Potret_Devan.png) · [Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Outfit Sheet](Visual/Devan/Outfit_Sheet_Devan.png) · [Body Language Sheet](Visual/Devan/Body_Language_Sheet_Devan.png). Potret dan Character Profile Sheet versi revisi ditetapkan sebagai canon visual oleh penulis pada 2026-11-02; kedua file telah diunggah dan path-nya diverifikasi. Sheet lain memiliki status persetujuan terpisah. Gambar bukan pengganti canon tertulis.
-- [Latar Belakang Devan](Karakter/Devan/Latar_Belakang_Devan.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
-- [Profil Karakter Devan](Karakter/Devan/Profil_Karakter_Devan.md): profil karakter Devan yang mencakup identitas, kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
+Potret Character Sheet, Character Profile Sheet, dan Facial Expression Sheet Devan, Eleina, Nicho, serta Adel telah disetujui penulis sebagai canon visual pada 2026-11-02. Status aset visual lainnya tetap mengikuti persetujuan terpisah di [Arsip Visual Karakter](Visual/Visual_Character_Archive.md).
 
-#### Hubungan Tokoh Devan
-Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
+Gambar merupakan acuan desain visual, bukan pengganti canon tertulis tentang fakta cerita, kepribadian, atau hubungan tokoh.
 
-- [Hubungan Devan dengan Adel](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Adel.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Alexia](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Alexia.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Andrian](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Andrian.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Arkana](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Arkana.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Eleina](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Eleina.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Elvano](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Elvano.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Naura](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Naura.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Nicho](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Nicho.md) — **Status: DRAFT**
-- [Hubungan Devan dengan Reza](Karakter/Devan/Hubungan%20Antar%20Tokoh/Devan_Dengan_Reza.md) — **Status: DRAFT**
+## Prinsip penggunaan repository
 
-- [Rancangan lama kepribadian, sifat, dan karakteristik Devan](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
-
-### Karakter: Eleina
-- [Latar Belakang Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Latar_Belakang_Eleina.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
-- [Profil Karakter Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Profil_Karakter_Eleina.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-- **Referensi visual Eleina:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Potret Character Sheet](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Facial Expression Sheet](Visual/Eleina/Facial_Expression_Eleina.png) · [Outfit Sheet — 8 outfit](Visual/Eleina/Outfit_Sheet_Eleina.png) · [Body Language Sheet — 8 pose](Visual/Eleina/Body_Language_Sheet_Eleina.png). Potret dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; file dan path terverifikasi. Sheet lain mengikuti status persetujuan terpisah.
-
-#### Hubungan Tokoh Eleina
-Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
-
-- [Hubungan Eleina dengan Adel](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Adel.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Alexia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Alexia.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Andrian](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Andrian.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Arkana](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Arkana.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Devan](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Devan.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Elvano](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Elvano.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Naura](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Naura.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Nicho.md) — **Status: DRAFT**
-- [Hubungan Eleina dengan Reza](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Hubungan%20Tokoh/Eleina_Dengan_Reza.md) — **Status: DRAFT**
-
-- [Rancangan lama kepribadian, sifat, dan karakteristik Eleina](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
-
-### Karakter: Nicho
-- [Latar Belakang Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Latar_Belakang_Nicho.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
-- [Profil Karakter Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Profil_Karakter_Nicho.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-
-- **Referensi visual Nicho:** [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Nicho](Visual/Nicho). Potret Character Sheet dan Character Profile Sheet versi revisi disetujui sebagai canon visual pada 2026-11-02; kedua file terverifikasi. Sheet lain mengikuti status persetujuan terpisah:
-- [Potret Character Sheet](Visual/Nicho/Potret_Nicho.png)
-- [Character Profile Sheet](Visual/Nicho/Character_Profile_Sheet_Nicho.png) · [Facial Expression Sheet](Visual/Nicho/Facial_Expression_Nicho.png)
-- [Facial Expression Sheet](Visual/Nicho/Facial_Expression_Nicho.png)
-- [Outfit Sheet — 8 outfit, grid 4×2](Visual/Nicho/Outfit_Sheet_Nicho.png)
-- [Body Language Sheet — 8 pose, panel kiri dan grid 4×2](Visual/Nicho/Body_Language_Sheet_Nicho.png)
-
-#### Hubungan Tokoh Nicho
-Semua dokumen hubungan di bawah ini berstatus **DRAFT dan masih belum ada**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
-
-- [Hubungan Nicho dengan Adel]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Alexia]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Andrian]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Arkana]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Devan]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Eleina]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Elvano]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Naura]() — **Status: DRAFT**
-- [Hubungan Nicho dengan Reza]() — **Status: DRAFT**
-
-- [Rancangan lama kepribadian, sifat, dan karakteristik i](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
-
-### Referensi visual Adel (Adelia)
-- [Arsip visual karakter](Visual/Visual_Character_Archive.md) · [Indeks Visual](Visual/README.md) · [Folder aset Adel](Visual/Adelia)
-- **Canon visual disetujui 2026-11-02:** [Potret Character Sheet](Visual/Adelia/Potret_Adelia.png) dan [Character Profile Sheet](Visual/Adelia/Character_Profile_Sheet_Adelia.png) · [Facial Expression Sheet](Visual/Adelia/Facial_Expression_Adelia.png). Kedua file telah diunggah dan path-nya diverifikasi.
-
-### Karakter: Adelia
-- [Latar Belakang Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Latar_Belakang_Adelia.md): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
-- [Profil Karakter Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Profil_Karakter_Adelia.md): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-
-#### Hubungan Tokoh Adelia
-Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
-
-- [Hubungan Adelia dengan Alexia]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Andrian]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Arkana]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Devan]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Eleina]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Elvano]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Naura]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Nicho]() — **Status: DRAFT**
-- [Hubungan Adelia dengan Reza]() — **Status: DRAFT**
-
-- [Rancangan lama kepribadian, sifat, dan karakteristik Adelia](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
-
-### Karakter: [Nama Karakter] - Template
-- [Latar Belakang i](): kronologi keluarga, pengalaman pembentuk, dan dampaknya.
-- [Profil Karakter i](): tujuh bagian profil karakter, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan.
-
-#### Hubungan Tokoh [Nama Karakter]
-Semua dokumen hubungan di bawah ini berstatus **DRAFT**. Struktur poin dan isinya masih perlu ditinjau serta disesuaikan, sehingga belum dianggap final.
-
-- [Hubungan i dengan Adel]() — **Status: DRAFT**
-- [Hubungan i dengan Alexia]() — **Status: DRAFT**
-- [Hubungan i dengan Andrian]() — **Status: DRAFT**
-- [Hubungan i dengan Arkana]() — **Status: DRAFT**
-- [Hubungan i dengan Devan]() — **Status: DRAFT**
-- [Hubungan i dengan Elvano]() — **Status: DRAFT**
-- [Hubungan i dengan Naura]() — **Status: DRAFT**
-- [Hubungan i dengan Nicho]() — **Status: DRAFT**
-- [Hubungan i dengan Reza]() — **Status: DRAFT**
-
-- [Rancangan lama kepribadian, sifat, dan karakteristik i](https://github.com/Fajriansyah21/The-Labyrinth/tree/main/Rancangan): bahan referensi/rancangan yang lebih luas. Periksa status informasi sebelum memperlakukannya sebagai canon.
-
-### Outline dan kontinuitas
-- [Alur Besar](Outline/Alur_Besar.md): garis besar alur cerita.
-- [Detail Kematian](Outline/Detail_Kematian.md): rincian kematian karakter.
-- [Aturan Kata Ganti](Outline/Aturan_Kata_Ganti.md): aturan penggunaan kata ganti.
-- [Pembagian Kelas](Outline/Pembagian_Kelas.md): pembagian kelas dan informasi terkait.
-- [Detail Problem Karakter](Outline/Detail%20Problem%20Karakter.docx): dokumen referensi tentang persoalan karakter.
-
-## Prinsip brainstorming Astra
-
-- Maksimal 10 tahap per sesi. Sepuluh adalah batas, bukan target.
-- Rencanakan cakupan sejak awal dan gabungkan pertanyaan yang saling berkaitan.
-- Astra menangani detail teknis kecil selama tidak bertentangan dengan canon atau keputusan penulis.
-- Pertanyaan hanya diajukan jika jawabannya penting untuk arah cerita atau belum dapat ditentukan dengan aman.
-- Astra memberikan analisis, alternatif, dan rekomendasi, bukan hanya pertanyaan.
-- Keputusan yang sudah disepakati tidak dibahas ulang tanpa alasan penting.
-- Sebelum menyelesaikan pembahasan, periksa canon, karakter, hubungan, emosi, naturalitas, POV, dan kontinuitas.
-- Akhiri sesi dengan rangkuman keputusan, rekomendasi yang belum disetujui, serta hal yang masih belum ditentukan.
-
-## Catatan status
-
-Status setiap dokumen harus mencerminkan fungsi dan tahap pengerjaannya. Dokumen referensi atau rancangan tidak otomatis menjadi canon. Profil Karakter Devan saat ini merupakan draf terstruktur yang perlu ditinjau penulis sebelum dianggap final.
-
-
-### Visual karakter
-
-- [Indeks aset visual](Visual/README.md): daftar aset yang sudah diverifikasi dan status unggahnya.
-- [Arsip utama visual karakter](Visual/Visual_Character_Archive.md): spesifikasi visual, checklist, brief, dan status persetujuan/aset per karakter.
-- [Referensi Art Style](Visual/ArtStyle.jpg): acuan gaya rendering yang disetujui, bukan acuan desain fisik atau outfit karakter.
-- **Devan, visual yang sudah diunggah dan diverifikasi:**
-  - [Folder seluruh aset Devan](Visual/Devan)
-  - [Potret Character Sheet](Visual/Devan/Potret_Devan.png)
-  - [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png) · [Facial Expression Sheet](Visual/Devan/Facial_Expression_Sheet_Devan.png)
-  - [Outfit Sheet — 8 outfit, grid 4×2](Visual/Devan/Outfit_Sheet_Devan.png)
-  - [Body Language Sheet — 8 pose, grid 4×2](Visual/Devan/Body_Language_Sheet_Devan.png)
-  - [Facial Expression Sheet](Visual/Devan/Facial_Expression_Sheet_Devan.png)
-- Visual Devan telah disetujui penulis sebagai referensi desain. Visual bukan pengganti sumber canon tertulis; pose dan gestur yang belum ditetapkan dalam canon tetap merupakan interpretasi visual.
-
-
-## Canon visual aktif
-
-Pada 2026-11-02, penulis menyetujui Potret Character Sheet, Character Profile Sheet, dan Facial Expression Sheet untuk keempat karakter berikut sebagai canon visual. File dan path sudah diverifikasi. Outfit Sheet, Body Language Sheet, serta visual kelompok/hubungan memiliki status persetujuan terpisah.
-
-- **Devan:** [Potret](Visual/Devan/Potret_Devan.png) · [Character Profile Sheet](Visual/Devan/Character_Profile_Sheet_Devan.png)
-- **Eleina:** [Potret](Visual/Eleina/Potret_Eleina.png) · [Character Profile Sheet](Visual/Eleina/Character_Profil_Sheet_Eleina.png)
-- **Nicho:** [Potret](Visual/Nicho/Potret_Nicho.png) · [Character Profile Sheet](Visual/Nicho/Character_Profile_Sheet_Nicho.png)
-- **Adel (Adelia):** [Potret](Visual/Adelia/Potret_Adelia.png) · [Character Profile Sheet](Visual/Adelia/Character_Profile_Sheet_Adelia.png)
-
-Indeks dan status lengkap: [Indeks Visual](Visual/README.md) · [Arsip Visual Karakter](Visual/Visual_Character_Archive.md) · [Source Index Astra](Astra/Source_index.md).
+- Periksa sumber sebelum menjawab atau mengembangkan bagian cerita.
+- Jangan menganggap draft, interpretasi, atau rancangan lama sebagai canon.
+- Bedakan keputusan penulis dari opsi dan rekomendasi Astra.
+- Jangan mengklaim file telah diperbarui tanpa commit yang berhasil.

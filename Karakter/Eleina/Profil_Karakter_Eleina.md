@@ -1,11 +1,5 @@
 # Profil Karakter Eleina
 
-## Status Persetujuan Desain Fisik
-
-**STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Eleina telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Persetujuan ini tidak menetapkan detail tambahan yang belum tercantum, termasuk kode warna kulit yang masih berstatus [BELUM DITENTUKAN].
-
-> **Status:** Profil karakter telah difinalkan berdasarkan keputusan penulis dan sumber yang tersedia. Latar belakang keluarga yang telah disetujui tetap menjadi canon; hobi membaca novel, merawat tanaman, dan membuat kue juga telah ditetapkan sebagai canon. Penanda **[BELUM DITENTUKAN]** tetap digunakan untuk detail lain yang belum diputuskan dan tidak membatalkan finalisasi profil ini.
-
 ## Daftar Isi
 
 1. [Identitas dan Gambaran Umum](#1-identitas-dan-gambaran-umum)

@@ -16,7 +16,7 @@ Naura pernah mencoba mencari alasan atas perubahan tersebut. Ia berusaha bersika
 Ayah Naura adalah pengusaha besar yang memiliki pengaruh kuat di kota. Ia menjadi sponsor bagi hampir seluruh toko dan berbagai usaha lain di kota tersebut serta dikenal sebagai salah satu figur penting di sana.
 
 ## 6. Pengaruh Keluarga terhadap Lingkungan Sosial
-Kekayaan dan posisi ayahnya membuat latar keluarga Naura memiliki pengaruh terhadap kehidupan sosialnya. Sebagian aset sekolah SMA sebelumnya juga merupakan milik ayah Naura. Namun, pengaruh tersebut tidak berarti semua orang memperlakukan Naura dengan cara yang sama.
+Kekayaan dan posisi ayahnya membuat latar keluarga Naura memiliki pengaruh terhadap kehidupan sosialnya. Sebagian aset sekolah SMA yang pernah Naura hadiri juga merupakan milik ayahnya. Namun, pengaruh tersebut tidak berarti semua orang memperlakukan Naura dengan cara yang sama.
 
 ## 7. Pembentukan Identitas Naura
 Merasa sendiri dan tidak dianggap di rumah, Naura mulai membentuk identitasnya sendiri. Ia memilih penampilan tomboy, menjadi aktif, penuh semangat, dan suka tampil berbeda. Gaya bicara yang blak-blakan serta sikapnya yang menantang arus kadang membuatnya dianggap aneh oleh orang lain.

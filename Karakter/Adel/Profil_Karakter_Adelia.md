@@ -1,12 +1,5 @@
 # Profil Karakter Adelia (Adel)
 
-## Status Persetujuan Desain Fisik
-
-**STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Adel telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Ukuran dada Adel, cup C, juga telah ditetapkan secara eksplisit oleh penulis sebagai canon. Kode warna kulit masih berstatus **[BELUM DITENTUKAN]**.
-
-> **Status:** Profil kerja berdasarkan canon yang tersedia dan hasil brainstorming yang telah disepakati.  
-> **Catatan:** Bagian yang bersifat interpretasi atau usulan perkembangan tidak otomatis menjadi canon. Informasi yang belum diputuskan ditandai **[BELUM DITENTUKAN]**.
-
 ## Daftar Isi
 
 1. [Identitas dan Gambaran Umum](#1-identitas-dan-gambaran-umum)
@@ -41,7 +34,7 @@ Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat
 
 ### Proporsi Tubuh
 
-Siluet tubuh Adel mengarah pada bentuk *hourglass* yang natural. Lebar bahu dan pinggulnya hampir sama, sementara pinggangnya lebih kecil dengan lekukan yang lembut, bukan kontras atau tajam. Ukuran dada Adel ditetapkan sebagai cup C (keputusan penulis, canon). Dadanya lebih berisi, tetapi menyatu secara alami dengan torso yang seimbang sehingga bagian atas tubuhnya tidak tampak terlalu dominan.
+Siluet tubuh Adel mengarah pada bentuk *hourglass* yang natural. Lebar bahu dan pinggulnya hampir sama, sementara pinggangnya lebih kecil dengan lekukan yang lembut, bukan kontras atau tajam. Ukuran dada Adel ditetapkan sebagai cup C. Dadanya lebih berisi, tetapi menyatu secara alami dengan torso yang seimbang sehingga bagian atas tubuhnya tidak tampak terlalu dominan.
 
 Torso memiliki proporsi yang seimbang, sedangkan kakinya terlihat sedikit panjang dibandingkan torso. Pahanya relatif ramping. Lengannya ramping dengan garis lembut dan volume alami, bukan sangat tipis atau berotot tegas. Betisnya relatif ramping dengan sedikit isi alami dan lekukan otot yang halus; transisi dari betis ke pergelangan kaki tidak terlalu tajam.
 

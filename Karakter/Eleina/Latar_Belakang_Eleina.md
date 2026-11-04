@@ -1,6 +1,20 @@
-Latar Belakang Eleina
-
 # Latar Belakang Eleina
+
+## Daftar Isi
+
+1. [Masa Kecil dan Kehidupan Keluarga](#1-masa-kecil-dan-kehidupan-keluarga)
+2. [Penyakit dan Kehilangan Ibu](#2-penyakit-dan-kehilangan-ibu)
+3. [Hari-Hari Terakhir dan Kematian Ibu](#3-hari-hari-terakhir-dan-kematian-ibu)
+4. [Masa Berkabung dan Perubahan Hubungan dengan Ayah](#4-masa-berkabung-dan-perubahan-hubungan-dengan-ayah)
+5. [Kemandirian Eleina dan Keputusan Ayah untuk Menikah Lagi](#5-kemandirian-eleina-dan-keputusan-ayah-untuk-menikah-lagi)
+6. [Keluarga Baru dan Pengucilan](#6-keluarga-baru-dan-pengucilan)
+7. [Perubahan dalam Diri Eleina](#7-perubahan-dalam-diri-eleina)
+8. [Luka Batin dan Konflik Internal Eleina](#8-luka-batin-dan-konflik-internal-eleina)
+9. [Pengaruh Masa Lalu terhadap Hubungan Eleina dengan Tokoh Lain](#9-pengaruh-masa-lalu-terhadap-hubungan-eleina-dengan-tokoh-lain)
+10. [Inti Perjalanan Karakter Eleina](#10-inti-perjalanan-karakter-eleina)
+
+---
+
 
 ## 1. Masa Kecil dan Kehidupan Keluarga
 

@@ -35,7 +35,7 @@ Kelembutan bukan berarti Eleina selalu diam, pasif, atau setuju. Saat merasa ama
 
 Kehilangan ibunya tidak menciptakan sifat lembut dan empatinya. Pengalaman tersebut, disertai perubahan dalam keluarga, lebih memengaruhi cara ia mengelola kebutuhan, menunjukkan kerentanan, dan mempertahankan kedekatan. Karena itu, jangan menulis seluruh perilakunya sebagai akibat trauma atau menjadikannya sosok yang selalu sedih.
 
-### 1.2. Hobi
+### 1.1. Hobi
 
 Hobi resmi Eleina adalah:
 

@@ -1,11 +1,31 @@
-## Latar Belakang
+# Latar Belakang Alexia
 
-Sejak lahir, Alexia sudah memikul beban yang seharusnya tidak perlu ditanggung oleh seorang anak. Ia adalah anak pertama, namun bukan anak yang diinginkan. Orang tuanya sangat mengharapkan anak laki-laki sebagai anak sulung. Maka ketika yang lahir adalah seorang bayi perempuan, kekecewaan itu tumbuh menjadi tembok dingin dalam perlakuan mereka terhadap Alexa.
+## 1. Posisi dalam Keluarga
+Alexia adalah anak pertama. Sejak sebelum kelahirannya, orang tuanya sangat mengharapkan anak laki-laki sebagai anak sulung.
 
-Meski Alexa tumbuh menjadi anak yang baik, tidak pernah membangkang, dan selalu berusaha memenuhi ekspektasi orang tuanya, ia justru menjadi tempat pelampiasan amarah dan frustrasi keluarga. Bukan karena ia bersalah, tapi karena ia bukan “anak sulung laki-laki” seperti yang mereka harapkan.
+## 2. Kekecewaan Orang Tua
+Ketika yang lahir adalah bayi perempuan, kekecewaan orang tuanya memengaruhi cara mereka memperlakukan Alexia. Ia tumbuh dalam lingkungan keluarga yang dingin, meskipun dirinya tidak melakukan kesalahan apa pun.
 
-Segala kesalahan kecil dibesar-besarkan. Prestasinya diabaikan. Bahkan kasih sayang yang sewajarnya diberikan kepada seorang anak pun tampak begitu jauh untuk dijangkau.
+## 3. Perlakuan terhadap Alexia
+Alexia berusaha menjadi anak yang baik, tidak membangkang, dan memenuhi harapan orang tuanya. Namun, kesalahan kecil sering dibesar-besarkan, sementara prestasinya diabaikan. Kasih sayang yang sewajarnya diberikan kepada seorang anak terasa jauh untuk dijangkau.
 
-Satu-satunya cahaya dalam hidup Alexa adalah adik laki-lakinya. Berbeda dari orang tua mereka, adiknya tumbuh menjadi sosok yang lembut dan peduli. Ia menyayangi kakaknya dengan tulus, menyadari bagaimana perlakuan orang tua mereka telah membuat Alexa kesepian dan terluka. Namun sayangnya, orang tua mereka tidak membiarkan hubungan keduanya berkembang hangat. Mereka sering memisahkan mereka, secara fisik maupun emosional, agar adiknya tidak “terpengaruh buruk” oleh Alexa—padahal justru Alexa-lah yang menjadi korban ketidakadilan.
+## 4. Hubungan dengan Adik Laki-Laki
+Satu-satunya sumber kehangatan Alexia di rumah adalah adik laki-lakinya. Berbeda dari orang tua mereka, adiknya tumbuh menjadi sosok yang lembut dan peduli serta menyayangi Alexia dengan tulus.
 
-Alexa tumbuh dalam kesunyian dan luka batin yang dalam. Namun di balik semua itu, ia menyimpan kekuatan luar biasa—karena ia belajar mencintai tanpa pamrih dan bertahan tanpa pengakuan.
+## 5. Sikap Orang Tua terhadap Hubungan Kakak-Adik
+Orang tua mereka sering memisahkan Alexia dan adiknya, baik secara fisik maupun emosional. Mereka khawatir adiknya akan “terpengaruh buruk” oleh Alexia, padahal Alexia justru menjadi pihak yang mengalami perlakuan tidak adil.
+
+## 6. Pengalaman Kesepian
+Perlakuan tersebut membuat Alexia tumbuh dalam kesunyian dan merasa tidak memperoleh tempat yang aman untuk menunjukkan dirinya di rumah.
+
+## 7. Hal yang Tumbuh dari Pengalaman
+Di tengah pengalaman itu, Alexia tetap memiliki kemampuan untuk menyayangi orang lain dengan tulus. Ia belajar bertahan tanpa pengakuan dan tetap memberikan perhatian meskipun dirinya sendiri jarang menerimanya.
+
+## 8. Hubungan yang Belum Dapat Dijalani
+[Belum ada informasi yang di buat]
+
+## 9. Perubahan setelah Masa Kanak-Kanak
+[Belum ada informasi yang di buat]
+
+## 10. Hal yang Belum Diketahui
+[Belum ada informasi yang di buat]

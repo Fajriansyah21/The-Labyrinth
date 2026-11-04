@@ -7,6 +7,9 @@
 - Kesepuluh tokoh berada di universitas yang sama.
 - Mereka berasal dari angkatan yang sama dan merupakan mahasiswa tahun pertama ketika cerita utama dimulai.
 - Jurusan mereka bervariasi dan beberapa tokoh boleh mengambil jurusan yang sama. Jurusan setiap tokoh masih **[BELUM DITENTUKAN]**.
+- Universitas tersebut dimiliki sepenuhnya oleh ayah Naura, seorang pengusaha besar yang berpengaruh di kota. Ayah Naura tidak mengelola operasional universitas.
+- Naura meminta ayahnya agar Devan dan teman-temannya dapat berkuliah di universitas yang sama dengannya.
+- Mekanisme yang membuat mereka dapat berkuliah di sana, termasuk proses penerimaan atau jalur masuk masing-masing, masih **[BELUM DITENTUKAN]**. Jangan menyimpulkan bahwa ayah Naura mengatur penerimaan atau kegiatan akademik kampus.
 - Nama universitas, fakultas, lokasi kampus, dan jadwal kuliah masih **[BELUM DITENTUKAN]**.
 - Riwayat kelas SMA tetap dicatat di [Pembagian_Kelas.md](Pembagian_Kelas.md) sebagai sejarah pendidikan dan perkembangan hubungan, bukan sebagai pembagian kelas pada masa cerita utama.
 
@@ -37,6 +40,7 @@
 ## 4. Hal yang masih perlu diputuskan
 
 - Nama universitas dan kota tempat kampus berada.
+- Mekanisme penerimaan Devan dan teman-temannya setelah Naura meminta bantuan ayahnya, tanpa mengasumsikan ayah Naura mengelola kampus.
 - Jurusan untuk kesepuluh tokoh.
 - Minat, kemampuan, dan motivasi pemilihan jurusan setelah opsi mulai dibahas.
 - Fakultas, mata kuliah umum, organisasi, tempat tinggal, dan pola pertemuan mereka.

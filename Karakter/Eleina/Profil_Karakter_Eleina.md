@@ -49,7 +49,7 @@ Ketiga hobi ini merupakan canon. Detail spesifik seperti genre novel favorit, je
 
 ### 2.1. Ringkasan Penampilan Fisik
 
-### 3.2. Wajah
+### 2.2. Wajah
 
 Foto acuan utama menunjukkan Eleina memiliki wajah berbentuk oval dengan proporsi lembut dan cenderung ramping. Dahinya tampak proporsional, pipinya memiliki kontur halus, dan garis rahangnya mengecil secara perlahan menuju dagu yang kecil serta membulat lembut. Sudut wajahnya tidak terlalu tajam, sehingga keseluruhan wajah memberikan kesan feminin dan halus tanpa membuatnya terlihat kekanak-kanakan.
 
@@ -63,15 +63,15 @@ Warna dasar kulit Eleina ditetapkan cerah dengan undertone hangat bernuansa peac
 
 Secara keseluruhan, wajah Eleina memadukan kontur oval yang halus, mata hazel yang ekspresif, dan senyum kecil yang hangat. Kesan lembut dan anggun muncul dari keseimbangan fitur-fiturnya, bukan dari satu bagian wajah yang terlalu menonjol. Ia tidak harus selalu terlihat malu-malu, sedih, atau tersenyum; ekspresinya perlu mengikuti situasi dan keadaan emosionalnya.
 
-### 3.3. Rambut
+### 2.3. Rambut
 
 Rambut Eleina berwarna cokelat dan panjang melewati dada. Rambutnya memiliki layer alami dengan belahan mendekati tengah. Beberapa helai jatuh di sisi dahi dan membingkai wajah, sedangkan bagian panjangnya jatuh melewati bahu dengan gelombang lembut terutama di bagian ujung. Teksturnya tidak lurus sempurna maupun ikal yang tegas. Dalam pencahayaan hangat, rambutnya dapat memperlihatkan pantulan cokelat keemasan, tetapi warna dasarnya tetap cokelat.
 
-### 3.4. Postur dan Gestur
+### 2.4. Postur dan Gestur
 
 Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak mengambil banyak ruang. Saat mendengarkan, ia dapat sedikit mencondongkan tubuh ke depan. Ia kadang menyelipkan rambut ke belakang telinga ketika berpikir, gugup, atau berkonsentrasi. Ia dapat mempertahankan kontak mata ketika memperhatikan orang lain, tetapi lebih mungkin mengalihkan pandangan ketika pembicaraan beralih kepada perasaannya sendiri.
 
-### 3.5. Proporsi Tubuh
+### 2.5. Proporsi Tubuh
 
 **Status: CANON.** Rancangan proporsi tubuh ini telah disetujui penulis sebagai bagian dari desain fisik Eleina.
 
@@ -84,7 +84,7 @@ Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak
 
 Deskripsi ini merupakan acuan visual, bukan ukuran anatomi yang presisi. Dalam narasi, detail tubuh hanya perlu muncul ketika relevan dengan apa yang Devan amati dan kebutuhan adegan. Jangan menjadikannya uraian anatomi yang berdiri sendiri atau dasar untuk menyimpulkan kepribadian Eleina.
 
-### 3.6. Acuan Visual untuk Ilustrasi
+### 2.6. Acuan Visual untuk Ilustrasi
 
 Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Eleina. Dalam ilustrasi berikutnya, pertahankan wajah oval dengan dagu lembut, mata hazel yang relatif besar berbentuk almond, alis cokelat gelap yang ramping dengan lengkungan alami, hidung yang halus dan proporsional, bibir kecil hingga sedang, serta rambut cokelat panjang ber-layer dengan gelombang lembut di bagian ujung.
 
@@ -92,7 +92,7 @@ Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai keb
 
 Warna dasar kulit Eleina telah ditetapkan berdasarkan acuan visual yang disetujui, tetapi nilai warna yang presisi dan tampilannya dalam semua kondisi pencahayaan belum ditentukan. Rincian fisik lain yang tidak terlihat jelas tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar gestur atau ekspresi yang harus selalu digunakan.
 
-### 3.7. Gaya Berpakaian Sehari-hari
+### 2.7. Gaya Berpakaian Sehari-hari
 
 Gaya berpakaian Eleina memadukan **casual natural sebagai dasar** dengan **sentuhan soft feminine**. Penampilannya sehari-hari cenderung nyaman, sederhana, dan mudah dipadukan, tetapi sesekali terlihat lebih lembut atau rapi melalui pilihan bahan, warna, dan potongan pakaian. Gaya ini merupakan arah visual yang disepakati dalam pengembangan karakter, bukan seragam yang harus dikenakan pada setiap adegan.
 

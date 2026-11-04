@@ -1,9 +1,31 @@
-## Latar Belakang
+# Latar Belakang Reza
 
-Reza adalah anak kedua dari tiga bersaudara. Sejak kecil, ia tumbuh dalam keluarga yang tidak pernah memberinya ruang untuk merasa dicintai. Orang tuanya jelas-jelas memperlakukan Reza berbeda dari kakak perempuannya yang selalu dibanggakan dan adik laki-lakinya yang dianggap anak emas. Semua itu bermula dari satu kejadian yang membekas dan tak pernah dilupakan keluarga mereka.
+## 1. Posisi Reza dalam Keluarga
+Reza adalah anak kedua dari tiga bersaudara. Ia memiliki seorang kakak perempuan dan seorang adik laki-laki. Sejak kecil, ia tumbuh dalam keluarga yang memperlakukan ketiga anaknya secara berbeda.
 
-Ketika Reza masih kecil, ia pernah bermain bola dengan adik laki-lakinya. Dalam sebuah insiden yang tidak disengaja, dia tidak sengaja mendorong adiknya ke sebuah rak, adiknya menghantam rak itu. Lalu adiknya terjatuh, dan ada vas besar jatoh mengenai kaki kiri adiknya sehingga menyebabkan cedera serius dan di larikan ke rumah sakit. Kaki adiknya patah, dan sejak saat itu, Reza menjadi "musuh" dalam rumahnya sendiri. Ia dikucilkan, disalahkan, dan bahkan dilabeli sebagai sumber masalah keluarga. Padahal, waktu itu ia hanya anak kecil yang tak tahu apa-apa selain ingin bermain bersama saudaranya.
+## 2. Perlakuan Orang Tua
+Orang tua Reza lebih membanggakan kakak perempuannya dan mengistimewakan adik laki-lakinya. Reza tidak memperoleh perhatian dan perlakuan yang sama. Perbedaan tersebut semakin terasa setelah sebuah kejadian masa kecil yang terus diingat keluarganya.
 
-Seiring bertambahnya usia, luka batin Reza makin dalam. Ia hidup dalam situasi di mana rumah terasa seperti penjara—bukan karena jeruji besi, melainkan karena tatapan sinis, kata-kata tajam, dan perlakuan dingin yang datang dari orang-orang yang seharusnya menjadi pelindung dan tempat pulang.
+## 3. Insiden Masa Kecil
+Ketika masih kecil, Reza pernah bermain bersama adik laki-lakinya. Dalam permainan itu, Reza tidak sengaja mendorong adiknya. Adiknya kemudian membentur rak tempat sebuah vas berada. Vas yang berada di atas rak jatuh mengenai kaki kiri adiknya.
 
-Kakaknya tak pernah membela, justru sering menghakimi. Adiknya, meski telah tumbuh besar, tak pernah memaafkan. Reza hanya bisa bertahan dengan menahan semuanya sendiri. Ia ingin pergi, keluar dari rumah itu, tapi belum mampu. Terikat oleh kewajiban, keterbatasan, dan harapan kecil bahwa mungkin suatu hari ia bisa membuktikan bahwa dirinya bukan monster seperti yang mereka pikirkan.
+## 4. Cedera Adik
+Akibat kejadian tersebut, kaki kiri adik Reza mengalami cedera serius hingga patah dan ia harus dibawa ke rumah sakit. Peristiwa itu terjadi secara tidak sengaja ketika mereka sedang bermain.
+
+## 5. Reaksi Keluarga
+Setelah kejadian tersebut, keluarga langsung menyalahkan Reza. Ia diperlakukan seolah-olah menjadi sumber masalah keluarga. Penilaian keluarga itu kemudian memengaruhi cara mereka memperlakukannya dalam kehidupan sehari-hari.
+
+## 6. Hubungan dengan Kakak Perempuan
+Kakak perempuan Reza tidak membelanya. Ia justru sering menghakimi Reza, sehingga Reza tidak memiliki dukungan dari kakaknya ketika menghadapi perlakuan keluarga.
+
+## 7. Hubungan dengan Adik Laki-Laki
+Adik laki-lakinya tidak pernah memaafkan Reza atas kejadian tersebut. Hubungan mereka tetap dibayangi oleh insiden masa kecil itu.
+
+## 8. Suasana Rumah
+Seiring bertambahnya usia, rumah semakin terasa seperti tempat yang tidak memberinya rasa aman. Tatapan sinis, kata-kata tajam, dan perlakuan dingin membuat Reza merasa dikucilkan di lingkungan keluarganya sendiri.
+
+## 9. Keinginan untuk Pergi
+Reza ingin meninggalkan rumah, tetapi belum mampu melakukannya. Ia masih terikat oleh kewajiban dan keterbatasan yang dimilikinya.
+
+## 10. Harapan yang Masih Tersisa
+Di tengah perlakuan keluarganya, Reza masih menyimpan harapan kecil bahwa suatu hari ia dapat membuktikan bahwa dirinya bukan monster seperti yang selama ini dipikirkan keluarganya.

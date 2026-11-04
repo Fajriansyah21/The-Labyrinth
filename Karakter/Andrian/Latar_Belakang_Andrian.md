@@ -1,7 +1,31 @@
-## Latar Belakang
+# Latar Belakang Andrian
 
-Andrian adalah anak tunggal yang tumbuh dalam rumah tangga yang penuh keributan dan kekacauan. Sejak kecil, ia terbiasa menjadi saksi pertengkaran tanpa akhir antara ayah dan ibunya. Kedua orang tuanya saling menyalahkan satu sama lain, dan ketika tidak ada lagi yang bisa dijadikan kambing hitam, mereka menjatuhkan kesalahan pada Andrian—anak mereka sendiri. Alih-alih menjadi tempat berlindung, rumah justru menjadi tempat paling sunyi dan paling keras dalam hidupnya.
+## 1. Posisi dalam Keluarga
+Andrian adalah anak tunggal. Ia tumbuh dalam rumah tangga yang penuh keributan dan tidak memiliki saudara kandung.
 
-Kondisi rumahnya mencerminkan kekacauan emosional yang ia rasakan. Kamarnya seperti gudang terbengkalai, dipenuhi pakaian kotor, sampah, dan pecahan beling. Makanan yang ia makan pun hanya sisa semalam, hambar dan dingin. Ia terbiasa menahan lapar dan mengisi perutnya dengan sisa makanan sambil mendengar teriakan-teriakan yang menyayat dari ruang tengah.
+## 2. Pertengkaran Orang Tua
+Sejak kecil, Andrian terbiasa menyaksikan pertengkaran antara ayah dan ibunya. Keduanya sering saling menyalahkan satu sama lain.
 
-Meskipun dikelilingi oleh kehampaan, Andrian berusaha menciptakan semangatnya sendiri. Ia sering memaksakan diri terlihat ceria, menepuk pipinya dengan keras hingga merah hanya agar bisa memunculkan senyum palsu di wajahnya. Di luar rumah, ia menemukan banyak kebahagiaan dari teman-temannya—Dia juga di tempat tongkrongan sering memakan makanan yang sangat lezat, di tambah teman-temannya selalu memberinya makanan.
+## 3. Menjadi Kambing Hitam
+Ketika tidak ada lagi yang dapat dijadikan sasaran kesalahan, kedua orang tuanya menjatuhkan kesalahan kepada Andrian. Alih-alih menjadi tempat berlindung, rumah justru menjadi lingkungan yang keras baginya.
+
+## 4. Kondisi Kamar
+Kamar Andrian seperti gudang terbengkalai. Di dalamnya terdapat pakaian kotor, sampah, dan pecahan beling. Kondisi tersebut mencerminkan pengabaian yang ia alami di rumah.
+
+## 5. Pengalaman tentang Makanan
+Makanan yang ia dapatkan di rumah sering kali hanya sisa semalam, dingin, dan hambar. Ia terbiasa menahan lapar dan mengisi perut dengan sisa makanan.
+
+## 6. Cara Memaksakan Senyum
+Andrian sering menepuk pipinya sendiri beberapa kali hingga memerah untuk memaksakan senyum di wajahnya. Tindakan tersebut merupakan cara yang ia gunakan agar terlihat ceria.
+
+## 7. Kebahagiaan di Luar Rumah
+Di luar rumah, Andrian menemukan kebahagiaan melalui teman-temannya. Ia dapat menikmati makanan yang lebih lezat ketika sedang berkumpul, dan teman-temannya juga sering memberinya makanan.
+
+## 8. Perbedaan Rumah dan Lingkungan Pertemanan
+Rumah menjadi tempat yang penuh pertengkaran dan pengabaian, sedangkan kebersamaan dengan teman-teman memberinya pengalaman yang lebih hangat.
+
+## 9. Dampak Pengalaman terhadap Kehidupan Sehari-hari
+[Belum ada informasi yang di buat]
+
+## 10. Hal yang Belum Diketahui
+[Belum ada informasi yang di buat]

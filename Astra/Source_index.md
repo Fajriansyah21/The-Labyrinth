@@ -37,7 +37,7 @@ Dokumen profil menjelaskan identitas, kepribadian, psikologi, perilaku, hubungan
 
 | Dokumen | Fungsi | Status |
 |---|---|---|
-| [Latar Belakang Eleina](../Karakter/Eleina/Latar_Belakang_Eleina.md) | Kronologi keluarga, pengalaman pembentuk, dan dampaknya. | Sumber latar belakang |
+| [Latar Belakang Eleina](../Karakter/Eleina/Latar_Belakang_Eleina.md) | Riwayat masa kecil, penyakit dan kehilangan ibu, masa berkabung, keluarga baru, pengucilan, perubahan diri, konflik internal, serta arah perjalanan karakter Eleina. | Sumber latar belakang; periksa isi terbaru |
 | [Profil Karakter Eleina](../Karakter/Eleina/Profil_Karakter_Eleina.md) | Profil karakter dalam sembilan bagian, mencakup identitas, penampilan visual, kepribadian, psikologi, pengalaman pembentuk, perilaku, hubungan, perkembangan, dan pedoman penulisan. | Sumber profil; periksa isi terbaru |
 
 ### Nicho

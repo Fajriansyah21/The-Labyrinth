@@ -21,7 +21,7 @@ Devan melihat Naura sebagai orang yang berisik, spontan, berani, dan sedikit ban
 Naura menganggap Devan terlalu serius dan terlalu banyak berpikir. Ia terkadang mengganggunya agar Devan tidak terus tenggelam dalam pikirannya sendiri. Naura juga merasa cukup nyaman karena Devan tidak menghakiminya ketika ia bersikap spontan atau berisik.
 
 ## 7. Status Keluarga Naura
-Ayah Naura merupakan pengusaha besar dan figur berpengaruh di kota. Devan, Elvano, Reza, Alexa, Eleina, dan Adel mengetahui latar belakang tersebut, tetapi tidak menjadikan kekayaan atau posisi keluarga Naura sebagai dasar hubungan mereka. Mereka tetap berinteraksi dengannya sebagai teman. Hal ini tidak berarti seluruh orang di lingkungan Naura memperlakukannya dengan cara yang sama.
+Ayah Naura merupakan pengusaha besar dan figur berpengaruh di kota. Semua teman dekat Naura mengetahui latar belakang keluarganya, tetapi tidak menjadikan kekayaan atau posisi keluarganya sebagai dasar hubungan mereka. Mereka tetap berinteraksi dengannya sebagai teman dan tidak memperlakukannya secara istimewa karena status tersebut. Mengetahui latar belakang keluarganya juga tidak berarti mereka mengetahui seluruh urusan pribadi keluarga Naura.
 
 ## 8. Perkembangan hingga Kelas 3 SMA
 Memasuki kelas 3 SMA, mereka sudah terbiasa dengan ritme masing-masing. Naura tetap sering menggoda Devan, sedangkan Devan tetap menanggapi dengan ketenangan khasnya. Mereka tidak harus selalu bersama untuk mempertahankan pertemanan.

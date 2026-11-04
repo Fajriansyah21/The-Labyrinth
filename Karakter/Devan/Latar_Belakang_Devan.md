@@ -175,3 +175,8 @@ Dalam hubungannya dengan orang lain, perubahan Devan bukan berarti ia harus berh
 Devan tidak harus melupakan Citra dan papanya untuk melanjutkan hidup. Ia dapat tetap merindukan mereka, membawa kenangan tentang keluarganya, dan sesekali kembali merasakan kesedihan tanpa harus menghukum dirinya sendiri setiap kali masa lalu teringat. Kehangatan, kesetiaan, humor, dan kepeduliannya tetap menjadi bagian dari dirinya. Yang berubah adalah cara ia memahami tanggung jawab, memperlakukan dirinya sendiri, dan membangun kedekatan dengan orang lain.
 
 **Arah perjalanan Devan:** belajar menerima bahwa ia tidak dapat menyelamatkan semua orang, bahwa ia tetap layak dicintai tanpa harus selalu menjadi penolong, dan bahwa melanjutkan hidup bukan berarti meninggalkan orang-orang yang telah hilang.
+
+
+## 10. Catatan Kronologi dan Kontinuitas
+
+[BELUM DITENTUKAN]

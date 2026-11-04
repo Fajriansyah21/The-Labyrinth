@@ -1,5 +1,7 @@
 Latar Belakang Eleina
 
+# Latar Belakang Eleina
+
 ## 1. Masa Kecil dan Kehidupan Keluarga
 
 Eleina adalah anak tunggal yang tumbuh dalam keluarga yang hangat dan penuh kasih sayang. Sejak kecil, ia memiliki hubungan dekat dengan kedua orang tuanya. Rumah menjadi tempat yang aman baginya untuk bercerita, menunjukkan perasaan, meminta bantuan, dan menjadi dirinya sendiri tanpa merasa bahwa kebutuhannya merupakan beban bagi orang lain.

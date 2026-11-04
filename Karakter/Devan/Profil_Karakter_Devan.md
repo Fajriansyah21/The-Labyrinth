@@ -318,10 +318,9 @@ Devan tetap membawa masa lalunya. Ia dapat terus menyayangi Citra dan merindukan
 
 ---
 
-## Catatan kontinuitas dan sumber
+## 8. Pedoman Penulisan dan Catatan Kontinuitas
 
 - **Canon dan sumber rujukan:** Identitas, latar keluarga, kronologi pengalaman, kebiasaan dan hobi Devan merujuk pada profil serta dokumen latar belakang. Aturan kata ganti dan pembagian kelas mengikuti dokumen terkait di folder `Outline`. Gunakan dokumen hubungan masing-masing tokoh untuk memeriksa konteks relasi.
 - **Interpretasi psikologis:** Hubungan antara rasa bersalah, ketakutan kehilangan, kecenderungan protektif, dan kesulitan meminta bantuan merupakan interpretasi berdasarkan sumber. Hal tersebut tidak otomatis menjadi pikiran yang disadari Devan atau muncul dalam setiap situasi. Narasi tetap dibatasi oleh hal yang dapat ia amati, ingat, pikirkan, rasakan, atau simpulkan.
 - **[BELUM DITENTUKAN]:** Merek/model MP3 player, daftar lagu atau genre musik tertentu, alasan khusus ayah memilih hadiah tersebut, serta detail lain yang belum ditetapkan oleh sumber. Kekosongan ini tidak perlu diisi dengan asumsi.
 - **Batas cakupan dan status sumber:** Profil ini merangkum identitas, pola perilaku, interpretasi psikologis, hubungan secara umum, dan rancangan perkembangan Devan. Kronologi rinci tetap dirujuk ke dokumen latar belakang, sedangkan dinamika dua arah dirujuk ke dokumen hubungan masing-masing. Dokumen hubungan saat ini berstatus **DRAFT** dan tidak boleh diperlakukan sebagai canon final.
-

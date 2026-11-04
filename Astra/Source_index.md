@@ -31,7 +31,7 @@ Dokumen profil menjelaskan identitas, kepribadian, psikologi, perilaku, hubungan
 | Dokumen | Fungsi | Status |
 |---|---|---|
 | [Latar Belakang Devan](../Karakter/Devan/Latar_Belakang_Devan.md) | Kronologi keluarga, tragedi, pengalaman pembentuk, dan dampaknya terhadap Devan. | Sumber latar belakang |
-| [Profil Karakter Devan](../Karakter/Devan/Profil_Karakter_Devan.md) | Identitas, kepribadian, dunia batin, pengaruh pengalaman, perilaku, hubungan, dan perkembangan Devan. | Draf terstruktur; perlu ditinjau penulis |
+| [Profil Karakter Devan](../Karakter/Devan/Profil_Karakter_Devan.md) | Profil sembilan bagian yang mencakup identitas, penampilan visual, kepribadian, psikologi, pengalaman pembentuk, perilaku, hubungan, perkembangan, dan pedoman penulisan Devan. | Draf terstruktur; perlu ditinjau penulis |
 
 ### Eleina
 

@@ -16,7 +16,7 @@ Kamar Andrian seperti gudang terbengkalai. Di dalamnya terdapat pakaian kotor, s
 Makanan yang ia dapatkan di rumah sering kali hanya sisa semalam, dingin, dan hambar. Ia terbiasa menahan lapar dan mengisi perut dengan sisa makanan.
 
 ## 6. Cara Memaksakan Senyum
-Andrian sering menepuk pipinya dengan keras hingga merah agar dapat memunculkan senyum di wajahnya. Tindakan tersebut merupakan cara yang ia gunakan untuk memaksakan diri terlihat ceria.
+Andrian sering menepuk pipinya sendiri beberapa kali hingga memerah untuk memaksakan senyum di wajahnya. Tindakan tersebut merupakan cara yang ia gunakan agar terlihat ceria.
 
 ## 7. Kebahagiaan di Luar Rumah
 Di luar rumah, Andrian menemukan kebahagiaan melalui teman-temannya. Ia dapat menikmati makanan yang lebih lezat ketika sedang berkumpul, dan teman-temannya juga sering memberinya makanan.

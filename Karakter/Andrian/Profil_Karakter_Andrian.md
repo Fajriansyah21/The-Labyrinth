@@ -1,9 +1,29 @@
-Nama : Andrian. Nama Panggilan: Drian. Usia: 18 tahun. Tinggi badan: 176 cm. Peran: Teman SMA Devan.
+# Profil Karakter Andrian
 
-Andrian adalah sosok *emotional starvation survivor* — seseorang yang tumbuh dengan kekurangan kehangatan emosional dan belajar bertahan dengan mencari kenyamanan sederhana. Ia menyembunyikan rasa sepi dan ketergantungan emosional di balik sikap ceria, santai, dan kecintaannya pada makanan. Andrian takut kehilangan sumber kehangatan dan rasa memiliki yang selama ini menjadi tempatnya bersandar. Di balik semua itu, ia hanya ingin menemukan tempat di mana ia tidak perlu berpura-pura baik-baik saja atau menjadi “mudah” demi diterima orang lain.
+## 1. Identitas Dasar
+- **Nama:** Andrian
+- **Nama panggilan:** Drian
+- **Usia:** 18 tahun
+- **Tinggi badan:** 176 cm
+- **Peran:** Teman SMA Devan.
 
-Ia berbicara dengan ringan, sederhana, dan cenderung menghindari percakapan yang terlalu dalam secara emosional. Saat suasana mulai serius, ia sering mengganti topik, bercanda kecil, atau kembali ke hal-hal sederhana agar tidak perlu menghadapi perasaannya sendiri. Di mata Devan, Andrian terlihat jauh lebih sederhana daripada kenyataannya, padahal sebenarnya ia menyimpan banyak rasa takut dan kebutuhan emosional yang tidak pernah benar-benar ia ungkapkan.
+## 2. Gambaran Kepribadian
+Andrian cenderung ceria, santai, dan menyukai hal-hal sederhana. Ia menikmati makanan dan kebersamaan dengan teman-temannya. Sikap santainya bukan berarti ia tidak memiliki persoalan atau kebutuhan emosional.
 
-Wajahnya berbentuk bulat-oval lembut dengan ekspresi yang ramah dan tidak mengintimidasi. Ia punya mata cokelat madu hangat dengan tatapan yang biasanya singkat; ketika situasi menjadi serius, ia sering memalingkan pandangan. Kadang tatapannya terlihat kosong sesaat sebelum akhirnya ditutupi lagi dengan senyum kecil. Rambutnya cokelat muda, bergelombang lembut dan fluffy, dengan potongan medium berlayer yang terlihat santai dan natural.
+## 3. Kebutuhan dan Konflik Batin
+Andrian tumbuh dengan kekurangan kehangatan emosional. Ia takut kehilangan sumber kehangatan dan rasa memiliki yang ia temukan di luar rumah. Ia ingin memiliki tempat di mana dirinya tidak perlu berpura-pura baik-baik saja atau menjadi sosok yang selalu mudah diterima.
 
-Posturnya sedikit lebih berisi dibanding beberapa teman lain, memberi kesan nyaman dan hangat. Cara berdirinya rileks dan tidak terburu-buru, seolah selalu mencoba menjaga suasana tetap tenang. Gerakannya lambat, stabil, dan tidak pernah mendadak; ia lebih sering mengikuti ritme orang lain daripada memimpin suasana. Kehadirannya memberi efek menenangkan tanpa ia sadari.
+## 4. Cara Menghadapi Percakapan Berat
+Ketika percakapan mulai terlalu dalam, Andrian cenderung mengganti topik, melontarkan candaan kecil, atau kembali membicarakan hal sederhana. Ia tidak selalu menyadari alasan di balik kebiasaan tersebut.
+
+## 5. Perilaku Sosial
+Andrian nyaman menikmati kegiatan sederhana seperti makan bersama, bercanda, atau duduk dengan teman. Ia tidak selalu menjadi pusat perhatian dan sering mengikuti ritme orang lain daripada memimpin suasana.
+
+## 6. Cara Bicara
+Ia berbicara dengan ringan dan sederhana. Ketika suasana menjadi serius, ia dapat menghindari pembicaraan emosional dengan mengalihkan topik atau bercanda. Ia tidak harus selalu menghindar; responsnya bergantung pada situasi dan orang yang dihadapinya.
+
+## 7. Penampilan Fisik
+Wajahnya berbentuk bulat-oval dengan ekspresi ramah. Matanya berwarna cokelat madu. Rambutnya cokelat muda, bergelombang lembut, dan fluffy, dengan potongan medium berlayer yang terlihat santai.
+
+## 8. Bahasa Tubuh dan Kesan
+Posturnya sedikit lebih berisi dibanding beberapa teman lain, memberi kesan hangat. Cara berdirinya rileks dan gerakannya lambat serta stabil. Ketika situasi menjadi serius, ia terkadang memalingkan pandangan; tatapannya dapat terlihat kosong sesaat sebelum kembali ditutupi senyum kecil.

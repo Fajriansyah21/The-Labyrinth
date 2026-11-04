@@ -16,8 +16,8 @@ Dokumen ini adalah peta utama sumber proyek novel original **THE LABYRINTH**. Gu
 | Dokumen | Fungsi | Status |
 |---|---|---|
 | [ASTRA-INSTRUCTIONS.txt](ASTRA-INSTRUCTIONS.txt) | Instruksi utama, hierarki canon, metode analisis, POV, revisi, dan checksum. | Pedoman aktif |
-| [Master_Pedoman_Astra_The_Labyrinth.md](Master_Pedoman_Astra_The_Labyrinth.md) | Pedoman utama pengembangan cerita. | Referensi utama |
-| [Instruksi-Khusus.txt](Instruksi-Khusus.txt) | Ketentuan tambahan. | Referensi |
+| [Master_Pedoman_Astra_The_Labyrinth.md](Master_Pedoman_Astra_The_Labyrinth.md) | Pedoman kerja versi lama; dipertahankan untuk menelusuri aturan dan keputusan historis yang belum tentu masuk ke instruksi aktif. | Arsip referensi, bukan instruksi aktif |
+| [Instruksi-Khusus.txt](Instruksi-Khusus.txt) | Instruksi versi lama yang isinya telah dikonsolidasikan ke ASTRA-INSTRUCTIONS.txt. | Arsip referensi, bukan instruksi aktif |
 | [Guide_The_Labyrinth.md](Guide_The_Labyrinth.md) | Riwayat diskusi, perkembangan ide, dan keputusan terdahulu. Verifikasi keputusan terhadap sumber terkini. | Arsip diskusi |
 | [Template_Latar_Belakang_Karakter.md](Template_Latar_Belakang_Karakter.md) | Kerangka fleksibel untuk menyusun latar belakang. Jumlah dan subjudul mengikuti perjalanan hidup tiap tokoh. | Template kerja |
 | [Template_Profil_Karakter.md](Template_Profil_Karakter.md) | Kerangka fleksibel untuk profil karakter. Gunakan sekitar delapan poin utama dan tambahkan poin kesembilan bila diperlukan. | Template kerja |
@@ -189,13 +189,16 @@ Folder [Rancangan](../Rancangan) berisi rancangan dan bahan referensi yang lebih
 
 ## H. Prioritas pemeriksaan sumber
 
-1. Instruksi Astra untuk metode kerja dan hierarki sumber.
-2. Sumber cerita yang relevan untuk fakta dan keputusan canon.
-3. Profil karakter untuk konsistensi kepribadian dan perilaku.
-4. Dokumen hubungan untuk dinamika dua pihak.
-5. Outline serta aturan penulisan untuk plot, POV, kata ganti, dan kontinuitas.
-6. Arsip visual untuk desain dan status aset visual.
-7. Guide, folder rancangan, dan catatan lama untuk menelusuri perkembangan ide, bukan untuk mengesampingkan keputusan terbaru.
+1. ASTRA-INSTRUCTIONS.txt untuk seluruh aturan operasional Astra.
+2. Source_index.md untuk menemukan sumber yang relevan.
+3. Sumber cerita yang relevan untuk fakta dan keputusan canon.
+4. Profil karakter untuk konsistensi kepribadian dan perilaku.
+5. Dokumen hubungan untuk dinamika dua pihak.
+6. Outline serta aturan penulisan untuk plot, POV, kata ganti, dan kontinuitas.
+7. Arsip visual untuk desain dan status aset visual.
+8. Guide, folder rancangan, dan catatan lama untuk menelusuri perkembangan ide, bukan untuk mengesampingkan keputusan terbaru.
+
+**Catatan instruksi:** ASTRA-INSTRUCTIONS.txt adalah satu-satunya instruksi operasional aktif. Master Pedoman dan Instruksi-Khusus dipertahankan sebagai arsip historis, bukan sumber aturan paralel. Jika ada aturan lama yang belum tercakup dalam instruksi aktif, evaluasi relevansinya bersama penulis sebelum mengaktifkannya.
 
 ## I. Penanda status informasi
 

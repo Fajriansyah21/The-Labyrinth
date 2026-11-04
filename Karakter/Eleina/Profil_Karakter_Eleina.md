@@ -4,8 +4,19 @@
 
 **STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Eleina telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Persetujuan ini tidak menetapkan detail tambahan yang belum tercantum, termasuk kode warna kulit yang masih berstatus [BELUM DITENTUKAN].
 
-
 > **Status:** Profil karakter telah difinalkan berdasarkan keputusan penulis dan sumber yang tersedia. Latar belakang keluarga yang telah disetujui tetap menjadi canon; hobi membaca novel, merawat tanaman, dan membuat kue juga telah ditetapkan sebagai canon. Penanda **[BELUM DITENTUKAN]** tetap digunakan untuk detail lain yang belum diputuskan dan tidak membatalkan finalisasi profil ini.
+
+## Daftar Isi
+
+1. [Identitas dan Gambaran Umum](#1-identitas-dan-gambaran-umum)
+2. [Penampilan Fisik dan Acuan Visual](#2-penampilan-fisik-dan-acuan-visual)
+3. [Kepribadian dan Struktur Diri](#3-kepribadian-dan-struktur-diri)
+4. [Dunia Batin dan Psikologi](#4-dunia-batin-dan-psikologi)
+5. [Pengaruh Pengalaman terhadap Karakter](#5-pengaruh-pengalaman-terhadap-karakter)
+6. [Perilaku dan Ekspresi Diri](#6-perilaku-dan-ekspresi-diri)
+7. [Hubungan dan Dinamika Sosial](#7-hubungan-dan-dinamika-sosial)
+8. [Konflik, Perkembangan, dan Perubahan](#8-konflik-perkembangan-dan-perubahan)
+9. [Pedoman Penulisan dan Catatan Kontinuitas](#9-pedoman-penulisan-dan-catatan-kontinuitas)
 
 ## 1. Identitas dan Gambaran Umum
 
@@ -24,9 +35,21 @@ Kelembutan bukan berarti Eleina selalu diam, pasif, atau setuju. Saat merasa ama
 
 Kehilangan ibunya tidak menciptakan sifat lembut dan empatinya. Pengalaman tersebut, disertai perubahan dalam keluarga, lebih memengaruhi cara ia mengelola kebutuhan, menunjukkan kerentanan, dan mempertahankan kedekatan. Karena itu, jangan menulis seluruh perilakunya sebagai akibat trauma atau menjadikannya sosok yang selalu sedih.
 
-### 1.1. Penampilan Fisik
+### 1.2. Hobi
 
-#### Wajah
+Hobi resmi Eleina adalah:
+
+- **Membaca novel.** Ia menikmati membaca sebagai kegiatan pribadi. Genre atau jenis novel favoritnya belum ditentukan.
+- **Merawat tanaman.** Ia menikmati kegiatan merawat tanaman tanpa harus menjadi ahli atau mendalaminya secara khusus. Jenis tanaman yang biasa dirawatnya belum ditentukan.
+- **Membuat kue.** Ia menikmati proses membuat kue sekaligus hasilnya. Ia terkadang dapat membagikan hasil buatannya kepada orang lain, tetapi tidak selalu membuat kue dengan tujuan untuk dibagikan. Jenis kue andalannya belum ditentukan.
+
+Ketiga hobi ini merupakan canon. Detail spesifik seperti genre novel favorit, jenis tanaman, resep, dan kue andalan tidak perlu ditetapkan sampai dibutuhkan dalam cerita.
+
+## 3. Penampilan Fisik dan Acuan Visual
+
+### 3.1. Ringkasan Penampilan Fisik
+
+### 3.2. Wajah
 
 Foto acuan utama menunjukkan Eleina memiliki wajah berbentuk oval dengan proporsi lembut dan cenderung ramping. Dahinya tampak proporsional, pipinya memiliki kontur halus, dan garis rahangnya mengecil secara perlahan menuju dagu yang kecil serta membulat lembut. Sudut wajahnya tidak terlalu tajam, sehingga keseluruhan wajah memberikan kesan feminin dan halus tanpa membuatnya terlihat kekanak-kanakan.
 
@@ -40,15 +63,15 @@ Warna dasar kulit Eleina ditetapkan cerah dengan undertone hangat bernuansa peac
 
 Secara keseluruhan, wajah Eleina memadukan kontur oval yang halus, mata hazel yang ekspresif, dan senyum kecil yang hangat. Kesan lembut dan anggun muncul dari keseimbangan fitur-fiturnya, bukan dari satu bagian wajah yang terlalu menonjol. Ia tidak harus selalu terlihat malu-malu, sedih, atau tersenyum; ekspresinya perlu mengikuti situasi dan keadaan emosionalnya.
 
-#### Rambut
+### 3.3. Rambut
 
 Rambut Eleina berwarna cokelat dan panjang melewati dada. Rambutnya memiliki layer alami dengan belahan mendekati tengah. Beberapa helai jatuh di sisi dahi dan membingkai wajah, sedangkan bagian panjangnya jatuh melewati bahu dengan gelombang lembut terutama di bagian ujung. Teksturnya tidak lurus sempurna maupun ikal yang tegas. Dalam pencahayaan hangat, rambutnya dapat memperlihatkan pantulan cokelat keemasan, tetapi warna dasarnya tetap cokelat.
 
-#### Postur dan gestur
+### 3.4. Postur dan Gestur
 
 Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak mengambil banyak ruang. Saat mendengarkan, ia dapat sedikit mencondongkan tubuh ke depan. Ia kadang menyelipkan rambut ke belakang telinga ketika berpikir, gugup, atau berkonsentrasi. Ia dapat mempertahankan kontak mata ketika memperhatikan orang lain, tetapi lebih mungkin mengalihkan pandangan ketika pembicaraan beralih kepada perasaannya sendiri.
 
-#### Proporsi tubuh
+### 3.5. Proporsi Tubuh
 
 **Status: CANON.** Rancangan proporsi tubuh ini telah disetujui penulis sebagai bagian dari desain fisik Eleina.
 
@@ -61,7 +84,7 @@ Tubuh Eleina ramping dengan bahu kecil. Gerak tubuhnya cenderung halus dan tidak
 
 Deskripsi ini merupakan acuan visual, bukan ukuran anatomi yang presisi. Dalam narasi, detail tubuh hanya perlu muncul ketika relevan dengan apa yang Devan amati dan kebutuhan adegan. Jangan menjadikannya uraian anatomi yang berdiri sendiri atau dasar untuk menyimpulkan kepribadian Eleina.
 
-#### Acuan visual untuk ilustrasi
+### 3.6. Acuan Visual untuk Ilustrasi
 
 Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Eleina. Dalam ilustrasi berikutnya, pertahankan wajah oval dengan dagu lembut, mata hazel yang relatif besar berbentuk almond, alis cokelat gelap yang ramping dengan lengkungan alami, hidung yang halus dan proporsional, bibir kecil hingga sedang, serta rambut cokelat panjang ber-layer dengan gelombang lembut di bagian ujung.
 
@@ -69,8 +92,7 @@ Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai keb
 
 Warna dasar kulit Eleina telah ditetapkan berdasarkan acuan visual yang disetujui, tetapi nilai warna yang presisi dan tampilannya dalam semua kondisi pencahayaan belum ditentukan. Rincian fisik lain yang tidak terlihat jelas tidak boleh ditetapkan hanya berdasarkan perkiraan dari gambar. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar gestur atau ekspresi yang harus selalu digunakan.
 
-
-#### Gaya berpakaian sehari-hari
+### 3.7. Gaya Berpakaian Sehari-hari
 
 Gaya berpakaian Eleina memadukan **casual natural sebagai dasar** dengan **sentuhan soft feminine**. Penampilannya sehari-hari cenderung nyaman, sederhana, dan mudah dipadukan, tetapi sesekali terlihat lebih lembut atau rapi melalui pilihan bahan, warna, dan potongan pakaian. Gaya ini merupakan arah visual yang disepakati dalam pengembangan karakter, bukan seragam yang harus dikenakan pada setiap adegan.
 
@@ -83,19 +105,9 @@ Gaya berpakaian Eleina memadukan **casual natural sebagai dasar** dengan **sentu
 
 Contoh padu padan yang sesuai adalah kaus atau blus putih dengan jeans biru dan sneakers, atau kardigan krem dengan rok midi ketika ia ingin terlihat lebih rapi. Pilihan pakaian tetap mengikuti kegiatan, cuaca, kenyamanan, suasana hati, dan konteks adegan. Jangan membuat Eleina selalu memakai kardigan atau rok hanya karena gaya soft feminine menjadi salah satu acuannya.
 
-### 1.2. Hobi
+## 3. Kepribadian dan Struktur Diri
 
-Hobi resmi Eleina adalah:
-
-- **Membaca novel.** Ia menikmati membaca sebagai kegiatan pribadi. Genre atau jenis novel favoritnya belum ditentukan.
-- **Merawat tanaman.** Ia menikmati kegiatan merawat tanaman tanpa harus menjadi ahli atau mendalaminya secara khusus. Jenis tanaman yang biasa dirawatnya belum ditentukan.
-- **Membuat kue.** Ia menikmati proses membuat kue sekaligus hasilnya. Ia terkadang dapat membagikan hasil buatannya kepada orang lain, tetapi tidak selalu membuat kue dengan tujuan untuk dibagikan. Jenis kue andalannya belum ditentukan.
-
-Ketiga hobi ini merupakan canon. Detail spesifik seperti genre novel favorit, jenis tanaman, resep, dan kue andalan tidak perlu ditetapkan sampai dibutuhkan dalam cerita.
-
-## 2. Kepribadian dan Struktur Diri
-
-### 2.1. Sifat Dasar yang Sudah Ada Sejak Kecil
+### 3.1. Sifat Dasar yang Sudah Ada Sejak Kecil
 
 Sifat dasar Eleina meliputi kelembutan, empati, kehangatan, kesabaran, kesetiaan, tanggung jawab, dan perhatian terhadap orang lain. Sifat-sifat tersebut sudah terlihat sebelum kematian ibunya.
 
@@ -111,7 +123,7 @@ Sifat dasar Eleina meliputi kelembutan, empati, kehangatan, kesabaran, kesetiaan
 
 Sifat-sifat ini perlu muncul melalui pilihan, respons, dan kebiasaan konkret. Jangan hanya menyebut Eleina baik, lalu membuatnya selalu mengalah.
 
-### 2.2. Ketika Sifat Baik Menjadi Tidak Seimbang
+### 3.2. Ketika Sifat Baik Menjadi Tidak Seimbang
 
 Kekuatan Eleina dapat berubah menjadi sumber kesulitan ketika ia menerapkannya tanpa memberi tempat bagi dirinya sendiri.
 
@@ -128,24 +140,23 @@ Kekuatan Eleina dapat berubah menjadi sumber kesulitan ketika ia menerapkannya t
 
 Sifat dasar tidak otomatis menjadi kelemahan. Masalah timbul ketika Eleina menggunakannya untuk menjaga kenyamanan orang lain dengan mengorbankan kebutuhan sendiri.
 
-### 2.3. Cara Menunjukkan Kasih Sayang
+### 3.3. Cara Menunjukkan Kasih Sayang
 
 Eleina lebih nyaman memperlihatkan kasih sayang melalui tindakan sehari-hari: mengingat hal kecil, menawarkan bantuan, mendengarkan, menemani, atau menyadari bahwa seseorang sedang tidak seperti biasanya. Ia tidak harus selalu mengucapkan kalimat romantis atau memberi gestur besar agar rasa sayangnya terbaca.
 
 Ia juga tidak selalu tahu cara menerima kasih sayang. Dalam hubungan yang aman, ia dapat menikmatinya. Namun, ketika takut merepotkan atau merasa perlu membalas perhatian, ia bisa mengalihkan fokus kembali kepada kebutuhan orang yang sedang memperhatikannya.
 
-### 2.4. Variasi Perilaku
+### 3.4. Variasi Perilaku
 
 Eleina tidak menunjukkan satu ekspresi yang sama kepada semua orang. Dengan orang yang belum dekat, ia cenderung sopan, tenang, dan berhati-hati. Dalam kelompok, ia dapat menyesuaikan diri serta mendengarkan tanpa berusaha menjadi pusat perhatian. Dengan orang yang dipercaya, ia lebih santai, ekspresif, spontan, dan bisa jahil. Ketika seseorang melanggar batasnya, ia mungkin mula-mula mencoba memahami situasi, tetapi itu tidak berarti ia akan terus menerima perlakuan tersebut.
 
 Variasi ini bukan pergantian kepribadian. Tingkat rasa aman, kedekatan, kondisi emosional, dan persoalan yang sedang dihadapi memengaruhi sisi mana yang lebih terlihat.
 
-## 3. Dunia Batin dan Psikologi
+## 4. Dunia Batin dan Psikologi
 
 **Catatan keterhubungan pola perilaku:** Respons Eleina ketika membutuhkan bantuan, ketika perasaannya terluka, ketika mempertahankan hubungan, dan ketika merasa aman saling memengaruhi karena semuanya berkaitan dengan cara ia menyeimbangkan kebutuhan diri, kepedulian terhadap orang lain, dan keinginannya menjaga kedekatan. Namun, pola-pola ini bukan tahapan yang harus selalu terjadi secara berurutan dan tidak harus muncul bersamaan. Respons Eleina tetap bergantung pada konteks, tingkat kedekatan, kondisi emosional, serta persoalan yang sedang dihadapi. Gunakan setiap bagian sebagai acuan untuk memahami kemungkinan perilakunya, bukan sebagai urutan mekanis yang wajib diikuti dalam setiap adegan.
 
-
-### 3.0. Respons ketika Membutuhkan Bantuan
+### 4.2. Respons ketika Membutuhkan Bantuan
 
 Eleina cenderung mencoba menyelesaikan kesulitannya sendiri sebelum meminta bantuan. Ia dapat menunda permintaan karena merasa masalahnya masih bisa ditangani atau karena mempertimbangkan kesibukan dan kenyamanan orang lain. Jika ditawari bantuan, ia mungkin mengecilkan kesulitannya terlebih dahulu, tetapi tidak selalu menolak. Ia lebih mudah menerima bantuan ketika tawaran disampaikan tanpa tekanan dan memberinya kebebasan untuk menentukan apa yang ingin ia ceritakan.
 
@@ -153,13 +164,13 @@ Seiring tumbuhnya rasa aman dalam suatu hubungan, Eleina dapat mulai menerima ba
 
 Pola ini merupakan acuan perilaku, bukan urutan wajib. Eleina tidak selalu menunda permintaan, menolak tawaran, atau merasa menjadi beban. Responsnya tetap bergantung pada situasi, tingkat kesulitan, kondisi emosional, dan rasa aman bersama orang yang menawarkan bantuan.
 
-### 3.1. Kebutuhan Emosional
+### 4.2. Kebutuhan Emosional
 
 Eleina membutuhkan rasa aman, penerimaan, hubungan yang konsisten, dan ruang untuk menjadi dirinya sendiri tanpa harus selalu berguna bagi orang lain. Ia membutuhkan kesempatan menyampaikan perasaan tanpa harus segera menenangkan lawan bicara atau meminta maaf karena membutuhkan dukungan.
 
 Ia mampu menerima bantuan dari orang yang dipercaya. Kesulitannya bukan ketidakmampuan mutlak untuk bergantung pada orang lain, melainkan keraguan yang muncul ketika ia takut menjadi beban, mengganggu orang lain, atau kehilangan kedekatan yang sudah dibangun.
 
-### 3.2. Ketakutan dan Keyakinan yang Mendorong Perilaku
+### 4.3. Ketakutan dan Keyakinan yang Mendorong Perilaku
 
 Salah satu ketakutan yang berkembang setelah kehilangan ibunya dan mengalami perubahan keluarga adalah kehilangan kembali orang yang berarti. Ketakutan ini dapat membuat Eleina lebih peka terhadap perubahan hubungan dan lebih berusaha mempertahankan kedekatan.
 
@@ -167,7 +178,7 @@ Dalam situasi tertentu, ia mungkin bertindak seolah-olah kebutuhan orang lain le
 
 **Pembedaan penting:** sumber mendukung adanya kecenderungan takut kehilangan, tidak ingin menjadi beban, dan sulit mengutamakan kebutuhan sendiri. Kalimat batin yang persis, tingkat keyakinannya, dan situasi pemicunya dapat berbeda menurut adegan; jangan menganggap satu rumusan sebagai monolog batin tetap.
 
-### 3.3. Cara Memendam Emosi
+### 4.4. Cara Memendam Emosi
 
 Eleina cenderung memproses sebagian emosinya secara internal. Ia terkadang lebih cepat menyadari perubahan suasana hati orang lain daripada mengenali apa yang sedang ia rasakan sendiri. Ia juga dapat mengutamakan pemahaman terhadap keadaan orang lain sebelum memberi ruang pada reaksinya sendiri.
 
@@ -175,7 +186,7 @@ Dalam situasi tertentu, ia mengecilkan arti masalah, mengalihkan perhatian ke ha
 
 Memendam emosi bukan respons yang selalu dipilih Eleina dan tidak selalu berujung pada ledakan atau penumpukan rasa sakit. Ia dapat mengungkapkan perasaan lebih awal ketika sudah memahami apa yang mengganggunya, merasa aman untuk berbicara, atau menilai bahwa diam tidak akan membantu. Untuk respons terhadap rasa sakit dan kemarahan secara lebih spesifik, lihat bagian 3.5 dan 3.6.
 
-### 3.4. Rasa Bersalah dan Kesulitan Menetapkan Batas
+### 4.5. Rasa Bersalah dan Kesulitan Menetapkan Batas
 
 Bagian ini berfokus pada perasaan Eleina setelah mempertimbangkan atau menetapkan batas, bukan pada proses meminta bantuan. Menolak permintaan dapat terasa berat ketika ia khawatir akan mengecewakan orang yang dekat dengannya. Ia mungkin sudah tahu bahwa dirinya lelah atau tidak ingin melakukannya, tetapi masih memikirkan dampak penolakan itu terhadap hubungan mereka.
 
@@ -183,7 +194,7 @@ Dalam situasi tertentu, ia dapat memberi penjelasan terlalu panjang, mengecilkan
 
 Namun, rasa bersalah tidak berarti Eleina selalu mengalah atau tidak mampu berkata tidak. Ia dapat menolak dengan jelas, terutama ketika sudah memahami kebutuhannya atau ketika keselamatan dirinya maupun orang yang disayangi terlibat. Kesulitannya cenderung lebih besar ketika keputusan berpotensi mengecewakan seseorang yang berarti baginya.
 
-### 3.5. Kemarahan dan Kekecewaan
+### 4.6. Kemarahan dan Kekecewaan
 
 Bagian ini berfokus pada cara Eleina mengalami dan mengekspresikan kemarahan atau kekecewaan, bukan pada seluruh proses ketika ia menyadari bahwa dirinya terluka. Ia biasanya tidak langsung meluapkan kemarahan. Ia dapat menahan respons awal, mencoba memahami situasi, atau mengambil waktu untuk menenangkan diri. Namun, ia juga bisa menyampaikan keberatan saat itu juga jika persoalannya jelas atau menyangkut sesuatu yang penting baginya.
 
@@ -191,7 +202,7 @@ Ketika emosi menguat, Eleina mungkin berbicara lebih tegas, menangis karena frus
 
 Jika perilaku yang menyakitkan terus berulang, kemarahannya dapat menjadi lebih sulit diabaikan dan mendorongnya menetapkan batas. Setelah bereaksi, ia mungkin merasa bersalah atas nada bicara atau kata-katanya. Rasa bersalah itu tidak otomatis membatalkan alasan kemarahannya: ia dapat menyesali cara menyampaikan keberatan sambil tetap menganggap persoalannya perlu dibicarakan.
 
-### 3.6. Respons ketika Perasaannya Terluka
+### 4.7. Respons ketika Perasaannya Terluka
 
 Bagian ini berfokus pada proses Eleina mengenali dan memaknai rasa sakit, serta keputusannya untuk menyampaikan atau belum menyampaikan perasaan tersebut. Ia mungkin mencoba memahami alasan orang lain terlebih dahulu dan tidak selalu langsung mengetahui apa yang mengganggunya. Terkadang, ia baru menyadari bahwa dirinya merasa kecewa, diabaikan, atau tidak dianggap setelah memikirkan kembali suatu kejadian.
 
@@ -201,7 +212,7 @@ Eleina lebih mudah menjelaskan perasaannya ketika diberi ruang untuk berpikir da
 
 Pola ini bukan urutan wajib. Cara Eleina menyadari dan menyampaikan rasa sakit bergantung pada konteks, kedekatan dengan lawan bicara, serta seberapa jelas ia memahami persoalannya.
 
-### 3.7. Memaafkan, Memercayai, dan Merasa Aman Kembali
+### 4.8. Memaafkan, Memercayai, dan Merasa Aman Kembali
 
 Ketiga hal ini harus diperlakukan terpisah.
 
@@ -211,13 +222,13 @@ Ketiga hal ini harus diperlakukan terpisah.
 
 Eleina dapat memaafkan seseorang dan tetap berhati-hati. Ia dapat masih menyayangi seseorang sekaligus membutuhkan jarak. Ia juga dapat menginginkan hubungan pulih tanpa tahu apakah dirinya sudah siap. Jangan menjadikan pengampunan sebagai tombol yang langsung menghapus luka, keraguan, atau konsekuensi.
 
-### 3.8. Cara Menenangkan Diri
+### 4.9. Cara Menenangkan Diri
 
 Ketika membutuhkan waktu, Eleina dapat kembali ke rutinitas, menyibukkan diri dengan kegiatan kecil, atau memilih aktivitas tenang. Ia tidak selalu langsung mencari orang lain untuk membicarakan perasaannya. Aktivitas semacam ini dapat membantunya menata pikiran, tetapi juga bisa menjadi cara menghindari percakapan yang terasa sulit.
 
 Membaca novel, merawat tanaman, dan membuat kue telah ditetapkan sebagai hobi resmi Eleina. Aktivitas kecil lainnya dapat menjadi pilihan situasional, bukan otomatis hobi tetap. Genre novel favorit, jenis tanaman, dan jenis kue yang biasa dibuatnya masih **[BELUM DITENTUKAN]**.
 
-### 3.9. Respons ketika Mempertahankan Hubungan
+### 4.10. Respons ketika Mempertahankan Hubungan
 
 Eleina cenderung menjaga hubungan melalui perhatian sehari-hari, kesediaan mendengarkan, dan tindakan kecil yang menunjukkan bahwa seseorang berarti baginya. Ia menghargai kedekatan yang dibangun melalui konsistensi dan berusaha memahami keadaan orang lain ketika muncul kesulitan. Namun, mempertahankan hubungan tidak selalu berarti ia harus terus tersedia atau mengesampingkan kebutuhannya sendiri.
 
@@ -229,7 +240,7 @@ Ketika perlakuan yang menyakitkan terus berulang tanpa perubahan, Eleina dapat m
 
 Cara Eleina mempertahankan hubungan bergantung pada tingkat kedekatan, pengalaman bersama, sifat masalah, dan respons kedua belah pihak. Ia tidak selalu mengalah demi menjaga kedekatan dan tidak harus menunggu sampai rasa sakit menumpuk untuk menyampaikan keberatan. Perkembangannya terlihat ketika ia mulai memahami bahwa hubungan yang berarti tidak hanya dipertahankan melalui usahanya sendiri, tetapi juga melalui rasa hormat, kejujuran, dan kesediaan kedua pihak untuk menjaga hubungan tersebut.
 
-### 3.10. Respons ketika Merasa Aman Bersama Seseorang
+### 4.11. Respons ketika Merasa Aman Bersama Seseorang
 
 Ketika merasa aman bersama seseorang, Eleina dapat menunjukkan sisi dirinya yang lebih ceria, spontan, ekspresif, dan jahil. Ia lebih leluasa tertawa, menceritakan hal-hal kecil, melontarkan komentar ringan, atau menggoda orang yang dekat dengannya. Sisi tersebut bukan kepribadian baru yang muncul karena pengaruh orang lain, melainkan bagian dari dirinya yang sudah ada sejak kecil dan lebih mudah ia tunjukkan ketika tidak merasa perlu terlalu berhati-hati.
 
@@ -241,21 +252,21 @@ Merasa aman bersama seseorang tidak membuat Eleina kehilangan kemandiriannya. Ia
 
 Rasa aman dalam hubungan memberi Eleina ruang untuk menjadi dirinya sendiri, termasuk ketika ia sedang ceria, kesal, lelah, ragu, atau tidak tahu harus berkata apa. Perkembangannya tidak diukur dari seberapa sering ia mengungkapkan perasaan, melainkan dari semakin besarnya kebebasan untuk menunjukkan kebutuhan dan kepribadiannya tanpa merasa harus selalu menyenangkan atau menjaga kenyamanan orang lain.
 
-## 4. Pengaruh Pengalaman terhadap Karakter
+## 5. Pengaruh Pengalaman terhadap Karakter
 
-### 4.1. Masa Kecil Sebelum Kehilangan
+### 5.1. Masa Kecil Sebelum Kehilangan
 
 Eleina tumbuh sebagai anak tunggal dalam keluarga yang hangat. Ia memiliki hubungan dekat dengan kedua orang tuanya, terutama ibunya yang menjadi tempat aman untuk bercerita dan mengekspresikan perasaan.
 
 Sebelum kehilangan ibunya, Eleina dapat bersikap ceria, spontan, dan ekspresif. Ia lebih leluasa meminta perhatian, menunjukkan kekecewaan, menangis ketika sedih, dan menerima bantuan dari orang yang dipercayainya. Kelembutan serta empatinya telah ada; keduanya tidak boleh ditulis seolah-olah baru muncul setelah ia mengalami kehilangan.
 
-### 4.2. Kematian Ibu dan Masa Berkabung
+### 5.2. Kematian Ibu dan Masa Berkabung
 
 Ketika Eleina berusia sekitar tiga belas tahun, ibunya mengalami penyakit serius dan kemudian meninggal dunia. Kehilangan itu memutus sumber rasa aman yang sangat berarti baginya. Masa berkabung mencakup kesedihan yang muncul berulang kali dan kenangan tentang kebiasaan sehari-hari bersama ibunya.
 
 Rincian kronologi penyakit, percakapan terakhir, kematian ibu, dan masa berkabung harus mengikuti dokumen [Latar Belakang Eleina](Latar_Belakang_Eleina.md). Profil ini tidak perlu mengulang seluruh adegan atau dialog dari dokumen latar belakang.
 
-### 4.3. Perubahan Hubungan dengan Ayah dan Keluarga Baru
+### 5.3. Perubahan Hubungan dengan Ayah dan Keluarga Baru
 
 Setelah kematian ibu, Eleina mulai membatasi hal-hal yang ia ceritakan kepada ayah karena menyadari bahwa ayah juga berduka dan memiliki beban pekerjaan. Ia tidak ingin menambah kekhawatiran ayah. Pada awalnya, sikap itu merupakan upaya melindungi orang yang disayanginya; lama-kelamaan, kebiasaan menyimpan perasaan dapat menjadi pola yang ia gunakan dalam hubungan lain.
 
@@ -267,13 +278,13 @@ Pengucilan baru berkembang secara bertahap setelah pernikahan, terutama ketika a
 
 Jangan menyederhanakan dinamika ini menjadi “keluarga baru langsung jahat” atau menganggap semua interaksi keluarga selalu buruk. Pertahankan urutan pentingnya: hubungan awal cukup baik, pernikahan berlangsung, lalu pengucilan berkembang perlahan. Detail yang belum ditetapkan dalam sumber tetap **[BELUM DITENTUKAN]**.
 
-### 4.4. Kemandirian yang Berubah Menjadi Beban
+### 5.4. Kemandirian yang Berubah Menjadi Beban
 
 Kemandirian Eleina memiliki dua sisi. Ia memang mampu mengurus banyak hal sendiri, tetapi pengalaman kehilangan dan perubahan keluarga membuatnya semakin terbiasa tidak meminta bantuan. Ia dapat menganggap diam sebagai cara menjaga orang lain, sementara orang di sekitarnya mungkin menyimpulkan bahwa ia tidak membutuhkan dukungan.
 
 Konsekuensinya bukan bahwa Eleina selalu sendirian atau selalu menyembunyikan semuanya. Ia tetap menginginkan kedekatan, tetapi dapat kesulitan mengambil langkah untuk meminta dukungan, terutama ketika takut menjadi beban.
 
-### 4.5. Perundungan dan Kedekatan dengan Devan
+### 5.5. Perundungan dan Kedekatan dengan Devan
 
 Pada kelas satu SMA, Eleina mengalami perundungan oleh beberapa siswi dari kelas lain. Salah satu kejadian berlangsung di halaman belakang sekolah, ketika Devan memilih menolongnya tanpa memaksa Eleina bercerita atau menuntut balasan.
 
@@ -281,15 +292,15 @@ Pertolongan itu menjadi salah satu awal tumbuhnya kepercayaan, bukan satu-satuny
 
 Alasan para siswi merundung Eleina belum ditetapkan dan akan dikembangkan dalam novel khusus Eleina. Jangan mengarang motif mereka atau membuat Devan selalu menjadi pihak yang menyelesaikan masalahnya. Rincian hubungan mengacu pada dokumen [Eleina dengan Devan](Hubungan%20Tokoh/Eleina_Dengan_Devan.md).
 
-## 5. Perilaku dan Ekspresi Diri
+## 6. Perilaku dan Ekspresi Diri
 
-### 5.1. Cara Berinteraksi dan Mendengarkan
+### 6.1. Cara Berinteraksi dan Mendengarkan
 
 Eleina biasanya memberi ruang kepada lawan bicara untuk menyelesaikan penjelasannya. Ia mencoba memahami sebelum memberi tanggapan dan tidak buru-buru mengubah curhat menjadi nasihat. Saat menjelaskan sesuatu, ia memilih cara yang tidak membuat orang lain merasa bodoh atau direndahkan.
 
 Ia dapat menyesuaikan diri dengan suasana kelompok, tetapi bukan berarti tidak memiliki pendapat. Jika topik penting baginya atau ia merasa cukup aman, ia bisa berbicara lebih aktif. Ia juga tidak harus selalu menjadi orang yang menenangkan suasana; kadang ia sendiri dapat lelah, bingung, atau tidak tahu harus menjawab apa.
 
-### 5.2. Cara Bicara dan Suara Dialog
+### 6.2. Cara Bicara dan Suara Dialog
 
 Secara umum, suara Eleina lembut dan tenang. Ia berusaha berbicara tanpa merendahkan orang lain, dan responsnya dapat menunjukkan bahwa ia mendengarkan. Namun, jangan membuat semua ucapannya terdengar sempurna, bijaksana, atau seperti konselor.
 
@@ -302,7 +313,7 @@ Secara umum, suara Eleina lembut dan tenang. Ia berusaha berbicara tanpa merenda
 
 Contoh frasa seperti “nggak apa-apa”, “aku bisa”, atau “terserah” hanya boleh digunakan ketika cocok dengan konteks. Jangan mengulangnya sebagai kata khas yang muncul di setiap adegan.
 
-### 5.3. Gestur dan Kebiasaan Fisik
+### 6.3. Gestur dan Kebiasaan Fisik
 
 Acuan perilaku yang dapat digunakan bila sesuai:
 - sedikit mencondongkan tubuh ketika mendengarkan;
@@ -316,7 +327,7 @@ Acuan perilaku yang dapat digunakan bila sesuai:
 
 Gestur bukan kode emosi satu-banding-satu. Menyelipkan rambut, misalnya, dapat menunjukkan fokus, gugup, atau sekadar kebiasaan; maknanya harus dibangun dari konteks. Hindari menggunakan satu gestur berulang kali setiap kali Eleina merasakan emosi yang sama.
 
-### 5.4. Tanda yang Mungkin Terlihat ketika Terluka atau Kecewa
+### 6.4. Tanda yang Mungkin Terlihat ketika Terluka atau Kecewa
 
 Dari luar, perubahan Eleina dapat berupa jeda yang lebih panjang, jawaban lebih singkat, berkurangnya spontanitas, atau keinginan untuk melakukan sesuatu sendiri. Namun, tanda-tanda ini tidak memiliki arti tunggal dan tidak membuktikan bahwa ia sedang terluka; Devan hanya dapat menafsirkannya berdasarkan konteks dan hal lain yang ia amati.
 
@@ -324,7 +335,7 @@ Jika ditanya apakah dirinya baik-baik saja, Eleina mungkin menjawab “nggak apa
 
 Untuk proses batin dan cara Eleina menyampaikan rasa sakit, lihat bagian 3.5 dan 3.6. Reaksi yang lebih kuat perlu tumbuh dari situasi dan pengalaman adegan, bukan ditambahkan semata-mata untuk meningkatkan drama.
 
-### 5.5. Keputusan dan Pilihan
+### 6.5. Keputusan dan Pilihan
 
 Eleina cenderung mempertimbangkan dampak keputusan terhadap orang lain dan mencari pilihan yang mengurangi konflik. Pada perkara kecil, ia mudah mengalah jika hasilnya tidak terlalu penting baginya. Namun, ketika pilihan menyangkut keselamatan atau orang yang sangat disayanginya, ia dapat bertindak tegas.
 
@@ -337,51 +348,51 @@ Dalam persoalan emosional, ia lebih sulit memutuskan jika setiap pilihan berpote
 
 Daftar ini adalah alat analisis penulis, bukan proses yang harus dijelaskan dalam narasi.
 
-### 5.6. Menenangkan Diri dan Minat
+### 6.6. Menenangkan Diri dan Minat
 
 Eleina dapat mengambil waktu sendiri, kembali ke rutinitas, atau melakukan kegiatan kecil ketika membutuhkan ruang untuk memproses perasaan. Membaca novel, merawat tanaman, dan membuat kue merupakan hobi canon yang dapat ia pilih dalam situasi yang sesuai. Namun, jangan menganggap ia selalu menggunakan hobi tersebut untuk menenangkan diri; alasan dan pilihannya bergantung pada konteks.
 
-## 6. Hubungan dan Dinamika Sosial
+## 7. Hubungan dan Dinamika Sosial
 
-### 6.1. Pola Umum dalam Hubungan
+### 7.1. Pola Umum dalam Hubungan
 
 Eleina membangun kedekatan melalui konsistensi, perhatian, dan kesediaan mendengarkan. Ia menghargai privasi dan tidak ingin memaksa orang lain membuka diri. Ia peka terhadap perubahan hubungan, tetapi tetap bisa salah menafsirkan sikap seseorang.
 
 Dalam hubungan dekat, ia dapat kesulitan menolak permintaan atau menyampaikan ketidaknyamanan karena terlalu memikirkan dampaknya bagi orang lain. Ia mungkin berusaha menyesuaikan diri agar hubungan tetap nyaman. Namun, ini adalah kecenderungan, bukan aturan bahwa Eleina akan selalu mengalah kepada semua orang.
 
-### 6.2. Dengan Orang yang Belum Dekat
+### 7.2. Dengan Orang yang Belum Dekat
 
 Dengan orang yang belum dekat, Eleina cenderung sopan dan tidak terlalu cepat menunjukkan kerentanan. Ia dapat menyesuaikan diri tanpa langsung menganggap orang tersebut sebagai tempat aman. Di dalam kelompok, ia bisa menjadi pendengar atau berpartisipasi aktif sesuai topik dan suasana.
 
 Sikap ramah bukan berarti semua orang memperoleh tingkat kepercayaan yang sama. Kepercayaan tumbuh dari pengalaman, konsistensi, dan cara seseorang menghormati batasnya.
 
-### 6.3. Memberi dan Menerima Bantuan
+### 7.3. Memberi dan Menerima Bantuan
 
 Eleina relatif mudah menawarkan bantuan ketika melihat orang lain kesulitan. Menerima bantuan bisa lebih rumit jika ia merasa harus segera membalasnya atau khawatir merepotkan orang. Bantuan yang diberikan tanpa tuntutan dapat membuatnya perlahan merasa aman, tetapi satu tindakan baik tidak otomatis menghapus keraguan yang terbentuk dari pengalaman sebelumnya.
 
 Ketika seseorang membantunya, Eleina masih dapat mencoba menyelesaikan sebagian masalah sendiri. Jangan membuatnya mendadak bergantung sepenuhnya hanya karena ia mulai mempercayai seseorang. Kedekatan yang sehat memberi ruang bagi kemandirian dan saling membantu.
 
-## 7. Konflik, Perkembangan, dan Perubahan
+## 8. Konflik, Perkembangan, dan Perubahan
 
-### 7.1. Konflik Internal Utama
+### 8.1. Konflik Internal Utama
 
 Konflik Eleina berpusat pada ketegangan antara menjaga hubungan dan menjaga dirinya sendiri. Ia ingin orang lain merasa diterima dan tidak terluka, tetapi kecenderungan itu dapat membuatnya mengabaikan preferensi, menunda pengungkapan rasa sakit, atau memberi kesempatan berulang kali.
 
 Ia mungkin mengetahui bahwa suatu perlakuan menyakitkan, tetapi belum tahu bagaimana menanggapinya tanpa merasa bahwa dirinya sedang merusak hubungan. Konflik ini lebih kuat ketika berhadapan dengan orang yang sangat berarti baginya.
 
-### 7.2. Konsekuensi Pola yang Berulang
+### 8.2. Konsekuensi Pola yang Berulang
 
 Ketika Eleina berulang kali menunda penyampaian kebutuhan atau rasa sakit, orang lain mungkin tidak menyadari bahwa ada masalah, sementara Eleina semakin lelah atau mulai menjaga jarak. Jika ia akhirnya berbicara, lawan bicaranya bisa terkejut karena tidak memahami apa yang telah menumpuk.
 
 Namun, akibatnya bergantung pada situasi. Ada orang yang sungguh tidak menangkap hal yang tidak diungkapkan, dan ada pula yang mengabaikan tanda yang cukup jelas. Jangan otomatis membebankan seluruh tanggung jawab konflik kepada Eleina karena ia diam, atau kepada orang lain karena mereka tidak memahami sesuatu yang belum ia sampaikan.
 
-### 7.3. Batas, Pengampunan, dan Kepercayaan
+### 8.3. Batas, Pengampunan, dan Kepercayaan
 
 Eleina dapat ingin memaafkan karena masih menyayangi seseorang, tetapi tetap belum siap kembali dekat. Ia dapat menetapkan batas sambil merasa bersalah, lalu tergoda melunakkannya ketika melihat orang lain kecewa.
 
 Perkembangannya bukan berarti ia berhenti memaafkan atau menjadi dingin. Ia belajar membedakan pemahaman terhadap alasan orang lain dari kewajiban untuk terus menerima perilakunya. Ia juga dapat memahami bahwa menetapkan batas tidak sama dengan menghukum, dan bahwa kepercayaan dipulihkan lewat perilaku konsisten.
 
-### 7.4. Arah Perkembangan
+### 8.4. Arah Perkembangan
 
 Arah perkembangan yang didukung bahan rancangan meliputi:
 - mengenali perasaan dan kebutuhan sebelum semuanya menumpuk;
@@ -394,21 +405,21 @@ Arah perkembangan yang didukung bahan rancangan meliputi:
 
 Ini adalah arah pengembangan, bukan daftar kejadian yang sudah ditetapkan atau tahapan yang wajib dilalui dalam urutan tertentu. Eleina boleh mengalami kemunduran, salah membaca situasi, kembali mengalah kepada orang yang penting baginya, atau membutuhkan waktu lebih lama untuk menerapkan sesuatu yang sudah ia pahami.
 
-### 7.5. Seperti Apa Ketegasannya?
+### 8.5. Seperti Apa Ketegasannya?
 
 Ketegasan Eleina tidak harus berupa ledakan marah atau perubahan mendadak menjadi keras. Ia dapat tetap berbicara tenang sambil berkata tidak, meminta waktu, menjelaskan bahwa suatu tindakan menyakitinya, atau menolak kembali ke keadaan semula sebelum merasa siap.
 
 Dalam situasi yang menyangkut keselamatan atau orang yang sangat disayanginya, ia dapat bereaksi lebih cepat dan tegas. Empatinya tetap ada; yang berubah adalah ia mulai memberi bobot pada kebutuhan dan batasnya sendiri.
 
-### 7.6. Prinsip Perkembangan
+### 8.6. Prinsip Perkembangan
 
 Perjalanan Eleina bukan tentang menjadi kuat dari nol. Ia telah memiliki ketahanan, kepedulian, dan kemampuan mengambil keputusan. Tantangannya adalah agar kualitas tersebut tidak terus digunakan untuk mengecilkan diri.
 
 Tunjukkan perubahan melalui keputusan kecil, percakapan yang lebih jujur, kesediaan menerima bantuan, atau batas yang dipertahankan meski ia merasa tidak nyaman. Hindari menyelesaikan perkembangan hanya lewat satu pidato tentang harga diri atau membuatnya pulih sepenuhnya setelah satu percakapan.
 
-## 8. Acuan Konsistensi Penulisan
+## 9. Pedoman Penulisan dan Catatan Kontinuitas
 
-### 8.1. Hal yang Harus Dipertahankan
+### 9.1. Hal yang Harus Dipertahankan
 
 - Kelembutan dan empati Eleina adalah sifat dasar yang sudah ada sebelum kehilangan ibunya.
 - Ia dapat ceria, spontan, ekspresif, dan jahil ketika merasa aman.
@@ -420,7 +431,7 @@ Tunjukkan perubahan melalui keputusan kecil, percakapan yang lebih jujur, kesedi
 - Diam, jawaban singkat, atau “nggak apa-apa” tidak otomatis berarti ia sedang menghukum orang lain atau sengaja berbohong.
 - Kepedulian terhadap orang lain tidak menghapus kebutuhan, kemarahan, dan batas pribadinya sendiri.
 
-### 8.2. Hal yang Jangan Disalahartikan
+### 9.2. Hal yang Jangan Disalahartikan
 
 - **Lembut bukan berarti lemah.** Ia dapat tetap lembut sambil membuat keputusan tegas.
 - **Tenang bukan berarti tidak terluka.** Ia mungkin masih memproses perasaannya atau belum siap membicarakannya.
@@ -431,7 +442,7 @@ Tunjukkan perubahan melalui keputusan kecil, percakapan yang lebih jujur, kesedi
 - **Perkembangan bukan perubahan kepribadian total.** Ia tidak perlu kehilangan kehangatan untuk belajar menetapkan batas.
 - **Tidak semua perilaku berasal dari kehilangan.** Kadang ia hanya lelah, malu, tidak setuju, bercanda, atau sedang memikirkan hal lain.
 
-### 8.3. Pedoman Menulis Adegan dan Dialog
+### 9.3. Pedoman Menulis Adegan dan Dialog
 
 Sebelum menulis adegan Eleina, periksa:
 1. Seberapa aman ia merasa bersama orang yang sedang dihadapinya?
@@ -445,13 +456,13 @@ Sebelum menulis adegan Eleina, periksa:
 
 Jangan membuat Eleina selalu memahami semua orang, selalu mengatakan hal yang paling dewasa, atau selalu berhasil menjelaskan perasaannya. Ia boleh ragu, salah bicara, menghindar, merasa kesal, atau belum mengetahui apa yang dibutuhkannya.
 
-### 8.4. Batas POV Devan
+### 9.4. Batas POV Devan
 
 POV utama THE LABYRINTH adalah Devan kecuali penulis sengaja menetapkan POV lain. Narasi tidak boleh menyatakan pikiran Eleina sebagai fakta jika Devan tidak mengetahuinya. Tampilkan petunjuk lewat pilihan kata, jeda, ekspresi, gestur, dan tindakan. Devan boleh menyimpulkan bahwa Eleina sedang terluka, tetapi kesimpulannya bisa keliru atau tidak lengkap.
 
 Profil ini adalah alat bantu penulis, bukan izin untuk memasukkan penjelasan psikologis Eleina secara langsung ke narasi Devan. Informasi internal digunakan untuk menentukan perilaku yang terlihat dan kemungkinan maknanya.
 
-### 8.5. Status Informasi dan Catatan Kontinuitas
+### 9.5. Status Informasi dan Catatan Kontinuitas
 
 **Fakta yang didukung sumber cerita saat ini:**
 - Eleina adalah anak tunggal; penyakit serius ibunya mulai ketika Eleina berusia sekitar tiga belas tahun, saat kelas 1 SMP semester kedua, dan ibunya kemudian meninggal dunia.

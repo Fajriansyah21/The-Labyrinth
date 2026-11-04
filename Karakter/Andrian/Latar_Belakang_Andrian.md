@@ -24,7 +24,7 @@ Di luar rumah, Andrian menemukan kebahagiaan melalui teman-temannya. Ia dapat me
 ## 8. Perbedaan Rumah dan Lingkungan Pertemanan
 Rumah menjadi tempat yang penuh pertengkaran dan pengabaian, sedangkan kebersamaan dengan teman-teman memberinya pengalaman yang lebih hangat.
 
-## 9. Hal yang Belum Diketahui
+## 9. Dampak Pengalaman terhadap Kehidupan Sehari-hari
 [Belum ada informasi yang di buat]
 
 ## 10. Hal yang Belum Diketahui

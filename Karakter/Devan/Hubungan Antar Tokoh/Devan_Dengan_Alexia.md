@@ -9,11 +9,13 @@ Alexia tidak terlalu menyukai sekolah barunya dan cenderung menjaga jarak dari l
 ## 3. Perkembangan Persahabatan di SMP
 Kehadiran Devan perlahan membuat Alexia lebih nyaman di sekolah. Ia mulai berbicara dengan teman lain dan membangun hubungan sosial di luar Devan. Hubungan mereka menjadi lebih seimbang: Devan tetap menjadi teman yang dipercaya, tetapi bukan satu-satunya alasan Alexia merasa nyaman.
 
+Setelah lulus SMP, komunikasi mereka tidak sesering sebelumnya. Karena lebih jarang berhubungan, keduanya tidak mengetahui bahwa mereka akan bersekolah di SMA yang sama.
+
 ## 4. Perubahan Devan setelah Tragedi
 Setelah memasuki masa SMA, tragedi dalam keluarga Devan mengubah caranya memandang kehidupan dan hubungan. Ia menjadi lebih tenang, tertutup, dan berhati-hati menunjukkan perasaan. Alexia mengenal Devan sebelum dan sesudah perubahan tersebut, tetapi tidak memaksanya kembali menjadi dirinya yang dulu.
 
 ## 5. Riwayat Kelas selama SMA
-Pada kelas 1 SMA, Devan dan Alexia tidak berada di kelas yang sama dan awalnya tidak mengetahui bahwa mereka bersekolah di SMA yang sama. Alexia berada di kelas yang sama dengan Eleina dan mulai berteman dengannya.
+Pada kelas 1 SMA, Devan dan Alexia tidak berada di kelas yang sama. Mereka juga belum mengetahui bahwa mereka bersekolah di SMA yang sama. Alexia berada di kelas yang sama dengan Eleina dan mulai berteman dengannya.
 
 Pada kelas 2 SMA, Devan berada satu kelas dengan Eleina, sedangkan Alexia berada satu kelas dengan Nicho, Adel, dan Arkana. Mereka tetap berinteraksi di luar kelas. Alexia juga mulai dekat dengan Adel dan Arkana, sementara persahabatannya dengan Eleina berlanjut.
 

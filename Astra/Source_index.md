@@ -44,7 +44,7 @@ Dokumen profil menjelaskan identitas, kepribadian, psikologi, perilaku, hubungan
 
 | Dokumen | Fungsi | Status |
 |---|---|---|
-| [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md) | Kronologi keluarga, pengalaman pembentuk, dan dampaknya. | Sumber latar belakang |
+| [Latar Belakang Nicho](../Karakter/Nicho/Latar_Belakang_Nicho.md) | Riwayat keluarga, perkembangan akademik, dinamika dengan kedua kakak dan orang tua, perubahan diri, konflik internal, serta kondisi Nicho menjelang cerita dimulai. | Sumber latar belakang; periksa isi terbaru |
 | [Profil Karakter Nicho](../Karakter/Nicho/Profil_Karakter_Nicho.md) | Profil sembilan bagian yang mencakup identitas, penampilan visual, kepribadian, psikologi, pengalaman pembentuk, perilaku, hubungan, perkembangan, dan pedoman penulisan Nicho. | Sumber profil; periksa isi terbaru |
 
 ### Adel (Adelia)

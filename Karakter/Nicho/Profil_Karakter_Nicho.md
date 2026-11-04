@@ -1,9 +1,5 @@
 # Profil Karakter Nicho
 
-## Status Persetujuan Desain Fisik
-
-**STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Nicho telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Persetujuan ini tidak menetapkan detail tambahan yang belum tercantum, termasuk kode warna kulit yang masih berstatus [BELUM DITENTUKAN].
-
 ## Daftar Isi
 
 1. [Identitas dan Gambaran Umum](#1-identitas-dan-gambaran-umum)

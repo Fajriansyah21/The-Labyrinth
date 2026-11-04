@@ -91,7 +91,7 @@ Pilihan pakaian Nicho tetap mengikuti kegiatan, cuaca, kenyamanan, dan konteks a
 
 ## 3. Kepribadian dan Struktur Diri
 
-### Rasa Ingin Tahu dan Kecintaan terhadap Proses Belajar
+### 3.1. Rasa Ingin Tahu dan Kecintaan terhadap Proses Belajar
 
 Nicho memiliki rasa ingin tahu yang besar dan menikmati proses memahami sesuatu. Ia tidak hanya tertarik mendapatkan jawaban yang benar, tetapi juga ingin mengetahui alasan di balik jawaban tersebut.
 
@@ -99,7 +99,7 @@ Ketika menghadapi materi atau persoalan yang belum dipahami, ia cenderung mencar
 
 Kemampuan akademiknya bukan semata-mata hasil dari tuntutan untuk berprestasi. Ada kepuasan tersendiri ketika ia berhasil memahami sesuatu yang sebelumnya terasa sulit. Sisi ini perlu dipertahankan agar kecintaannya terhadap belajar tidak seluruhnya direduksi menjadi cara untuk memenuhi harapan orang lain.
 
-### Pemikiran Sistematis dan Berorientasi Solusi
+### 3.2. Pemikiran Sistematis dan Berorientasi Solusi
 
 Nicho terbiasa memeriksa persoalan secara terstruktur. Ia cenderung mencari penyebab, mempertimbangkan kemungkinan, dan menentukan langkah berdasarkan informasi yang tersedia.
 
@@ -109,7 +109,7 @@ Namun, kecenderungan mencari solusi tidak selalu menjadi respons terbaik dalam s
 
 Nicho tidak harus selalu memahami perbedaan tersebut dengan cepat. Responsnya dapat berubah bergantung pada situasi, tingkat tekanan, dan seberapa jauh ia memahami kebutuhan orang yang bersangkutan.
 
-### Tanggung Jawab dan Keandalan
+### 3.3. Tanggung Jawab dan Keandalan
 
 Nicho terbiasa menyelesaikan hal-hal yang menjadi tanggung jawabnya dengan sungguh-sungguh. Ia berusaha memenuhi kepercayaan yang diberikan kepadanya dan cenderung memperhatikan bagian-bagian yang mungkin terlewat oleh orang lain.
 
@@ -119,7 +119,7 @@ Di sisi lain, keinginannya untuk bertanggung jawab dapat membuatnya sulit membia
 
 Kecenderungan tersebut tidak muncul setiap saat. Nicho tetap dapat membiarkan orang lain mengerjakan sesuatu sendiri, terutama ketika ia menilai situasinya tidak membutuhkan keterlibatan lebih jauh.
 
-### Keteraturan dan Kebutuhan akan Persiapan
+### 3.4. Keteraturan dan Kebutuhan akan Persiapan
 
 Nicho menyukai keteraturan dan cenderung mempersiapkan diri sebelum menghadapi sesuatu. Ia merasa lebih mudah bekerja ketika memiliki gambaran mengenai apa yang perlu dilakukan.
 
@@ -129,7 +129,7 @@ Ketika persiapan dirasa belum memadai, ia mungkin terus memeriksa kemungkinan ya
 
 ## 4. Dunia Batin dan Psikologi
 
-### Pandangan terhadap Diri Sendiri
+### 4.1. Pandangan terhadap Diri Sendiri
 
 Nicho menghargai kemampuan berpikir, efisiensi, dan keandalannya. Ia terbiasa mengukur keberhasilan melalui kemampuannya memahami persoalan, menyelesaikan tanggung jawab, dan memberikan hasil yang baik.
 
@@ -139,7 +139,7 @@ Ada ketakutan bahwa ketika kemampuan yang selama ini diandalkan tidak lagi cukup
 
 Penting untuk membedakan keinginan Nicho untuk menjadi kompeten dari keyakinan bahwa ia harus selalu kompeten agar layak dihargai. Ia memang menikmati kemampuan yang dimilikinya, tetapi dalam situasi tertentu, kemampuan itu juga menjadi bagian penting dari cara ia menilai dirinya sendiri.
 
-### Menghadapi Ketidakpastian
+### 4.2. Menghadapi Ketidakpastian
 
 Nicho lebih mudah menghadapi persoalan ketika ia dapat mengidentifikasi masalah dan menentukan langkah penyelesaian. Ketika situasi tidak memiliki jawaban yang jelas, ia cenderung mencari informasi tambahan atau berusaha menemukan bagian yang masih dapat dikendalikan.
 
@@ -149,7 +149,7 @@ Dalam situasi seperti itu, Nicho mungkin tetap mencari penjelasan meskipun infor
 
 Hal ini merupakan kecenderungan, bukan aturan mutlak. Nicho tidak selalu berusaha mengendalikan setiap keadaan dan tidak harus selalu gagal menghadapi situasi yang tidak pasti.
 
-### Keinginan untuk Dipahami
+### 4.3. Keinginan untuk Dipahami
 
 Nicho memiliki keinginan untuk dipahami tanpa harus menjelaskan seluruh isi pikirannya secara langsung. Ia mungkin berharap orang lain dapat menangkap maksud atau kondisinya melalui perkataan dan tindakannya.
 
@@ -177,7 +177,7 @@ Untuk kronologi keluarga dan perkembangan hubungan dengan anggota keluarga, guna
 
 ## 6. Perilaku dan Ekspresi Diri
 
-### Kebiasaan Fisik
+### 6.1. Kebiasaan Fisik
 
 Ketika berpikir, Nicho terkadang menyentuh dagu atau bibirnya. Ia juga dapat mengetukkan jari secara ritmis atau merapikan sesuatu yang sebenarnya sudah tertata.
 
@@ -185,7 +185,7 @@ Saat duduk, ia biasanya mempertahankan postur tegak dan tidak selalu terlihat sa
 
 Kebiasaan-kebiasaan tersebut dapat menjadi petunjuk dalam penulisan adegan, tetapi tidak perlu muncul setiap kali Nicho sedang berpikir. Gestur yang sama juga tidak selalu memiliki arti emosional yang sama.
 
-### Cara Berbicara dan Menghadapi Persoalan
+### 6.2. Cara Berbicara dan Menghadapi Persoalan
 
 Nicho cenderung berbicara secara terarah ketika membahas persoalan yang dipahaminya. Ia lebih nyaman menjelaskan sesuatu melalui alasan dan langkah yang dapat diikuti daripada memberikan jawaban tanpa penjelasan.
 
@@ -193,7 +193,7 @@ Ketika menghadapi masalah, ia biasanya berusaha memahami situasi sebelum menentu
 
 Namun, ketika menghadapi persoalan emosional, pendekatan tersebut tidak selalu membuatnya lebih mudah berkomunikasi. Ia mungkin berusaha menjelaskan masalah secara logis ketika orang lain sebenarnya ingin didengarkan.
 
-### Respons Emosional
+### 6.3. Respons Emosional
 
 Ketika gugup, Nicho dapat berhenti sejenak sebelum menjawab. Saat marah, ia mungkin menggunakan kata-kata yang tajam dan menusuk, terutama ketika merasa suatu persoalan seharusnya dapat diselesaikan dengan lebih baik.
 
@@ -201,7 +201,7 @@ Ketika sedih, ia dapat menarik diri ke dalam pikirannya atau memilih bermain pia
 
 Nicho tidak harus selalu menyadari atau menjelaskan perasaannya sendiri. Kondisi emosionalnya dapat terlihat melalui perubahan kecil dalam tindakan dan cara berinteraksi, tanpa harus selalu disertai pengakuan langsung.
 
-### Minat dan Kemampuan
+### 6.4. Minat dan Kemampuan
 
 Nicho menyukai bacaan nonfiksi, termasuk psikologi, dan terbiasa mencatat pemikiran atau hal-hal yang ingin dipahaminya. Ia juga bermain piano sebagai salah satu kegiatan yang dapat membantunya menenangkan diri.
 
@@ -237,7 +237,7 @@ Dinamika khusus Nicho dengan Adel, Devan, Reza, dan tokoh lainnya dibahas dalam 
 
 ## 8. Konflik, Perkembangan, dan Perubahan
 
-### Konflik Utama
+### 8.1. Konflik Utama
 
 Salah satu konflik penting Nicho adalah kecenderungannya menghubungkan kemampuan dan keandalannya dengan nilai dirinya sendiri.
 
@@ -245,7 +245,7 @@ Ia ingin tetap menjadi seseorang yang kompeten, dapat dipercaya, dan mampu menye
 
 Konfliknya bukan tentang menghilangkan sifat analitis atau berhenti menjadi orang yang dapat diandalkan. Tantangannya adalah belajar menggunakan kemampuan tersebut tanpa menjadikannya satu-satunya dasar untuk menilai dirinya sendiri.
 
-### Arah Perkembangan
+### 8.2. Arah Perkembangan
 
 Nicho berpotensi belajar membedakan tanggung jawab yang memang menjadi bagiannya dari persoalan yang perlu diselesaikan oleh orang lain. Ia juga dapat perlahan menerima bahwa persiapan yang memadai tidak selalu berarti semua kemungkinan sudah dapat diperkirakan.
 
@@ -255,7 +255,7 @@ Ketika melakukan kesalahan, ia masih dapat merasa kecewa dan mengevaluasi penyeb
 
 Ia juga dapat mulai menerima bahwa membantu seseorang tidak selalu berarti mengambil alih masalahnya. Terkadang, memberikan ruang bagi orang lain untuk menentukan langkah sendiri merupakan bagian dari kepedulian.
 
-### Batas Perkembangan
+### 8.3. Batas Perkembangan
 
 Perkembangan Nicho tidak harus berlangsung secara lurus. Ketika menghadapi tekanan atau persoalan yang memiliki bobot emosional besar, ia masih mungkin kembali mempersiapkan diri secara berlebihan, menyembunyikan keterbatasan, atau berusaha menyelesaikan masalah seorang diri.
 

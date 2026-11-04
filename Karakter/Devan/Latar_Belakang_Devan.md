@@ -1,5 +1,17 @@
 # Latar Belakang Devan
 
+## Daftar Isi
+
+1. [Masa Kecil dan Kehidupan Keluarga](#1-masa-kecil-dan-kehidupan-keluarga)
+2. [Tragedi yang Menimpa Citra](#2-tragedi-yang-menimpa-citra)
+3. [Penolakan Citra dan Kematian Citra](#3-penolakan-citra-dan-kematian-citra)
+4. [Kematian Papanya](#4-kematian-papanya)
+5. [Hubungan Devan dengan Ibunya Setelah Tragedi](#5-hubungan-devan-dengan-ibunya-setelah-tragedi)
+6. [Perubahan dalam Diri Devan](#6-perubahan-dalam-diri-devan)
+7. [Luka Batin dan Konflik Internal Devan](#7-luka-batin-dan-konflik-internal-devan)
+8. [Pengaruh Masa Lalu terhadap Hubungan dengan Tokoh Lain](#8-pengaruh-masa-lalu-terhadap-hubungan-dengan-tokoh-lain)
+9. [Inti Perjalanan Karakter](#9-inti-perjalanan-karakter)
+10. [Catatan Kronologi dan Kontinuitas](#10-catatan-kronologi-dan-kontinuitas)
 ## 1. Masa Kecil dan Kehidupan Keluarga
 
 Devan tumbuh dalam keluarga yang hangat dan penuh kasih sayang. Sejak kecil, ia dekat dengan kedua orang tuanya dan adik perempuannya, Citra. Rumah menjadi tempat yang aman baginya untuk bercerita, berbagi kebahagiaan, dan mencari dukungan ketika menghadapi kesulitan.

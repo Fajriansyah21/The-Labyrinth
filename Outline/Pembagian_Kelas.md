@@ -46,7 +46,7 @@ Meskipun terpisah kelas, hubungan mereka tetap berkembang melalui pertemuan di l
 
 #### - Elvano dan Andrian berada di kelas yang sama. Kelas 2I
 
-Mereka mulai lebih sering berbicara dan perlahan membangun hubungan pertemanan.
+Mereka mulai lebih sering berbicara dan perlahan membangun hubungan pertemanan. Pada masa ini, Naura mulai mengagumi Elvano setelah memperhatikan sikap dan kemampuannya, tetapi perasaan tersebut belum berkembang menjadi ketertarikan romantis.
 
 #### - Naura dan Reza berada di kelas yang sama. Kelas 2C
 
@@ -74,6 +74,6 @@ Mereka semakin sering berbicara dan hubungan mereka menjadi lebih akrab.
 
 Meskipun demikian, hubungannya dengan teman-temannya tetap berjalan di luar kelas.
 
-#### - Naura mulai semakin memperhatikan Elvano.
+#### - Perasaan Naura terhadap Elvano berkembang.
 
-Kekaguman yang awalnya hanya berupa ketertarikan terhadap kepribadian dan kemampuan Elvano perlahan berkembang menjadi perasaan romantis.
+Kekaguman Naura yang mulai tumbuh pada kelas 2 SMA berkembang menjadi perasaan romantis ketika mereka berada di kelas 3 SMA. Perkembangannya berlangsung bertahap, bukan muncul sekaligus.

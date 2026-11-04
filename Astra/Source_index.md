@@ -15,9 +15,8 @@ Dokumen ini adalah peta utama sumber proyek novel original **THE LABYRINTH**. Gu
 
 | Dokumen | Fungsi | Status |
 |---|---|---|
-| [ASTRA-INSTRUCTIONS.txt](ASTRA-INSTRUCTIONS.txt) | Instruksi utama, hierarki canon, metode analisis, POV, revisi, dan checksum. | Pedoman aktif |
+| [ASTRA-INSTRUCTIONS.md](ASTRA-INSTRUCTIONS.md) | Instruksi utama, hierarki canon, metode analisis, POV, revisi, dan checksum. | Pedoman aktif |
 | [Master_Pedoman_Astra_The_Labyrinth.md](Master_Pedoman_Astra_The_Labyrinth.md) | Pedoman kerja versi lama; dipertahankan untuk menelusuri aturan dan keputusan historis yang belum tentu masuk ke instruksi aktif. | Arsip referensi, bukan instruksi aktif |
-| [Instruksi-Khusus.txt](Instruksi-Khusus.txt) | Instruksi versi lama yang isinya telah dikonsolidasikan ke ASTRA-INSTRUCTIONS.txt. | Arsip referensi, bukan instruksi aktif |
 | [Guide_The_Labyrinth.md](Guide_The_Labyrinth.md) | Riwayat diskusi, perkembangan ide, dan keputusan terdahulu. Verifikasi keputusan terhadap sumber terkini. | Arsip diskusi |
 | [Template_Latar_Belakang_Karakter.md](Template_Latar_Belakang_Karakter.md) | Kerangka fleksibel untuk menyusun latar belakang. Jumlah dan subjudul mengikuti perjalanan hidup tiap tokoh. | Template kerja |
 | [Template_Profil_Karakter.md](Template_Profil_Karakter.md) | Kerangka fleksibel untuk profil karakter. Gunakan sekitar delapan poin utama dan tambahkan poin kesembilan bila diperlukan. | Template kerja |

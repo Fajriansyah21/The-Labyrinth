@@ -45,9 +45,9 @@ Hobi resmi Eleina adalah:
 
 Ketiga hobi ini merupakan canon. Detail spesifik seperti genre novel favorit, jenis tanaman, resep, dan kue andalan tidak perlu ditetapkan sampai dibutuhkan dalam cerita.
 
-## 3. Penampilan Fisik dan Acuan Visual
+## 2. Penampilan Fisik dan Acuan Visual
 
-### 3.1. Ringkasan Penampilan Fisik
+### 2.1. Ringkasan Penampilan Fisik
 
 ### 3.2. Wajah
 
@@ -156,7 +156,7 @@ Variasi ini bukan pergantian kepribadian. Tingkat rasa aman, kedekatan, kondisi 
 
 **Catatan keterhubungan pola perilaku:** Respons Eleina ketika membutuhkan bantuan, ketika perasaannya terluka, ketika mempertahankan hubungan, dan ketika merasa aman saling memengaruhi karena semuanya berkaitan dengan cara ia menyeimbangkan kebutuhan diri, kepedulian terhadap orang lain, dan keinginannya menjaga kedekatan. Namun, pola-pola ini bukan tahapan yang harus selalu terjadi secara berurutan dan tidak harus muncul bersamaan. Respons Eleina tetap bergantung pada konteks, tingkat kedekatan, kondisi emosional, serta persoalan yang sedang dihadapi. Gunakan setiap bagian sebagai acuan untuk memahami kemungkinan perilakunya, bukan sebagai urutan mekanis yang wajib diikuti dalam setiap adegan.
 
-### 4.2. Respons ketika Membutuhkan Bantuan
+### 4.1. Respons ketika Membutuhkan Bantuan
 
 Eleina cenderung mencoba menyelesaikan kesulitannya sendiri sebelum meminta bantuan. Ia dapat menunda permintaan karena merasa masalahnya masih bisa ditangani atau karena mempertimbangkan kesibukan dan kenyamanan orang lain. Jika ditawari bantuan, ia mungkin mengecilkan kesulitannya terlebih dahulu, tetapi tidak selalu menolak. Ia lebih mudah menerima bantuan ketika tawaran disampaikan tanpa tekanan dan memberinya kebebasan untuk menentukan apa yang ingin ia ceritakan.
 

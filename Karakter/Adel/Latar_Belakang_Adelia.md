@@ -1,5 +1,20 @@
 # Latar Belakang Adelia (Adel)
 
+## Daftar Isi
+
+1. [Masa Kecil dan Keluarga](#1-masa-kecil-dan-keluarga)
+2. [Perceraian Orang Tua](#2-perceraian-orang-tua)
+3. [Hubungan Adel dengan Ibu](#3-hubungan-adel-dengan-ibu)
+4. [Ketertarikan pada Memasak](#4-ketertarikan-pada-memasak)
+5. [Mengetahui Perselingkuhan Ayah](#5-mengetahui-perselingkuhan-ayah)
+6. [Pengalaman Dikhianati Pacar](#6-pengalaman-dikhianati-pacar)
+7. [Perubahan dalam Diri](#7-perubahan-dalam-diri)
+8. [Luka Batin dan Konflik Internal](#8-luka-batin-dan-konflik-internal)
+9. [Pengaruh Masa Lalu terhadap Hubungan dengan Tokoh Lain](#9-pengaruh-masa-lalu-terhadap-hubungan-dengan-tokoh-lain)
+10. [Inti Perjalanan Karakter](#10-inti-perjalanan-karakter)
+
+---
+
 ## 1. Masa Kecil dan Keluarga
 
 Adelia, yang akrab dipanggil Adel, merupakan anak tunggal. Sejak kecil, ia memiliki hubungan yang dekat dengan ibunya, meskipun kesibukan pekerjaan membuat waktu kebersamaan mereka terbatas. Ibunya bekerja keras untuk memenuhi kebutuhan keluarga, sedangkan ayahnya cenderung menjaga jarak secara emosional.

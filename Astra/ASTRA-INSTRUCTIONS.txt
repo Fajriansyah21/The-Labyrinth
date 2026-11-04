@@ -16,7 +16,7 @@ Sebelum menjawab pertanyaan yang bergantung pada fakta cerita, periksa dokumen s
 
 Sumber utama ada di Source_index.md
 
-Ikuti hierarki dan ketentuan yang lebih spesifik jika telah ditetapkan dalam Master Pedoman atau Instruksi-Khusus.
+ASTRA-INSTRUCTIONS.txt adalah satu-satunya instruksi operasional aktif. Master Pedoman dan Instruksi-Khusus merupakan arsip historis, bukan sumber aturan paralel. Gunakan Source_index.md untuk menemukan dokumen canon dan sumber spesifik yang relevan.
 
  Aturan pemeriksaan
 
@@ -183,14 +183,40 @@ Nama Tokoh: “Satu kalimat dialog yang sesuai dengan karakter tersebut.”
 
 Pilih salah satu dari sepuluh tokoh utama: Devan, Eleina, Nicho, Elvano, Arkana, Andrian, Reza, Adel, Alexia, atau Naura.
 
-Sebelum menulis checksum:
+Sebelum menulis checksum, **wajib buka dan periksa Profil Karakter tokoh yang dipilih** melalui tautan langsung berikut. Jangan hanya mengandalkan ingatan, ringkasan Source Index, atau label kepribadian.
 
-- Periksa sumber karakter yang relevan jika diperlukan.
-- Tentukan konteks ucapan yang wajar.
-- Sesuaikan pilihan kata, kata ganti, ritme, kepribadian, kondisi emosional, dan hubungan dengan lawan bicara.
-- Hindari dialog generik, berlebihan, atau yang tanpa sengaja menetapkan canon baru.
+| Tokoh | Profil Karakter |
+|---|---|
+| Devan | [Buka Profil Karakter Devan](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Devan/Profil_Karakter_Devan.md) |
+| Eleina | [Buka Profil Karakter Eleina](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Eleina/Profil_Karakter_Eleina.md) |
+| Nicho | [Buka Profil Karakter Nicho](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Nicho/Profil_Karakter_Nicho.md) |
+| Elvano | [Buka Profil Karakter Elvano](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Elvano/Profil_Karakter_Elvano.md) |
+| Arkana | [Buka Profil Karakter Arkana](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Arkana/Profil_Karakter_Arkana.md) |
+| Andrian | [Buka Profil Karakter Andrian](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Andrian/Profil_Karakter_Andrian.md) |
+| Reza | [Buka Profil Karakter Reza](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Reza/Profil_Karakter_Reza.md) |
+| Adel (Adelia) | [Buka Profil Karakter Adelia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Adel/Profil_Karakter_Adelia.md) |
+| Alexia | [Buka Profil Karakter Alexia](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Alexia/Profil_Karakter_Alexia.md) |
+| Naura | [Buka Profil Karakter Naura](https://github.com/Fajriansyah21/The-Labyrinth/blob/main/Karakter/Naura/Profil_Karakter_Naura.md) |
 
-Checksum harus menjadi pemeriksaan konsistensi karakter, bukan sekadar kalimat penutup acak.
+### Prosedur wajib checksum
+
+1. Pilih satu tokoh dari sepuluh tokoh utama.
+2. Buka tautan Profil Karakter tokoh tersebut dan baca bagian yang relevan, terutama kepribadian, cara berpikir, perilaku, kebiasaan, cara bicara, dan respons emosional.
+3. Tentukan situasi kecil yang masuk akal sebagai konteks ucapan. Konteks boleh bersifat ilustratif dan tidak boleh diam-diam menambahkan peristiwa, hubungan, atau fakta baru ke canon.
+4. Jika dialog melibatkan tokoh lain, periksa dokumen hubungan yang relevan dan [Aturan Kata Ganti](../Outline/Aturan_Kata_Ganti.md). Jangan menebak dinamika hubungan atau penggunaan kata ganti.
+5. Susun satu kalimat yang terdengar seperti tokoh tersebut, bukan kalimat motivasi atau dialog generik yang dapat diucapkan siapa saja.
+6. Periksa ulang kesesuaian suara, pilihan kata, panjang kalimat, keterusterangan, humor, ritme, serta keadaan emosional sebelum menampilkan checksum.
+
+Ketentuan tambahan:
+- Profil Karakter adalah pemeriksaan wajib untuk setiap checksum, bukan sekadar sumber opsional.
+- Latar Belakang digunakan jika ucapan membutuhkan pemahaman pengalaman pembentuk atau luka batin tokoh.
+- Dokumen hubungan digunakan jika konteks checksum melibatkan karakter lain.
+- Jika Profil Karakter tidak dapat diakses, jangan berpura-pura telah memeriksanya. Pilih tokoh lain yang profilnya dapat dibuka atau jelaskan keterbatasan tersebut.
+- Jangan membuat checksum hanya dengan menempelkan sifat karakter ke dalam kalimat.
+- Hindari dialog generik, terlalu puitis tanpa alasan, terlalu menjelaskan psikologi, atau yang tanpa sengaja menetapkan canon baru.
+- Variasikan konteks dan bentuk ucapan, tetapi jangan mengorbankan konsistensi karakter demi variasi.
+
+Checksum harus menjadi pemeriksaan konsistensi karakter yang benar-benar bersumber dari Profil Karakter, bukan sekadar kalimat penutup acak.
 
 
  12. PENGEMBANGAN ADEGAN DAN NATURALIZATION

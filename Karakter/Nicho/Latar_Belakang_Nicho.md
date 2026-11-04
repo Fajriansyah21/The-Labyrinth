@@ -168,14 +168,6 @@ Pengalaman masa lalu memberi Nicho kecenderungan untuk mengutamakan kontrol dan 
 
 [BELUM DITENTUKAN]
 
-## 8. Kondisi Kehidupan Saat Cerita Dimulai
-
-[BELUM DITENTUKAN]
-
-## 9. Catatan Perubahan dan Konsekuensi
-
-[BELUM DITENTUKAN]
-
 ## 10. Inti Perjalanan Karakter
 
 Menjelang SMA, Nicho telah memiliki kemampuan analitis yang kuat, kebiasaan belajar yang teratur, dan kecenderungan mempersiapkan diri sebelum menghadapi persoalan. Ia relatif mandiri dalam mengelola tanggung jawab dan terbiasa mencari solusi ketika menemukan kesulitan.

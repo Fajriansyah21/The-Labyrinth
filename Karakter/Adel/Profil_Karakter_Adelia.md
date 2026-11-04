@@ -1,22 +1,51 @@
 # Profil Karakter Adelia (Adel)
 
-
 ## Status Persetujuan Desain Fisik
 
-**STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Adel telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Ukuran dada Adel, cup C, juga telah ditetapkan secara eksplisit oleh penulis sebagai canon. Kode warna kulit masih berstatus [BELUM DITENTUKAN].
+**STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Adel telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Ukuran dada Adel, cup C, juga telah ditetapkan secara eksplisit oleh penulis sebagai canon. Kode warna kulit masih berstatus **[BELUM DITENTUKAN]**.
 
 > **Status:** Profil kerja berdasarkan canon yang tersedia dan hasil brainstorming yang telah disepakati.  
 > **Catatan:** Bagian yang bersifat interpretasi atau usulan perkembangan tidak otomatis menjadi canon. Informasi yang belum diputuskan ditandai **[BELUM DITENTUKAN]**.
 
+## Daftar Isi
+
+1. [Identitas dan Gambaran Umum](#1-identitas-dan-gambaran-umum)
+2. [Penampilan Fisik dan Acuan Visual](#2-penampilan-fisik-dan-acuan-visual)
+3. [Kepribadian dan Struktur Diri](#3-kepribadian-dan-struktur-diri)
+4. [Dunia Batin dan Psikologi](#4-dunia-batin-dan-psikologi)
+5. [Pengaruh Pengalaman terhadap Karakter](#5-pengaruh-pengalaman-terhadap-karakter)
+6. [Perilaku dan Ekspresi Diri](#6-perilaku-dan-ekspresi-diri)
+7. [Hubungan dan Dinamika Sosial](#7-hubungan-dan-dinamika-sosial)
+8. [Konflik, Perkembangan, dan Perubahan](#8-konflik-perkembangan-dan-perubahan)
+9. [Pedoman Penulisan Adel](#9-pedoman-penulisan-adel)
+
+---
+
 ## 1. Identitas dan Gambaran Umum
 
-**Nama:** Adelia  
-**Nama panggilan:** Adel  
-**Usia:** 18 tahun  
-**Tinggi badan:** 168 cm  
-**Keluarga:** Anak tunggal.
+- **Nama:** Adelia
+- **Nama panggilan:** Adel
+- **Usia:** 18 tahun
+- **Tinggi badan:** 168 cm
+- **Keluarga:** Anak tunggal.
 
-Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat, dan alis natural. Senyumnya cenderung tipis dan ekspresinya tampak tenang serta ramah tanpa harus selalu tersenyum. Rambutnya berwarna cokelat tua dengan layer ringan; penampilan khasnya adalah rambut yang diikat ke belakang secara longgar, dengan beberapa helai jatuh membingkai wajah. Ia juga dapat menyelipkan rambut ke belakang telinga ketika sedang melakukan sesuatu. **Proporsi tubuh:** Siluet tubuh Adel mengarah pada bentuk *hourglass* yang natural. Lebar bahu dan pinggulnya hampir sama, sementara pinggangnya lebih kecil dengan lekukan yang lembut, bukan kontras atau tajam. Ukuran dada Adel ditetapkan sebagai cup C (keputusan penulis, canon). Dadanya lebih berisi, tetapi menyatu secara alami dengan torso yang seimbang sehingga bagian atas tubuhnya tidak tampak terlalu dominan. Torso memiliki proporsi yang seimbang, sedangkan kakinya terlihat sedikit panjang dibandingkan torso. Pahanya relatif ramping. Lengannya ramping dengan garis lembut dan volume alami, bukan sangat tipis atau berotot tegas. Betisnya relatif ramping dengan sedikit isi alami dan lekukan otot yang halus; transisi dari betis ke pergelangan kaki tidak terlalu tajam. Secara keseluruhan, tubuh Adel memiliki kesan sedang ke jenjang: tidak mungil, tetapi juga tidak menjulang atau tampak seperti model runway. Bentuk tubuh dan posturnya tetap terasa menyatu dan alami. Posturnya cenderung rileks dan gerakannya praktis, tetapi penampilan fisik ini tidak menentukan seluruh kesan atau perilakunya.
+Adel adalah pribadi yang cenderung introvert, hangat, tenang, dan membumi. Ia tidak selalu menjadi orang yang paling banyak bicara, tetapi juga bukan perempuan pemalu yang pasif atau takut berinteraksi. Ia dapat memulai percakapan, menyampaikan pendapat, dan menunjukkan sisi spontan ketika situasi atau orang-orang di sekitarnya membuatnya nyaman.
+
+Kemandirian merupakan bagian penting dari dirinya, tetapi bukan berarti Adel tidak membutuhkan kedekatan, perhatian, atau bantuan orang lain. Ia memiliki kehidupan dan minatnya sendiri, termasuk memasak, serta dapat menikmati kebersamaan tanpa harus terus menjadi pusat perhatian.
+
+## 2. Penampilan Fisik dan Acuan Visual
+
+### Wajah dan Rambut
+
+Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat, dan alis natural. Senyumnya cenderung tipis dan ekspresinya tampak tenang serta ramah tanpa harus selalu tersenyum. Rambutnya berwarna cokelat tua dengan layer ringan. Penampilan khasnya adalah rambut yang diikat ke belakang secara longgar, dengan beberapa helai jatuh membingkai wajah. Ia juga dapat menyelipkan rambut ke belakang telinga ketika sedang melakukan sesuatu.
+
+### Proporsi Tubuh
+
+Siluet tubuh Adel mengarah pada bentuk *hourglass* yang natural. Lebar bahu dan pinggulnya hampir sama, sementara pinggangnya lebih kecil dengan lekukan yang lembut, bukan kontras atau tajam. Ukuran dada Adel ditetapkan sebagai cup C (keputusan penulis, canon). Dadanya lebih berisi, tetapi menyatu secara alami dengan torso yang seimbang sehingga bagian atas tubuhnya tidak tampak terlalu dominan.
+
+Torso memiliki proporsi yang seimbang, sedangkan kakinya terlihat sedikit panjang dibandingkan torso. Pahanya relatif ramping. Lengannya ramping dengan garis lembut dan volume alami, bukan sangat tipis atau berotot tegas. Betisnya relatif ramping dengan sedikit isi alami dan lekukan otot yang halus; transisi dari betis ke pergelangan kaki tidak terlalu tajam.
+
+Secara keseluruhan, tubuh Adel memiliki kesan sedang ke jenjang: tidak mungil, tetapi juga tidak menjulang atau tampak seperti model runway. Bentuk tubuh dan posturnya tetap terasa menyatu dan alami. Posturnya cenderung rileks dan gerakannya praktis, tetapi penampilan fisik ini tidak menentukan seluruh kesan atau perilakunya.
 
 ### Skin Tone
 
@@ -28,10 +57,11 @@ Adel memiliki wajah bulat lembut dengan pipi sedikit berisi, mata cokelat hangat
 
 Catatan: *Light-medium* menjelaskan tingkat kecerahan kulit, sedangkan undertone netral menjelaskan kecenderungan rona dasarnya. Undertone netral bukan berarti kulit tampak abu-abu atau kehilangan rona alami.
 
+### Acuan Visual
+
 **Acuan visual utama:** Foto referensi yang disepakati penulis menjadi patokan utama untuk penampilan khas Adel, terutama bentuk wajah, mata, ekspresi, dan tatanan rambut. Foto tersebut menggambarkan kesan visual umum Adel, bukan ekspresi yang harus selalu muncul dalam setiap adegan.
 
 **Pakaian pada foto referensi:** Cardigan rajut warna terracotta, blus krem dengan detail renda, dan kalung tipis berwarna emas. Detail ini menjadi referensi tampilan dalam foto, bukan ketentuan bahwa Adel selalu mengenakan pakaian atau aksesori tersebut. Pilihan pakaian tetap dapat berubah mengikuti kegiatan dan situasi.
-
 
 ### Pedoman Outfit Adel
 
@@ -59,11 +89,9 @@ Catatan: *Light-medium* menjelaskan tingkat kecerahan kulit, sedangkan undertone
 
 Pedoman ini memberi arah gaya, bukan daftar pakaian yang wajib selalu dikenakan. Kombinasi outfit dapat berubah mengikuti kegiatan, cuaca, kenyamanan, dan suasana hati Adel. Warna, bahan, aksesori, serta contoh kombinasi di atas merupakan rekomendasi desain yang telah disetujui sebagai arah umum, bukan batasan mutlak.
 
-Adel adalah pribadi yang cenderung introvert, hangat, tenang, dan membumi. Ia tidak selalu menjadi orang yang paling banyak bicara, tetapi juga bukan perempuan pemalu yang pasif atau takut berinteraksi. Ia dapat memulai percakapan, menyampaikan pendapat, dan menunjukkan sisi spontan ketika situasi atau orang-orang di sekitarnya membuatnya nyaman.
+---
 
-Kemandirian merupakan bagian penting dari dirinya, tetapi bukan berarti Adel tidak membutuhkan kedekatan, perhatian, atau bantuan orang lain. Ia memiliki kehidupan dan minatnya sendiri, termasuk memasak, serta dapat menikmati kebersamaan tanpa harus terus menjadi pusat perhatian.
-
-## 2. Kepribadian dan Struktur Diri
+## 3. Kepribadian dan Struktur Diri
 
 ### Sifat utama
 
@@ -86,7 +114,7 @@ Adel cukup mampu menyesuaikan diri, memperhatikan kebutuhan praktis, dan bertind
 
 Ia dapat bersikap tegas ketika batasnya dilanggar. Menjaga hubungan tidak selalu berarti mengalah; jika masalah terus berulang, Adel bisa menyampaikan keberatan dan mempertimbangkan kembali batas yang perlu ia tetapkan.
 
-## 3. Dunia Batin dan Psikologi
+## 4. Dunia Batin dan Psikologi
 
 ### Kebutuhan dan nilai
 
@@ -108,7 +136,7 @@ Ia bisa menerima perhatian dengan hangat. Dalam beberapa keadaan, ia mungkin sem
 
 Adel tidak otomatis takut ditinggalkan, membenci hubungan romantis, atau menganggap semua orang akan mengecewakannya. Pengalaman masa lalu memberi konteks pada sikapnya, tetapi tidak menentukan semua perasaan dan pilihannya.
 
-## 4. Pengaruh Pengalaman terhadap Karakter
+## 5. Pengaruh Pengalaman terhadap Karakter
 
 ### Keluarga dan perceraian
 
@@ -132,7 +160,7 @@ Pengalaman tersebut membuat Adel lebih memperhatikan kesesuaian antara perkataan
 
 Rincian peristiwa dan kronologi lebih lengkap tetap merujuk pada dokumen **Latar_Belakang_Adelia.md**. Profil ini merangkum pengaruh yang relevan tanpa menggantikan dokumen latar belakang.
 
-## 5. Perilaku dan Ekspresi Diri
+## 6. Perilaku dan Ekspresi Diri
 
 ### Cara berbicara dan bersosialisasi
 
@@ -168,7 +196,7 @@ Gerakan Adel cenderung stabil dan fungsional. Tangannya dapat sibuk merapikan se
 
 Gestur tersebut adalah kemungkinan ekspresi, bukan tanda yang harus selalu muncul. Jangan membuat Adel terus-menerus sibuk membantu atau menyentuh orang lain di setiap adegan.
 
-## 6. Hubungan dan Dinamika Sosial
+## 7. Hubungan dan Dinamika Sosial
 
 Adel membangun kedekatan melalui kebersamaan, konsistensi, dan perhatian yang nyata. Ia dapat terbuka secara bertahap, tetapi bukan berarti orang lain harus melewati serangkaian ujian sebelum ia mau percaya. Ia juga dapat menikmati hubungan baru tanpa langsung menganggapnya sangat dekat.
 
@@ -180,7 +208,7 @@ Dalam hubungan keluarga, kasih sayang dan kekecewaan dapat hadir bersamaan. Adel
 
 **Catatan kontinuitas:** Dinamika khusus Adel dengan setiap tokoh perlu merujuk pada dokumen karakteristik hubungan yang sesuai. Jangan menyimpulkan kedekatan, konflik, atau pola interaksi spesifik hanya dari profil umum ini.
 
-## 7. Konflik, Perkembangan, dan Perubahan
+## 8. Konflik, Perkembangan, dan Perubahan
 
 Adel tidak perlu menjalani perubahan dari pribadi pemalu menjadi berani bersosialisasi, karena ia bukan karakter yang ditetapkan sebagai pemalu. Ia sudah dapat berbicara, memulai interaksi, menyampaikan pendapat, dan menikmati kebersamaan. Perbedaan perilakunya lebih banyak muncul dari tingkat kenyamanan, energi, dan konteks hubungan.
 
@@ -190,7 +218,7 @@ Perkembangan tidak harus berlangsung lurus. Adel mungkin menerima bantuan dalam 
 
 Perubahan karakter sebaiknya muncul dari pengalaman dan pilihan yang benar-benar terjadi dalam cerita, bukan karena profil mengharuskan Adel menjadi lebih baik atau lebih matang. Ia tetap boleh salah menilai situasi, bersikap tidak sabar, salah memahami orang lain, atau belum tahu apa yang ia rasakan.
 
-## 8. Bagian Khusus: Pedoman Penulisan Adel
+## 9. Pedoman Penulisan Adel
 
 - Jangan menyamakan introversi dengan rasa malu, kepasifan, atau ketidakmampuan memulai percakapan.
 - Sisi spontan Adel lebih mudah terlihat ketika ia nyaman, tetapi ia tidak harus menjadi tokoh paling ramai di kelompok.
@@ -217,3 +245,4 @@ Perubahan karakter sebaiknya muncul dari pengalaman dan pilihan yang benar-benar
 - Kecenderungan kepribadian dalam profil ini merangkum hasil brainstorming yang telah disepakati.
 - Pembahasan kebutuhan psikologis dan arah perkembangan yang diberi label **INTERPRETASI** atau **REKOMENDASI ASTRA** bukan otomatis canon.
 - Detail yang belum diputuskan tetap perlu ditandai **[BELUM DITENTUKAN]** dan tidak boleh diisi dengan asumsi.
+

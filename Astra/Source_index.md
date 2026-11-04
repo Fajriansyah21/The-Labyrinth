@@ -4,7 +4,7 @@
 
 Dokumen ini adalah peta utama sumber proyek novel original **THE LABYRINTH**. Gunakan indeks ini untuk menemukan dokumen yang relevan, memahami fungsi dan statusnya, serta menentukan sumber yang perlu diperiksa sebelum mengembangkan cerita.
 
-1. Baca [ASTRA-INSTRUCTIONS.txt](ASTRA-INSTRUCTIONS.txt) sebelum memulai pekerjaan.
+1. Baca [ASTRA-INSTRUCTIONS.md](ASTRA-INSTRUCTIONS.md) sebelum memulai pekerjaan.
 2. Pilih dan periksa sumber yang relevan dengan pertanyaan. Tidak semua dokumen harus dibaca setiap saat.
 3. Gunakan isi dokumen sumber untuk memastikan fakta cerita. Tautan dan ringkasan di indeks ini hanya membantu navigasi, bukan pengganti pembacaan sumber.
 4. Bedakan **CANON**, **INTERPRETASI**, **OPSI BRAINSTORMING**, **REKOMENDASI ASTRA**, dan **[BELUM DITENTUKAN]**.
@@ -188,7 +188,7 @@ Folder [Rancangan](../Rancangan) berisi rancangan dan bahan referensi yang lebih
 
 ## H. Prioritas pemeriksaan sumber
 
-1. ASTRA-INSTRUCTIONS.txt untuk seluruh aturan operasional Astra.
+1. ASTRA-INSTRUCTIONS.md untuk seluruh aturan operasional Astra.
 2. Source_index.md untuk menemukan sumber yang relevan.
 3. Sumber cerita yang relevan untuk fakta dan keputusan canon.
 4. Profil karakter untuk konsistensi kepribadian dan perilaku.
@@ -197,7 +197,7 @@ Folder [Rancangan](../Rancangan) berisi rancangan dan bahan referensi yang lebih
 7. Arsip visual untuk desain dan status aset visual.
 8. Guide, folder rancangan, dan catatan lama untuk menelusuri perkembangan ide, bukan untuk mengesampingkan keputusan terbaru.
 
-**Catatan instruksi:** ASTRA-INSTRUCTIONS.txt adalah satu-satunya instruksi operasional aktif. Master Pedoman dan Instruksi-Khusus dipertahankan sebagai arsip historis, bukan sumber aturan paralel. Jika ada aturan lama yang belum tercakup dalam instruksi aktif, evaluasi relevansinya bersama penulis sebelum mengaktifkannya.
+**Catatan instruksi:** ASTRA-INSTRUCTIONS.md adalah satu-satunya instruksi operasional aktif. Master Pedoman dan Instruksi-Khusus dipertahankan sebagai arsip historis, bukan sumber aturan paralel. Jika ada aturan lama yang belum tercakup dalam instruksi aktif, evaluasi relevansinya bersama penulis sebelum mengaktifkannya.
 
 ## I. Penanda status informasi
 

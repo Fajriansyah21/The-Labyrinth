@@ -52,7 +52,7 @@ Dokumen profil menjelaskan identitas, kepribadian, psikologi, perilaku, hubungan
 | Dokumen | Fungsi | Status |
 |---|---|---|
 | [Latar Belakang Adelia](../Karakter/Adel/Latar_Belakang_Adelia.md) | Kronologi keluarga, pengalaman pembentuk, dan dampaknya. | Sumber latar belakang |
-| [Profil Karakter Adelia](../Karakter/Adel/Profil_Karakter_Adelia.md) | Profil karakter dalam tujuh bagian, termasuk kepribadian, psikologi, perilaku, hubungan, dan perkembangan. | Sumber profil; periksa isi terbaru |
+| [Profil Karakter Adelia](../Karakter/Adel/Profil_Karakter_Adelia.md) | Profil karakter dalam sembilan bagian, mencakup identitas, penampilan visual, kepribadian, psikologi, pengalaman pembentuk, perilaku, hubungan, perkembangan, dan pedoman penulisan. | Sumber profil; periksa isi terbaru |
 
 
 ### Arkana

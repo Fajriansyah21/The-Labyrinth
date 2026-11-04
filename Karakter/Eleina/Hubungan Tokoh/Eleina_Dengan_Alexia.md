@@ -1,5 +1,4 @@
-ELEINA DAN ALEXA
-ELEINA DAN ALEXA
+ELEINA DAN ALEXIA (ALEXA)
 1. Gambaran Umum Hubungan Eleina dan Alexa
 Hubungan Eleina dan Alexa merupakan salah satu persahabatan yang paling hangat dan suportif dalam kehidupan Eleina selama masa SMA.
 Keduanya pertama kali bertemu sebagai teman sekelas pada kelas 1 SMA. Pada awalnya, hubungan mereka tidak langsung menjadi dekat. Alexa lebih mudah bergaul dan memiliki kemampuan sosial yang lebih luas, sementara Eleina cenderung mengamati keadaan terlebih dahulu sebelum merasa benar-benar nyaman dengan seseorang.
@@ -142,18 +141,11 @@ Mereka tidak perlu memulai kembali persahabatan dari awal. Keduanya sudah memaha
 Alexa mengetahui kapan Eleina ingin ditemani dan kapan Eleina membutuhkan ruang. Eleina juga mulai mengenali kapan Alexa benar-benar sedang santai dan kapan senyumnya digunakan untuk menyembunyikan sesuatu.
 Kedekatan mereka pada kelas 3 SMA terasa lebih dewasa dan stabil. Mereka tidak harus selalu membicarakan segala sesuatu untuk memahami satu sama lain, tetapi juga semakin menyadari pentingnya memberi ruang ketika salah satunya membutuhkan waktu.
 15. Peran Alexa dalam Kehidupan Eleina dan Inti Persahabatan Mereka
-Ketika seluruh kelompok mulai berkumpul untuk perjalanan menuju Labyrinth, hubungan Eleina dan Alexa telah berada pada tahap persahabatan yang matang.
-Alexa cukup nyaman berada di dekat Eleina dalam kelompok. Ketika formasi perjalanan membuat Alexa, Adel, dan Eleina berada di bagian tengah kelompok, ketiganya dapat berbicara dengan santai sambil tetap mengikuti perjalanan.
-Kedekatan Eleina dan Alexa pada tahap ini bukan lagi sesuatu yang harus dibangun dari awal. Mereka telah memiliki sejarah panjang sejak kelas 1 SMA, melewati perubahan kelas, perkembangan lingkaran pertemanan, dan proses memahami kebutuhan masing-masing.
-Alexa tetap menjadi salah satu orang penting dalam kehidupan Eleina, sebagaimana Eleina menjadi seseorang yang dapat menerima Alexa tanpa mengharuskannya selalu tampil kuat.
-Hubungan mereka tidak menuntut keduanya untuk selalu mengetahui apa yang sedang dipikirkan atau dirasakan satu sama lain. Mereka tetap memiliki batas pribadi dan bagian kehidupan yang tidak sepenuhnya dibagikan.
-Namun, batas tersebut tidak mengurangi kepercayaan yang telah mereka bangun.
-Inti hubungan Eleina dan Alexa adalah persahabatan antara dua orang yang sama-sama terbiasa mengutamakan orang lain, tetapi perlahan belajar bahwa mereka juga berhak dipedulikan.
-Alexa merupakan salah satu orang yang pertama kali memilih Eleina sebagai teman tanpa menuntutnya menjadi lebih ramai atau lebih terbuka. Ketika mengetahui bahwa Eleina mengalami perundungan, Alexa memilih untuk hadir lebih sering dan menjadi salah satu orang yang memberikan rasa aman ketika Devan tidak berada di sekitar.
-Sementara itu, Eleina menjadi salah satu orang yang mampu melihat bahwa Alexa yang hangat dan suportif juga memiliki kelelahan serta luka yang disembunyikan.
-Alexa membantu Eleina keluar dari kebiasaan menghapus dirinya sendiri demi orang lain. Ia mendorong Eleina untuk mengenali keinginan, menjaga batas pribadi, dan memahami bahwa dirinya juga layak mendapatkan perhatian.
-Eleina membantu Alexa memahami bahwa dirinya tidak harus selalu menjadi orang yang memberi agar tetap layak dicintai dan dipilih.
-Pada akhirnya, persahabatan mereka menjadi ruang tempat keduanya dapat belajar menerima kepedulian tanpa merasa harus selalu membalasnya dengan menjadi orang yang kuat atau berguna.
-Mereka tidak harus selalu baik-baik saja di hadapan satu sama lain. Mereka juga tidak harus mengetahui seluruh isi kehidupan masing-masing untuk tetap menjadi sahabat.
-Hubungan mereka dapat dirangkum sebagai dua orang yang sama-sama terbiasa berkata bahwa mereka baik-baik saja, lalu perlahan belajar bahwa tidak apa-apa untuk tidak baik-baik saja di depan orang yang dipercaya.
+Ketika kelompok mulai berkumpul untuk perjalanan menuju Labyrinth, Eleina dan Alexa telah memiliki persahabatan yang tumbuh sejak kelas 1 SMA. Mereka kembali berada dalam kelas yang sama pada kelas 3 SMA dan sudah memahami kebiasaan serta batas pribadi masing-masing.
+
+Alexa menjadi salah satu teman yang hadir ketika Eleina membutuhkan dukungan, termasuk saat menghadapi perundungan. Namun, perannya bukan untuk mengambil alih keputusan Eleina atau menjadikan pengalaman buruk tersebut sebagai satu-satunya hal yang mendefinisikan dirinya. Ia tetap berteman dengan Eleina dalam kegiatan dan percakapan sehari-hari.
+
+Eleina juga memberi Alexa ruang untuk tidak selalu menjadi pihak yang kuat dan suportif. Keduanya dapat saling memperhatikan tanpa harus mengetahui seluruh isi pikiran satu sama lain. Mereka belajar bahwa kepedulian tidak harus berarti mengatur, dan menerima bantuan tidak membuat seseorang menjadi lemah.
+
+Inti persahabatan mereka adalah hubungan dua orang yang terbiasa mengutamakan orang lain, lalu perlahan belajar memberi ruang bagi kebutuhan diri sendiri. Kedekatan mereka tidak bergantung pada keharusan untuk selalu bersama atau selalu menceritakan segalanya, melainkan pada kepercayaan bahwa masing-masing dapat hadir ketika dibutuhkan.
 ________________________________________

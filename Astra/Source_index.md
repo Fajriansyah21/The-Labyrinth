@@ -63,6 +63,43 @@ Dokumen profil menjelaskan identitas, kepribadian, psikologi, perilaku, hubungan
 | [Profil Karakter Arkana](../Karakter/Arkana/Profil_Karakter_Arkana.md) | Identitas dasar, usia dan tinggi badan, peran dalam tim basket Devan, hubungan dengan Alexia, motivasi sebagai *survivor*, kontrol diri, ciri fisik, dan bahasa tubuh. | Sumber profil; periksa isi terbaru |
 
 
+
+### Alexia
+
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar Belakang Alexia](../Karakter/Alexia/Latar_Belakang_Alexia.md) | Riwayat perlakuan orang tua, posisi Alexia dalam keluarga, hubungan dengan adik laki-lakinya, dan pengalaman yang membentuk luka batinnya. | Sumber latar belakang |
+| [Profil Karakter Alexia](../Karakter/Alexia/Profil_Karakter_Alexia.md) | Identitas dasar, peran sebagai pasangan Arkana, kepribadian, cara bicara, dinamika dengan Devan, Eleina, dan Adel, serta ciri visual. | Sumber profil; periksa isi terbaru |
+
+### Elvano
+
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar Belakang Elvano](../Karakter/Elvano/Latar_Belakang_Elvano.md) | Kehilangan kedua orang tua, tanggung jawab terhadap kedua adiknya, kondisi keluarga, dan tekanan yang ia tanggung. | Sumber latar belakang |
+| [Profil Karakter Elvano](../Karakter/Elvano/Profil_Karakter_Elvano.md) | Identitas dasar, peran sebagai ketua basket, karakter sebagai pemimpin yang memikul tanggung jawab, cara bicara, serta ciri visual dan bahasa tubuh. | Sumber profil; periksa isi terbaru |
+
+### Naura
+
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar Belakang Naura](../Karakter/Naura/Latar_Belakang_Naura.md) | Latar keluarga berada, perubahan hubungan dengan orang tua sejak SMP, dan pembentukan identitas serta sikap Naura. | Sumber latar belakang |
+| [Profil Karakter Naura](../Karakter/Naura/Profil_Karakter_Naura.md) | Identitas dasar, ketertarikan kepada Elvano, kepribadian, cara bicara, kebutuhan emosional, serta ciri visual dan bahasa tubuh. | Sumber profil; periksa isi terbaru |
+
+### Andrian
+
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar Belakang Andrian](../Karakter/Andrian/Latar_Belakang_Andrian.md) | Kondisi rumah yang penuh konflik, pengabaian, pengalaman masa kecil, dan sumber kenyamanan Andrian di luar rumah. | Sumber latar belakang |
+| [Profil Karakter Andrian](../Karakter/Andrian/Profil_Karakter_Andrian.md) | Identitas dasar, peran sebagai teman SMA Devan, cara menyembunyikan kebutuhan emosional, cara bicara, serta ciri visual dan bahasa tubuh. | Sumber profil; periksa isi terbaru |
+
+### Reza
+
+| Dokumen | Fungsi | Status |
+|---|---|---|
+| [Latar Belakang Reza](../Karakter/Reza/Latar_Belakang_Reza.md) | Posisi Reza dalam keluarga, insiden masa kecil yang menyebabkan adiknya cedera, perlakuan keluarga setelah kejadian, dan konflik batinnya. | Sumber latar belakang |
+| [Profil Karakter Reza](../Karakter/Reza/Profil_Karakter_Reza.md) | Identitas dasar, peran sebagai sumber energi dan humor kelompok, kecenderungan menggunakan humor sebagai tameng, serta ciri visual dan cara bicara. | Sumber profil; periksa isi terbaru |
+
+
 ### Template karakter
 
 Template untuk karakter baru tersedia di bagian A. Bagian ini hanya menjadi pola kerja. Jangan memperlakukan nama placeholder atau tautan kosong sebagai dokumen canon yang sudah tersedia.

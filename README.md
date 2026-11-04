@@ -10,9 +10,14 @@ Sebelum mengerjakan cerita, baca [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTION
 
 ## Navigasi cepat
 
+- [Instruksi Utama Astra](Astra/ASTRA-INSTRUCTIONS.txt): satu-satunya instruksi operasional aktif.
 - [Source Index Astra](Astra/Source_index.md): indeks utama seluruh sumber dan statusnya.
-- [Master Pedoman Astra](Astra/Master_Pedoman_Astra_The_Labyrinth.md): pedoman pengembangan cerita.
-- [Guide The Labyrinth](Astra/Guide_The_Labyrinth.md): riwayat diskusi dan perkembangan gagasan.
+- [Guide The Labyrinth](Astra/Guide_The_Labyrinth.md): arsip diskusi dan perkembangan gagasan, bukan instruksi operasional.
+
+## Arsip pedoman lama
+
+- [Master Pedoman Astra](Astra/Master_Pedoman_Astra_The_Labyrinth.md): arsip pedoman versi lama. Bukan instruksi aktif.
+- [Instruksi Khusus](Astra/Instruksi-Khusus.txt): arsip instruksi versi lama yang telah dikonsolidasikan. Bukan instruksi aktif.
 - [Indeks Visual](Visual/README.md): navigasi aset visual.
 - [Arsip Visual Karakter](Visual/Visual_Character_Archive.md): brief, checklist, dan status persetujuan visual.
 - [ArtStyle.jpg](Visual/ArtStyle.jpg): referensi gaya rendering yang disetujui.

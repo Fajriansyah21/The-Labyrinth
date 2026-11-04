@@ -1,9 +1,20 @@
 # Profil Karakter Nicho
 
-
 ## Status Persetujuan Desain Fisik
 
 **STATUS: FINAL / CANON. DISETUJUI PENULIS.** Proporsi tubuh, bentuk tubuh, dan skin tone Nicho telah disetujui penulis sebagai desain fisik final/canon. Pertahankan rincian yang tercantum dalam profil ini sebagai acuan tetap untuk penulisan dan pengembangan visual berikutnya. Persetujuan ini tidak menetapkan detail tambahan yang belum tercantum, termasuk kode warna kulit yang masih berstatus [BELUM DITENTUKAN].
+
+## Daftar Isi
+
+1. [Identitas dan Gambaran Umum](#1-identitas-dan-gambaran-umum)
+2. [Penampilan Fisik dan Acuan Visual](#2-penampilan-fisik-dan-acuan-visual)
+3. [Kepribadian dan Struktur Diri](#3-kepribadian-dan-struktur-diri)
+4. [Dunia Batin dan Psikologi](#4-dunia-batin-dan-psikologi)
+5. [Pengaruh Pengalaman terhadap Karakter](#5-pengaruh-pengalaman-terhadap-karakter)
+6. [Perilaku dan Ekspresi Diri](#6-perilaku-dan-ekspresi-diri)
+7. [Hubungan dan Dinamika Sosial](#7-hubungan-dan-dinamika-sosial)
+8. [Konflik, Perkembangan, dan Perubahan](#8-konflik-perkembangan-dan-perubahan)
+9. [Pedoman Penulisan dan Catatan Kontinuitas](#9-pedoman-penulisan-dan-catatan-kontinuitas)
 
 ## 1. Identitas dan Gambaran Umum
 
@@ -13,9 +24,9 @@
 **Peran:** Teman pertama Devan saat SMA dan pasangan Adelia  
 **Latar keluarga:** Anak bungsu dari tiga bersaudara.
 
-### Penampilan Fisik
+## 2. Penampilan Fisik dan Acuan Visual
 
-#### Wajah
+### 2.1. Wajah
 
 Foto acuan utama menunjukkan Nicho memiliki wajah oval yang agak panjang, dengan kontur rahang cukup tegas dan dagu yang sedikit meruncing. Proporsi wajahnya memberi kesan dewasa dan rapi, tetapi garis-garis wajahnya tidak terlalu keras. Dahinya tampak proporsional dan bagian pipinya relatif halus.
 
@@ -25,11 +36,11 @@ Hidung Nicho tampak ramping, dengan batang yang relatif lurus dan proporsional t
 
 Secara keseluruhan, wajah Nicho memadukan kontur oval agak panjang, mata abu-abu gelap yang fokus, dan fitur yang rapi. Ia dapat terlihat tenang atau sulit dibaca tanpa harus selalu tampak serius. Ekspresinya perlu mengikuti situasi dan kondisi emosionalnya.
 
-#### Rambut
+### 2.2. Rambut
 
 Rambut Nicho berwarna hitam dengan sedikit nuansa kebiruan. Teksturnya lurus dan halus, dengan potongan medium pendek serta belahan samping. Dalam foto acuan, bagian atas rambut terlihat bervolume dengan beberapa lapisan dan helaian yang jatuh ke dahi. Tatanannya tetap rapi, tetapi tidak kaku atau tersisir sempurna. Pantulan kebiruan dapat terlihat dalam pencahayaan tertentu, sedangkan warna dasarnya tetap hitam.
 
-#### Skin Tone
+### 2.3. Skin Tone
 
 **Status: CANON.** Tingkat kecerahan dan undertone kulit Nicho telah ditetapkan oleh penulis.
 
@@ -38,12 +49,11 @@ Rambut Nicho berwarna hitam dengan sedikit nuansa kebiruan. Teksturnya lurus dan
 - **Kesan keseluruhan:** Kulit tetap terlihat cerah kecokelatan dan alami. Nuansa cool memberi keselarasan halus dengan rambut hitam bernuansa kebiruan serta mata abu-abu gelap, tanpa menciptakan kontras yang berlebihan.
 - **Panduan visual:** Pencahayaan dan lingkungan dapat memengaruhi tampilan warna kulit. Jangan menggambarkan kulit Nicho selalu kemerahan atau kebiruan; undertone merupakan nuansa dasar, bukan warna permukaan yang harus terlihat kuat di setiap kondisi.
 
-#### Postur dan pembawaan
+### 2.4. Postur dan Pembawaan
 
 Tubuh Nicho ramping dengan postur tegak. Gerakannya cenderung terkontrol dan efisien, serta ia jarang melakukan gerakan yang tidak diperlukan. Ia juga jarang menyentuh orang lain; ketika melakukannya, ia terkadang tampak sedikit canggung. Ciri-ciri ini menggambarkan kebiasaannya membawa diri, bukan berarti ia harus selalu kaku dalam setiap situasi.
 
-
-#### Bentuk dan proporsi tubuh
+### 2.5. Bentuk dan Proporsi Tubuh
 
 Tinggi badan Nicho adalah 178 cm. Bentuk tubuhnya ramping dengan siluet **Slim Athletic**: bahu proporsional, dada sedikit lebih berisi secara alami, lengan ramping dengan definisi otot tipis, dan pinggang yang tetap ramping. Tubuhnya tidak tampak terlalu kurus, tetapi juga tidak besar atau berotot menonjol. Kesan atletisnya ringan dan natural, bukan seperti seseorang yang rutin melakukan latihan beban intensif.
 
@@ -51,8 +61,7 @@ Proporsi torso dan kakinya seimbang, dengan kaki yang sedikit jenjang. Panjang k
 
 Nicho cukup aktif dalam kesehariannya, tetapi ia tidak memiliki rutinitas olahraga yang telah ditetapkan. Karena itu, jangan menyimpulkan bahwa ia mempunyai stamina, kekuatan, atau kemampuan atletik tertentu hanya dari bentuk tubuhnya. Berat badan dan ukuran tubuh terperinci masih [BELUM DITENTUKAN].
 
-
-#### Acuan visual untuk ilustrasi
+### 2.6. Acuan Visual untuk Ilustrasi
 
 Foto yang diberikan penulis menjadi acuan visual utama untuk wajah dan rambut Nicho. Dalam ilustrasi berikutnya, pertahankan wajah oval agak panjang dengan dagu sedikit meruncing, mata berbentuk almond berwarna abu-abu gelap, alis gelap yang relatif tebal dan cenderung lurus, hidung ramping yang proporsional, bibir berukuran sedang, serta rambut hitam bernuansa kebiruan dengan belahan samping dan volume alami.
 
@@ -60,9 +69,7 @@ Sudut kamera, pencahayaan, pakaian, latar, dan ekspresi dapat berubah sesuai keb
 
 Warna dan detail yang tidak dapat dipastikan hanya dari foto harus tetap mengikuti informasi canon yang telah ditetapkan dalam profil. Ciri visual ini merupakan panduan konsistensi ilustrasi, bukan daftar ekspresi yang wajib muncul di setiap gambar.
 
-
-
-#### Gaya berpakaian sehari-hari
+### 2.7. Gaya Berpakaian Sehari-hari
 
 Gaya berpakaian Nicho menggunakan **Clean Casual sebagai gaya utama**, dengan **Smart Casual** dan **Relaxed Minimalist** sebagai variasi. Arah gaya ini merupakan keputusan pengembangan karakter yang disepakati penulis. Penampilannya cenderung rapi dan sederhana, tetapi tetap sesuai dengan keseharian seorang mahasiswa berusia 19 tahun. Kerapian Nicho terlihat melalui pilihan potongan dan kombinasi pakaian, bukan melalui pakaian formal atau aksesori yang mencolok.
 
@@ -82,8 +89,7 @@ Ketika suasana lebih santai, terutama saat bersama teman dekat, Nicho dapat meng
 
 Pilihan pakaian Nicho tetap mengikuti kegiatan, cuaca, kenyamanan, dan konteks adegan. Ia tidak harus selalu mengenakan kaus polos atau celana hitam, dan gaya Smart Casual maupun Relaxed Minimalist tidak perlu muncul sebagai penanda emosi yang kaku. Gaya berpakaian merupakan panduan visual, bukan aturan yang membatasi variasi pakaian sehari-harinya.
 
-
-## 2. Kepribadian dan Struktur Diri
+## 3. Kepribadian dan Struktur Diri
 
 ### Rasa Ingin Tahu dan Kecintaan terhadap Proses Belajar
 
@@ -121,7 +127,7 @@ Persiapan baginya dapat menjadi kebiasaan yang berguna sekaligus cara untuk meng
 
 Ketika persiapan dirasa belum memadai, ia mungkin terus memeriksa kemungkinan yang ada atau kesulitan menghentikan evaluasi. Seberapa jauh kecenderungan ini memengaruhi keputusannya bergantung pada situasi yang sedang dihadapi.
 
-## 3. Dunia Batin dan Psikologi
+## 4. Dunia Batin dan Psikologi
 
 ### Pandangan terhadap Diri Sendiri
 
@@ -153,7 +159,7 @@ Akibatnya, Nicho dapat mengalami kesenjangan antara apa yang ingin ia sampaikan 
 
 Ia tidak harus sepenuhnya memahami kebutuhan emosionalnya sendiri. Ada kalanya ia hanya merasakan ketidaknyamanan atau kekecewaan tanpa langsung mengetahui penyebabnya.
 
-## 4. Pengaruh Pengalaman terhadap Karakter
+## 5. Pengaruh Pengalaman terhadap Karakter
 
 Nicho tumbuh dalam keluarga yang menghargai pendidikan, kedisiplinan, dan pencapaian. Papahnya menerapkan standar yang tinggi dan menekankan tanggung jawab, keteraturan, serta kesungguhan. Mamahnya memberikan kehangatan dan dukungan, meskipun dukungan tersebut tidak selalu mengubah tuntutan yang dihadapi Nicho.
 
@@ -169,7 +175,7 @@ Pengaruh pengalaman tersebut tidak menjelaskan seluruh perilaku Nicho. Rasa ingi
 
 Untuk kronologi keluarga dan perkembangan hubungan dengan anggota keluarga, gunakan dokumen *Latar Belakang Nicho* sebagai rujukan utama agar rincian peristiwa tidak berulang dalam profil ini.
 
-## 5. Perilaku dan Ekspresi Diri
+## 6. Perilaku dan Ekspresi Diri
 
 ### Kebiasaan Fisik
 
@@ -203,7 +209,19 @@ Ia terkadang membantu teman belajar, terutama ketika mampu menjelaskan materi ya
 
 Namun, tidak setiap kegiatan yang dilakukannya harus memiliki tujuan psikologis tertentu. Nicho boleh membaca karena tertarik, bermain piano karena ingin menikmati musik, atau membantu teman karena memang ingin membantu.
 
-## 6. Hubungan dan Dinamika Sosial
+### 6.5. Piano sebagai Ruang Pribadi
+
+Piano memiliki tempat tersendiri dalam kehidupan Nicho karena memberikan pengalaman yang berbeda dari kegiatan yang biasanya menuntut kemampuan dan hasil.
+
+Saat bermain piano, ia dapat memusatkan perhatian pada musik tanpa harus menjadikan kegiatan tersebut sebagai bukti bahwa dirinya mampu atau berguna bagi orang lain. Kegiatan ini dapat memberinya ruang untuk menenangkan diri dan menikmati sesuatu tanpa tuntutan pencapaian yang sama seperti dalam kehidupan akademiknya.
+
+Namun, piano bukan penyelesaian untuk seluruh persoalan emosional Nicho. Bermain piano tidak otomatis membuatnya memahami perasaan sendiri atau menyelesaikan masalah yang sedang dihadapi. Ada kalanya ia bermain untuk menenangkan diri, dan ada kalanya kegiatan itu tidak cukup mengubah keadaan emosionalnya.
+
+Bagian ini dipertahankan secara khusus karena piano memiliki fungsi yang berbeda dari sekadar hobi. Ia menjadi salah satu ruang pribadi yang membantu memperlihatkan sisi Nicho di luar tuntutan untuk selalu mampu dan dapat diandalkan.
+
+---
+
+## 7. Hubungan dan Dinamika Sosial
 
 Nicho cenderung menunjukkan perhatian melalui tindakan konkret. Ia dapat membantu seseorang memahami masalah, mencari informasi yang dibutuhkan, atau mengambil langkah praktis untuk memperbaiki keadaan.
 
@@ -217,7 +235,7 @@ Cara Nicho berinteraksi juga dapat berbeda menurut kedekatan, tingkat kepercayaa
 
 Dinamika khusus Nicho dengan Adel, Devan, Reza, dan tokoh lainnya dibahas dalam dokumen Hubungan Antar Tokoh masing-masing. Persepsi mereka terhadap Nicho tidak ditetapkan ulang dalam profil ini agar kedua jenis dokumen tidak saling mengulang.
 
-## 7. Konflik, Perkembangan, dan Perubahan
+## 8. Konflik, Perkembangan, dan Perubahan
 
 ### Konflik Utama
 
@@ -247,21 +265,7 @@ Arah perkembangan ini merupakan kerangka karakter, bukan daftar kejadian yang wa
 
 **[BELUM DITENTUKAN]** Peristiwa spesifik yang memicu perubahan, urutan perkembangan dalam alur, dan tingkat perubahan Nicho pada setiap tahap cerita.
 
-## 8. Bagian Khusus sesuai Kebutuhan Karakter
-
-### Piano sebagai Ruang Pribadi
-
-Piano memiliki tempat tersendiri dalam kehidupan Nicho karena memberikan pengalaman yang berbeda dari kegiatan yang biasanya menuntut kemampuan dan hasil.
-
-Saat bermain piano, ia dapat memusatkan perhatian pada musik tanpa harus menjadikan kegiatan tersebut sebagai bukti bahwa dirinya mampu atau berguna bagi orang lain. Kegiatan ini dapat memberinya ruang untuk menenangkan diri dan menikmati sesuatu tanpa tuntutan pencapaian yang sama seperti dalam kehidupan akademiknya.
-
-Namun, piano bukan penyelesaian untuk seluruh persoalan emosional Nicho. Bermain piano tidak otomatis membuatnya memahami perasaan sendiri atau menyelesaikan masalah yang sedang dihadapi. Ada kalanya ia bermain untuk menenangkan diri, dan ada kalanya kegiatan itu tidak cukup mengubah keadaan emosionalnya.
-
-Bagian ini dipertahankan secara khusus karena piano memiliki fungsi yang berbeda dari sekadar hobi. Ia menjadi salah satu ruang pribadi yang membantu memperlihatkan sisi Nicho di luar tuntutan untuk selalu mampu dan dapat diandalkan.
-
----
-
-## Catatan Kontinuitas dan Sumber
+## 9. Pedoman Penulisan dan Catatan Kontinuitas
 
 **Fakta dan detail yang dipertahankan dari profil lama:**
 - Identitas dasar, usia, tinggi badan, peran dalam cerita, dan posisi sebagai anak bungsu.

@@ -1,0 +1,9 @@
+Nama : Andrian. Nama Panggilan: Drian. Usia: 18 tahun. Tinggi badan: 176 cm. Peran: Teman SMA Devan.
+
+Andrian adalah sosok *emotional starvation survivor* — seseorang yang tumbuh dengan kekurangan kehangatan emosional dan belajar bertahan dengan mencari kenyamanan sederhana. Ia menyembunyikan rasa sepi dan ketergantungan emosional di balik sikap ceria, santai, dan kecintaannya pada makanan. Andrian takut kehilangan sumber kehangatan dan rasa memiliki yang selama ini menjadi tempatnya bersandar. Di balik semua itu, ia hanya ingin menemukan tempat di mana ia tidak perlu berpura-pura baik-baik saja atau menjadi “mudah” demi diterima orang lain.
+
+Ia berbicara dengan ringan, sederhana, dan cenderung menghindari percakapan yang terlalu dalam secara emosional. Saat suasana mulai serius, ia sering mengganti topik, bercanda kecil, atau kembali ke hal-hal sederhana agar tidak perlu menghadapi perasaannya sendiri. Di mata Devan, Andrian terlihat jauh lebih sederhana daripada kenyataannya, padahal sebenarnya ia menyimpan banyak rasa takut dan kebutuhan emosional yang tidak pernah benar-benar ia ungkapkan.
+
+Wajahnya berbentuk bulat-oval lembut dengan ekspresi yang ramah dan tidak mengintimidasi. Ia punya mata cokelat madu hangat dengan tatapan yang biasanya singkat; ketika situasi menjadi serius, ia sering memalingkan pandangan. Kadang tatapannya terlihat kosong sesaat sebelum akhirnya ditutupi lagi dengan senyum kecil. Rambutnya cokelat muda, bergelombang lembut dan fluffy, dengan potongan medium berlayer yang terlihat santai dan natural.
+
+Posturnya sedikit lebih berisi dibanding beberapa teman lain, memberi kesan nyaman dan hangat. Cara berdirinya rileks dan tidak terburu-buru, seolah selalu mencoba menjaga suasana tetap tenang. Gerakannya lambat, stabil, dan tidak pernah mendadak; ia lebih sering mengikuti ritme orang lain daripada memimpin suasana. Kehadirannya memberi efek menenangkan tanpa ia sadari.

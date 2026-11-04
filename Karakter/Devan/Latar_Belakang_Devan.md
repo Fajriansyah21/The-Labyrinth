@@ -180,7 +180,3 @@ Devan tidak harus melupakan Citra dan papanya untuk melanjutkan hidup. Ia dapat 
 ## 10. Catatan Kronologi dan Kontinuitas
 
 [BELUM DITENTUKAN]
-
-## 10. Catatan Kronologi dan Kontinuitas
-
-[BELUM DITENTUKAN]

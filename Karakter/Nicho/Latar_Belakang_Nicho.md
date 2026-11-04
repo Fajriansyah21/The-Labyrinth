@@ -2,6 +2,22 @@
 
 # Latar Belakang Nicho
 
+## Daftar Isi
+
+1. [Masa Kecil dan Kehidupan Keluarga](#1-masa-kecil-dan-kehidupan-keluarga)
+2. [Peristiwa Penting dalam Kehidupan](#2-peristiwa-penting-dalam-kehidupan)
+3. [Perkembangan Peristiwa dan Konsekuensinya](#3-perkembangan-peristiwa-dan-konsekuensinya)
+4. [Perubahan Hubungan dengan Orang-Orang Terdekat](#4-perubahan-hubungan-dengan-orang-orang-terdekat)
+5. [Perubahan dalam Diri Nicho](#5-perubahan-dalam-diri-nicho)
+6. [Luka Batin dan Konflik Internal](#6-luka-batin-dan-konflik-internal)
+7. [Pengaruh Masa Lalu terhadap Hubungan dengan Tokoh Lain](#7-pengaruh-masa-lalu-terhadap-hubungan-dengan-tokoh-lain)
+8. [Kondisi Kehidupan Saat Cerita Dimulai](#8-kondisi-kehidupan-saat-cerita-dimulai)
+9. [Catatan Perubahan dan Konsekuensi](#9-catatan-perubahan-dan-konsekuensi)
+10. [Inti Perjalanan Karakter](#10-inti-perjalanan-karakter)
+
+---
+
+
 ## 1. Masa Kecil dan Kehidupan Keluarga
 
 Nicho merupakan anak bungsu dari tiga bersaudara. Ia tumbuh dalam keluarga yang menghargai pendidikan, kedisiplinan, dan pencapaian. Kehidupan keluarganya tidak selalu kaku atau dipenuhi ketegangan. Mereka masih dapat berbincang santai, bercanda, dan menikmati waktu bersama. Namun, di balik kehangatan tersebut, terdapat harapan orang tua yang secara perlahan memengaruhi cara Nicho menjalani kehidupannya.

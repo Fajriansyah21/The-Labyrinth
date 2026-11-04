@@ -185,3 +185,11 @@ Kemampuan analitis, kedisiplinan, dan keinginannya membantu orang lain akan menj
 Perjalanan Nicho bukan tentang berhenti menjadi orang yang cerdas, logis, atau dapat diandalkan. Ia tidak perlu kehilangan kemampuan yang selama ini membantunya menghadapi kehidupan. Tantangan yang lebih mendasar adalah belajar bahwa kemampuan merupakan bagian dari dirinya, bukan satu-satunya alasan dirinya layak dihargai.
 
 Pada titik ini, Nicho belum tentu memahami sepenuhnya bagaimana pengalaman masa kecilnya membentuk cara ia memandang diri sendiri. Ia hanya mengetahui bahwa menjadi siap, mampu, dan dapat diandalkan membuat banyak hal terasa lebih mudah dihadapi. Pemahaman bahwa ia tidak harus selalu berguna untuk layak dihargai masih menjadi bagian dari perjalanan yang perlu ia hadapi melalui pengalaman dan hubungan dengan orang lain.
+
+## 8. Kondisi Kehidupan Saat Cerita Dimulai
+
+[BELUM DITENTUKAN]
+
+## 9. Catatan Perubahan dan Konsekuensi
+
+[BELUM DITENTUKAN]

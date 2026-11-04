@@ -160,7 +160,15 @@ Meski demikian, Nicho bukan seseorang yang tidak mampu membangun hubungan dekat.
 
 Pengalaman masa lalu memberi Nicho kecenderungan untuk mengutamakan kontrol dan kegunaan, tetapi hubungan yang ia jalani setelahnya masih dapat menantang pola tersebut. Seberapa jauh ia berubah, dan siapa yang berperan dalam perubahan itu, bergantung pada pengalaman yang terjadi sepanjang cerita. **[BELUM DITENTUKAN: perkembangan spesifik setiap hubungan dalam cerita.]**
 
-## 8. Inti Perjalanan Karakter
+## 8. Kondisi Kehidupan Saat Cerita Dimulai
+
+[BELUM DITENTUKAN]
+
+## 9. Catatan Perubahan dan Konsekuensi
+
+[BELUM DITENTUKAN]
+
+## 10. Inti Perjalanan Karakter
 
 Menjelang SMA, Nicho telah memiliki kemampuan analitis yang kuat, kebiasaan belajar yang teratur, dan kecenderungan mempersiapkan diri sebelum menghadapi persoalan. Ia relatif mandiri dalam mengelola tanggung jawab dan terbiasa mencari solusi ketika menemukan kesulitan.
 

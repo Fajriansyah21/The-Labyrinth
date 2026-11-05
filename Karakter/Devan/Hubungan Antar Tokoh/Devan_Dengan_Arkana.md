@@ -226,3 +226,77 @@ Devan melihat manusia di balik masalah.
 Arkana melihat bahaya di balik keadaan.
 
 Ketika keduanya bekerja bersama, masing-masing membantu yang lain melihat sesuatu yang mungkin terlewatkan.________________________________________
+
+---
+
+## 12. Catatan Pengembangan Hubungan: Rivalitas, Basket, dan Kecemburuan
+
+> **Status: OPSI BRAINSTORMING YANG TELAH DISETUJUI PENULIS (2026-11-05). Belum ditetapkan sebagai canon final.**
+>
+> Bagian ini menyimpan arah pengembangan yang telah disepakati dalam diskusi. Isinya menjadi pegangan agar gagasan tidak hilang, tetapi tidak otomatis menghapus atau mengesahkan seluruh bagian sebelumnya. Jika nanti dijadikan canon, bagian-bagian lama yang bertentangan perlu direvisi agar dokumen konsisten.
+
+### 12.1. Sifat Sosial Arkana
+
+Arkana tidak perlu digambarkan sebagai sosok yang selalu diam, kaku, atau menghindari percakapan. Ia mampu bergaul, percaya diri, dan berbicara santai dengan orang lain. Ia memiliki pesona yang membuatnya cukup populer, termasuk di kalangan perempuan.
+
+Arkana dapat melontarkan candaan, menanggapi obrolan ringan, dan menikmati interaksi sosial tanpa harus kehilangan sisi dirinya yang tenang serta terkontrol. Sikap tertutupnya lebih berkaitan dengan hal-hal pribadi dan kerentanan yang tidak mudah ia perlihatkan, bukan ketidakmampuan bersosialisasi.
+
+Arah ini perlu diselaraskan lebih lanjut dengan Profil Karakter Arkana, yang saat ini masih menggambarkannya terutama sebagai sosok tenang, dingin, dan sulit dibaca.
+
+### 12.2. Rivalitas Devan dan Arkana
+
+Devan memandang Arkana sebagai rival dalam beberapa hal, terutama:
+- kemampuan bermain basket;
+- daya tarik dan popularitas di kalangan perempuan;
+- persaingan kecil sehari-hari yang dapat berkembang menjadi saling ledek.
+
+Rivalitas tersebut bukan kebencian. Keduanya tetap dapat bercanda, saling menggoda, dan bersaing tanpa harus selalu menganggap interaksi mereka sebagai konflik serius.
+
+Namun, kadar rivalitas itu tidak selalu seimbang. Devan lebih sering menganggap Arkana sebagai pesaing, sedangkan Arkana tidak selalu menanggapi Devan dengan keseriusan yang sama. Dalam beberapa situasi, Arkana justru tetap santai ketika Devan mulai terpancing.
+
+### 12.3. Kerja Sama di Lapangan
+
+Di luar persaingan individual, Devan dan Arkana dapat menjadi salah satu kombinasi pemain yang sangat efektif ketika berada dalam satu tim. Keduanya mampu membaca pergerakan dan memahami respons satu sama lain selama permainan.
+
+Kemampuan mereka saling melengkapi, sehingga kerja sama di lapangan dapat berjalan baik bahkan tanpa banyak komunikasi. Devan sendiri belum sepenuhnya menyadari, atau belum mau mengakui, bahwa dirinya dan Arkana merupakan pasangan bermain yang sangat cocok.
+
+Rivalitas mereka tidak menghilangkan kemampuan untuk bekerja sama. Justru, kontras antara persaingan pribadi dan kekompakan di lapangan menjadi salah satu ciri hubungan mereka.
+
+**[BELUM DITENTUKAN]:** posisi bermain, gaya permainan spesifik, dan pola kombinasi teknis khas keduanya.
+
+### 12.4. Kecemburuan Devan dan Peran Eleina
+
+Eleina pertama kali mengenal Arkana melalui cerita-cerita Devan. Dalam salah satu percakapan, Eleina dapat bertanya kepada Devan tentang siapa partner basket terbaiknya.
+
+Pertanyaan itu berpotensi memancing kecemburuan Devan. Ia mengetahui bahwa Arkana menarik dan cukup populer di kalangan perempuan. Devan kemudian merasa tidak nyaman membayangkan kemungkinan Eleina tertarik kepada Arkana.
+
+Alih-alih mengakui rasa cemburunya, Devan berusaha menjawab dengan meremehkan Arkana atau menyangkal bahwa mereka merupakan pasangan bermain yang bagus. Sikap defensif tersebut dapat terlihat dari cara Devan menjawab, meskipun ia berusaha terdengar biasa saja.
+
+Ketegangan ini sebaiknya tetap terasa ringan dan manusiawi. Devan tidak perlu sampai menghina Arkana secara kejam. Kontradiksi antara penilaian Devan yang sebenarnya terhadap kemampuan Arkana dan ucapannya kepada Eleina sudah cukup untuk memperlihatkan kecemburuan tersebut.
+
+Eleina dapat menangkap kejanggalan dalam respons Devan, tetapi tidak harus langsung mengetahui alasan sebenarnya.
+
+### 12.5. Alexia dan Arkana
+
+Alexia merupakan pihak yang lebih berani mengambil inisiatif untuk mendekati Arkana. Ia menunjukkan ketertarikan dan berusaha membangun kedekatan dengannya, bukan menunggu Arkana selalu memulai interaksi.
+
+Arah ini mendukung gambaran Arkana sebagai sosok yang cukup menarik secara sosial, tetapi tidak berarti Arkana harus selalu aktif mengejar perhatian perempuan.
+
+### 12.6. Pertengkaran yang Lebih Serius
+
+Hubungan Devan dan Arkana tidak hanya berisi persaingan bercanda. Ada kalanya perbedaan atau ketegangan di antara mereka berkembang menjadi pertengkaran sungguhan.
+
+Pada titik tertentu, konflik mereka dapat memuncak sampai Elvano harus turun tangan untuk memisahkan keduanya. Peristiwa ini menjadi penanda bahwa rivalitas mereka memiliki batas dan dapat berubah menjadi konflik serius ketika pemicunya tepat.
+
+**[BELUM DITENTUKAN]:** penyebab pertengkaran besar, pemicu spesifik, waktu kejadian, serta konsekuensi setelah Elvano memisahkan mereka.
+
+### 12.7. Benang Merah Dinamika
+
+Benang merah hubungan ini adalah: **Devan menganggap Arkana sebagai rival, tetapi tanpa sadar juga mengandalkannya.**
+
+Devan dapat merasa kesal, terpancing, atau cemburu terhadap Arkana. Ia bahkan dapat meremehkan Arkana ketika berbicara dengan Eleina. Namun, ketika berada di lapangan, Devan tetap mampu membaca permainan Arkana dan bekerja sama dengannya secara alami.
+
+Arkana tidak harus selalu membalas rivalitas Devan dengan intensitas yang sama. Sikapnya yang lebih santai dapat membuat dinamika mereka terasa hidup: Devan lebih mudah terpancing, sementara Arkana terkadang cukup menanggapi dengan candaan atau tetap fokus pada permainannya.
+
+Dinamika ini tidak menghapus rasa saling menghormati dan kepercayaan yang telah digambarkan pada bagian sebelumnya. Ia menambahkan lapisan persaingan, humor, kecemburuan, dan konflik pada hubungan yang juga memiliki dasar kerja sama.
+

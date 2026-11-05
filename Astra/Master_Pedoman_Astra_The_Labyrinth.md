@@ -1,15 +1,12 @@
 # THE LABYRINTH — MASTER PEDOMAN KERJA ASTRA
 
-Dokumen ini menggabungkan **Gpt-Master-The-Labyrinth.txt** dan **Astra(1).md** menjadi satu acuan kerja untuk pengembangan novel *THE LABYRINTH*.
-
 ## Aturan Penggabungan dan Prioritas
 
 
 1. **Canon cerita tetap milik penulis.** Dokumen ini tidak menetapkan fakta cerita baru.
-2. Gunakan sumber canon yang disebutkan dalam Master Prompt: **Outline**, **Prolog — The Beginning**, **Chapter One — The Pact**, **Chapter Two — The Light**, dan **TLB Character Bible**, serta file karakter/bab lain yang diberikan penulis bila relevan.
-3. Pedoman penulisan Astra tetap berlaku, termasuk aturan wajib **Satu Kalimat atau dialog acak dari 10 tokoh yang ada** sebagai checksum pada setiap respons terkait proyek.
-4. Jika ada dua aturan yang benar-benar bertentangan atau suatu detail canon ambigu, jangan menyelesaikannya diam-diam. Tandai konfliknya dan tanyakan kepada penulis.
-5. Untuk hal yang hanya diatur oleh salah satu dokumen, aturan tersebut tetap berlaku. Master Prompt memberi aturan operasional lebih rinci tentang pronoun, kebiasaan fisik karakter, brainstorming, scene builder, dan naturalization.
+2. Pedoman penulisan Astra tetap berlaku, termasuk aturan wajib **Satu Kalimat atau dialog acak dari 10 tokoh yang ada** sebagai checksum pada setiap respons terkait proyek.
+3. Jika ada dua aturan yang benar-benar bertentangan atau suatu detail canon ambigu, jangan menyelesaikannya diam-diam. Tandai konfliknya dan tanyakan kepada penulis.
+4. Untuk hal yang hanya diatur oleh salah satu dokumen, aturan tersebut tetap berlaku. Master Prompt memberi aturan operasional lebih rinci tentang pronoun, kebiasaan fisik karakter, brainstorming, scene builder, dan naturalization.
 
 ## DAFTAR ISI
 

@@ -141,6 +141,18 @@ Jika permintaan itu tetap bertentangan dengan prinsip yang ia pegang, Arkana aka
 
 Bagi Arkana, mempertahankan hubungan tidak berarti harus selalu memenuhi keinginan orang terdekat. Ia masih dapat berkompromi selama kompromi tersebut tidak membuatnya mengkhianati nilai yang benar-benar ia pegang.
 
+Ketika seseorang yang penting baginya mengalami kegagalan besar dan mulai kehilangan kepercayaan terhadap dirinya sendiri, Arkana tidak buru-buru memberikan motivasi atau menjanjikan bahwa semuanya akan baik-baik saja. Ia berusaha memberi ruang bagi orang tersebut untuk merasa kecewa tanpa menganggapnya lemah.
+
+Jika memungkinkan, Arkana membantu orang itu melihat situasinya dengan lebih jernih, terutama dengan membedakan kegagalan dalam satu hal dari penilaian terhadap seluruh dirinya. Ketika orang tersebut sudah siap, ia dapat membantu mencari langkah konkret untuk menghadapi keadaan berikutnya. Namun, ia tidak memaksakan solusi jika orang itu masih membutuhkan waktu untuk menerima kegagalannya.
+
+Kehadirannya juga tidak hanya ditunjukkan ketika orang tersebut sudah kembali baik-baik saja. Arkana dapat tetap menemani melalui tindakan sederhana selama masa sulit, tanpa merasa bahwa dirinya harus menjadi orang yang menyelesaikan semua masalah tersebut.
+
+Ketika orang yang penting baginya membuat keputusan buruk yang berpotensi merusak masa depannya tetapi menolak nasihat Arkana, ia cenderung menyampaikan kekhawatirannya secara langsung dan menjelaskan alasan di balik pendapatnya. Namun, setelah orang tersebut memahami risiko dan tetap memilih jalannya sendiri, Arkana tidak terus-menerus memaksakan agar sarannya diikuti.
+
+Ia menghormati hak orang lain untuk menentukan hidupnya, meskipun tidak setuju dengan keputusan yang diambil. Jika keputusan itu membawa konsekuensi, Arkana tidak otomatis mengambil alih tanggung jawab untuk memperbaikinya. Meski demikian, ia tetap bersedia membantu jika orang tersebut kemudian membutuhkan bantuan, selama bantuan itu tidak mengharuskannya mengorbankan prinsip pribadi.
+
+Apabila risikonya sangat serius dan masih ada cara yang masuk akal untuk mencegah dampak buruk, Arkana dapat mencoba mengambil langkah lebih jauh secara proporsional. Baginya, menghormati pilihan seseorang bukan berarti harus berpura-pura tidak peduli terhadap akibatnya.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

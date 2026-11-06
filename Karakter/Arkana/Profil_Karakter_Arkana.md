@@ -10,6 +10,8 @@ Arkana adalah seorang *survivor* yang membentuk dirinya sendiri dengan menolak w
 
 ## 3. Dunia Batin dan Psikologi
 
+Arkana lebih banyak mengukur nilai dirinya melalui prinsip dan penilaian pribadinya, terutama apakah tindakan yang ia ambil sesuai dengan nilai yang ia pegang. Pendapat orang lain tetap dapat memengaruhinya, tetapi tidak otomatis menjadi penentu tentang siapa dirinya.
+
 Arkana ingin membangun identitas berdasarkan nilai dan pilihannya sendiri. Ia tidak ingin kesalahan ayah dan kakaknya menentukan siapa dirinya atau arah hidup yang harus ia jalani.
 
 Keinginannya untuk menjadi pribadi yang berbeda dari keluarganya tetap berkaitan dengan pengalaman masa lalu, tetapi hal tersebut bukan satu-satunya pusat kehidupannya. Arkana tidak ingin menghabiskan hidup hanya untuk membuktikan bahwa dirinya bukan seperti ayah dan kakaknya. Ia ingin menjalani hidup sebagai dirinya sendiri, dengan keputusan dan tanggung jawab yang ia tentukan.

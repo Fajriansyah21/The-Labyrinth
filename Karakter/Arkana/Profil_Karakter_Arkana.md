@@ -26,6 +26,8 @@ Masa lalu keluarganya merupakan bagian dari hidup Arkana yang tidak ia sangkal, 
 
 Dalam membangun kepercayaan, Arkana dapat bersikap ramah dan terbuka dalam pergaulan sehari-hari tanpa langsung memberikan kepercayaan emosional yang mendalam. Kepercayaan yang lebih besar tumbuh secara bertahap melalui konsistensi dan pengalaman bersama. Kesan pertama atau keramahan seseorang saja belum cukup baginya untuk membuka hal-hal yang bersifat pribadi.
 
+Ketika rasa takut atau kecemasan tentang kemungkinan mengulangi kesalahan keluarganya muncul, Arkana biasanya mencoba memikirkannya sendiri terlebih dahulu dan memastikan tindakannya tetap sesuai dengan prinsip yang ia pegang. Namun, ia tidak selalu merasa harus menghadapi semuanya sendirian. Jika masih ragu terhadap penilaiannya, ia dapat meminta sudut pandang orang yang benar-benar ia percaya. Baginya, mendengarkan pendapat orang lain bukan berarti menyerahkan kendali atas keputusan hidupnya, melainkan menyadari bahwa penilaiannya sendiri juga dapat memiliki keterbatasan.
+
 Ketika seseorang mulai mencampuri urusan pribadinya, Arkana biasanya berusaha menjaga batas secara halus terlebih dahulu. Ia dapat mengalihkan pembicaraan, menjawab seperlunya, atau menggunakan humor agar percakapan tidak berlanjut ke hal yang tidak ingin ia bagikan. Jika orang tersebut terus mendesak atau mengabaikan batas yang sudah ia tunjukkan, Arkana dapat menyampaikan penolakannya secara lebih langsung dan tegas. Kedekatan dengan seseorang tidak otomatis memberinya hak untuk mengetahui semua hal tentang Arkana.
 
 ## 4. Pengaruh Pengalaman terhadap Karakter

@@ -159,6 +159,12 @@ Namun, jika masalah mulai terlalu berat atau sulit diselesaikan sendiri, Arkana 
 
 Jika orang terdekat tidak menyadari keadaannya, Arkana tidak otomatis menganggap mereka tidak peduli. Namun, jika ia sudah berusaha membuka diri dan respons yang diterimanya justru meremehkan atau mengabaikan kesulitannya, hal tersebut dapat memengaruhi keinginannya untuk kembali meminta bantuan.
 
+Pengalaman hidup membentuk cara Arkana memandang masa lalunya, tetapi ia tidak berusaha menghapus atau menyangkal bahwa masa lalu tersebut merupakan bagian dari kehidupannya. Ia juga tidak ingin seluruh kehidupannya terus berpusat pada kesalahan ayah dan kakaknya.
+
+Ketika kehidupannya mulai berjalan lebih baik, Arkana dapat menikmati keadaan tersebut tanpa merasa bersalah karena dirinya bisa bahagia meskipun masa lalu keluarganya tetap menyakitkan. Namun, ia tidak menganggap setiap kebahagiaan sebagai tanda bahwa dirinya telah sepenuhnya pulih. Kenangan lama masih dapat muncul dan memengaruhi perasaannya, tetapi hal itu tidak berarti ia harus kembali terjebak di dalamnya.
+
+Pada akhirnya, Arkana ingin menjalani kehidupan yang dibangun dari pilihan dan nilai-nilainya sendiri. Ia tidak ingin menghabiskan hidup hanya untuk melawan bayangan masa lalu keluarganya. Baginya, kedamaian bukan berarti masa lalu itu tidak pernah ada, melainkan ia tidak lagi harus menjadikan masa lalu tersebut sebagai pusat kehidupannya.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

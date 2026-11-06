@@ -107,6 +107,12 @@ Di hadapan orang yang benar-benar dekat dengannya, Arkana dapat menunjukkan sisi
 
 Kedekatan tidak membuat Arkana berubah menjadi pribadi yang selalu ekspresif atau bergantung pada orang tersebut. Ia tetap memiliki kemandirian dan cara pribadinya dalam menjalani hidup. Perbedaannya terletak pada ruang yang bersedia ia berikan dan keterlibatan yang ia bangun bersama orang tersebut.
 
+Ketika orang yang penting baginya tampak membutuhkan sesuatu tetapi tidak meminta bantuan secara langsung, Arkana dapat memperhatikan perubahan perilaku atau kesulitan yang terlihat dari orang tersebut. Namun, ia tidak langsung menganggap dirinya mengetahui apa yang sedang dibutuhkan orang itu.
+
+Ia dapat menawarkan bantuan secara sederhana tanpa memaksa orang tersebut untuk menerimanya. Jika tawarannya ditolak, Arkana biasanya menghormati keputusan itu selama tidak ada keadaan mendesak. Apabila masalahnya terlihat serius, ia dapat mengambil inisiatif lebih jauh sambil tetap mempertimbangkan batas dan kebutuhan orang tersebut.
+
+Bagi Arkana, kedekatan tidak berarti ia otomatis memahami semua hal yang tidak diucapkan. Ia dapat peka terhadap keadaan orang lain, tetapi tetap membutuhkan komunikasi agar tidak hanya mengandalkan dugaan sendiri.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

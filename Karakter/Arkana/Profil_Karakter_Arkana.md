@@ -66,6 +66,11 @@ Pengalaman perundungan membuat Arkana cenderung tidak langsung bereaksi ketika m
 
 Namun, sikap tersebut bukan berarti semua komentar tidak memengaruhinya. Penilaian dari orang yang berarti baginya atau komentar yang menyentuh hal sensitif tetap dapat membuatnya terganggu. Ia hanya tidak ingin memberikan reaksi yang membuat orang lain menentukan bagaimana ia memandang dirinya sendiri.
 
+
+Pengalaman masa lalu juga memengaruhi seberapa jauh Arkana membiarkan orang lain mengenalnya secara pribadi. Dalam pergaulan sehari-hari, ia tetap dapat bersikap santai, bercanda, dan berinteraksi dengan orang lain. Namun, ia lebih selektif ketika menyangkut hal-hal pribadi seperti masalah keluarga, ketakutan, pengalaman buruk, atau pemikiran yang benar-benar penting baginya.
+
+Arkana tidak merasa harus menyembunyikan seluruh masa lalunya, tetapi ia ingin memiliki kendali atas kapan, kepada siapa, dan seberapa banyak ia menceritakan hal tersebut. Jika orang lain mengetahui masa lalunya, ia tidak ingin diperlakukan seolah-olah dirinya hanya seseorang yang harus dikasihani.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

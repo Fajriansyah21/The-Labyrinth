@@ -234,6 +234,12 @@ Jika pujian terasa berlebihan, ia mungkin mengalihkan perhatian kembali pada pek
 
 Responsnya juga bergantung pada siapa yang memberikan pujian. Di hadapan orang yang dekat dengannya, Arkana dapat menanggapinya dengan lebih santai atau membalasnya melalui humor ringan.
 
+
+
+Ketika menjadi bahan candaan, Arkana tidak otomatis merasa tersinggung. Ia cenderung mempertimbangkan konteks dan kedekatannya dengan orang yang bercanda sebelum menentukan respons. Candaan ringan dari orang yang dekat dengannya dapat ia tanggapi dengan komentar singkat atau balasan humor.
+
+Namun, Arkana tidak memaksakan diri untuk tertawa atau berpura-pura menikmati candaan yang tidak menurutnya lucu atau mulai membuatnya tidak nyaman. Jika candaan melewati batas pribadinya, ia dapat menyampaikan keberatan secara langsung tanpa harus membuat keributan.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

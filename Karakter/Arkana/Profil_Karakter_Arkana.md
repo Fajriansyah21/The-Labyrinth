@@ -28,10 +28,26 @@ Posturnya ramping dan stabil. Cara berdirinya tegak dengan jarak yang terkontrol
 
 [BELUM DITENTUKAN]
 
-## 7. Konflik, Perkembangan, dan Perubahan
 
-[BELUM DITENTUKAN]
+## 7. Konflik, Kesalahan, dan Permintaan Maaf
+
+Arkana mampu menyadari dan mengakui kesalahannya. Ia bukan orang yang selalu mempertahankan gengsi atau merasa harus menang dalam setiap konflik. Namun, ada perbedaan antara mengetahui bahwa dirinya salah dan merasa siap memperlihatkan kerentanan dengan mengakuinya.
+
+Cara Arkana menghadapi kesalahan bergantung pada pemicu konflik, kondisi emosional, serta orang yang terlibat:
+
+- Jika kesalahannya jelas dan hubungannya cukup dekat, Arkana dapat mengakuinya dan meminta maaf secara langsung.
+- Jika emosinya masih tinggi, ia mungkin membutuhkan waktu untuk menenangkan diri dan memikirkan apa yang terjadi sebelum kembali membicarakannya.
+- Jika konflik menyentuh harga diri atau hal pribadi yang sensitif, mengakui kesalahan dapat terasa lebih sulit. Dalam keadaan seperti itu, ia mungkin lebih dahulu memperbaiki sikap atau menunjukkan penyesalan melalui tindakan.
+- Jika ia tidak merasa bersalah atas inti pendapat atau keputusannya, ia tidak akan meminta maaf hanya untuk mengakhiri konflik. Namun, ia tetap dapat mengakui bahwa cara penyampaiannya keliru atau menyakiti orang lain.
+
+Tindakan memperbaiki keadaan tidak selalu menjadi pengganti permintaan maaf. Arkana tidak boleh digambarkan selalu menghindari pengakuan verbal dengan hanya bersikap lebih baik setelah konflik. Ia tetap mampu bertanggung jawab dan meminta maaf ketika memang menyadari dirinya salah.
+
+Waktu yang dibutuhkan Arkana bukan semata-mata untuk mempertahankan ego, melainkan untuk mencapai kesiapan emosional agar dapat mengakui kesalahan dengan jujur. Kedewasaannya terlihat dari kemampuannya mengambil tanggung jawab, bukan dari ketidakmampuannya memperlihatkan kerentanan.
 
 ## 8. Pedoman Penulisan dan Catatan Kontinuitas
 
-[BELUM DITENTUKAN]
+- Jangan menggambarkan Arkana sebagai sosok yang selalu gengsi meminta maaf atau selalu menunggu pihak lain memulai perdamaian.
+- Jangan pula membuatnya selalu langsung meminta maaf tanpa mempertimbangkan kondisi emosional dan konteks hubungan.
+- Bedakan antara mengakui bahwa tindakan atau cara bicaranya salah dengan menarik kembali pendapat yang masih ia yakini.
+- Responsnya harus tetap kontekstual. Kedekatan, pemicu konflik, tingkat kesalahan, dan kesiapan emosional memengaruhi cara serta waktu ia meminta maaf.
+- Kedewasaan Arkana tidak berarti ia selalu bereaksi sempurna. Ia dapat terlambat menyadari dampak ucapannya, membutuhkan waktu, atau memilih cara memperbaiki keadaan yang belum ideal.

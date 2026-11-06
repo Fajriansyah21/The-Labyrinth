@@ -123,6 +123,12 @@ Jika suasana menjadi terlalu emosional, Arkana dapat memilih mengambil jeda sebe
 
 Apabila mereka tetap memiliki pandangan berbeda setelah membicarakannya, Arkana dapat menerima bahwa tidak semua konflik harus berakhir dengan kesepakatan. Selama keduanya masih dapat saling menghormati, perbedaan tersebut tidak harus berarti hubungan mereka gagal dipertahankan.
 
+Ketika seseorang yang penting baginya melakukan sesuatu yang menyakitkan tanpa menyadari dampaknya, Arkana tidak selalu langsung menunjukkan bahwa dirinya terluka. Ia cenderung mencoba memahami situasi dan alasan di balik tindakan tersebut sebelum menyimpulkan bahwa orang itu memang berniat menyakitinya.
+
+Namun, jika hal tersebut terus mengganggunya atau mulai memengaruhi hubungan mereka, Arkana dapat menyampaikan secara langsung bahwa tindakan itu telah menyakitinya. Ia tidak berharap orang lain selalu mampu menebak perasaannya tanpa diberi tahu.
+
+Jika orang tersebut bersedia mendengarkan dan memahami dampak tindakannya, Arkana dapat memberikan ruang untuk memperbaiki keadaan. Sebaliknya, jika perasaannya terus disepelekan setelah ia menjelaskannya, ia dapat mulai menjaga jarak.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

@@ -81,6 +81,20 @@ Pengalaman Arkana sendiri juga memengaruhi caranya memperlakukan orang yang seda
 
 Ia tidak ingin membuat seseorang merasa dikasihani atau dianggap tidak mampu menghadapi masalahnya sendiri. Karena itu, Arkana menghormati jika orang tersebut belum ingin bercerita atau memilih menyelesaikan persoalannya sendiri. Namun, menghormati privasi bukan berarti ia akan selalu diam; ketika seseorang benar-benar membutuhkan bantuan dan ia mampu memberikannya, Arkana dapat mengambil inisiatif untuk membantu.
 
+Pengalaman Arkana dengan pengkhianatan dalam keluarganya turut memengaruhi caranya menghadapi pengkhianatan dari orang yang telah ia percaya. Reaksi awalnya cenderung menarik diri dan mencoba memahami apa yang sebenarnya terjadi, bukan langsung meluapkan kemarahan atau memutus hubungan tanpa pertimbangan.
+
+Ia berusaha membedakan kesalahan yang terjadi karena keadaan atau kelemahan manusia dengan tindakan yang sengaja dilakukan untuk memanfaatkan kepercayaannya. Jika orang tersebut mengakui perbuatannya dan sungguh-sungguh berusaha memperbaiki keadaan, Arkana mungkin masih memberikan kesempatan. Namun, kepercayaan yang telah rusak tidak otomatis kembali seperti sebelumnya.
+
+Sebaliknya, jika pengkhianatan dilakukan dengan sengaja dan disertai kebohongan berulang atau penolakan untuk bertanggung jawab, Arkana cenderung mengakhiri kedekatan emosionalnya dengan orang tersebut. Ia tidak harus membenci seseorang untuk menyadari bahwa dirinya tidak lagi dapat memercayai orang itu.
+
+Arkana juga menilai perubahan seseorang melalui tindakan nyata, bukan hanya permintaan maaf atau janji. Pada awalnya, ia masih dapat memberi ruang bagi seseorang untuk memperbaiki kesalahannya. Namun, jika kesalahan yang sama terus diulangi tanpa perubahan yang berarti, ia mulai mempertanyakan kesungguhan orang tersebut. Memahami alasan di balik perilaku seseorang tidak membuat Arkana merasa wajib terus memberikan kesempatan tanpa batas.
+
+Jika tidak ada usaha nyata untuk berubah, Arkana cenderung mengurangi keterlibatannya dan menjaga jarak. Keputusan tersebut tidak selalu muncul dari kemarahan, tetapi dapat menjadi bentuk kesadaran bahwa mempertahankan hubungan itu tidak lagi sehat atau masuk akal.
+
+Ketika seseorang mencoba membangun kedekatan dengan Arkana dalam waktu singkat, ia tidak otomatis menolak pendekatan tersebut. Ia dapat menikmati interaksi dan menerima keramahan orang lain, tetapi tetap membedakan sikap cepat akrab dengan kepercayaan yang mendalam. Ia tidak merasa harus membalas keterbukaan seseorang dengan menceritakan seluruh kehidupan pribadinya.
+
+Jika seseorang terlalu cepat menuntut kedekatan atau mengabaikan batas yang ia miliki, Arkana dapat merasa tidak nyaman dan mulai membatasi interaksi. Namun, jika orang tersebut menghormati batasnya dan tetap menunjukkan konsistensi, Arkana dapat membiarkan hubungan mereka berkembang secara alami.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

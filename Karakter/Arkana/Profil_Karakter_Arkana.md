@@ -194,6 +194,14 @@ Ia dapat mengajukan pertanyaan ketika membutuhkan kejelasan, tetapi tidak merasa
 
 Di hadapan orang yang dekat dengannya, Arkana juga dapat menunjukkan humor secara spontan melalui komentar singkat atau tanggapan jahil. Hal tersebut muncul secara alami sesuai suasana dan kedekatan, bukan sebagai sesuatu yang harus selalu ia lakukan.
 
+
+
+Dalam kesehariannya, Arkana cenderung menyukai keteraturan yang praktis. Ia biasanya meletakkan barang di tempat yang mudah dijangkau dan mengingat posisi benda-benda yang sering digunakannya. Ia juga tidak terbiasa terburu-buru ketika keadaan tidak menuntutnya; ia lebih memilih menyelesaikan sesuatu dengan baik daripada bergerak cepat tanpa alasan.
+
+Ketika berada di lingkungan baru, Arkana dapat memperhatikan keadaan sekitarnya tanpa menjadikannya pusat perhatian. Ia mungkin mengamati tata ruang, posisi orang, atau perubahan kecil di sekitarnya. Gerakannya juga cenderung tidak dipenuhi kebiasaan memainkan benda di tangan, meskipun ketika santai ia tidak harus selalu tampak kaku.
+
+Keteraturan tersebut bukan aturan mutlak yang harus selalu dipertahankan. Arkana tetap dapat menyesuaikan diri ketika keadaan berubah atau ketika kebiasaannya tidak memungkinkan untuk dilakukan.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

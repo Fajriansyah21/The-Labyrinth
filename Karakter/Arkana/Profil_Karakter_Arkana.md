@@ -20,6 +20,8 @@ Hal yang paling ia takutkan bukan sekadar melakukan tindakan kriminal yang perna
 
 Karena itu, kekhawatiran Arkana dapat muncul dalam keputusan yang tidak selalu berkaitan dengan pelanggaran hukum. Ia bisa mempertanyakan apakah dirinya sedang mencari pembenaran atau mengabaikan dampak tindakannya terhadap orang lain. Namun, hal ini tidak berarti ia terus-menerus mencurigai setiap keputusan atau tidak percaya pada penilaiannya sendiri.
 
+Ketika melakukan kesalahan yang berdampak buruk bagi orang lain, reaksi awal Arkana dapat berupa sikap defensif. Ia mungkin berusaha menjelaskan alasan di balik tindakannya atau membela sudut pandangnya, terutama ketika merasa disudutkan. Setelah emosinya mereda, ia lebih mampu menilai tindakannya dengan jujur, membedakan alasan dari pembenaran, dan mengakui bagian yang menjadi tanggung jawabnya. Sikap defensif pada awalnya tidak berarti ia selalu menolak kesalahan; ia tetap mampu melakukan evaluasi diri setelah mendapat jarak dari situasi yang memancing emosinya.
+
 Masa lalu keluarganya merupakan bagian dari hidup Arkana yang tidak ia sangkal, tetapi ia juga tidak membenarkan tindakan ayah dan kakaknya. Ia masih dapat mengingat hubungan dan pengalaman baik yang pernah mereka miliki tanpa menganggap kenangan tersebut menghapus kesalahan yang telah terjadi. Menerima bahwa masa lalu itu nyata tidak berarti ia harus memaafkan semuanya atau berpura-pura bahwa tidak ada luka yang ditinggalkan.
 
 ## 4. Pengaruh Pengalaman terhadap Karakter

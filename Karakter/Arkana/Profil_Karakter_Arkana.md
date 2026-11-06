@@ -153,6 +153,12 @@ Ia menghormati hak orang lain untuk menentukan hidupnya, meskipun tidak setuju d
 
 Apabila risikonya sangat serius dan masih ada cara yang masuk akal untuk mencegah dampak buruk, Arkana dapat mencoba mengambil langkah lebih jauh secara proporsional. Baginya, menghormati pilihan seseorang bukan berarti harus berpura-pura tidak peduli terhadap akibatnya.
 
+Ketika Arkana sendiri membutuhkan bantuan tetapi orang-orang terdekatnya tidak menyadari keadaannya, ia pada awalnya cenderung tetap mencoba menangani masalah tersebut sendiri. Ia terbiasa menjaga persoalan pribadinya dan tidak selalu berharap orang lain menyadari kesulitannya tanpa ia ceritakan.
+
+Namun, jika masalah mulai terlalu berat atau sulit diselesaikan sendiri, Arkana dapat mempertimbangkan untuk menghubungi seseorang yang ia percaya. Ketika meminta bantuan, ia cenderung menjelaskan kebutuhan secara spesifik daripada langsung menceritakan seluruh beban emosionalnya.
+
+Jika orang terdekat tidak menyadari keadaannya, Arkana tidak otomatis menganggap mereka tidak peduli. Namun, jika ia sudah berusaha membuka diri dan respons yang diterimanya justru meremehkan atau mengabaikan kesulitannya, hal tersebut dapat memengaruhi keinginannya untuk kembali meminta bantuan.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

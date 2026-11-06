@@ -178,6 +178,22 @@ Saat sedih atau kecewa, Arkana biasanya tidak langsung memperlihatkan perasaanny
 
 Ketika benar-benar nyaman, ekspresinya menjadi lebih lepas dan ia tidak terlalu sibuk mengendalikan setiap gerakannya. Meski demikian, ekspresi dan bahasa tubuhnya tetap bergantung pada situasi serta orang yang sedang bersamanya. Tidak setiap emosi harus selalu ditunjukkan melalui gestur tertentu.
 
+
+
+Dalam percakapan sehari-hari, Arkana cenderung berbicara ringkas dan langsung pada maksudnya. Ia tidak banyak menggunakan pembukaan atau penjelasan yang tidak diperlukan. Nada bicaranya umumnya tenang dan terukur; bahkan ketika tidak setuju, ia biasanya tidak menaikkan suara tanpa alasan.
+
+Meski demikian, cara bicaranya tidak selalu kaku atau dingin. Di hadapan orang yang dekat dengannya, Arkana dapat berbicara lebih santai, melontarkan humor ringan, atau memberi komentar spontan. Tingkat keterbukaannya tetap bergantung pada situasi dan kedekatan hubungan.
+
+Ia memilih kata-kata dengan mempertimbangkan konteks. Untuk hal pribadi atau sensitif, ia cenderung lebih berhati-hati, tetapi tidak sampai menyusun setiap kalimat secara berlebihan. Jika maksudnya sudah jelas, ia biasanya tidak merasa perlu mengulang penjelasan berkali-kali, kecuali memang dibutuhkan untuk meluruskan kesalahpahaman.
+
+Arkana juga dapat menyampaikan keberatan atau batas pribadinya secara tegas tanpa harus bersikap kasar. Ketika seseorang melewati batas atau melakukan sesuatu yang bertentangan dengan prinsipnya, ia cenderung menyatakan ketidaksetujuannya dengan jelas.
+
+Dalam interaksi, Arkana cenderung mendengarkan dan memperhatikan apa yang disampaikan orang lain sebelum memberikan tanggapan. Ia tidak merasa harus selalu mengisi keheningan atau mempertahankan percakapan ketika tidak ada hal yang perlu disampaikan.
+
+Ia dapat mengajukan pertanyaan ketika membutuhkan kejelasan, tetapi tidak merasa harus terus bertanya hanya agar percakapan berjalan. Ketika seseorang bercerita, Arkana berusaha menangkap apa yang sebenarnya dibutuhkan orang tersebut. Ia tidak selalu langsung menawarkan solusi; terkadang ia cukup mendengarkan, sementara pada situasi lain ia dapat memberikan pendapat atau bantuan yang konkret.
+
+Di hadapan orang yang dekat dengannya, Arkana juga dapat menunjukkan humor secara spontan melalui komentar singkat atau tanggapan jahil. Hal tersebut muncul secara alami sesuai suasana dan kedekatan, bukan sebagai sesuatu yang harus selalu ia lakukan.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

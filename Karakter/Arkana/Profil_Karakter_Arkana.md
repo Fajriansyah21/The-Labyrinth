@@ -14,9 +14,15 @@ Bagi Arkana, kesuksesan adalah pencapaian yang memiliki arti bagi dirinya sendir
 
 Arkana lebih banyak mengukur nilai dirinya melalui prinsip dan penilaian pribadinya, terutama apakah tindakan yang ia ambil sesuai dengan nilai yang ia pegang. Pendapat orang lain tetap dapat memengaruhinya, tetapi tidak otomatis menjadi penentu tentang siapa dirinya.
 
+Pendapat dan penilaian orang lain tetap dapat memengaruhi Arkana, terutama jika menyentuh kesalahan keluarganya. Ia bisa merasa terganggu atau terluka, tetapi tidak otomatis menerima penilaian tersebut sebagai kebenaran. Ia tidak menjalani hidup untuk membuktikan dirinya kepada semua orang; ia lebih memilih membangun identitas melalui nilai, pilihan, dan tanggung jawabnya sendiri.
+
 Arkana ingin membangun identitas berdasarkan nilai dan pilihannya sendiri. Ia tidak ingin kesalahan ayah dan kakaknya menentukan siapa dirinya atau arah hidup yang harus ia jalani.
 
 Keinginannya untuk menjadi pribadi yang berbeda dari keluarganya tetap berkaitan dengan pengalaman masa lalu, tetapi hal tersebut bukan satu-satunya pusat kehidupannya. Arkana tidak ingin menghabiskan hidup hanya untuk membuktikan bahwa dirinya bukan seperti ayah dan kakaknya. Ia ingin menjalani hidup sebagai dirinya sendiri, dengan keputusan dan tanggung jawab yang ia tentukan.
+
+Arkana menyukai situasi yang dapat ia pahami dan ruang untuk menentukan langkahnya sendiri, tetapi ia tidak harus mengendalikan setiap detail. Ketika keadaan berubah atau rencana tidak berjalan sesuai harapan, ia dapat menyesuaikan diri. Ia mampu menerima bahwa ada hal-hal di luar kendalinya tanpa harus kehilangan arah.
+
+Ketika mengalami kegagalan pribadi, Arkana dapat merasa kecewa atau frustrasi terhadap dirinya sendiri. Namun, ia berusaha memahami penyebabnya dan mengambil pelajaran, alih-alih terus terjebak dalam penyesalan. Setelah mengetahui hal yang perlu diperbaiki, ia cenderung mencari langkah konkret. Beberapa kegagalan mungkin membutuhkan waktu lebih lama untuk ia terima.
 
 Arkana memiliki arah dan tujuan mengenai kehidupan yang ingin ia bangun, tetapi tidak mengikat dirinya pada satu rencana yang kaku. Ia bersedia menyesuaikan langkah ketika keadaan berubah, tanpa harus kehilangan arah atau nilai yang ingin ia pegang. Baginya, memiliki tujuan tidak berarti semua jalan menuju ke sana dapat dipastikan sejak awal.
 
@@ -30,15 +36,21 @@ Ketika melakukan kesalahan yang berdampak buruk bagi orang lain, reaksi awal Ark
 
 Masa lalu keluarganya merupakan bagian dari hidup Arkana yang tidak ia sangkal, tetapi ia juga tidak membenarkan tindakan ayah dan kakaknya. Ia masih dapat mengingat hubungan dan pengalaman baik yang pernah mereka miliki tanpa menganggap kenangan tersebut menghapus kesalahan yang telah terjadi. Menerima bahwa masa lalu itu nyata tidak berarti ia harus memaafkan semuanya atau berpura-pura bahwa tidak ada luka yang ditinggalkan.
 
+Arkana menganggap kebahagiaan dan kesenangan sebagai bagian penting dari hidup, bukan sesuatu yang harus selalu ditunda sampai seluruh tanggung jawab selesai. Ia dapat menikmati hal-hal sederhana, bersenang-senang, dan mengejar keinginannya sendiri sambil tetap berusaha memenuhi tanggung jawabnya.
+
 Arkana mampu berdiri sendiri dan terbiasa menghadapi persoalan dengan penilaiannya sendiri, tetapi ia tetap membutuhkan kedekatan dengan orang lain. Ia menyadari bahwa hubungan dan kehadiran orang-orang yang berarti merupakan bagian penting dari hidupnya. Menerima dukungan atau menemani orang lain tidak membuat kemandiriannya hilang.
 
 Dalam membangun kepercayaan, Arkana dapat bersikap ramah dan terbuka dalam pergaulan sehari-hari tanpa langsung memberikan kepercayaan emosional yang mendalam. Kepercayaan yang lebih besar tumbuh secara bertahap melalui konsistensi dan pengalaman bersama. Kesan pertama atau keramahan seseorang saja belum cukup baginya untuk membuka hal-hal yang bersifat pribadi.
 
 Ketika rasa takut atau kecemasan tentang kemungkinan mengulangi kesalahan keluarganya muncul, Arkana biasanya mencoba memikirkannya sendiri terlebih dahulu dan memastikan tindakannya tetap sesuai dengan prinsip yang ia pegang. Namun, ia tidak selalu merasa harus menghadapi semuanya sendirian. Jika masih ragu terhadap penilaiannya, ia dapat meminta sudut pandang orang yang benar-benar ia percaya. Baginya, mendengarkan pendapat orang lain bukan berarti menyerahkan kendali atas keputusan hidupnya, melainkan menyadari bahwa penilaiannya sendiri juga dapat memiliki keterbatasan.
 
-Arkana memahami bahwa dirinya memiliki kekurangan dan sisi rapuh.
+Ketika menghadapi tekanan dari beberapa arah sekaligus, Arkana cenderung memilah persoalan berdasarkan tingkat kepentingannya dan mengerjakannya satu per satu. Ia berusaha tetap menjalankan aktivitas sehari-hari, meskipun tekanan yang ia rasakan belum tentu terlihat oleh orang lain. Cara ini tidak selalu berjalan sempurna; ia bisa keliru menentukan prioritas atau terlambat menyadari bahwa bebannya sudah terlalu berat. Jika diperlukan, ia dapat mencari bantuan untuk menghadapi hal-hal yang tidak sanggup ia tangani sendiri. Ia tidak menganggap hal tersebut sebagai sesuatu yang memalukan, meskipun tidak selalu nyaman memperlihatkannya. Arkana memahami bahwa dirinya memiliki kekurangan dan sisi rapuh. Ia terbuka terhadap perubahan ketika menyadari ada pandangan, kebiasaan, atau cara merespons yang perlu diperbaiki. Baginya, berkembang tidak berarti harus kehilangan identitas atau meninggalkan nilai-nilai yang masih ia yakini.
 
-Ketika menghadapi tekanan dari beberapa arah sekaligus, Arkana cenderung memilah persoalan berdasarkan tingkat kepentingannya dan mengerjakannya satu per satu. Ia berusaha tetap menjalankan aktivitas sehari-hari, meskipun tekanan yang ia rasakan belum tentu terlihat oleh orang lain. Cara ini tidak selalu berjalan sempurna; ia bisa keliru menentukan prioritas atau terlambat menyadari bahwa bebannya sudah terlalu berat. Jika diperlukan, ia dapat mencari bantuan untuk menghadapi hal-hal yang tidak sanggup ia tangani sendiri. Ia tidak menganggap hal tersebut sebagai sesuatu yang memalukan, meskipun tidak selalu nyaman memperlihatkannya. Ia tetap selektif dalam menentukan orang yang dapat melihat sisi dirinya yang lebih rentan. Menjaga privasi bukan berarti menyangkal kekurangan, melainkan memilih kepada siapa ia bersedia menunjukkannya.
+Ketika menyadari telah menyakiti seseorang yang berarti baginya, Arkana berusaha memahami apa yang terjadi dan dampak tindakannya sebelum memperbaiki keadaan. Ia mungkin membutuhkan waktu untuk memproses rasa bersalah, tetapi tidak ingin membiarkan orang tersebut menanggung akibatnya sendirian.
+
+Pada akhirnya, Arkana ingin menjalani kehidupan yang memberinya kedamaian. Ia ingin bebas dari keharusan untuk terus membuktikan bahwa dirinya berbeda dari keluarganya, sekaligus merasa puas dengan pilihan dan pencapaian yang bermakna baginya. Kedamaian bukan berarti hidup tanpa masalah, melainkan mampu menjalani hidup tanpa terus-menerus berperang dengan masa lalu atau mencurigai dirinya sendiri.
+
+Ia tetap selektif dalam menentukan orang yang dapat melihat sisi dirinya yang lebih rentan. Menjaga privasi bukan berarti menyangkal kekurangan, melainkan memilih kepada siapa ia bersedia menunjukkannya.
 
 Ketika seseorang mulai mencampuri urusan pribadinya, Arkana biasanya berusaha menjaga batas secara halus terlebih dahulu. Ia dapat mengalihkan pembicaraan, menjawab seperlunya, atau menggunakan humor agar percakapan tidak berlanjut ke hal yang tidak ingin ia bagikan. Jika orang tersebut terus mendesak atau mengabaikan batas yang sudah ia tunjukkan, Arkana dapat menyampaikan penolakannya secara lebih langsung dan tegas. Kedekatan dengan seseorang tidak otomatis memberinya hak untuk mengetahui semua hal tentang Arkana.
 

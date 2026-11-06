@@ -135,6 +135,12 @@ Arkana bersedia membuka kemungkinan untuk membangun hubungan kembali, tetapi ked
 
 Ia tetap mengingat pengalaman tersebut sebagai bagian dari hubungan mereka, tetapi tidak menjadikannya alasan untuk menghukum orang itu selamanya. Bagi Arkana, mengakui perubahan seseorang tidak berarti dampak masa lalu harus dihapus, dan memaafkan tidak selalu berarti kepercayaan serta kedekatan langsung pulih.
 
+Ketika orang yang dekat dengannya meminta sesuatu yang bertentangan dengan prinsip pribadi Arkana, ia tidak langsung menyetujuinya hanya karena permintaan itu datang dari seseorang yang berarti baginya. Ia berusaha memahami alasan dan situasi di balik permintaan tersebut terlebih dahulu.
+
+Jika permintaan itu tetap bertentangan dengan prinsip yang ia pegang, Arkana akan menolaknya meskipun menyadari bahwa keputusan tersebut mungkin mengecewakan orang itu. Ia dapat menjelaskan alasan penolakannya tanpa harus menghakimi pihak yang meminta. Jika memungkinkan, ia juga berusaha mencari alternatif yang dapat membantu tanpa mengorbankan prinsipnya.
+
+Bagi Arkana, mempertahankan hubungan tidak berarti harus selalu memenuhi keinginan orang terdekat. Ia masih dapat berkompromi selama kompromi tersebut tidak membuatnya mengkhianati nilai yang benar-benar ia pegang.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

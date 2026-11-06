@@ -113,6 +113,10 @@ Ia dapat menawarkan bantuan secara sederhana tanpa memaksa orang tersebut untuk 
 
 Bagi Arkana, kedekatan tidak berarti ia otomatis memahami semua hal yang tidak diucapkan. Ia dapat peka terhadap keadaan orang lain, tetapi tetap membutuhkan komunikasi agar tidak hanya mengandalkan dugaan sendiri.
 
+Kritik atau kekecewaan dari orang yang penting bagi Arkana cenderung lebih ia perhatikan dibandingkan penilaian dari orang yang tidak dekat dengannya. Reaksi awalnya terkadang dapat bersifat defensif, terutama ketika kritik disampaikan saat ia sedang emosional atau merasa disalahpahami. Namun, setelah emosinya mereda, ia berusaha memikirkan apakah kritik tersebut memang memiliki dasar.
+
+Jika ia menyadari bahwa kritik itu benar, Arkana dapat mengakuinya dan berusaha memperbaiki perilakunya. Jika tidak sependapat, ia tetap dapat menjelaskan sudut pandangnya tanpa langsung menganggap kritik tersebut sebagai serangan pribadi. Kekecewaan orang yang berarti baginya dapat membekas, tetapi hal itu tidak membuatnya selalu mengorbankan prinsip sendiri hanya demi menyenangkan orang tersebut.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

@@ -61,6 +61,11 @@ Pengalaman Arkana dengan ayahnya memengaruhi caranya membangun kepercayaan kepad
 
 Namun, pengalaman tersebut tidak membuat Arkana otomatis mencurigai semua orang atau menganggap setiap orang berpotensi mengkhianatinya. Ia tetap dapat mempercayai orang lain, tetapi tidak terburu-buru memberikan kepercayaan yang mendalam sebelum melihat bagaimana orang tersebut bersikap dalam berbagai keadaan.
 
+
+Pengalaman perundungan membuat Arkana cenderung tidak langsung bereaksi ketika menerima penilaian negatif, terutama komentar yang mengaitkan dirinya dengan kesalahan keluarganya. Ia dapat memilih mengabaikan komentar tersebut, menjawab seperlunya, atau mengakhiri interaksi ketika merasa percakapan tidak akan membawa manfaat.
+
+Namun, sikap tersebut bukan berarti semua komentar tidak memengaruhinya. Penilaian dari orang yang berarti baginya atau komentar yang menyentuh hal sensitif tetap dapat membuatnya terganggu. Ia hanya tidak ingin memberikan reaksi yang membuat orang lain menentukan bagaimana ia memandang dirinya sendiri.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

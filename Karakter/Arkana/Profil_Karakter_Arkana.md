@@ -101,6 +101,12 @@ Jika orang tersebut belum ingin terbuka, Arkana akan berusaha memberi ruang. Nam
 
 Meski demikian, Arkana tidak akan terus mengejar seseorang yang berulang kali menolak komunikasi tanpa memberikan penjelasan. Ia dapat menghormati kebutuhan orang lain untuk menjaga jarak, tetapi tetap menyadari bahwa hubungan membutuhkan keterlibatan dari kedua pihak.
 
+Ketika seseorang telah menjadi bagian penting dalam hidupnya, Arkana cenderung menunjukkan kedekatan melalui perubahan kecil dalam perilaku sehari-hari, bukan melalui pernyataan besar. Ia mulai lebih terbuka mengenai hal-hal pribadi, meskipun tetap tidak selalu menceritakan semuanya. Ia juga lebih memperhatikan kebutuhan dan kebiasaan orang tersebut, bersedia meluangkan waktu, serta melibatkannya dalam beberapa bagian kehidupannya.
+
+Di hadapan orang yang benar-benar dekat dengannya, Arkana dapat menunjukkan sisi yang lebih santai, spontan, atau sedikit jahil dibandingkan ketika berinteraksi dengan orang lain. Ketika muncul masalah dalam hubungan, ia tidak serta-merta menjauh. Ia berusaha mempertahankan komunikasi dan menyelesaikan persoalan bersama.
+
+Kedekatan tidak membuat Arkana berubah menjadi pribadi yang selalu ekspresif atau bergantung pada orang tersebut. Ia tetap memiliki kemandirian dan cara pribadinya dalam menjalani hidup. Perbedaannya terletak pada ruang yang bersedia ia berikan dan keterlibatan yang ia bangun bersama orang tersebut.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

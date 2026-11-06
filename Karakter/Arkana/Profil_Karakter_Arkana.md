@@ -16,6 +16,10 @@ Keinginannya untuk menjadi pribadi yang berbeda dari keluarganya tetap berkaitan
 
 Ketakutan untuk mengulangi kesalahan keluarganya masih dapat muncul ketika ia menghadapi keputusan yang menyangkut tanggung jawab, kejujuran, atau kepentingan pribadi. Namun, ketakutan tersebut tidak menghapus keyakinannya bahwa ia memiliki pilihan atas hidupnya sendiri.
 
+Hal yang paling ia takutkan bukan sekadar melakukan tindakan kriminal yang pernah dilakukan ayah atau kakaknya. Ia lebih takut memiliki pola pikir yang membuat seseorang membenarkan kesalahannya sendiri, mengutamakan kepentingan pribadi, menghindari tanggung jawab, atau menganggap orang lain sebagai pihak yang boleh dikorbankan demi dirinya.
+
+Karena itu, kekhawatiran Arkana dapat muncul dalam keputusan yang tidak selalu berkaitan dengan pelanggaran hukum. Ia bisa mempertanyakan apakah dirinya sedang mencari pembenaran atau mengabaikan dampak tindakannya terhadap orang lain. Namun, hal ini tidak berarti ia terus-menerus mencurigai setiap keputusan atau tidak percaya pada penilaiannya sendiri.
+
 ## 4. Pengaruh Pengalaman terhadap Karakter
 
 [BELUM DITENTUKAN]

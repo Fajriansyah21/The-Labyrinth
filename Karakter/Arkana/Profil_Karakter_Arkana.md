@@ -226,6 +226,14 @@ Arkana tidak menyukai gangguan tanpa alasan yang jelas, tetapi tetap dapat mener
 
 Meski demikian, ia tidak selalu memaksakan diri untuk terus bekerja. Ketika kelelahan atau merasa ketelitiannya mulai menurun, Arkana dapat berhenti sejenak daripada melanjutkan pekerjaan tanpa hasil yang baik.
 
+
+
+Ketika menerima pujian, Arkana cenderung menanggapinya dengan sederhana dan tidak memperpanjang pembicaraan. Ia dapat mengucapkan terima kasih tanpa merasa perlu menyangkal kemampuan atau pencapaiannya demi terlihat rendah hati.
+
+Jika pujian terasa berlebihan, ia mungkin mengalihkan perhatian kembali pada pekerjaan atau situasi yang sedang dibahas. Ia lebih mudah menghargai pujian yang spesifik dan tulus, dengan alasan yang jelas, daripada sanjungan umum yang berlebihan.
+
+Responsnya juga bergantung pada siapa yang memberikan pujian. Di hadapan orang yang dekat dengannya, Arkana dapat menanggapinya dengan lebih santai atau membalasnya melalui humor ringan.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

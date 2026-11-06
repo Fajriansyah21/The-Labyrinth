@@ -57,7 +57,9 @@ Ketika seseorang mulai mencampuri urusan pribadinya, Arkana biasanya berusaha me
 
 ## 4. Pengaruh Pengalaman terhadap Karakter
 
-[BELUM DITENTUKAN]
+Pengalaman Arkana dengan ayahnya memengaruhi caranya membangun kepercayaan kepada orang lain. Ia lebih memperhatikan kesesuaian antara perkataan dan tindakan seseorang daripada hanya mengandalkan kedekatan, janji, status, atau kesan baik. Baginya, kepercayaan perlu dibangun melalui konsistensi perilaku dan waktu, terutama ketika seseorang menghadapi masalah atau memiliki kepentingan pribadi.
+
+Namun, pengalaman tersebut tidak membuat Arkana otomatis mencurigai semua orang atau menganggap setiap orang berpotensi mengkhianatinya. Ia tetap dapat mempercayai orang lain, tetapi tidak terburu-buru memberikan kepercayaan yang mendalam sebelum melihat bagaimana orang tersebut bersikap dalam berbagai keadaan.
 
 ## 5. Perilaku dan Ekspresi Diri
 

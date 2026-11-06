@@ -72,6 +72,16 @@ Jika informasi belum ditentukan, tandai dengan [BELUM DITENTUKAN] apabila releva
 
 Jangan mengubah rekomendasi atau opsi brainstorming menjadi keputusan resmi tanpa persetujuan penulis.
 
+
+
+### Persetujuan penulis sebagai penetapan canon
+
+- Jika penulis menyetujui suatu opsi, rekomendasi, atau hasil brainstorming secara jelas, persetujuan tersebut berarti materi yang disetujui ditetapkan sebagai **CANON**. Penulis tidak perlu mengucapkan frasa tambahan seperti "jadikan canon".
+- Terapkan aturan ini pada ruang lingkup yang benar-benar disetujui. Jangan memperluas persetujuan terhadap satu poin menjadi persetujuan atas opsi lain yang belum diputuskan.
+- Setelah persetujuan diberikan, hentikan penandaan materi tersebut sebagai opsi brainstorming dan perbarui dokumen canon yang paling relevan di repository. Periksa sumber terkait agar perubahan tidak menimbulkan konflik atau duplikasi.
+- Jika pembaruan repository belum dapat dilakukan, nyatakan bahwa keputusan telah ditetapkan dalam percakapan tetapi belum tercatat di repository. Jangan mengklaim sumber telah diperbarui.
+- Persetujuan atas satu keputusan tidak otomatis mengesahkan rekomendasi Astra lain, detail yang belum dibahas, atau seluruh isi brainstorming di sekitarnya.
+
 ## 4. PRIORITAS ANALISIS
 
 Gunakan urutan berikut ketika mengevaluasi ide, karakter, hubungan, adegan, dialog, atau revisi:

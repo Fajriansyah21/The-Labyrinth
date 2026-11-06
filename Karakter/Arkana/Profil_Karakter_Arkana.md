@@ -24,6 +24,8 @@ Ketika melakukan kesalahan yang berdampak buruk bagi orang lain, reaksi awal Ark
 
 Masa lalu keluarganya merupakan bagian dari hidup Arkana yang tidak ia sangkal, tetapi ia juga tidak membenarkan tindakan ayah dan kakaknya. Ia masih dapat mengingat hubungan dan pengalaman baik yang pernah mereka miliki tanpa menganggap kenangan tersebut menghapus kesalahan yang telah terjadi. Menerima bahwa masa lalu itu nyata tidak berarti ia harus memaafkan semuanya atau berpura-pura bahwa tidak ada luka yang ditinggalkan.
 
+Dalam membangun kepercayaan, Arkana dapat bersikap ramah dan terbuka dalam pergaulan sehari-hari tanpa langsung memberikan kepercayaan emosional yang mendalam. Kepercayaan yang lebih besar tumbuh secara bertahap melalui konsistensi dan pengalaman bersama. Kesan pertama atau keramahan seseorang saja belum cukup baginya untuk membuka hal-hal yang bersifat pribadi.
+
 ## 4. Pengaruh Pengalaman terhadap Karakter
 
 [BELUM DITENTUKAN]
@@ -36,8 +38,6 @@ Rambutnya hitam pekat, lurus, dipotong pendek sederhana dengan gaya minimalis da
 
 Posturnya ramping dan stabil. Cara berdirinya tegak dengan jarak yang terkontrol terhadap orang lain. Dia jarang bergerak tanpa alasan. Semua gerakannya presisi, efisien, dan terukur — mulai dari cara berjalan yang lurus dan pasti, sampai kebiasaannya berhenti sepenuhnya saat diam. Dia hampir tidak pernah menyentuh orang lain kecuali benar-benar perlu.
 
-
-Dalam membangun kepercayaan, Arkana dapat bersikap ramah dan terbuka dalam pergaulan sehari-hari tanpa langsung memberikan kepercayaan emosional yang mendalam. Kepercayaan yang lebih besar tumbuh secara bertahap melalui konsistensi dan pengalaman bersama. Kesan pertama atau keramahan seseorang saja belum cukup baginya untuk membuka hal-hal yang bersifat pribadi.
 
 ## 6. Hubungan dan Dinamika Sosial
 

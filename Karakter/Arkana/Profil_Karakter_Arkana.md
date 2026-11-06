@@ -76,6 +76,11 @@ Pengalaman Arkana dengan masalah keluarganya juga memengaruhi caranya menilai ke
 
 Jika seseorang berusaha mengakui kesalahan dan memperbaiki dampaknya, Arkana masih dapat memberikan ruang baginya untuk berubah. Sebaliknya, ketika seseorang terus mencari pembenaran, menyalahkan orang lain, atau menghindari tanggung jawab, rasa hormat Arkana terhadap orang tersebut dapat berkurang dan ia mungkin memilih menjaga jarak.
 
+
+Pengalaman Arkana sendiri juga memengaruhi caranya memperlakukan orang yang sedang menghadapi kesulitan. Ia cenderung berusaha memahami situasi orang tersebut sebelum memberikan tanggapan. Kepeduliannya lebih sering terlihat melalui tindakan konkret dan bantuan yang jelas daripada banyak kata penghiburan.
+
+Ia tidak ingin membuat seseorang merasa dikasihani atau dianggap tidak mampu menghadapi masalahnya sendiri. Karena itu, Arkana menghormati jika orang tersebut belum ingin bercerita atau memilih menyelesaikan persoalannya sendiri. Namun, menghormati privasi bukan berarti ia akan selalu diam; ketika seseorang benar-benar membutuhkan bantuan dan ia mampu memberikannya, Arkana dapat mengambil inisiatif untuk membantu.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

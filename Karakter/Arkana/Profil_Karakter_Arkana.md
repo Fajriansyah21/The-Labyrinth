@@ -202,6 +202,14 @@ Ketika berada di lingkungan baru, Arkana dapat memperhatikan keadaan sekitarnya 
 
 Keteraturan tersebut bukan aturan mutlak yang harus selalu dipertahankan. Arkana tetap dapat menyesuaikan diri ketika keadaan berubah atau ketika kebiasaannya tidak memungkinkan untuk dilakukan.
 
+
+
+Ketika merasa tidak nyaman dalam situasi sosial, Arkana tidak selalu langsung memperlihatkannya. Ia masih dapat mengikuti percakapan, meskipun keterlibatannya mungkin mulai berkurang. Responsnya dapat menjadi lebih terbatas, seperti menjawab seperlunya atau berhenti menanggapi topik tertentu.
+
+Jika memungkinkan, ia dapat mengalihkan arah pembicaraan atau memberi respons yang cukup jelas untuk menunjukkan batasnya. Namun, apabila orang lain terus melewati batas tersebut, Arkana dapat menyampaikan ketidaknyamanannya secara langsung dan tegas.
+
+Arkana tidak otomatis meninggalkan setiap situasi yang membuatnya tidak nyaman. Ia mempertimbangkan konteks dan kemungkinan untuk menangani keadaan tersebut. Jika situasinya masih dapat dihadapi, ia mungkin tetap berada di sana meskipun memilih untuk tidak banyak terlibat.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

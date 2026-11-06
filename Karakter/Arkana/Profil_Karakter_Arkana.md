@@ -129,6 +129,12 @@ Namun, jika hal tersebut terus mengganggunya atau mulai memengaruhi hubungan mer
 
 Jika orang tersebut bersedia mendengarkan dan memahami dampak tindakannya, Arkana dapat memberikan ruang untuk memperbaiki keadaan. Sebaliknya, jika perasaannya terus disepelekan setelah ia menjelaskannya, ia dapat mulai menjaga jarak.
 
+Ketika seseorang yang pernah menyakitinya benar-benar berubah dan berusaha memperbaiki hubungan mereka, Arkana tidak langsung menerima orang tersebut kembali seolah-olah tidak pernah terjadi apa-apa. Ia menghargai perubahan yang terlihat melalui tindakan konsisten, bukan hanya permintaan maaf atau janji.
+
+Arkana bersedia membuka kemungkinan untuk membangun hubungan kembali, tetapi kedekatan dan batas yang ada mungkin tidak sama seperti sebelumnya. Ia tidak merasa wajib mengembalikan hubungan ke keadaan semula hanya karena orang tersebut telah berubah. Jika hubungan mulai membaik, ia membiarkannya berkembang secara bertahap tanpa terus-menerus mengungkit kesalahan lama.
+
+Ia tetap mengingat pengalaman tersebut sebagai bagian dari hubungan mereka, tetapi tidak menjadikannya alasan untuk menghukum orang itu selamanya. Bagi Arkana, mengakui perubahan seseorang tidak berarti dampak masa lalu harus dihapus, dan memaafkan tidak selalu berarti kepercayaan serta kedekatan langsung pulih.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

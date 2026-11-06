@@ -10,6 +10,8 @@ Arkana adalah seorang *survivor* yang membentuk dirinya sendiri dengan menolak w
 
 ## 3. Dunia Batin dan Psikologi
 
+Bagi Arkana, kesuksesan adalah pencapaian yang memiliki arti bagi dirinya sendiri. Ia tidak harus lebih hebat daripada keluarganya atau orang lain untuk merasa berhasil. Ia juga menghargai kehidupan yang aman, mandiri, dan stabil, tetapi hal tersebut bukan satu-satunya ukuran keberhasilan baginya.
+
 Arkana lebih banyak mengukur nilai dirinya melalui prinsip dan penilaian pribadinya, terutama apakah tindakan yang ia ambil sesuai dengan nilai yang ia pegang. Pendapat orang lain tetap dapat memengaruhinya, tetapi tidak otomatis menjadi penentu tentang siapa dirinya.
 
 Arkana ingin membangun identitas berdasarkan nilai dan pilihannya sendiri. Ia tidak ingin kesalahan ayah dan kakaknya menentukan siapa dirinya atau arah hidup yang harus ia jalani.

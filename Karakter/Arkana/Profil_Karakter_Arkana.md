@@ -240,6 +240,14 @@ Ketika menjadi bahan candaan, Arkana tidak otomatis merasa tersinggung. Ia cende
 
 Namun, Arkana tidak memaksakan diri untuk tertawa atau berpura-pura menikmati candaan yang tidak menurutnya lucu atau mulai membuatnya tidak nyaman. Jika candaan melewati batas pribadinya, ia dapat menyampaikan keberatan secara langsung tanpa harus membuat keributan.
 
+
+
+Ketika melakukan kesalahan kecil, Arkana cenderung mengakuinya tanpa memberikan banyak alasan. Jika kesalahan tersebut masih dapat diperbaiki, ia lebih memilih segera menangani masalahnya daripada terlalu lama membicarakannya.
+
+Ia tidak selalu bereaksi berlebihan terhadap kekeliruan sederhana. Namun, ia tetap dapat merasa kesal pada dirinya sendiri, terutama jika kesalahan terjadi karena kurang teliti atau sebenarnya dapat dicegah. Jika kesalahan yang sama berpotensi terulang, ia akan memperhatikan penyebabnya dan berusaha menghindarinya.
+
+Setelah masalah diperbaiki, Arkana tidak harus terus menyalahkan dirinya sendiri. Ia cenderung mengambil pelajaran yang diperlukan dan melanjutkan aktivitasnya.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

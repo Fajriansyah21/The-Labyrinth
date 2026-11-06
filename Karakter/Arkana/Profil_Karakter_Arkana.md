@@ -210,6 +210,14 @@ Jika memungkinkan, ia dapat mengalihkan arah pembicaraan atau memberi respons ya
 
 Arkana tidak otomatis meninggalkan setiap situasi yang membuatnya tidak nyaman. Ia mempertimbangkan konteks dan kemungkinan untuk menangani keadaan tersebut. Jika situasinya masih dapat dihadapi, ia mungkin tetap berada di sana meskipun memilih untuk tidak banyak terlibat.
 
+
+
+Ketika menghadapi situasi mendadak, Arkana cenderung mengambil jeda singkat untuk memahami keadaan sebelum bertindak, terutama ketika informasi yang tersedia belum cukup. Ia berusaha mengenali hal yang paling mendesak dan memprioritaskannya, alih-alih mencoba menyelesaikan semua masalah sekaligus.
+
+Arkana tidak terpaku pada rencana awal apabila keadaan sudah berubah. Ia dapat menyesuaikan pendekatan ketika cara sebelumnya tidak lagi memungkinkan. Selama masih mampu, ia berusaha mempertahankan ketenangan meskipun tetap dapat merasakan tekanan atau kepanikan.
+
+Dalam keadaan yang membutuhkan respons cepat, Arkana juga mampu bertindak spontan. Ia tidak akan terus menganalisis apabila penundaan justru membuatnya kehilangan kesempatan untuk melakukan sesuatu yang diperlukan.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

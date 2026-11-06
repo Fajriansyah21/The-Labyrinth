@@ -170,6 +170,14 @@ Rambutnya hitam pekat, lurus, dipotong pendek sederhana dengan gaya minimalis da
 Posturnya ramping dan stabil. Cara berdirinya tegak dengan jarak yang terkontrol terhadap orang lain. Dia jarang bergerak tanpa alasan. Semua gerakannya presisi, efisien, dan terukur — mulai dari cara berjalan yang lurus dan pasti, sampai kebiasaannya berhenti sepenuhnya saat diam. Dia hampir tidak pernah menyentuh orang lain kecuali benar-benar perlu.
 
 
+Ekspresi Arkana cenderung tertahan, tetapi bukan berarti emosinya selalu tidak terlihat. Perasaannya dapat tercermin melalui perubahan kecil pada wajah, tatapan, dan bahasa tubuh yang tidak selalu disadari orang lain.
+
+Ketika senang, ia tidak selalu menunjukkan senyum lebar. Kebahagiaannya dapat terlihat melalui senyum tipis, sudut bibir yang sedikit terangkat, atau ekspresi yang tampak lebih santai. Ketika kesal, wajahnya cenderung semakin datar; tatapannya dapat menjadi lebih tajam, rahangnya sedikit mengeras, atau jawabannya menjadi lebih singkat.
+
+Saat sedih atau kecewa, Arkana biasanya tidak langsung memperlihatkan perasaannya. Perubahan tersebut mungkin terlihat dari tatapan yang lebih kosong, respons yang melambat, atau keterlibatannya dalam percakapan yang berkurang. Ketika gugup atau canggung, kontrol dirinya masih terlihat, tetapi dapat muncul jeda sebelum menjawab atau gerakan tangan yang lebih kaku.
+
+Ketika benar-benar nyaman, ekspresinya menjadi lebih lepas dan ia tidak terlalu sibuk mengendalikan setiap gerakannya. Meski demikian, ekspresi dan bahasa tubuhnya tetap bergantung pada situasi serta orang yang sedang bersamanya. Tidak setiap emosi harus selalu ditunjukkan melalui gestur tertentu.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

@@ -71,6 +71,11 @@ Pengalaman masa lalu juga memengaruhi seberapa jauh Arkana membiarkan orang lain
 
 Arkana tidak merasa harus menyembunyikan seluruh masa lalunya, tetapi ia ingin memiliki kendali atas kapan, kepada siapa, dan seberapa banyak ia menceritakan hal tersebut. Jika orang lain mengetahui masa lalunya, ia tidak ingin diperlakukan seolah-olah dirinya hanya seseorang yang harus dikasihani.
 
+
+Pengalaman Arkana dengan masalah keluarganya juga memengaruhi caranya menilai kesalahan orang lain. Ia cenderung melihat tindakan dan tanggung jawab orang yang melakukannya, bukan semata-mata kedekatan pribadi. Ia dapat memahami alasan di balik tindakan seseorang, tetapi memahami alasan tersebut tidak berarti ia membenarkan perbuatannya atau menganggap orang itu bebas dari tanggung jawab.
+
+Jika seseorang berusaha mengakui kesalahan dan memperbaiki dampaknya, Arkana masih dapat memberikan ruang baginya untuk berubah. Sebaliknya, ketika seseorang terus mencari pembenaran, menyalahkan orang lain, atau menghindari tanggung jawab, rasa hormat Arkana terhadap orang tersebut dapat berkurang dan ia mungkin memilih menjaga jarak.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

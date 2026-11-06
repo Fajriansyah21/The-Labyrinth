@@ -117,6 +117,12 @@ Kritik atau kekecewaan dari orang yang penting bagi Arkana cenderung lebih ia pe
 
 Jika ia menyadari bahwa kritik itu benar, Arkana dapat mengakuinya dan berusaha memperbaiki perilakunya. Jika tidak sependapat, ia tetap dapat menjelaskan sudut pandangnya tanpa langsung menganggap kritik tersebut sebagai serangan pribadi. Kekecewaan orang yang berarti baginya dapat membekas, tetapi hal itu tidak membuatnya selalu mengorbankan prinsip sendiri hanya demi menyenangkan orang tersebut.
 
+Ketika menghadapi konflik dengan seseorang yang sangat berarti baginya dan keduanya merasa memiliki alasan yang benar, Arkana tidak langsung mengalah hanya demi mengakhiri pertengkaran atau mempertahankan hubungan. Ia berusaha memahami alasan di balik sudut pandang orang tersebut sekaligus menjelaskan pendiriannya sendiri.
+
+Jika suasana menjadi terlalu emosional, Arkana dapat memilih mengambil jeda sebelum melanjutkan pembicaraan. Baginya, konflik bukan tentang menentukan siapa yang menang. Jika ia menyadari ada bagian dari dirinya yang keliru, ia bersedia mengakuinya. Namun, ia juga berharap pihak lain mau melakukan hal yang sama.
+
+Apabila mereka tetap memiliki pandangan berbeda setelah membicarakannya, Arkana dapat menerima bahwa tidak semua konflik harus berakhir dengan kesepakatan. Selama keduanya masih dapat saling menghormati, perbedaan tersebut tidak harus berarti hubungan mereka gagal dipertahankan.
+
 ## 5. Perilaku dan Ekspresi Diri
 
 Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.

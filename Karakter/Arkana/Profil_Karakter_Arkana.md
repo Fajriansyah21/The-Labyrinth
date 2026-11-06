@@ -61,21 +61,17 @@ Pengalaman Arkana dengan ayahnya memengaruhi caranya membangun kepercayaan kepad
 
 Namun, pengalaman tersebut tidak membuat Arkana otomatis mencurigai semua orang atau menganggap setiap orang berpotensi mengkhianatinya. Ia tetap dapat mempercayai orang lain, tetapi tidak terburu-buru memberikan kepercayaan yang mendalam sebelum melihat bagaimana orang tersebut bersikap dalam berbagai keadaan.
 
-
 Pengalaman perundungan membuat Arkana cenderung tidak langsung bereaksi ketika menerima penilaian negatif, terutama komentar yang mengaitkan dirinya dengan kesalahan keluarganya. Ia dapat memilih mengabaikan komentar tersebut, menjawab seperlunya, atau mengakhiri interaksi ketika merasa percakapan tidak akan membawa manfaat.
 
 Namun, sikap tersebut bukan berarti semua komentar tidak memengaruhinya. Penilaian dari orang yang berarti baginya atau komentar yang menyentuh hal sensitif tetap dapat membuatnya terganggu. Ia hanya tidak ingin memberikan reaksi yang membuat orang lain menentukan bagaimana ia memandang dirinya sendiri.
-
 
 Pengalaman masa lalu juga memengaruhi seberapa jauh Arkana membiarkan orang lain mengenalnya secara pribadi. Dalam pergaulan sehari-hari, ia tetap dapat bersikap santai, bercanda, dan berinteraksi dengan orang lain. Namun, ia lebih selektif ketika menyangkut hal-hal pribadi seperti masalah keluarga, ketakutan, pengalaman buruk, atau pemikiran yang benar-benar penting baginya.
 
 Arkana tidak merasa harus menyembunyikan seluruh masa lalunya, tetapi ia ingin memiliki kendali atas kapan, kepada siapa, dan seberapa banyak ia menceritakan hal tersebut. Jika orang lain mengetahui masa lalunya, ia tidak ingin diperlakukan seolah-olah dirinya hanya seseorang yang harus dikasihani.
 
-
 Pengalaman Arkana dengan masalah keluarganya juga memengaruhi caranya menilai kesalahan orang lain. Ia cenderung melihat tindakan dan tanggung jawab orang yang melakukannya, bukan semata-mata kedekatan pribadi. Ia dapat memahami alasan di balik tindakan seseorang, tetapi memahami alasan tersebut tidak berarti ia membenarkan perbuatannya atau menganggap orang itu bebas dari tanggung jawab.
 
 Jika seseorang berusaha mengakui kesalahan dan memperbaiki dampaknya, Arkana masih dapat memberikan ruang baginya untuk berubah. Sebaliknya, ketika seseorang terus mencari pembenaran, menyalahkan orang lain, atau menghindari tanggung jawab, rasa hormat Arkana terhadap orang tersebut dapat berkurang dan ia mungkin memilih menjaga jarak.
-
 
 Pengalaman Arkana sendiri juga memengaruhi caranya memperlakukan orang yang sedang menghadapi kesulitan. Ia cenderung berusaha memahami situasi orang tersebut sebelum memberikan tanggapan. Kepeduliannya lebih sering terlihat melalui tindakan konkret dan bantuan yang jelas daripada banyak kata penghiburan.
 

@@ -218,6 +218,14 @@ Arkana tidak terpaku pada rencana awal apabila keadaan sudah berubah. Ia dapat m
 
 Dalam keadaan yang membutuhkan respons cepat, Arkana juga mampu bertindak spontan. Ia tidak akan terus menganalisis apabila penundaan justru membuatnya kehilangan kesempatan untuk melakukan sesuatu yang diperlukan.
 
+
+
+Ketika sedang berkonsentrasi mengerjakan sesuatu, Arkana cenderung mengurangi interaksi yang tidak berkaitan dengan hal yang sedang dikerjakannya. Ia lebih suka memusatkan perhatian pada satu bagian terlebih dahulu sebelum berpindah ke hal lain, selama situasinya memungkinkan.
+
+Arkana tidak menyukai gangguan tanpa alasan yang jelas, tetapi tetap dapat menerima interupsi apabila memang penting. Ia juga cenderung memeriksa kembali hasil pekerjaannya untuk memastikan tidak ada hal yang terlewat sebelum menganggapnya selesai.
+
+Meski demikian, ia tidak selalu memaksakan diri untuk terus bekerja. Ketika kelelahan atau merasa ketelitiannya mulai menurun, Arkana dapat berhenti sejenak daripada melanjutkan pekerjaan tanpa hasil yang baik.
+
 ## 6. Hubungan dan Dinamika Sosial
 
 [BELUM DITENTUKAN]

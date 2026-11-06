@@ -14,6 +14,8 @@ Arkana ingin membangun identitas berdasarkan nilai dan pilihannya sendiri. Ia ti
 
 Keinginannya untuk menjadi pribadi yang berbeda dari keluarganya tetap berkaitan dengan pengalaman masa lalu, tetapi hal tersebut bukan satu-satunya pusat kehidupannya. Arkana tidak ingin menghabiskan hidup hanya untuk membuktikan bahwa dirinya bukan seperti ayah dan kakaknya. Ia ingin menjalani hidup sebagai dirinya sendiri, dengan keputusan dan tanggung jawab yang ia tentukan.
 
+Arkana memiliki arah dan tujuan mengenai kehidupan yang ingin ia bangun, tetapi tidak mengikat dirinya pada satu rencana yang kaku. Ia bersedia menyesuaikan langkah ketika keadaan berubah, tanpa harus kehilangan arah atau nilai yang ingin ia pegang. Baginya, memiliki tujuan tidak berarti semua jalan menuju ke sana dapat dipastikan sejak awal.
+
 Ketakutan untuk mengulangi kesalahan keluarganya masih dapat muncul ketika ia menghadapi keputusan yang menyangkut tanggung jawab, kejujuran, atau kepentingan pribadi. Namun, ketakutan tersebut tidak menghapus keyakinannya bahwa ia memiliki pilihan atas hidupnya sendiri.
 
 Hal yang paling ia takutkan bukan sekadar melakukan tindakan kriminal yang pernah dilakukan ayah atau kakaknya. Ia lebih takut memiliki pola pikir yang membuat seseorang membenarkan kesalahannya sendiri, mengutamakan kepentingan pribadi, menghindari tanggung jawab, atau menganggap orang lain sebagai pihak yang boleh dikorbankan demi dirinya.

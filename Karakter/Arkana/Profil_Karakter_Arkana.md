@@ -266,6 +266,8 @@ Dalam menjaga batas pribadi, Arkana menyesuaikan responsnya dengan situasi. Jika
 
 Dalam menghadapi perbedaan pendapat di kelompok, Arkana tetap menyampaikan pandangannya jika merasa ada hal penting yang perlu diperhatikan. Ia menjelaskan alasannya dengan tenang dan bersedia mendengarkan sudut pandang orang lain. Jika setelah diskusi kelompok memilih keputusan yang berbeda, ia dapat menerima keputusan tersebut selama tidak bertentangan dengan prinsipnya atau membahayakan seseorang. Namun, menerima keputusan kelompok tidak berarti ia harus berpura-pura setuju. Ia tetap dapat mempertahankan pendapatnya tanpa memperpanjang perdebatan yang tidak lagi produktif.
 
+Ketika memasuki lingkungan yang belum dikenalnya, Arkana cenderung mengamati suasana dan kebiasaan kelompok terlebih dahulu sambil tetap terlibat dalam interaksi sederhana. Ia tidak harus menunggu sampai mengenal semua orang untuk mulai berbaur. Seiring waktu, ia menyesuaikan cara berinteraksi dengan karakter lingkungan tersebut tanpa harus mengubah kepribadiannya demi diterima. Jika suasananya cocok, ia dapat menjadi lebih aktif. Jika kurang cocok, ia tetap dapat bersikap sopan dan berpartisipasi seperlunya tanpa memaksakan kedekatan.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

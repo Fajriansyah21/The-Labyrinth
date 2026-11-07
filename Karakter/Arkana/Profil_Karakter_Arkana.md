@@ -256,6 +256,8 @@ Kemampuannya berinteraksi secara terbuka tidak berarti ia langsung membangun ked
 
 Ketika mulai mengenal seseorang, Arkana membangun pertemanan secara bertahap melalui interaksi yang berulang dan pengalaman bersama. Ia tidak harus langsung merasa cocok atau dekat sejak awal, tetapi juga tidak sengaja mempersulit proses tersebut. Jika mulai merasa nyaman, ia dapat lebih sering mengajak bicara, ikut dalam kegiatan bersama, atau menunjukkan ketertarikan terhadap hal yang disukai orang tersebut.
 
+Dalam kelompok pertemanan, Arkana cenderung menjadi anggota yang aktif berpartisipasi tanpa selalu mengambil alih arah kelompok. Ia dapat menyampaikan pendapat, ikut bercanda, membantu mengambil keputusan, dan mengambil inisiatif ketika diperlukan. Namun, ia tidak merasa harus menjadi pemimpin atau pusat perhatian.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

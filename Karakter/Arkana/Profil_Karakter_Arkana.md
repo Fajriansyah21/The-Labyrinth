@@ -272,6 +272,8 @@ Dalam percakapan kelompok, Arkana cukup aktif mengikuti pembicaraan, tetapi tida
 
 Ketika teman-temannya mulai jarang bertemu karena kesibukan, jarak, atau perubahan rutinitas, Arkana tidak merasa harus terus berkomunikasi setiap hari untuk mempertahankan pertemanan. Ia dapat sesekali menghubungi lebih dahulu, menanyakan kabar, mengirim sesuatu yang mengingatkannya pada temannya, atau mengajak bertemu ketika ada kesempatan. Ia juga tidak menganggap hubungan otomatis berakhir hanya karena komunikasi sedang berkurang. Selama kedua pihak masih menunjukkan keinginan untuk menjaga hubungan, Arkana bersedia mempertahankannya meskipun bentuk interaksinya berubah.
 
+Ketika kelompok teman-temannya belum memiliki rencana atau belum ada yang memulai kegiatan, Arkana cukup bersedia mengusulkan sesuatu atau mengajak mereka berkumpul, terutama jika ia memang ingin melakukan kegiatan bersama. Ia tidak selalu menunggu orang lain mengambil inisiatif, tetapi juga tidak merasa bertanggung jawab untuk terus menghidupkan kelompok atau memastikan semua orang ikut. Jika usulannya tidak disambut, ia tidak langsung menganggap teman-temannya tidak tertarik kepadanya. Ia dapat mencari kegiatan lain atau membiarkan rencana tersebut ditunda.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

@@ -21,6 +21,9 @@ Perlakuan tersebut membuat Alexia tumbuh dalam kesunyian dan merasa tidak memper
 ## 7. Hal yang Tumbuh dari Pengalaman
 Di tengah pengalaman itu, Alexia tetap memiliki kemampuan untuk menyayangi orang lain dengan tulus. Ia belajar bertahan tanpa pengakuan dan tetap memberikan perhatian meskipun dirinya sendiri jarang menerimanya.
 
+### Kecenderungan Ceria dan Ekspresi Diri
+Sejak kecil, Alexia memang memiliki kecenderungan alami untuk bersikap ceria. Namun, lingkungan keluarganya yang dingin membuatnya tidak leluasa mengekspresikan sisi tersebut di rumah. Ia baru benar-benar dapat menunjukkan dirinya dengan bebas ketika berada di luar lingkungan keluarga.
+
 ## 8. Hubungan yang Belum Dapat Dijalani
 [Belum ada informasi yang di buat]
 

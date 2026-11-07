@@ -2,11 +2,32 @@
 
 ## 1. Identitas dan Gambaran Umum
 
-Nama : Arkana. Usia: 19 tahun Tinggi badan: 179 cm. Peran: Teman satu team basket Devan, dan pasangannya Alexia.
+**Nama:** Arkana  
+**Usia:** 19 tahun  
+**Tinggi badan:** 179 cm  
+**Peran:** Teman satu tim basket Devan dan pasangan Alexia.
+
+Arkana memiliki penampilan yang menarik dengan perpaduan fitur wajah yang cenderung lembut dan proporsi yang tetap memberi kesan maskulin. Daya tariknya tidak bergantung pada penampilan yang terlalu mencolok atau usaha untuk menjadi pusat perhatian. Ia memiliki kesan *effortlessly handsome*: terlihat menarik secara alami, baik ketika berpenampilan santai maupun saat tampil lebih rapi.
+
+Rambutnya menggunakan potongan *two-block*. Tubuhnya atletis dan proporsional, selaras dengan aktivitas basket yang dijalaninya. Detail visual lain seperti warna mata, bentuk spesifik fitur wajah, dan gaya berpakaian masih **[BELUM DITENTUKAN]**.
 
 ## 2. Kepribadian dan Struktur Diri
 
-Arkana adalah seorang *survivor* yang membentuk dirinya sendiri dengan menolak warisan keluarganya. Di luar, dia terlihat tenang, dingin, dan sulit dibaca, seolah tidak peduli pada banyak hal. Namun di balik sikap itu, ada ketakutan besar bahwa suatu hari dia akan berubah menjadi seperti keluarganya sendiri. Karena itu, dia sangat menjaga jarak, kontrol diri, dan identitas pribadinya. Yang paling dia inginkan sebenarnya sederhana: dilihat sebagai dirinya sendiri, bukan bayangan masa lalu keluarganya.
+Arkana adalah pribadi yang mandiri, tenang, dan cukup observatif, tetapi ia bukan sosok yang selalu dingin atau menjaga jarak dari semua orang. Ia dapat berinteraksi dengan santai, menikmati kebersamaan, bercanda, dan menunjukkan sisi spontan ketika berada dalam situasi yang nyaman. Ia tidak harus menjadi pusat perhatian untuk dapat terlibat dalam lingkungan sosial.
+
+Dalam mengambil keputusan, Arkana cenderung praktis dan mempertimbangkan keadaan sebelum bertindak. Ia menyukai ruang untuk menentukan langkahnya sendiri, tetapi tidak terpaku pada rencana yang kaku. Ketika situasi berubah, ia mampu menyesuaikan diri tanpa harus kehilangan arah atau prinsip yang ia pegang.
+
+Kemandiriannya membuat Arkana terbiasa mengandalkan penilaian sendiri, tetapi bukan berarti ia menolak bantuan atau tidak membutuhkan orang lain. Ia dapat menerima dukungan, meminta sudut pandang dari orang yang dipercaya, dan melibatkan orang lain ketika persoalan memang lebih baik diselesaikan bersama.
+
+Arkana memiliki prinsip pribadi dan menghargai tanggung jawab. Ia berusaha menilai seseorang melalui tindakan serta kesediaannya mengakui kesalahan, bukan hanya melalui perkataan atau kesan awal. Meski demikian, ia tidak selalu langsung bersikap objektif. Ketika merasa disudutkan, ia dapat menjadi defensif atau berusaha menjelaskan sudut pandangnya terlebih dahulu. Setelah emosinya mereda, ia lebih mampu mengevaluasi tindakannya dan mengakui bagian yang menjadi tanggung jawabnya.
+
+Dalam hubungan sosial, Arkana dapat bersikap ramah dan terbuka dalam percakapan sehari-hari, tetapi tetap selektif dalam memberikan kepercayaan emosional. Ia bisa mengenal banyak orang tanpa menganggap semuanya sebagai orang dekat. Kedekatan yang lebih dalam tumbuh melalui konsistensi, kenyamanan, dan pengalaman bersama.
+
+Sisi serius dan sisi santainya dapat muncul pada orang yang sama, bergantung pada situasi dan tingkat kedekatan. Ia bisa berbicara singkat dan langsung ketika membahas sesuatu yang penting, tetapi juga melontarkan humor ringan atau komentar jahil ketika suasana mendukung. Ia tidak selalu harus terlihat tenang, terkendali, atau dewasa; ia tetap dapat merasa kesal, kecewa, gugup, menikmati kesenangan, dan melakukan kekeliruan.
+
+Kemandirian, ketenangan, dan prinsip yang dimiliki Arkana juga mempunyai keterbatasan. Ia terkadang terlalu mengandalkan penilaian sendiri, dapat terlambat menyadari bahwa bebannya sudah terlalu berat, atau menjadi defensif sebelum memahami sudut pandang orang lain. Sifat observatifnya tidak membuat semua kesimpulannya selalu benar, dan sikap praktisnya tidak selalu menjadi respons yang tepat ketika orang lain sebenarnya hanya membutuhkan seseorang untuk mendengarkan.
+
+Pengalaman keluarganya turut memengaruhi sebagian cara Arkana memandang tanggung jawab, kepercayaan, dan pilihan hidup. Namun, masa lalu tersebut bukan keseluruhan kepribadiannya. Arkana juga memiliki minat, kesenangan, hubungan, dan tujuan pribadi yang tidak selalu berkaitan dengan keluarganya. Ia ingin menjalani hidup berdasarkan nilai serta keputusan yang ia pilih sendiri, bukan terus-menerus mendefinisikan dirinya melalui kesalahan ayah dan kakaknya.
 
 ## 3. Dunia Batin dan Psikologi
 
@@ -163,11 +184,14 @@ Pada akhirnya, Arkana ingin menjalani kehidupan yang dibangun dari pilihan dan n
 
 ## 5. Perilaku dan Ekspresi Diri
 
-Secara fisik, Arkana memiliki wajah tirus dengan rahang tajam dan tulang pipi yang tegas. Ekspresinya sangat tertahan dan seperti selalu “difilter,” membuat emosinya sulit ditebak. Matanya berwarna abu-abu dingin, dengan tatapan yang langsung namun singkat. Dia lebih sering mengamati dari samping dibanding menatap lama. Tatapannya terasa seperti sedang menilai situasi atau orang lain, dan perubahan emosinya hampir tidak terlihat.
+Penampilan Arkana memiliki perpaduan fitur wajah yang cenderung lembut dengan kesan maskulin yang tetap terlihat. Rambutnya dipotong dengan gaya *two-block*, sementara tubuhnya atletis dan proporsional. Daya tarik fisiknya terasa alami dan tidak bergantung pada penampilan yang terlalu mencolok. Detail seperti warna mata, bentuk spesifik wajah, dan ciri visual lain masih **[BELUM DITENTUKAN]**.
 
-Rambutnya hitam pekat, lurus, dipotong pendek sederhana dengan gaya minimalis dan praktis. Penampilannya mencerminkan dirinya: rapi, efisien, dan tanpa hal yang tidak perlu.
+Posturnya stabil dan gerakannya cenderung efisien. Ia dapat terlihat tegap ketika berdiri atau beraktivitas, tetapi tidak harus selalu mempertahankan sikap tubuh yang kaku. Bahasa tubuhnya menyesuaikan situasi dan tingkat kenyamanan.
 
-Posturnya ramping dan stabil. Cara berdirinya tegak dengan jarak yang terkontrol terhadap orang lain. Dia jarang bergerak tanpa alasan. Semua gerakannya presisi, efisien, dan terukur — mulai dari cara berjalan yang lurus dan pasti, sampai kebiasaannya berhenti sepenuhnya saat diam. Dia hampir tidak pernah menyentuh orang lain kecuali benar-benar perlu.
+
+Dalam kehidupan sehari-hari, Arkana memiliki ketertarikan pada motor dan otomotif. Minat ini tidak hanya terbatas pada berkendara; ia juga menikmati mengenal kendaraan dan hal-hal teknis yang berkaitan dengannya, termasuk merawat atau mengutak-atik bagian motor. Ia juga menyukai kegiatan berkendara, baik sebagai aktivitas santai maupun kesempatan untuk menikmati perjalanan. Detail jenis motor, tingkat pengetahuan teknis, dan kebiasaan berkendaranya masih **[BELUM DITENTUKAN]**.
+
+Basket merupakan minat lain yang menjadi bagian dari aktivitasnya. Selain bermain bersama tim, kegiatan ini memberinya ruang untuk bergerak dan menikmati permainan bersama orang lain. Peran serta kebiasaannya di dalam tim tetap mengikuti dinamika yang telah dijelaskan pada bagian hubungan sosial.
 
 
 Ekspresi Arkana cenderung tertahan, tetapi bukan berarti emosinya selalu tidak terlihat. Perasaannya dapat tercermin melalui perubahan kecil pada wajah, tatapan, dan bahasa tubuh yang tidak selalu disadari orang lain.

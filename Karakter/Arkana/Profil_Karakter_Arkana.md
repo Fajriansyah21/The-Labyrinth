@@ -264,6 +264,8 @@ Arkana lebih sering menunjukkan kepedulian melalui tindakan konkret daripada ung
 
 Dalam menjaga batas pribadi, Arkana menyesuaikan responsnya dengan situasi. Jika seseorang sekadar terlalu ingin tahu, ia dapat menjawab seperlunya, mengalihkan pembicaraan, atau menyampaikan bahwa ia tidak ingin membahas hal tersebut. Jika orang itu terus memaksa setelah batasnya disampaikan, Arkana akan bersikap lebih tegas dan dapat mengurangi interaksi bila diperlukan. Namun, ia tidak otomatis memutus pertemanan hanya karena satu kejadian. Ia mempertimbangkan apakah orang tersebut memahami batasnya dan bersedia menghormatinya setelah diberi tahu.
 
+Dalam menghadapi perbedaan pendapat di kelompok, Arkana tetap menyampaikan pandangannya jika merasa ada hal penting yang perlu diperhatikan. Ia menjelaskan alasannya dengan tenang dan bersedia mendengarkan sudut pandang orang lain. Jika setelah diskusi kelompok memilih keputusan yang berbeda, ia dapat menerima keputusan tersebut selama tidak bertentangan dengan prinsipnya atau membahayakan seseorang. Namun, menerima keputusan kelompok tidak berarti ia harus berpura-pura setuju. Ia tetap dapat mempertahankan pendapatnya tanpa memperpanjang perdebatan yang tidak lagi produktif.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

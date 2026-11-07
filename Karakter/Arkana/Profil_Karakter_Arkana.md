@@ -276,6 +276,8 @@ Ketika kelompok teman-temannya belum memiliki rencana atau belum ada yang memula
 
 Ketika suasana kelompok mulai canggung atau tegang karena perselisihan antaranggota, Arkana tidak langsung ikut campur atau memihak salah satu orang hanya karena berada dalam kelompok yang sama. Ia akan melihat situasinya terlebih dahulu. Jika ketegangan mulai mengganggu kegiatan bersama, ia dapat mencoba mencairkan suasana melalui percakapan ringan atau mengarahkan kelompok ke hal lain. Namun, jika masalahnya cukup serius atau ada pihak yang diperlakukan tidak adil, ia dapat menyampaikan pandangannya secara langsung. Ia tidak merasa harus menjadi penengah setiap kali ada masalah, tetapi juga tidak sengaja membiarkan keadaan memburuk ketika ia bisa melakukan sesuatu yang masuk akal.
 
+Ketika mengetahui teman-temannya melakukan kegiatan bersama tanpa mengajaknya, Arkana tidak langsung menganggap dirinya sengaja dikucilkan. Ia mempertimbangkan konteksnya terlebih dahulu, misalnya apakah kegiatan itu berlangsung spontan, memiliki keterbatasan tertentu, atau memang ada alasan lain. Jika hanya terjadi sesekali, ia cenderung tidak mempermasalahkannya. Namun, jika hal tersebut berulang dan membuatnya merasa tidak lagi dilibatkan, ia dapat menanyakan situasinya secara langsung kepada orang yang bersangkutan. Ia tidak akan memaksa agar selalu diikutsertakan, tetapi juga tidak harus berpura-pura tidak peduli jika memang ada perubahan dalam hubungan mereka.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

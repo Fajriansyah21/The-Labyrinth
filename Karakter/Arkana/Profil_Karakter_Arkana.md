@@ -19,21 +19,45 @@ Tubuhnya atletis dan proporsional, selaras dengan aktivitas basket yang dijalani
 
 ## 2. Kepribadian dan Struktur Diri
 
-Arkana adalah pribadi yang mandiri, tenang, dan cukup observatif, tetapi ia bukan sosok yang selalu dingin atau menjaga jarak dari semua orang. Ia dapat berinteraksi dengan santai, menikmati kebersamaan, bercanda, dan menunjukkan sisi spontan ketika berada dalam situasi yang nyaman. Ia tidak harus menjadi pusat perhatian untuk dapat terlibat dalam lingkungan sosial.
+### Gambaran Kepribadian Utama
 
-Dalam mengambil keputusan, Arkana cenderung praktis dan mempertimbangkan keadaan sebelum bertindak. Ia menyukai ruang untuk menentukan langkahnya sendiri, tetapi tidak terpaku pada rencana yang kaku. Ketika situasi berubah, ia mampu menyesuaikan diri tanpa harus kehilangan arah atau prinsip yang ia pegang.
+Arkana memiliki kepribadian yang *charming, calm, sociable, and guarded*. Ia membawa diri dengan percaya diri dan santai, mudah membangun interaksi, serta memiliki daya tarik yang muncul secara alami tanpa harus berusaha menjadi pusat perhatian. Ia tidak secara aktif mencari perhatian atau pengakuan dari orang lain. Pesonanya lebih terlihat melalui cara ia merespons orang, kenyamanan saat berinteraksi, dan sikapnya yang tidak dibuat-buat.
 
-Kemandiriannya membuat Arkana terbiasa mengandalkan penilaian sendiri, tetapi bukan berarti ia menolak bantuan atau tidak membutuhkan orang lain. Ia dapat menerima dukungan, meminta sudut pandang dari orang yang dipercaya, dan melibatkan orang lain ketika persoalan memang lebih baik diselesaikan bersama.
+Sisi *calm* menjadi salah satu dasar kepribadiannya. Arkana cenderung mampu menjaga ketenangan ketika menghadapi situasi sehari-hari dan tidak mudah terpancing oleh hal sepele. Namun, tenang bukan berarti pasif, datar, atau selalu serius. Ia tetap dapat menunjukkan antusiasme, rasa kesal, kegugupan, maupun spontanitas ketika keadaan memancing respons tersebut.
 
-Arkana memiliki prinsip pribadi dan menghargai tanggung jawab. Ia berusaha menilai seseorang melalui tindakan serta kesediaannya mengakui kesalahan, bukan hanya melalui perkataan atau kesan awal. Meski demikian, ia tidak selalu langsung bersikap objektif. Ketika merasa disudutkan, ia dapat menjadi defensif atau berusaha menjelaskan sudut pandangnya terlebih dahulu. Setelah emosinya mereda, ia lebih mampu mengevaluasi tindakannya dan mengakui bagian yang menjadi tanggung jawabnya.
+Arkana juga memiliki sisi *playful* dalam kadar yang moderat. Ia dapat melontarkan humor, memberi komentar jahil, atau menggoda secara ringan ketika suasana mendukung, terutama saat bersama orang yang membuatnya nyaman. Sisi ini membuat interaksinya terasa hidup tanpa menggeser ketenangan yang menjadi bagian dari dirinya. Ia tidak harus selalu bercanda, menjadi orang paling ramai, atau mengubah setiap percakapan menjadi ajang menggoda.
 
-Dalam hubungan sosial, Arkana dapat bersikap ramah dan terbuka dalam percakapan sehari-hari, tetapi tetap selektif dalam memberikan kepercayaan emosional. Ia bisa mengenal banyak orang tanpa menganggap semuanya sebagai orang dekat. Kedekatan yang lebih dalam tumbuh melalui konsistensi, kenyamanan, dan pengalaman bersama.
+### Cara Membawa Diri dan Berinteraksi
 
-Sisi serius dan sisi santainya dapat muncul pada orang yang sama, bergantung pada situasi dan tingkat kedekatan. Ia bisa berbicara singkat dan langsung ketika membahas sesuatu yang penting, tetapi juga melontarkan humor ringan atau komentar jahil ketika suasana mendukung. Ia tidak selalu harus terlihat tenang, terkendali, atau dewasa; ia tetap dapat merasa kesal, kecewa, gugup, menikmati kesenangan, dan melakukan kekeliruan.
+Arkana cukup mudah bergaul dan tidak kesulitan memulai maupun menanggapi percakapan. Ia dapat menyapa lebih dahulu, mengikuti candaan, mengajak teman melakukan sesuatu, dan terlibat dalam kegiatan bersama. Ia nyaman berada di tengah kelompok, tetapi tidak merasa harus memimpin percakapan atau menjadi pusat perhatian agar kehadirannya terasa.
 
-Kemandirian, ketenangan, dan prinsip yang dimiliki Arkana juga mempunyai keterbatasan. Ia terkadang terlalu mengandalkan penilaian sendiri, dapat terlambat menyadari bahwa bebannya sudah terlalu berat, atau menjadi defensif sebelum memahami sudut pandang orang lain. Sifat observatifnya tidak membuat semua kesimpulannya selalu benar, dan sikap praktisnya tidak selalu menjadi respons yang tepat ketika orang lain sebenarnya hanya membutuhkan seseorang untuk mendengarkan.
+Cara ia membawa diri menyesuaikan situasi tanpa terasa seperti sedang memainkan peran. Dalam interaksi awal, ia cenderung ramah, percaya diri, dan santai. Ketika mulai akrab, ia menjadi lebih spontan dan lebih leluasa menunjukkan humor atau komentar jahilnya. Bersama orang-orang yang benar-benar dekat, ia dapat terlihat lebih ekspresif dan tidak terlalu menjaga setiap responsnya.
 
-Pengalaman keluarganya turut memengaruhi sebagian cara Arkana memandang tanggung jawab, kepercayaan, dan pilihan hidup. Namun, masa lalu tersebut bukan keseluruhan kepribadiannya. Arkana juga memiliki minat, kesenangan, hubungan, dan tujuan pribadi yang tidak selalu berkaitan dengan keluarganya. Ia ingin menjalani hidup berdasarkan nilai serta keputusan yang ia pilih sendiri, bukan terus-menerus mendefinisikan dirinya melalui kesalahan ayah dan kakaknya.
+Kepercayaan dirinya tidak membuat Arkana merasa perlu mendominasi orang lain. Ia dapat menyampaikan pendapat dengan jelas, menerima perbedaan, dan memberi ruang kepada orang lain untuk berbicara. Ia juga tidak selalu berusaha menghidupkan suasana. Jika percakapan sedang berjalan dengan baik tanpa keterlibatannya yang terus-menerus, ia tidak merasa harus mengambil alih.
+
+### Keterbukaan dan Batas Pribadi
+
+Keramahan Arkana tidak selalu berarti kedekatan emosional. Ia dapat berbicara dengan banyak orang, menikmati pergaulan, dan membangun hubungan yang menyenangkan tanpa langsung menganggap mereka sebagai orang dekat. Ia cukup terbuka dalam percakapan sehari-hari, tetapi lebih selektif ketika menyangkut hal pribadi atau sesuatu yang memiliki arti emosional baginya.
+
+Bagi Arkana, kepercayaan tumbuh melalui konsistensi, kenyamanan, dan pengalaman bersama. Ia tidak menuntut orang lain untuk langsung terbuka kepadanya, dan ia juga tidak merasa harus membalas keakraban seseorang dengan menceritakan seluruh kehidupan pribadinya. Jika merasa nyaman, ia dapat berbagi lebih banyak secara bertahap. Jika belum, ia tetap bisa bersikap ramah tanpa berpura-pura memiliki kedekatan yang belum terbentuk.
+
+Sikap *guarded* ini bukan usaha untuk terlihat misterius atau sengaja menjaga jarak. Arkana tetap dapat menikmati hubungan sosial dan menunjukkan perhatian kepada orang lain. Ia hanya memiliki batas mengenai bagian dirinya yang ingin dibagikan, kepada siapa ia membagikannya, dan kapan ia merasa siap melakukannya.
+
+### Sikap dan Prinsip Pribadi
+
+Arkana cenderung mandiri dalam menentukan pilihan dan menyukai ruang untuk mengambil keputusan sendiri. Ia mempertimbangkan keadaan secara praktis, tetapi tidak terpaku pada rencana yang kaku. Ketika situasi berubah, ia dapat menyesuaikan langkah tanpa harus kehilangan arah atau prinsip yang ia pegang.
+
+Ia menghargai tanggung jawab dan lebih memperhatikan tindakan nyata daripada sekadar perkataan atau kesan awal. Baginya, seseorang perlu bersedia mengakui konsekuensi dari pilihannya sendiri. Meski demikian, ia tidak selalu langsung mampu melihat persoalan secara objektif, terutama ketika merasa disudutkan atau ketika situasi menyentuh hal yang bersifat pribadi.
+
+Kemandirian tidak membuat Arkana menolak bantuan. Ia dapat menerima dukungan, mempertimbangkan sudut pandang orang yang dipercaya, dan melibatkan orang lain ketika persoalan memang lebih baik diselesaikan bersama. Ia memahami bahwa penilaiannya sendiri juga memiliki keterbatasan.
+
+### Sisi Lain dan Keterbatasan
+
+Di balik pembawaannya yang santai dan percaya diri, Arkana tetap memiliki kekurangan. Ia terkadang terlalu mengandalkan penilaian sendiri atau terlambat menyadari bahwa beban yang ditanggungnya sudah terlalu berat. Ketika merasa disudutkan, ia dapat bersikap defensif dan lebih dahulu menjelaskan sudut pandangnya sebelum benar-benar mendengarkan orang lain.
+
+Sikap tenangnya juga tidak menjamin bahwa ia selalu mengambil keputusan dengan tepat. Pengamatannya dapat keliru, pertimbangannya bisa kurang lengkap, dan respons praktis yang ia berikan tidak selalu sesuai ketika orang lain sebenarnya hanya membutuhkan seseorang untuk mendengarkan. Ia dapat salah membaca suasana, merasa kesal, bertindak spontan, atau menyadari kekeliruannya setelah keadaan berlalu.
+
+Arkana bukan pribadi yang selalu terkendali atau sempurna dalam menghadapi orang lain. Ia dapat belajar dari kesalahan dan mengevaluasi tindakannya, tetapi proses tersebut tidak selalu terjadi seketika. Sisi tenang, sosial, dan menyenangkannya tetap berjalan berdampingan dengan keterbatasan yang membuatnya terasa sebagai individu yang wajar.
 
 ## 3. Dunia Batin dan Psikologi
 

@@ -260,6 +260,8 @@ Dalam kelompok pertemanan, Arkana cenderung menjadi anggota yang aktif berpartis
 
 Arkana cukup terbuka untuk menceritakan hal-hal ringan tentang kehidupan pribadinya, seperti aktivitas sehari-hari, minat, pengalaman umum, atau pendapat pribadi. Namun, untuk persoalan keluarga, masa lalu, dan hal-hal yang menyentuh sisi emosionalnya, ia jauh lebih selektif. Ia tidak sengaja berbohong atau menghindari semua pertanyaan, tetapi menentukan sendiri seberapa banyak yang ingin ia ceritakan berdasarkan tingkat kepercayaan dan kenyamanannya.
 
+Arkana lebih sering menunjukkan kepedulian melalui tindakan konkret daripada ungkapan emosional yang berlebihan. Ia dapat membantu ketika diperlukan, mengingat hal penting yang pernah diceritakan temannya, menawarkan bantuan secara langsung, atau meluangkan waktu ketika seseorang sedang mengalami kesulitan. Meski demikian, ia tetap dapat menunjukkan perhatian secara verbal, seperti menanyakan keadaan seseorang, memberikan dukungan, atau menyampaikan sesuatu yang sederhana tetapi tulus. Bentuk kepeduliannya menyesuaikan kebutuhan orang tersebut dan tingkat kedekatan mereka.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

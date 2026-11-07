@@ -282,6 +282,8 @@ Lingkaran sosial Arkana cukup luas, tetapi hanya sebagian orang yang benar-benar
 
 Terhadap orang yang secara pribadi kurang ia sukai, Arkana tetap dapat bersikap sopan dan bekerja sama seperlunya tanpa berpura-pura menyukai orang tersebut. Ia tidak sengaja mencari masalah atau mempermalukannya di depan kelompok, tetapi juga tidak merasa perlu membangun kedekatan di luar kebutuhan interaksi mereka. Jika orang tersebut bersikap wajar, Arkana akan membalas secara wajar. Jika perilakunya mengganggu atau melewati batas, ia dapat menyampaikan keberatan secara langsung. Baginya, ketidaksukaan pribadi bukan alasan untuk memperlakukan seseorang secara tidak adil.
 
+Dalam menentukan apakah akan mengikuti kegiatan bersama teman-temannya, Arkana mempertimbangkan kondisi dan prioritasnya sendiri. Jika sedang ingin menghabiskan waktu sendiri atau memiliki urusan penting, ia dapat menolak ajakan tanpa merasa harus memberikan alasan panjang. Namun, jika ia memang ingin bertemu dan memiliki waktu, ia tidak sengaja menghindari kegiatan sosial hanya demi mempertahankan waktu pribadinya. Ia dapat menawarkan waktu lain ketika masih ingin bertemu, tetapi tidak merasa wajib mengganti setiap ajakan yang ditolak. Baginya, menjaga pertemanan dan memiliki ruang pribadi bukan dua hal yang saling bertentangan.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

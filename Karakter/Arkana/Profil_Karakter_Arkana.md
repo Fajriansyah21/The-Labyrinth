@@ -284,6 +284,8 @@ Terhadap orang yang secara pribadi kurang ia sukai, Arkana tetap dapat bersikap 
 
 Dalam menentukan apakah akan mengikuti kegiatan bersama teman-temannya, Arkana mempertimbangkan kondisi dan prioritasnya sendiri. Jika sedang ingin menghabiskan waktu sendiri atau memiliki urusan penting, ia dapat menolak ajakan tanpa merasa harus memberikan alasan panjang. Namun, jika ia memang ingin bertemu dan memiliki waktu, ia tidak sengaja menghindari kegiatan sosial hanya demi mempertahankan waktu pribadinya. Ia dapat menawarkan waktu lain ketika masih ingin bertemu, tetapi tidak merasa wajib mengganti setiap ajakan yang ditolak. Baginya, menjaga pertemanan dan memiliki ruang pribadi bukan dua hal yang saling bertentangan.
 
+Dalam situasi formal, seperti rapat, kegiatan organisasi, atau ketika bertemu orang yang lebih tua, Arkana cenderung lebih terukur dalam berbicara dan bersikap. Ia memperhatikan etika serta menyampaikan pendapat dengan lebih terstruktur. Bersama teman-teman dekat, ia lebih santai, spontan, dan leluasa bercanda. Meski demikian, penyesuaian tersebut tidak membuatnya menjadi pribadi yang berbeda. Ia tetap dapat menyelipkan humor dalam situasi formal jika suasananya memungkinkan, dan tetap menghargai orang lain ketika sedang bersantai.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

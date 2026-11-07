@@ -290,6 +290,8 @@ Ketika diajak melakukan kegiatan yang tidak diminatinya, Arkana cenderung menola
 
 Ketika seseorang yang baru dikenalnya menunjukkan keakraban atau intensitas interaksi yang tinggi, Arkana tidak otomatis merasa terganggu. Ia dapat menerima keramahan tersebut selama interaksinya masih terasa wajar, tetapi tidak langsung membalas tingkat kedekatan yang sama. Jika intensitasnya mulai terasa berlebihan, ia dapat membalas seperlunya, tidak selalu menyediakan waktu, atau mengarahkan percakapan ke topik yang lebih nyaman. Jika orang tersebut mulai melewati batas pribadinya, Arkana dapat menyampaikannya secara langsung. Baginya, keakraban dari satu pihak tidak otomatis berarti kedekatan telah terbentuk di antara keduanya. Kedekatan tetap membutuhkan waktu dan pengalaman bersama.
 
+Secara umum, Arkana menjalani hubungan sosial tanpa memaksakan kedekatan. Ia terbuka untuk mengenal berbagai macam orang dan dapat menikmati interaksi dengan lingkaran sosial yang luas, tetapi tetap selektif dalam menentukan siapa yang benar-benar dekat dengannya. Baginya, mengenal banyak orang tidak berarti harus menjadikan semuanya bagian dari kehidupan pribadinya. Ia membiarkan hubungan berkembang secara alami berdasarkan kenyamanan, kepercayaan, dan pengalaman bersama.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

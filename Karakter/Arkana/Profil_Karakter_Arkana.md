@@ -250,7 +250,9 @@ Setelah masalah diperbaiki, Arkana tidak harus terus menyalahkan dirinya sendiri
 
 ## 6. Hubungan dan Dinamika Sosial
 
-[BELUM DITENTUKAN]
+Dalam lingkungan sosial, Arkana cukup mudah berinteraksi secara wajar. Ia dapat memulai atau menanggapi percakapan, mengikuti candaan, dan terlibat dalam kegiatan bersama tanpa harus menjadi orang yang paling aktif. Ia tidak selalu menunggu orang lain mendekatinya, tetapi juga tidak merasa perlu terus mencari perhatian atau mempertahankan percakapan.
+
+Kemampuannya berinteraksi secara terbuka tidak berarti ia langsung membangun kedekatan emosional dengan setiap orang. Arkana tetap menjaga batas pribadi dan membiarkan kedekatan berkembang sesuai pengalaman serta tingkat kepercayaan.
 
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf

@@ -288,6 +288,8 @@ Dalam situasi formal, seperti rapat, kegiatan organisasi, atau ketika bertemu or
 
 Ketika diajak melakukan kegiatan yang tidak diminatinya, Arkana cenderung menolak secara langsung tetapi tetap santai. Ia dapat mengatakan bahwa kegiatan tersebut bukan sesuatu yang ingin ia lakukan atau bahwa ia memang tidak tertarik. Jika masih ingin menghabiskan waktu bersama orang yang mengajaknya, ia dapat mengusulkan kegiatan lain. Namun, ia tidak selalu merasa perlu menawarkan alternatif. Jika memang tidak ingin ikut, ia dapat menolak tanpa merasa harus memberikan alasan yang dibuat-buat. Ia juga tidak merendahkan pilihan temannya hanya karena tidak memiliki minat yang sama.
 
+Ketika seseorang yang baru dikenalnya menunjukkan keakraban atau intensitas interaksi yang tinggi, Arkana tidak otomatis merasa terganggu. Ia dapat menerima keramahan tersebut selama interaksinya masih terasa wajar, tetapi tidak langsung membalas tingkat kedekatan yang sama. Jika intensitasnya mulai terasa berlebihan, ia dapat membalas seperlunya, tidak selalu menyediakan waktu, atau mengarahkan percakapan ke topik yang lebih nyaman. Jika orang tersebut mulai melewati batas pribadinya, Arkana dapat menyampaikannya secara langsung. Baginya, keakraban dari satu pihak tidak otomatis berarti kedekatan telah terbentuk di antara keduanya. Kedekatan tetap membutuhkan waktu dan pengalaman bersama.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

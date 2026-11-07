@@ -254,6 +254,8 @@ Dalam lingkungan sosial, Arkana cukup mudah berinteraksi secara wajar. Ia dapat 
 
 Kemampuannya berinteraksi secara terbuka tidak berarti ia langsung membangun kedekatan emosional dengan setiap orang. Arkana tetap menjaga batas pribadi dan membiarkan kedekatan berkembang sesuai pengalaman serta tingkat kepercayaan.
 
+Ketika mulai mengenal seseorang, Arkana membangun pertemanan secara bertahap melalui interaksi yang berulang dan pengalaman bersama. Ia tidak harus langsung merasa cocok atau dekat sejak awal, tetapi juga tidak sengaja mempersulit proses tersebut. Jika mulai merasa nyaman, ia dapat lebih sering mengajak bicara, ikut dalam kegiatan bersama, atau menunjukkan ketertarikan terhadap hal yang disukai orang tersebut.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

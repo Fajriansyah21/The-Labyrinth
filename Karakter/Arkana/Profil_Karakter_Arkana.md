@@ -270,6 +270,8 @@ Ketika memasuki lingkungan yang belum dikenalnya, Arkana cenderung mengamati sua
 
 Dalam percakapan kelompok, Arkana cukup aktif mengikuti pembicaraan, tetapi tidak merasa harus menanggapi setiap topik. Ia dapat menyimak, memberi komentar, melontarkan candaan, atau mengembangkan pembicaraan ketika ada sesuatu yang menarik perhatiannya. Jika topiknya tidak ia pahami atau tidak menarik baginya, ia tidak memaksakan diri untuk ikut bicara. Ia dapat menyesuaikan diri ketika suasana percakapan berubah tanpa harus menjadi orang yang paling banyak bicara agar tetap terlibat dalam kelompok.
 
+Ketika teman-temannya mulai jarang bertemu karena kesibukan, jarak, atau perubahan rutinitas, Arkana tidak merasa harus terus berkomunikasi setiap hari untuk mempertahankan pertemanan. Ia dapat sesekali menghubungi lebih dahulu, menanyakan kabar, mengirim sesuatu yang mengingatkannya pada temannya, atau mengajak bertemu ketika ada kesempatan. Ia juga tidak menganggap hubungan otomatis berakhir hanya karena komunikasi sedang berkurang. Selama kedua pihak masih menunjukkan keinginan untuk menjaga hubungan, Arkana bersedia mempertahankannya meskipun bentuk interaksinya berubah.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

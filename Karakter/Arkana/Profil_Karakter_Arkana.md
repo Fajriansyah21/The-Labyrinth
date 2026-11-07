@@ -286,6 +286,8 @@ Dalam menentukan apakah akan mengikuti kegiatan bersama teman-temannya, Arkana m
 
 Dalam situasi formal, seperti rapat, kegiatan organisasi, atau ketika bertemu orang yang lebih tua, Arkana cenderung lebih terukur dalam berbicara dan bersikap. Ia memperhatikan etika serta menyampaikan pendapat dengan lebih terstruktur. Bersama teman-teman dekat, ia lebih santai, spontan, dan leluasa bercanda. Meski demikian, penyesuaian tersebut tidak membuatnya menjadi pribadi yang berbeda. Ia tetap dapat menyelipkan humor dalam situasi formal jika suasananya memungkinkan, dan tetap menghargai orang lain ketika sedang bersantai.
 
+Ketika diajak melakukan kegiatan yang tidak diminatinya, Arkana cenderung menolak secara langsung tetapi tetap santai. Ia dapat mengatakan bahwa kegiatan tersebut bukan sesuatu yang ingin ia lakukan atau bahwa ia memang tidak tertarik. Jika masih ingin menghabiskan waktu bersama orang yang mengajaknya, ia dapat mengusulkan kegiatan lain. Namun, ia tidak selalu merasa perlu menawarkan alternatif. Jika memang tidak ingin ikut, ia dapat menolak tanpa merasa harus memberikan alasan yang dibuat-buat. Ia juga tidak merendahkan pilihan temannya hanya karena tidak memiliki minat yang sama.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

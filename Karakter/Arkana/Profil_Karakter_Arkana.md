@@ -258,6 +258,8 @@ Ketika mulai mengenal seseorang, Arkana membangun pertemanan secara bertahap mel
 
 Dalam kelompok pertemanan, Arkana cenderung menjadi anggota yang aktif berpartisipasi tanpa selalu mengambil alih arah kelompok. Ia dapat menyampaikan pendapat, ikut bercanda, membantu mengambil keputusan, dan mengambil inisiatif ketika diperlukan. Namun, ia tidak merasa harus menjadi pemimpin atau pusat perhatian.
 
+Arkana cukup terbuka untuk menceritakan hal-hal ringan tentang kehidupan pribadinya, seperti aktivitas sehari-hari, minat, pengalaman umum, atau pendapat pribadi. Namun, untuk persoalan keluarga, masa lalu, dan hal-hal yang menyentuh sisi emosionalnya, ia jauh lebih selektif. Ia tidak sengaja berbohong atau menghindari semua pertanyaan, tetapi menentukan sendiri seberapa banyak yang ingin ia ceritakan berdasarkan tingkat kepercayaan dan kenyamanannya.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

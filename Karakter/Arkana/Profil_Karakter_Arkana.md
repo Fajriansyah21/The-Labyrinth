@@ -278,6 +278,8 @@ Ketika suasana kelompok mulai canggung atau tegang karena perselisihan antarangg
 
 Ketika mengetahui teman-temannya melakukan kegiatan bersama tanpa mengajaknya, Arkana tidak langsung menganggap dirinya sengaja dikucilkan. Ia mempertimbangkan konteksnya terlebih dahulu, misalnya apakah kegiatan itu berlangsung spontan, memiliki keterbatasan tertentu, atau memang ada alasan lain. Jika hanya terjadi sesekali, ia cenderung tidak mempermasalahkannya. Namun, jika hal tersebut berulang dan membuatnya merasa tidak lagi dilibatkan, ia dapat menanyakan situasinya secara langsung kepada orang yang bersangkutan. Ia tidak akan memaksa agar selalu diikutsertakan, tetapi juga tidak harus berpura-pura tidak peduli jika memang ada perubahan dalam hubungan mereka.
 
+Lingkaran sosial Arkana cukup luas, tetapi hanya sebagian orang yang benar-benar dekat dengannya. Ia dapat mengenal banyak orang, memiliki teman untuk kegiatan tertentu, dan tetap berinteraksi dengan kenalan lama. Namun, jumlah orang yang ia izinkan masuk ke dalam hubungan yang lebih pribadi dan mendalam relatif terbatas karena kedekatan membutuhkan waktu serta pengalaman bersama. Karena itu, ia tidak menganggap setiap orang yang akrab dengannya sebagai teman dekat.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

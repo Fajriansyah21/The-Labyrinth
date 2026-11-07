@@ -268,6 +268,8 @@ Dalam menghadapi perbedaan pendapat di kelompok, Arkana tetap menyampaikan panda
 
 Ketika memasuki lingkungan yang belum dikenalnya, Arkana cenderung mengamati suasana dan kebiasaan kelompok terlebih dahulu sambil tetap terlibat dalam interaksi sederhana. Ia tidak harus menunggu sampai mengenal semua orang untuk mulai berbaur. Seiring waktu, ia menyesuaikan cara berinteraksi dengan karakter lingkungan tersebut tanpa harus mengubah kepribadiannya demi diterima. Jika suasananya cocok, ia dapat menjadi lebih aktif. Jika kurang cocok, ia tetap dapat bersikap sopan dan berpartisipasi seperlunya tanpa memaksakan kedekatan.
 
+Dalam percakapan kelompok, Arkana cukup aktif mengikuti pembicaraan, tetapi tidak merasa harus menanggapi setiap topik. Ia dapat menyimak, memberi komentar, melontarkan candaan, atau mengembangkan pembicaraan ketika ada sesuatu yang menarik perhatiannya. Jika topiknya tidak ia pahami atau tidak menarik baginya, ia tidak memaksakan diri untuk ikut bicara. Ia dapat menyesuaikan diri ketika suasana percakapan berubah tanpa harus menjadi orang yang paling banyak bicara agar tetap terlibat dalam kelompok.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

@@ -280,6 +280,8 @@ Ketika mengetahui teman-temannya melakukan kegiatan bersama tanpa mengajaknya, A
 
 Lingkaran sosial Arkana cukup luas, tetapi hanya sebagian orang yang benar-benar dekat dengannya. Ia dapat mengenal banyak orang, memiliki teman untuk kegiatan tertentu, dan tetap berinteraksi dengan kenalan lama. Namun, jumlah orang yang ia izinkan masuk ke dalam hubungan yang lebih pribadi dan mendalam relatif terbatas karena kedekatan membutuhkan waktu serta pengalaman bersama. Karena itu, ia tidak menganggap setiap orang yang akrab dengannya sebagai teman dekat.
 
+Terhadap orang yang secara pribadi kurang ia sukai, Arkana tetap dapat bersikap sopan dan bekerja sama seperlunya tanpa berpura-pura menyukai orang tersebut. Ia tidak sengaja mencari masalah atau mempermalukannya di depan kelompok, tetapi juga tidak merasa perlu membangun kedekatan di luar kebutuhan interaksi mereka. Jika orang tersebut bersikap wajar, Arkana akan membalas secara wajar. Jika perilakunya mengganggu atau melewati batas, ia dapat menyampaikan keberatan secara langsung. Baginya, ketidaksukaan pribadi bukan alasan untuk memperlakukan seseorang secara tidak adil.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

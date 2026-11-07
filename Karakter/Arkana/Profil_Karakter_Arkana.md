@@ -7,9 +7,15 @@
 **Tinggi badan:** 179 cm  
 **Peran:** Teman satu tim basket Devan dan pasangan Alexia.
 
-Arkana memiliki penampilan yang menarik dengan perpaduan fitur wajah yang cenderung lembut dan proporsi yang tetap memberi kesan maskulin. Daya tariknya tidak bergantung pada penampilan yang terlalu mencolok atau usaha untuk menjadi pusat perhatian. Ia memiliki kesan *effortlessly handsome*: terlihat menarik secara alami, baik ketika berpenampilan santai maupun saat tampil lebih rapi.
+Arkana memiliki penampilan yang menarik dengan perpaduan fitur wajah yang cenderung lembut dan proporsi yang tetap memberi kesan maskulin. Bentuk wajahnya oval dengan sedikit kecenderungan V-shape. Rahangnya terlihat cukup tegas untuk mempertahankan kesan maskulin, tetapi tidak terlalu lebar, sedangkan dagunya lebih ramping dengan ujung membulat.
 
-Rambutnya menggunakan potongan *two-block*. Tubuhnya atletis dan proporsional, selaras dengan aktivitas basket yang dijalaninya. Detail visual lain seperti warna mata, bentuk spesifik fitur wajah, dan gaya berpakaian masih **[BELUM DITENTUKAN]**.
+Matanya berbentuk almond dengan kelopak yang sedikit hooded. Sudut luar matanya sedikit terangkat, memberikan kesan fokus tanpa membuat tatapannya terlihat terlalu tajam. Iris matanya berwarna cokelat tua dengan rona hangat ketika terkena cahaya. Alisnya cukup tebal dan cenderung lurus, dengan lengkungan tipis pada bagian luar. Hidungnya memiliki batang yang lurus dan proporsional dengan ujung sedikit membulat. Bibirnya berukuran sedang, dengan bibir bawah sedikit lebih penuh.
+
+Salah satu ciri khas wajah Arkana adalah lesung pipi tipis di pipi kanan yang lebih terlihat ketika ia tersenyum. Senyumnya dapat membentuk kesan hangat yang berbeda dari ekspresinya ketika sedang diam. Kulitnya berwarna sawo matang terang dengan undertone hangat.
+
+Daya tariknya tidak bergantung pada penampilan yang terlalu mencolok atau usaha untuk menjadi pusat perhatian. Ia memiliki kesan *effortlessly handsome*: terlihat menarik secara alami, baik ketika berpenampilan santai maupun saat tampil lebih rapi. Rambutnya hitam alami, lurus, dan dipotong dengan gaya *two-block*. Bagian samping serta belakang lebih pendek tanpa dicukur terlalu tinggi, sementara bagian atas memiliki tekstur dan volume ringan. Poni jatuh secara natural dan sedikit membingkai dahi.
+
+Tubuhnya atletis dan proporsional, selaras dengan aktivitas basket yang dijalaninya. Gaya berpakaian dan detail visual lain yang belum dijelaskan secara khusus masih **[BELUM DITENTUKAN]**.
 
 ## 2. Kepribadian dan Struktur Diri
 
@@ -184,12 +190,14 @@ Pada akhirnya, Arkana ingin menjalani kehidupan yang dibangun dari pilihan dan n
 
 ## 5. Perilaku dan Ekspresi Diri
 
-Penampilan Arkana memiliki perpaduan fitur wajah yang cenderung lembut dengan kesan maskulin yang tetap terlihat. Rambutnya dipotong dengan gaya *two-block*, sementara tubuhnya atletis dan proporsional. Daya tarik fisiknya terasa alami dan tidak bergantung pada penampilan yang terlalu mencolok. Detail seperti warna mata, bentuk spesifik wajah, dan ciri visual lain masih **[BELUM DITENTUKAN]**.
+Penampilan Arkana memiliki perpaduan fitur wajah yang cenderung lembut dengan kesan maskulin yang tetap terlihat. Wajahnya berbentuk oval dengan sedikit kecenderungan V-shape, rahang yang cukup tegas tetapi tidak terlalu lebar, serta dagu ramping dengan ujung membulat. Matanya berbentuk almond dengan kelopak sedikit hooded dan sudut luar yang agak terangkat. Irisnya berwarna cokelat tua dengan rona hangat. Alisnya cukup tebal dan cenderung lurus, hidungnya memiliki batang lurus dengan ujung sedikit membulat, sementara bibir bawahnya sedikit lebih penuh daripada bibir atas.
+
+Ciri khas wajahnya adalah lesung pipi tipis di pipi kanan yang terlihat lebih jelas ketika ia tersenyum. Kulitnya berwarna sawo matang terang dengan undertone hangat. Rambutnya hitam alami, lurus, dan dipotong dengan gaya *two-block*. Bagian samping serta belakang lebih pendek tanpa dicukur terlalu tinggi, sedangkan bagian atas memiliki tekstur dan volume ringan dengan poni yang jatuh secara natural. Tubuhnya atletis dan proporsional. Daya tarik fisiknya terasa alami dan tidak bergantung pada penampilan yang terlalu mencolok.
 
 Posturnya stabil dan gerakannya cenderung efisien. Ia dapat terlihat tegap ketika berdiri atau beraktivitas, tetapi tidak harus selalu mempertahankan sikap tubuh yang kaku. Bahasa tubuhnya menyesuaikan situasi dan tingkat kenyamanan.
 
 
-Dalam kehidupan sehari-hari, Arkana memiliki ketertarikan pada motor dan otomotif. Minat ini tidak hanya terbatas pada berkendara; ia juga menikmati mengenal kendaraan dan hal-hal teknis yang berkaitan dengannya, termasuk merawat atau mengutak-atik bagian motor. Ia juga menyukai kegiatan berkendara, baik sebagai aktivitas santai maupun kesempatan untuk menikmati perjalanan. Detail jenis motor, tingkat pengetahuan teknis, dan kebiasaan berkendaranya masih **[BELUM DITENTUKAN]**.
+Dalam kehidupan sehari-hari, Arkana memiliki ketertarikan pada motor dan otomotif. Motor yang digunakannya adalah Honda CB150R Streetfire. Minatnya tidak hanya terbatas pada berkendara; ia juga menikmati mengenal kendaraan dan hal-hal teknis yang berkaitan dengannya, termasuk merawat atau mengutak-atik bagian motor. Ia menyukai kegiatan berkendara, baik sebagai aktivitas santai maupun kesempatan untuk menikmati perjalanan. Tahun produksi, warna, modifikasi, tingkat pengetahuan teknis, dan kebiasaan berkendaranya secara lebih spesifik masih **[BELUM DITENTUKAN]**.
 
 Basket merupakan minat lain yang menjadi bagian dari aktivitasnya. Selain bermain bersama tim, kegiatan ini memberinya ruang untuk bergerak dan menikmati permainan bersama orang lain. Peran serta kebiasaannya di dalam tim tetap mengikuti dinamika yang telah dijelaskan pada bagian hubungan sosial.
 

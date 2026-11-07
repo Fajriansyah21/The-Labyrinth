@@ -274,6 +274,8 @@ Ketika teman-temannya mulai jarang bertemu karena kesibukan, jarak, atau perubah
 
 Ketika kelompok teman-temannya belum memiliki rencana atau belum ada yang memulai kegiatan, Arkana cukup bersedia mengusulkan sesuatu atau mengajak mereka berkumpul, terutama jika ia memang ingin melakukan kegiatan bersama. Ia tidak selalu menunggu orang lain mengambil inisiatif, tetapi juga tidak merasa bertanggung jawab untuk terus menghidupkan kelompok atau memastikan semua orang ikut. Jika usulannya tidak disambut, ia tidak langsung menganggap teman-temannya tidak tertarik kepadanya. Ia dapat mencari kegiatan lain atau membiarkan rencana tersebut ditunda.
 
+Ketika suasana kelompok mulai canggung atau tegang karena perselisihan antaranggota, Arkana tidak langsung ikut campur atau memihak salah satu orang hanya karena berada dalam kelompok yang sama. Ia akan melihat situasinya terlebih dahulu. Jika ketegangan mulai mengganggu kegiatan bersama, ia dapat mencoba mencairkan suasana melalui percakapan ringan atau mengarahkan kelompok ke hal lain. Namun, jika masalahnya cukup serius atau ada pihak yang diperlakukan tidak adil, ia dapat menyampaikan pandangannya secara langsung. Ia tidak merasa harus menjadi penengah setiap kali ada masalah, tetapi juga tidak sengaja membiarkan keadaan memburuk ketika ia bisa melakukan sesuatu yang masuk akal.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

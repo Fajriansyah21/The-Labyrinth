@@ -262,6 +262,8 @@ Arkana cukup terbuka untuk menceritakan hal-hal ringan tentang kehidupan pribadi
 
 Arkana lebih sering menunjukkan kepedulian melalui tindakan konkret daripada ungkapan emosional yang berlebihan. Ia dapat membantu ketika diperlukan, mengingat hal penting yang pernah diceritakan temannya, menawarkan bantuan secara langsung, atau meluangkan waktu ketika seseorang sedang mengalami kesulitan. Meski demikian, ia tetap dapat menunjukkan perhatian secara verbal, seperti menanyakan keadaan seseorang, memberikan dukungan, atau menyampaikan sesuatu yang sederhana tetapi tulus. Bentuk kepeduliannya menyesuaikan kebutuhan orang tersebut dan tingkat kedekatan mereka.
 
+Dalam menjaga batas pribadi, Arkana menyesuaikan responsnya dengan situasi. Jika seseorang sekadar terlalu ingin tahu, ia dapat menjawab seperlunya, mengalihkan pembicaraan, atau menyampaikan bahwa ia tidak ingin membahas hal tersebut. Jika orang itu terus memaksa setelah batasnya disampaikan, Arkana akan bersikap lebih tegas dan dapat mengurangi interaksi bila diperlukan. Namun, ia tidak otomatis memutus pertemanan hanya karena satu kejadian. Ia mempertimbangkan apakah orang tersebut memahami batasnya dan bersedia menghormatinya setelah diberi tahu.
+
 
 ## 7. Konflik, Kesalahan, dan Permintaan Maaf
 

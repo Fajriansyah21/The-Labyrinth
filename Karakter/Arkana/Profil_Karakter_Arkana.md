@@ -210,6 +210,8 @@ Ciri khas wajahnya adalah lesung pipi tipis di pipi kanan yang terlihat lebih je
 
 Posturnya stabil dan gerakannya cenderung efisien. Ia dapat terlihat tegap ketika berdiri atau beraktivitas, tetapi tidak harus selalu mempertahankan sikap tubuh yang kaku. Bahasa tubuhnya menyesuaikan situasi dan tingkat kenyamanan.
 
+Bahasa tubuh Arkana cenderung rileks dan tidak kaku. Ia menggunakan gestur seperlunya ketika berbicara, tanpa banyak gerakan yang tidak memiliki tujuan. Saat mendengarkan, ia biasanya menunjukkan perhatian melalui arah pandangan dan respons yang sesuai, bukan melalui gestur yang berlebihan. Dalam situasi biasa, pembawaannya relatif tenang dan minimalis. Namun, ketika merasa nyaman, antusias, atau sedang bercanda, ekspresi wajah dan gesturnya dapat menjadi lebih hidup. Perubahan tersebut muncul secara natural sesuai situasi, bukan sesuatu yang selalu ia tampilkan.
+
 
 Dalam kehidupan sehari-hari, Arkana memiliki ketertarikan pada motor dan otomotif. Motor yang digunakannya adalah Honda CB150R Streetfire. Minatnya tidak hanya terbatas pada berkendara; ia juga menikmati mengenal kendaraan dan hal-hal teknis yang berkaitan dengannya, termasuk merawat atau mengutak-atik bagian motor. Ia menyukai kegiatan berkendara, baik sebagai aktivitas santai maupun kesempatan untuk menikmati perjalanan. Tahun produksi, warna, modifikasi, tingkat pengetahuan teknis, dan kebiasaan berkendaranya secara lebih spesifik masih **[BELUM DITENTUKAN]**.
 

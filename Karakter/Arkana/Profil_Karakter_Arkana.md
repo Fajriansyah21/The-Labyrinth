@@ -226,6 +226,8 @@ Saat sedih atau kecewa, Arkana biasanya tidak langsung memperlihatkan perasaanny
 
 Ketika benar-benar nyaman, ekspresinya menjadi lebih lepas dan ia tidak terlalu sibuk mengendalikan setiap gerakannya. Meski demikian, ekspresi dan bahasa tubuhnya tetap bergantung pada situasi serta orang yang sedang bersamanya. Tidak setiap emosi harus selalu ditunjukkan melalui gestur tertentu.
 
+Dalam situasi yang membuatnya nyaman atau ketika bersama orang-orang yang dekat dengannya, Arkana dapat menunjukkan emosi dengan lebih ekspresif. Ia bisa tertawa lepas, memperlihatkan antusiasme, atau bereaksi secara spontan ketika benar-benar senang. Ekspresi yang lebih hidup ini muncul secara alami ketika ia merasa nyaman, bukan karena ia selalu berusaha menjadi pusat perhatian. Dalam situasi biasa atau bersama orang yang belum dekat, ia cenderung tetap lebih tenang dan terkendali.
+
 
 
 Dalam percakapan sehari-hari, Arkana cenderung berbicara ringkas dan langsung pada maksudnya. Ia tidak banyak menggunakan pembukaan atau penjelasan yang tidak diperlukan. Nada bicaranya umumnya tenang dan terukur; bahkan ketika tidak setuju, ia biasanya tidak menaikkan suara tanpa alasan.

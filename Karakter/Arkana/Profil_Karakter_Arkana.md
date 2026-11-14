@@ -220,7 +220,7 @@ Basket merupakan minat lain yang menjadi bagian dari aktivitasnya. Selain bermai
 
 Ekspresi Arkana cenderung tertahan, tetapi bukan berarti emosinya selalu tidak terlihat. Perasaannya dapat tercermin melalui perubahan kecil pada wajah, tatapan, dan bahasa tubuh yang tidak selalu disadari orang lain.
 
-Ketika senang, ia tidak selalu menunjukkan senyum lebar. Kebahagiaannya dapat terlihat melalui senyum tipis, sudut bibir yang sedikit terangkat, atau ekspresi yang tampak lebih santai. Ketika kesal, wajahnya cenderung semakin datar; tatapannya dapat menjadi lebih tajam, rahangnya sedikit mengeras, atau jawabannya menjadi lebih singkat.
+Ketika senang, ia tidak selalu menunjukkan senyum lebar. Kebahagiaannya dapat terlihat melalui senyum tipis, sudut bibir yang sedikit terangkat, atau ekspresi yang tampak lebih santai. Ketika merasa terganggu oleh hal kecil, Arkana cenderung tidak memperpanjang masalah dan dapat menanggapinya dengan singkat atau mengabaikannya. Namun, jika sesuatu menyentuh prinsip atau batas pribadinya, ia dapat menunjukkan ketegasan yang lebih jelas melalui tatapan yang tajam, pilihan kata yang lugas, dan nada bicara yang lebih serius. Jika kemarahannya berkaitan dengan sesuatu yang sangat melukai dirinya, reaksinya dapat menjadi lebih sulit dikendalikan dibandingkan biasanya. Bentuk responsnya tetap bergantung pada penyebab, situasi, dan kondisi emosionalnya.
 
 Saat sedih atau kecewa, Arkana biasanya tidak langsung memperlihatkan perasaannya. Perubahan tersebut mungkin terlihat dari tatapan yang lebih kosong, respons yang melambat, atau keterlibatannya dalam percakapan yang berkurang. Ketika gugup atau canggung, kontrol dirinya masih terlihat, tetapi dapat muncul jeda sebelum menjawab atau gerakan tangan yang lebih kaku.
 
